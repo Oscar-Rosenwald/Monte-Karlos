@@ -1,0 +1,117 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "”"); eval: (set-register ?\" "„");-*-
+:Uvozovky:
+# \bdquo = „
+# \ldquo = “
+# \sbquo = ‚
+# \lsquo = ‘
+# [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][LaTeX symbols]]
+:END:
+:stuff:
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:3 toc:nil num:1 d:nil ^:t
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+
+#+OPTIONS: author:nil
+# Doesn't include author's name
+
+#+OPTIONS: creator:nil
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: 
+
+_Editorial_
+
+* Zprávy
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** BBC: „Terminal terminal”
+:Story:
+Něco se děje na letišti v Manchesteru s teroristama - Fjord. Vyžadujou něco _nesmyslnýho_, zatimco cestující ani nevědí, že se to děje, protože vedoucí letištní gardy je hodně _dobrej a blbej zárověň_.
+
+Teroristi sou víc a víc frustrovaný, že o nich nikdo neví, a _snažej se na sebe upoutat pozornost_. Lidi to považujou za další z těch věcí, který letiště dělaj, jako piána _a podobně_.
+
+Vláda s teroristama ale rapidně _vyjednává_, nemůže se ale dostat k vedoucímu gardy, kterej se nějak _začal chovat jako skutečnej terorista_, i když se je snaží zastavit.
+
+REbeka de Roto z časopisu El Elektro tohle _omylem_ objevil a teď o tom reportuje.
+
+BBC noviny celou situaci označují za tzv. "Terminal terminal."
+
+Blogeři, vlogeři a cvokaři se sjeli do Manchesteru, tělaj selfíčka,...
+:END:
+Španělksé noviny /El Elektro/ vydaly koncem minulého týdne zprávu o teroristickém útoku na terminál 1 mezinárodního letiště v Manchesteru ve Spojeném království, zahájeném před patnácti dny a soustavně pokračujícím až do dnešního odpoledne. Redaktorka Rebeka de Roto, autorka původního článku, se stala dočasnou obětí švědského gangu /Fjord/, který za útokem stojí. /Fjord/ operuje v utajení mezi zákazníky i zaměstnanci letiště a ustavičně pracuje na rafinovanšm útoku.
+
+Do hledáčku široké veřejnosti se však tento případ nedostal kvůli jeho vskutu nevídané brutalitě. Jak napsala de Roto: „Nadie se interesa a que podría ver a casa cada día.[fn:1]” Proslulým se stal především reakcí místních obyvatel. Manchesterovaská komunita celistvě povstala a v neslýchaném gestu soudružné kolektiality jednohlasně prohlásila: „What?”
+
+Ano, jak článek /El Elektra/ odhalil, byla /Fjordova/ operace natolik úspěšná ve své tajnosti, že, ačkoli se útoky odehrávají již patnáctým dnem, úřady, občané ani cestující si nevšimli ničeho podezřelého. Letiště vydalo prohlášení, že ve světle těchto odhalení zváží zvýšení automatů na kávu v lóži pro větší pocit bezpečí a pohodlí svých zákazníků. Provoz letiště zůstává nezměněn i po tiskové konferenci Manchesterské policie, kde vedoucí okresu Yana Opphre řekla: „...[Vládní vyjednavači] věří, že skupina /Fjord/ vydala požadavky a ultimátum. Bohužel nebylo možné zachytit ani jedno, nevíme tudíž, co letišti a jeho návštěvníkům hrozí, kdy to přijde, ani co máme udělat, abychom tomu zabránili, ani v pravdě, jestli se to vůbec stalo.” Dále pak Opphre nevylučuje možnost, že potenciální výhružky teroristů již byly vykonány.
+
+Britský časopis /The Space/ domluvil exclusivní interview s velitelem celé akce Kurt Lindén, ve svém čísle však píše, že pan Lindén se buďto nedostavil, nebo ho neviděli.
+
+Kolem letiště se od vydání de Rotina článku shromažďují zástupy vládních aut, stanů a zaměstnanců. Vyjednavači z interpolu se vehementně snaží navázat kontakt s teroristy, zatímco policejní hlídky se speciálním vybavením[fn:2] obchází v pravidelných intervalech letištní výchovy ve strachu, že se teroristé pokusí o útěk. Podle výpovědi cestujících, zejména těch přilétajících, jim přítomnost policie poněkud vadí - připadají si sledovaní a policejní hlídky jim dávají pocit, že jsou v nebezpečí.
+
+Premiér Carl Olstrich vznesl v parlamentu námitku na adresu /El Elektra/ a jmenovitě paní de Roto. Podle jeho názoru by se v zájmu všeobecné bezpečnosti měly podělit o způsob, jakým se podařilo o teroristech poprvé dozvědět. /El Elektro/ obratem vydalo oficiální žádost o vydání profesního tajemství, zároveň však dodalo, že dle pracovní smlouvy nemohou Rebeku k vydaní žádně informace tlačit. Paní Rebeka této možnosti využila a odmítá britské vládě pomoci.
+
+Na internetových fórech se rozšiřují teorie o možném důvodu, který /Fjord/ mohl k napadení mít. Dvě nejčastěji zmiňované hypotézy jsou: A) /Fjord/ a jeho členové jsou nespokojeni se současnou politickou situací ve Švědsku a vyprovokováním britské vlády ke spolupráci s jejich úřady ji hodlají změnit; a B) švédská vláda přikročila k urychlenému uplatnění jejich dlouho vyvíjené technologie neviditělného pláště. Švědský princ radikálně odmítá veškerá nařčení z jeho vlastní účasti na celé akci, stejně jako účasti jeho vládních zaměstnanců, a britská královna stejně radikálně odmítá spolupráci se švédskými úřady.
+
+Zatímco se vlády snaží současně domluvit na dalším postupu a nespolupracovat jedna s druhou, shromáždili se kolem letiště v Manchesteru davy turistů z celého království. CNN ve večerních zprávách ukázal záběry z vrtulníku ukazující přes dvě stě tisíc nadšenců zaplňujících celé okolí letiště a několik okolních ulic. Jak daleko se tato masa rozrostla nevíme, neboť byl vrtulník sestřelen /teror-huntery/ amatéry v domnění, že se jedná o posily /Fjordu/.
+
+Rebeka de Roto oznámila, že pokud tento turistický nával neopadne do tří dnů, bude po městském úřadě v Manchesteru vyžadovat kompenzaci za zvýšení návštěvnosti; neudala však cílovou částku.
+
+Zatímco BBC označila celou oblast jako „Terminal terminal[fn:3]”, interpol jako „ohrožení 4C”, CNN „that place... what do you call it? Manchester?” a východoasijská hip-hopová skupina /Ábes un-šábes/ zase jako „žublevul o'krosa[fn:4],” někteří obyvatelé Manchestru jí stále říkají „Co? Jo tohle. Ne, moment... Ne, to je něco jiného. Tak nic. Co?"
+
+Boris Johnson, britský ministerský předseda, přizval na pomoc Klingony, ti se však údajně omluvili kvůli neodkladné práci v Orionu.
+** Na lavici ve dvojici
+:Story:
+M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. vyhlásila, že vítězný kandidát si bude muset vybrat partnera. Ten bude muset být mezi nejvyšší osmičkou.
+
+Šeiner prohlásil, že pokud vyhraje, bude v první osmičce, takže si vybere sebe. Křenková řekla, že uzavře smlouvy s nejslibnějšími kandidáty. Ona se nebude snažit dostat se na první místo, čimž A) ho uvolní, a B) může pomoct ostatním, když si ji vyberou za partnera. Nikdo ji nechce.
+
+Ve spodních řadách se zbrkle uzavírají spojenectví, které mají dvojice dostat na vrchol. Právnické firmy vytvářejí šablony pro smlouvy ohledně dvojic, které se spojují takhle brzy.
+
+Velká pětka, předvapivě nezměněná po tragickém výkonu Záchelové v /Monte Karlos/, se prozatim stáhla z veřejného politického dění, aby v soukromí projednala, jak si poradit se svou lichostí.
+
+Indický parlament začal projednávat, zda jednala M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. právně.
+:END:
+Boj o /Nejvyššího vůdce všeho učitelstva/ pokračuje. Závěrečný počet uchazečů se pohybuje kolem devíti a půl tisíci, přesnější statistiky budou 
+* Rozhovor
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+
+
+*
+*** Random otázka dne
+*
+*** Kampaň
+*
+*** Rychlá střelba
+*
+*** Korespondence
+
+*** Závěrečný proslov
+* Korespondence
+
+* Poznámky
+
+[fn:1] Nikoho nezajímá, co vidí denně doma.
+
+[fn:2] Zásobou špěndlíků, tatranek a holinkami.
+
+[fn:3] Ang. „terminál smrti.”
+
+[fn:4] Překlad nenalezen. Autor článku uznává, že toto jméno nemusí ve skutečnosti znamenat nic, nemusí být míněno jako označení Manchesterovského terminálu 1, a striktné řečeno nemusí ani jménem být.
+

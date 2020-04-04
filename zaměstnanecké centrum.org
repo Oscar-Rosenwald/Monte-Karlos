@@ -1,0 +1,80 @@
+Mlčokoutek - věci o Totismu v Někdeníku
+* Lidi
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** Redaktoři
+   :PROPERTIES:
+   :VISIBILITY: folded
+   :END:
+- šéfredaktor: Alžběta Ašelová
+- zástupce šéfredaktora: Hobbo Habán
+- Manařer redakce: Jiří b'Ačkora
+** Editoři
+*** Šimon Balabán (volby)
+- [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*%C5%A0ampi%C3%B3n%20spadl%20po%20ne%C3%BAsp%C4%9B%C5%A1n%C3%A9m%20pokusu%20o%C2%A0kampa%C5%88][Šampión spadl po neúspěšném pokusu o kampaň]]
+- [[file:9.14./Ba%C5%BEant%20v%20ch%C5%99t%C3%A1nu%20lvov%C3%A9m.org::*Na%20lavici%20ve%20dvojici][Na lavici ve dvojici]]
+- [[file:A10.12./Zmizel%C3%AD%20zmizel%C3%AD.org::*Zmizen%C3%AD%20hrdiny][Zmizení hrdiny]]
+- [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*Oran%C5%BEov%C3%A1%20okupace][Oranžová okupace]]
+- [[file:A11.17./Neklid%20p%C5%99ed%20bou%C5%99%C3%AD.org::*Krev,%20pot%20a%20krev][Krev, pot a krev]]
+- [[file:A12.7./V%C3%BDhru%C5%BEky%20dan%C3%A9,%20v%C3%BDhru%C5%BEky%20spln%C4%9Bn%C3%A9.org::*%E2%80%9E...jist%C3%A1%20smrt...nepatrn%C3%A1%20nad%C4%9Bje%20na%20%C3%BAsp%C4%9Bch...%E2%80%9C][„...jistá smrt...nepatrná naděje na úspěch...“]]
+*** Andrew McTallas (Americká kultura)
+- [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*Small-town%20Funk][Small-town Funk]]
+- [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*HTBBB%20Club,%20Mayami][HTBBB Club, Mayami]]
+*** Aráb a'Ráb (právo - východní Evropa a západní Asie)
+- [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*%C5%BDalovn%C3%AD%C4%8Dek%20%C5%BEaluje][Žalovníček žaluje]]
+- [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*PO%20-%20D%C4%9A][PO - DĚ]]
+*** Antonín Obsenblesprk (terorismus)
+- [[file:9.14./Ba%C5%BEant%20v%20ch%C5%99t%C3%A1nu%20lvov%C3%A9m.org::*BBC:%20%E2%80%9ETerminal%20terminal%E2%80%9D][BBC: „Terminal terminal”]]
+*** Lobor Sko'madženta (doprava - boj proti karavanům)
+- [[file:9.14./Ba%C5%BEant%20v%20ch%C5%99t%C3%A1nu%20lvov%C3%A9m.org::*Do%20v%C3%A1lky][Do války]]
+*** Alexandra de'Kropná (historie)
+- [[file:A10.12./Zmizel%C3%AD%20zmizel%C3%AD.org::*Trag%C3%A9die%20v%20Bout%C2%B4-`a'Lotti][Tragédie v Bout´-`a'Lotti]]
+*** Istus Korugo (politika - východní Asie, Afrika)
+- [[file:A10.12./Zmizel%C3%AD%20zmizel%C3%AD.org::*Japonsko%20si%20zvolilo%20c%C3%ADsa%C5%99e][Japonsko si zvolilo císaře]]
+- [[file:A11.17./Neklid%20p%C5%99ed%20bou%C5%99%C3%AD.org::*Jedno%20oko%20nez%C5%AFstalo%20such%C3%A9][Jedno oko nezůstalo suché]]
+*** Rebeka al'Chajda (geologie)
+- [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Adrift][Adrift]]
+*** Kapilár del Maare (botanika)
+- [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Rok%20Trifid%C5%AF][Rok Trifidů]]
+*** Olšana Kupé (Hodnocení odborníka)
+- [[file:9.14./Ba%C5%BEant%20v%20ch%C5%99t%C3%A1nu%20lvov%C3%A9m.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Záchelová]]
+- [[file:A10.12./Zmizel%C3%AD%20zmizel%C3%AD.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Rychnovský]]
+- [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Pálkovská]]
+- [[file:A11.17./Neklid%20p%C5%99ed%20bou%C5%99%C3%AD.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Horáková]]
+- [[file:A12.7./V%C3%BDhru%C5%BEky%20dan%C3%A9,%20v%C3%BDhru%C5%BEky%20spln%C4%9Bn%C3%A9.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Kolářová]]
+- [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Jakešová]]
+** Koresponcence
+*** všechen východ: Aleks Chalexch
+- [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*Korespondent][Volby v Mas'Er-ati]]
+*** Sicílie: Yorga Mnjelsemsen-dottir
+- [[file:A10.12./Zmizel%C3%AD%20zmizel%C3%AD.org::*Korespondent][Messina]]
+*** Měsíc: Ž'pel alla Frusciogn
+- [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*Korespondence][Beaujolais nouveau 2059]]
+*** Bradavice: Knutt Überhochmann
+- [[file:A11.17./Neklid%20p%C5%99ed%20bou%C5%99%C3%AD.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Bradavice]]
+*** Pes
+- [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Korespondent][Jsem pes]]
+** Ostatní
+   :PROPERTIES:
+   :VISIBILITY: folded
+   :END:
+- Inzerce: Many Hrabal
+- Fotograf: Alexandra Dimitrij von Dieseldorf
+- sociální poradce: Lightningh Danger
+- Sociální podpora: Anna Oleš
+- móda: Šlapeboso Elle'Gante
+** Další
+- Catering: Blanka MccEkeelee
+- Zahradník: Mário Luigi
+- Knihovník: Žokej Elebronf
+- Lyžař: Natürlich Teppich
+- Pekař: Ilja Odyseus
+- Heretik: Uštěpač o'Connel
+- Předpověď počasí: Hoso al'Kosso
+* Running stories
+  :PROPERTIES:
+  :VISIBILITY: all
+  :END:
+- [[file:9.14./Ba%C5%BEant%20v%20ch%C5%99t%C3%A1nu%20lvov%C3%A9m.org::*Do%20v%C3%A1lky][Do války]]
+- Vyšetřování

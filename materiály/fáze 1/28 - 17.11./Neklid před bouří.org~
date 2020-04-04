@@ -1,0 +1,402 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "");-*-
+:Uvozovky:
+# \bdquo = „
+# \ldquo = “
+# \sbquo = ‚
+# \lsquo = ‘
+# [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][LaTeX symbols]]
+:END:
+:stuff:
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:1 d:nil ^:t
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: Neklid před bouří
+
+27/2019
+Ročník XXVIIII
+
+*Adresa redakce:*
+Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:*
+EmailNoReply@server.mok
+
+*Zákaznická linka:*
+0004 892 223 03E
+
+*Šéfredaktor:*
+Alžběta Ašelová
+
+*Manažer redakce:*
+Jiří b'Ačkora
+
+*Zástupce šéfredaktora:*
+Hobbo Habán
+
+*Fotograf:*
+Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:*
+Tara Kočí
+
+*Obrazová redakce:*
+Honza Kůň
+
+*Rozhovor:*
+Karlos Žebatý, Lubomír Lečko
+
+*Politická recenze:*
+Olšana Kupé
+
+*Editoři:*
+Šimon Balabán, 
+
+*Pekař:*
+Ilja Odyseus
+
+*Vydavatel:*
+Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:*
+Karlos Žebatý
+
+*Sociální poradce:*
+Lightningh Danger
+
+*Sociální podpora:*
+Anna Oleš
+
+*Inzerce:*
+Many Hrabal
+
+*E-shop:*
+nakupsisam.cz
+
+*Tiskne:*
+individuálně
+
+*Korespondent:*
+
+
+*Rozšiřují:*
+google.com
+
+/Monte Karlos Někdeník/ byl založen skupinou černých nosorožců afrických v létě roku 1989. Jeho stránkami byly poznamenány takovými autory jako Alexandr Malinovský, Jack O'Clock a Veronika Oškalová a všeobecnému ohlasu se těší již třetím rokem pod brilantním vedením šéfredaktorky Alžběty Ašelové©. Stojí na železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po prachbídné korespondenty se řídí všestrannými, nesmrtelnými pravidly slušného chování.
+* Editorial
+„Nepřítel mého nepřítele je nepřítel mého nepřítele. Mě do toho netahejte.“ Tato slova pronesl slavný Ruský básník Anjonym Neznamov Schovenko před svou popravou roku 1994. Dlouhé roky jsem žila podle jeho příkladu: Hex, grogy a ibanol. Ale události nedávných dnů mi poněkud otevřeli oči a cítím se nucena, ač nerada a sama sebou zklamána, jeho předposlední slova opravit. V bitvách, které se na naši planetu řítí nezastavitelným tempem, se nezdá býti nestranných. Kdo si nevybere, bude vybráno za něj. Posmrtně. Všichni se shodují, že temné síly se stahují, ale nikdo se nedokáže shodnout na tom, kdo ty temné síly vlastně jsou. Jedni tvrdí, že Horáková, o které jsme v dnešním vydání nechali Olšanu Kupé říci, co se jí jen zachtělo (ne, že by to byla nějaká výjimka),  přinese zkázu a smrt, jiní jí vidí jako zachránce před vražednými silami Pálkovské a obyčejný rolník ať si v tom zmatku vybere, koho bude podporovat.
+
+Když si zapnete televizi, uvidíte spoušť k nepoznání. Nestraníci jsou veřejností odsuzováni více, než ti, kdo se přidali k politickým protivníkům. A ani školy nejsou zcela vyloučeny z chaosu, jak se dočtete v dnešním článku od nového korespondenta. Když jsme u něj, pojďme se trochu pobavit o našem časopise. Dnešní zprávy jsem se vám rozhodla přinést v nepatrně jiném formátu: Je jich méně. Jenco se k nim dostanete, pochopíte jak nezbytné toto rozhodnutí bylo, ale i přesto bych se chtěla omluvit všem vám pracujícím lidem, kteří se teď musíte prodírat hustým lesem nevlídné nekonzistenčnosti.
+
+Ale Karlos, jako obvykle, nás zachrání. Jeho rozhovor je dnes výjimečně nabyt šťavnatými perličkami a poskytl mé milované Olšaně plno prostoru pro seberealizaci, za kterou jí platíme (Nemá ona štěstí? Takové zaměstnání... Ale co; kdo umí, ten umí.). Co se Lubomíra týče, raději pomlčet. A přes vážnost vybraného tématu se těším na budoucí, jistě dlouholetou spolupráci s Knuttem Überhochmannem. Nikdy jsme se s ním nepotkala, ale vypadá jako milý, veselý, světaznalý chlapík. Těmto třem se skoro podařilo mi zvednout náladu. Ale, možná kromě Karlose, nikdo neumí dělat zázraky.
+* Zprávy
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** Krev, pot a krev
+:story:
+- [X] Lajdová klesla o místo dolu (je na druhém). Pak klesla o další dvě.
+- [X] Kolářová a Havell se střetli s Pálkovskou a prohráli. Ztratili polovinu svých vojáků a byli zachráněni armádou, kterou poslala Zemánková, která ještě není s Horákovou. Tím se všichni tři přidali na její stranu. Pálkovská získala další spojence, protože také přišla o mnoho vojáků, hlavně kvůli tomu jednomu člověkovi.
+- [X] Horáková uspořádala akci pro osvobození zbytku Velké pětky. Vyslala síly jednoho svého spojence (kterého si natolik neváží a chce se ho zbavit), aby se utkal s Pálkovskou daleko od kláštera a od vily Toogen-Hut. Potom v přestrojení utekla a potkala se se svým týmem, stejně tak jako se zbytkem Větší pětky a nově vzniklým triem někde na válečné poradě. Větší pětka hlasovala o přijetí tria do svých řad.
+- [X] Pálkovská se dozvěděla o jejich setkání (pravděpodobně od zvěda, ale říká se, že to nebyl učitel, ale někdo zvenčí) a přerušila jej s nově získanou armádou Jakešové, která se k Pálkovské tajně přidala.
+- [X] Zasedání bylo napadeno, ale vojenské síly Křenkové (protože by nikdo nečekal, že se sejdou u ní) dokázali udržet Jakešovou dostatečně dlouho na to, aby všichni utekli. Přišli ale o její vojsko, které bylo zajato a Pálkovská za něj vyžaduje výkupné, které jí jednohlasně přes prosby Křenkové Větší pětka odmítla dát.
+- [X] Pálkovská se kvůli lepší přepravě svých vojsk spojila s /Bailey Caravans/, jedním z největších výrobců karavanů v Evropě. /Monte Karlos/ byl tedy nucen vypotřebovat svůj rozpočet na nestrannou finanční podporu Horákové a koupil jejím vojákům soukromé tryskáče. Díky tomu se paní Malá mohla obrátit k propagandě a shazuje letáky po celé zeměkouli. Tím si Větší pětka získala podporu prostých lidí.
+- [X] M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. ohlásil, že nebude nijak korigovat současné dění.
+:END:
+Mezi bohatými a vlivnými Evropskými i Americkými sponzory kantorů v závodě roste v posledních dnech napětí. Události Oranžové okupace přiměli mnohé ke znovuzvážení svých šampionů a celý svět nyní hledí na Dvacet statečných s nejistotou a morbidním nadšením. Tento růst nejistoty zřejmě způsobil nepříjemnosti možná nejzáhadnějšímu členovy této skupiny, paní Lajdové. Ta se z prvního místa, na kterém si v pravdě dlouho nepobyla, před dvěma týdny propadla na místo druhé a o pět dní později o další dvě místa níže. Nachází se tedy těsně pod paní Horákovou, tehdy ještě využívající azyl Šumperského kláštera.
+
+Paní Horáková byla nucena odebrat se do ústraní poté, co sídlo jejího dlouho trvajícího spojenectví zvaného Velká pětka padlo pod náhlým útokem Modrých klobouků pod vedením paní Pálkovské. Od té doby se snaží nashromáždit síly potřebné k porážce paní Pálkovské a její formující se skupiny /Pálkovská squad/, jak ostatně sama přiznala v pořadu /Monte Karlos/[fn:1].
+
+Přes všechny její snahy se jí však nepodařilo přilákat všechny své učitelské kolegy. Pan Macháček, pravděpodobně uražen útokem na svou osobu ze strany Velké pětky, a pan Lysák oba oficiálně prohlásili plnou podporu paní Pálkovské, stejně jako Jiří Horký a Josef Král. Někteří členové Dvaceti statečných však odmítli uzavřít smlouvu s jakoukoli stranou. Paní Lajdová se jako obvykle zdržela veškerých komentářů, paní Vývodová pro jistotu odjela na politicky-humanitární misi do Zimbawue a nově vytvořená dvojice Dagavel Hovář, tedy Dagmar Kolářová a Gustav Hevell, se zatím nevyjádřili pro ani proti spojenectví s jakoukoli stranou. Jejich aktivity však ukazovaly, že se chystají na střet s paní Pálkovskou.
+
+To bylo před dvěma týdny. Situace se poněkud změnila. Vojenské síly Dagavela Hováře, tvořené skautskými oddíly /Světové chrabré mise/ a německou /Ligou spravedlivé mrkve/, se s Modrými klobouky utkaly na horských pláních u zašlapaného a posoleného Kartága. Paní Pálkovská byla ve značné přesile, ale Gustav Havell, jak se sám podřekl v přímém vysílání bitvy, doufal, že takový kolos nezvládne. Vsadil tedy na její neschopnost a šeredně se mu to vymstilo.
+
+Bitva trvala přes devět hodin, ale ke konci se jasně ukazovalo, kdo odejde z bojiště jako vítěz, a koho odnesou. Pamnětna svého slova, paní Pálkovská napodobila taktiku římských centurionů a její armáda téměř zašlapala celou Ligu do země. Zbytky skautských oddílů přesunuly svou vedoucí dvojici blíže k moři, kde na ně čekala úniková loď, avšak jejich cesta byla odříznuta rychlostním konvojem Modrých klobouků, takzvanými Rádiovkami. Zdálo se, že paní Kolářová a pan Havell neuniknou.
+
+Ku překvapení všech zúčastněných se tak nestalo. Na pomoc Dagavelu Hovářovi v poslední minutě přispěchala armáda ze severu - mocné síly Nesmrtelných francouzských lingvistů pod vedením přísné ruky paní Zemánkové, která do té doby zůstávala v pozadí devatenáctého místa. V akci rovnající se v zoufalství, načasování a velikosti Churchilovu Dunkirku se jí podařilo dočasně zadržet Modré klobouky a získat tak čas na nalodění /Světové chrabré mise/ a jejích velitelů a přeplavení se na pobřeží Španělska, kde je čekal nebezpečný přechod přes Alpy.
+
+Pan Havell a paní Kolářová přišli o více než polovinu svých vojáků. Modrým kloboukům se však nevedlo zrovna růžově. I oni obdrželi značné ztráty, dokonce takového rozsahu, že paní Pálkovská byla nucena přerušit své vojenské tažení a hledat pomoc u zatím nezařazených kantorů. Jejího dočasného oslabení však využila paní Horáková a uvedla do pohybu zřejmě dlouho připravovaný plán. Zatímco se /Pálkovská squad/ shromáždil v Colusum Beene, nově postaveném sídle paní Pálkovské, vyslala Horáková pana Rychnovského s celou jeho armádou, převážně tvořenou jeleny a liškami, aby se s ní utkal v bitvě. Kvůli početní nevýhodě a tudíž jeho následující předvídatelné porážce se objevili spekulace, zda se paní Horáková šikovně nezbavila budoucího protivníka, zatímco jí tento pomohl v uskutečnění jejího plánu.
+
+Ten obnášel takto zaneprázdněnou Pálkovskou s jejími klobouky a nepozorovaný únik z útočiště kláštera, kde se paní Horáková skrývala. Zároveň využila zbývajících sil Velké pětky a UNICEFu[fn:2] na přímý, byť tajný útok na vilu Toogen-Hut. Paní Pálkovská byla v tu dobu zaneprázdněna panem Rychnovským a nebyla schopna vilu Toogen-Hut ubránit. Zbylí tři členové Velké pětky, tedy paní Mužíková, Rotreklová a Malá, byli tímto tahem osvobozeni (za ztráty značného počtu vojáků - paní Horáková se později nechala slyšet: „To máte z toho, když si postavíte palác tak dobře chráněný, že ho sami nemůžete dobýt.“).
+
+Plán však nekončil zde. Předem domluvená schůzka mezi členy Větší pětky, nyní obohacené o zbytek pětky /Velké/, se konala v Mariánských lázních. Mezi členy Velké pětky se zapsali tito kantoři: Horáková, Malá, Křenková, Rychnovský, Rotreklová, Mužíková a Stodůlková (obě plně zaneprázdněné vojensko-sportovními potyčkami v Chile, takže sami nemohou poskytnout válečnou podporu, jen svůj značný politický vliv). Předmět zasedání byl vesměs široké veřejnosti utajen. /Monte Karlos/ se doslechl, že jedním z bodů bylo hlasování a přijetí paní Zemánkové, paní Kolářové a pana Havella do řad Větší pětky. Pan Rychnovský se zdržel hlasování, především proto, že byl právě na bojišti dva tisíce kilometrů od dějiště, a paní Rotreklová a Stodůlková byly proti. Paní Zemánková se o místo vehementně ucházela, zato Dagavel Hovář se nijak netajili tím, že se přidávají jen kvůli svému naprostému fiasku v Africe. Paní Horáková je nakonec přijala i přes protesty ze stran svých kolegyň a sponzorů, a to kvůli vyrovnání sil s /Pálkovská squadem/, který v tu dobu činil následující uchazeče: Pálkovská, Macháček, Lysák, Král, Vávrová, Poláková, Šeiner, Ebbe (pravděpodobně na protest proti rozhodnutí pana Rychnovského přidat se k Velké pětce), Hapalová, Horký, Menšíková a Kubešová. Síly tak sice stále nejsou vyrovnané - Pálkovská má k dispozici o zhruba půl milionu vojáků více a spolu s panem Lysákem, rovněž učitelem historie, tvoří takřka neporazitelný strategický pár.
+
+Bohužel pro Horákovou se ukázalo, že je nutné k poslednímu výčtu přidat ještě jedno jméno: Taťána Jakešová. Nezveřejněnými zdroji se paní Pálkovské podařilo o tomto zasedání dozvědět předem a vyslat svou tajnou zbraň - paní Jakešovou a její /Komando smrti/ - zatímco se sama postarala o pana Rychnovského. Ten podle plánu bitvu prohrál, sám se ale uchýlil do lesů na Vysočině, kde trpělivě přečkává na správný, předem smluvený okamžik, kdy se svými liškami a jeleny vyjede do boje za svobodu učitelstva[fn:3].
+
+Mariánské zasedání bylo přerušeno v nejlepším. /Komando smrti/ oblehlo město ze třech světových stran - severu, severovýchodu a severo-severozápadu - a vyžadovalo vydání všech vůdců Větší pětky pod hrozbou celoměstského nuceného sledování všech dílů /Rande s fyzikou/. Ondřej Bleštivý, starosta města, zprvu odmítl její požadavek akceptovat, pro informaci si ale pustil první díl a veřejně prohlásil, že pátrání po skrývajících se kantorech má začít s okamžitou platností.
+
+Větší pětka měla na mále. Dvě noci se schovávali v podzemních trubkách a kanálech, pak byly ale objeveni nájemnými lovci z Brazílie. Paní Horáková byla předvedena před Jakešovou a oznámena, že je dočasně zatčena v souladu s pravidly závodu.
+
+Celá situace vyvrcholila neočekávanou akcí ze strany paní Křenkové. Její četné síly sociálních pracovníků, které se na místě nacházely z toho důvodu, že Mariánské lázně jsou sídlem kampaně paní Křenkové, položily svůj život, respektive živobytí, za urychlený odchod Větší pětky z města. Paní Křenková zůstala a vedla protiútok, ačkoli její síly a schopnosti zdaleka nestačili na /Komando smrti/. Jejím prostřednictvím se však podařilo osvobodit zbylé členy jejího týmu. Když byla v želízkách vedena do policejního auta, řekla nadšeně moderátorům: „Pro mě to opravdu nebyl takový problém. Já ráda pomůžu. Komukoli. Vážně. Ani to nemusím vyhrát. Jenom mě nechte pomoct. Prosím!“
+
+Paní Pálkovská za vydání paní Křenkové vyžaduje těžké výkupné, které zbytek Větší pětky jednohlasně odmítl vydat. Její informační zdroje jsou dodnes neznámé. Mluví se o špionovi v řadách Větší pětky, ačkoli poslední dobou převládá teorie o někom zvenčí.
+
+Pálkovská se poučila z těchto událostí a kvůli zajištění lepší přepravy svých vojsk se spojila s Bailey Caravans, jedním z největších výrobců karavanů v Evropě. /Monte Karlos/ byl tedy nucen vypotřebovat svůj značný rozpočet na nestrannou finanční podporu Horákové a koupil jejím vojákům soukromé tryskáče. Díky tomu se paní Malá mohla obrátit k propagandě a již druhým dnem shazuje politické letáky po celé zeměkouli, zejména nad Indií a Jihoafrickou republikou. Tím si Větší pětka získala podporu prostých lidí, kteří nemají žádný vliv na vývoj celé situace, ale „je hezké ji mít“. Lokace jejího vojska, stejně jako vojsk zbytku Větší pětky, je neznámá. Naposledy byla spatřena pastevci kolem Stonehenge.
+
+M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. vydal oficiální prohlášení, že nebude nijak regulovat činnost uchazečů. Prý jestli si to chtějí rozdat, tak ať rozdávají
+** Jedno oko nezůstalo suché
+Slyšeli jste někdy rčení vařit z vody? A zamysleli jste se někdy nad ním? Jinak řečeno, zkusit jste někdy vařit /bez/ vody?
+
+Již dvaaosmdesátým stoletím se skupiny horáků afrických sjíždějí na východní hranici Súdánu, aby poměřily síly mezi tamějšími klany ve pradávném umění kuchyňském. Devět rodin se každoročně utká ve starobylé soutěži Nandaam--a'spaPâam, která tradičně zabere mezi dvěma a osmadevadesáti týdny, a vítěz si odnese zásobu kobylek na celý zbytek roku. Súdán považuje toto anuální setkání za nepostradatelnou část své kultury a v minulosti bojoval proti okupantům, kteří se jej snažili pohřbít v dobrém jménu světového pokroku. Když se Britové přiblížili súdánské hranici, nastala kvůli Nadaam--a'spaPâamu slavná válka Salám-a-lejtkum, ve které se tato tradice bránila do poslední ženy[fn:4] a kdy k velkému překvapení naprosto nikoho Britové odporující kmeny převálcovali[fn:5].
+
+Soutěž byla veřejně zakázána, súdánský lid si však nedal říci. V tajnosti provozoval zjemněnou verzi rituálu až do doby, kdy se britská vláda rozhodla, že čeho je dost, toho je tak akorát, a milosrdně si šla po svých[fn:6].
+
+Od tě doby se soutěž opět rozjela v plném proudu. Vítěz minulého roku, pan Almanezz bez Zubezz, se přijel jen podívat s výmluvou na zažívací potíže.
+
+Pravidla soutěže jsou naprosto přímočará: Každý kmen nominuje tzv. /sežrouna/[fn:7] a vyšle /soustruží kuchařů/. Tyto dva týmy pracují nezávisle a před zahájením soutěže nemaji povoleno se spolu stýkat[fn:8]. Pak, za podzimního vlískomání, soutěž oficiálně začne v doprovodu ohňostrojů, kapel, balerín, letecké show, vojenské přehlídky a nově i kontrolované detonace antihmoty. Dalšího dne vše začne.
+
+Soustruží kuchařů má za úkol do časového limitu, který je snadno vyjádřen invertovanou bazierovou křivkou integrovaného trojjehlanu v kartézské soustavě prvků, uvařit předem stanovenou porci jídla. Bez vody. Zásadně bez vody[fn:9]. Skupina dvaadvaceti vysoce placených rozhodčí obchází každou kuchyni a kontroluje, zda je skutečně jedná o var. Minulý rok byly diskvalifikováni dva týmy kvůli technické nepřesnosti v definici slova vařit, která byla od té doby opravena v slovníku súdánštiny a která přivolala žalobu na hlavu státních lingvistů od vyřazeného týmu.
+
+Cokoli se podaří uvařit, musí pak delegovaný sežroun zcela zkonzumovat. První, kdo dojí, vyhrál. Jednoduché, prosté, zábavné.
+
+Súdánský prezident se vyjádřil k nepokojům v zemi, k snižující se úrovni žití a k pobuřujícímu, ne-li urážlivému konci Hry o Trůny ve svém projevu těsně před zahájením a prohlásil, že když nic jiného, Nandaam-a'spaPâam je to, co Súdán symbolicky spojuje. Jeden ze soutěžících týmů si ho vzal vážně a uvařil smažená vejce, která podle očitých svědků držela pohromadě „víc, než Bob a Bobek.“ Kde Súdán vzal taková přirovnání je právě projednává v Interpolu. Po prezidentově projevu jedno oko nezůstalo suché. O dalších nemáme záznamy. Tohle ale brečelo a brečelo. Ale zásadně bez vody.
+* Host
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** Rozhovor - „Voda je život.“/„Já jsme měla občas divné žáky.“/„Divil byste se, kolik má paní Pálkovská nepřátel.“
+Paní Horáková: chemikářka duší, tělem i profesí, dlouholetá učitelka na prestižním gymnáziu a autorka nezapomenutelných výroků jako „No víte, já ani nevím“ a „Vyberte si kamaráda“. Paní Horáková je možná politicky nejvlivnější osobou Dvaceti statečných. V poslední době se však ukazuje, že možná není tak vlivná na poli vojenském.
+
+/Rozhovor se uskutečnil několik dní před únikem Horákové z kláštera./
+
+*Jak se vám žije v klášteře?*
+
+Dobře. Je to tady čisté, příjemné,... Nemohu si stěžovat.
+
+*Je to velká změna oproti vile Toogen-Hut?*
+
+Ani ne, ale jsou tu samozřejmě jiné nepříjemné věci, které mě trápí. Například asi není potřeba říkat, proč jsem tady v klášteře a proč nemohu vycházet ven[fn:10] a také mě trápí myšlenka, že někdo jako Pálkovská by mohl být nakonec... Já to ani nechci vyslovovat.
+
+*Jak se cítíte mezi duchovními osobnostmi?*
+
+Oni jsou velmi tolerantní. Nechávají mě, abych nadále pokračovala ve své kampani. Jsou to velice milí hostitelé a jsem jim hlavně vděčná za tento azyl. Ne ani tak za služby, které mi tu poskytují, ale hlavně za to, že byli ochotní někoho, po kom jde taková armáda jako má paní Pálkovská, u sebe ukrýt.
+
+*Vaši kolegové z Velké pětky jsou stále drženi v zajetí. Obáváte se o jejich bezpečí?*
+
+Samozřejmě. Doufám, že se nám brzy podaří provést kroky, které povedou k jejich osvobození.
+
+*Jak přesně se vám podařilo utéct?*
+
+Částečně to bylo díky štěstí. Řekla bych, že jsem byla ve správnou chvíli na správném místě. Ne, že by nebyly možnosti, jak uniknout, ale přepadení bylo natolik bleskové, že ostatním kantorům se bohužel nepodařilo žádnou z únikových cest využít.
+
+*Myslíte, že paní Pálkovská je schopna vašim kolegům ublížit?*
+
+Myslím, že ano. Věří, že jim neublíží natolik, aby je nějak nedej bože degradovala, nicméně věřím, že je schopna jim ublížit natolik, že nebudou schopni zúčastnit se soutěže.
+
+*Nedávno se na vaší škole konaly třídní schůzky a vy jste, předpokládám z lásky ke svým žákům, dočasně a velice výjimečně opustila své útočiště a účastnila se jich. Jak se vám reagovalo na přítomnost paní Pálkovské, která, čirou náhodou, učí na stejné škole?*
+
+Vím, že to byl krok poněkud riskantní a nebezpečný, na druhou stranu kdybych neustále zůstávala v úkrytu a i natolik důležitá věc jako třídní schůzky mě nedonutila vystoupit, tak bych si myslím u voličů velmi uškodila. Myslím, že v tuhle chvíli byla paní Pálkovská jednak zaskočena, jednak se chtěla vyhnout přímému napadení mé osoby, protože tento tah sledovalo spoustu lidí. A myslím, že napadnout mě zrovna v tuto chvíli, před zraky kamer a hlavně rodičů, by nebylo taktické. Paní Pálkovská se v tuto chvíli rozumně držela zpátky.
+
+*Poskytuje vám vaše chemické zaměření nějakou výhodu v závodě?*
+
+Až donedávna bych to neřekla, nicméně ve světle nedávných událostí si myslím, že ano. Pokud dojde k tvrdším bojům, mohu své chemické znalosti využít, ač nerada používám vědu k válečným účelům. Proti paní Pálkovské ale možná nakonec ani jiné prostředky platit nebudou.
+
+*Jaký předmět přináší svému učiteli největší strategickou výhodu?*
+
+To je těžko říci. Každý předmět přináší určitou výhodu. Až čas ukáže, která z nich je nejpřínosnější podle toho, který z kantorů vyhraje.
+
+*Já jsem náhodou chemický nadšenec. Můžete mi prosím definovat /Tvaru/?*
+
+Tvaru?
+
+*Ano.*
+
+Ano, samozřejmě...[fn:11] Tvaru je chemická sloučenina, která se vyskytuje v přírodě v některých živých organismech, jako třeba korýších, kteří si z této sloučeniny staví své schránky.
+
+*Není to náhodou tvaru s malým „T“? Já mám totiž na mysli /Tvaru/ s velkým „T“.*
+
+Víte, tady se právě ukazuje, že často může mít výhodu češtinář. Ač to nerada říkám, tak velká písmena jsou něco, na co se v chemii tak úplně nehledí. Zkusím se zamyslet... Já myslím, že v tom není rozdíl.[fn:12]
+
+*Na Facebooku jste přirovnala vůdcovství učitelstva světa k titraci? Můžete nám to nějak přiblížit?*
+
+V obou případech jde o velice ošemetnou záležitost. Pokud něco titrujete, stačí jediná kapka a už si nezahrajete - máte přetitrováno a skončil jste, stejně jako v této soutěži. Je to velice nebezpečná pozice, kde vás každý krok vedle může stát vaše vůdcovství. Také je hodně těžké vidět, jaká je správná volba stejně jako při titraci je těžké poznat, jakou barvu má mít výsledný roztok.
+*** Kampaň
+*Paní Pálkovská si bezostyšně dopomohla k vašim těžce vydělaným bodům. Jak vás tento fakt zasahuje po osobní stránce?*
+
+Po osobní stránce? Myslíte, že mám nějaké výčitky svědomí? Nebo snad trauma? Podívejte se, možná bych měla, ale já považuji tyto transakce za, abych tak řekla, dočasný omyl. Věřím, že se nám podaří zmobilizovat své síly a své body získat zpět.
+
+*I přes všechnu aktivitu paní Pálkovské se vaše pozice spíše řídí pohyby nad vámi, než pod vámi (a paní Pálkovská je stále pod vámi). Paní Lajdová, ku příkladu, sebou hází nahoru a dolu. Jak se hodláte vypořádat s jejím problémem?*
+
+Přiznám se, že paní Lajdová mě v tuto chvíli ani tak netrápí. Řešíme mnohem ožehavější problémy. Můžu ale potvrdit, že jakmile se vypořádáme s paní Pálkovskou, tak dojde ta řada i na ni.
+
+*Máte nějak plán pro případ, že budete zvolena a někdo se vás zeptá na něco, co nevíte?*
+
+Ano, samozřejmě i s takovou situací je třeba počítat. Myslím ale, že se ukázalo, že mluvit o svých plánech, zejména zde v Monte Karlu, se nevyplácí. Takže když dovolíte, nerada bych napomáhala ostatním kantorům.
+
+*Byla byste ochotná usilovat o post pobočníka, nebo vám jde jen o nejvyšší postavení?*
+
+Přiznám se, že post pobočníka mě moc neláká. Asi bych o něj usilovala pouze v případě, že bych sdílela se zvoleným vůdcem stejné názory. Pokud by byl zvolen někdo, kdo se naprosto s mými ideály neztotožňuje, rozhodně bych zůstala v opozici.
+
+*Stavíte armádu proti Modrým kloboukům?*
+
+To je naprosto jasné. Od první chvíle, co se mi podařilo uniknout, mě netrápí nic jiného než zmobilizovat dostatečně velký počet sil proti této nepříjemné skupině.
+
+*Jak se vám zatím daří?*
+
+No... Není to tak strašně, jak jsem čekala. Divil byste se, kolik má paní Pálkovská nepřátel.
+
+*Paní Pálkovská, zdá se, pracuje na sestavení týmu s populárním názvem /Pálkovská squad/, který podle našich informací čítá pana Macháčka, pana Lysáka a jiné. Nebojíte se, že jejich pouhá početní převaha vás nakonec převálcuje?*
+
+Nerada bych na tomto místě prozrazovala příliš, ale nemyslím, že by bylo dobré, aby paní Pálkovská na své spojence příliš spoléhala. Mohlo by se jí to šeredně vymstít.
+
+*Na vašich ramenou je velká zodpovědnost vůči učitelstvu světa. Jestli nedokážete odradit paní Pálkovskou, možná už nebude nikdo jiný, kdo by to dokázal. Nebo o někom víte?*
+
+Ne, jsem si vědoma této zodpovědnosti. Myslím, že se stále mohou najít kantoři, kteří mohou paní Pálkovskou ohrozit, nicméně v tuto chvíli, pokud tady někdo takový je, buďto na sebe neupozornil, protože čeká na vhodnou chvíli, nebo tu prostě není. Obávám se, že nelze spoléhat na to, že se tu na poslední chvíli objeví nějaký princ, který nás všechny zachrání.
+
+*Kdybyste mohla své kroky v tomto závodě opakovat, myslíte, že byste se také pokoušela zůstat v ústraní až do chvíle, kdy se ukáže, co se vlastně děje, nebo vám vyhovuje takto přímí zásah do věci?*
+
+Nemyslím, že snažit se v tomto závodě nenápadně proplouvat mezi ostatními kantory by byla dobrá taktika. To je taktika, kterou si člověk sám podkope hrob.
+
+*Normálně bych s vámi souhlasil, ale paní Lajdová zatím neposkytla jediný rozhovor jedinému deníku v jediných zprávách, a přitom byla až do nedávna na prvním místě a stále se udržuje na druhém.*
+
+Ovšem paní Lajdová, to je velmi zvláštní případ. Ale volby zdaleka neskončili. Jak jsem řekla, tato taktika je prostě kopáním hrobu pro sebe samotného. Jen paní Lajdové to možná bude trvat déle, než si vykope dost velkou jámu.
+
+*Z průzkumů popularity víme, že paní Pálkovská není právě tou nejoblíbenější osobností dvaceti statečných, ale podařilo se jí nepřímo dosáhnout vysokého místa. Cítíte se zodpovědná za to, že pokud vyhraje, bude to proti vůli voličů?*
+
+Jak říkám, pevně věřím, že její současný stav je pouze dočasný. Pokud by se přeci jen stalo něco takového,... Asi bych se cítila zodpovědná, že jsem tuto možnost podcenila.
+*** Random otázka dne
+*Milovat, či malovat?*
+
+Raději malovat.
+*** Rychlá střelba
+*Jaký katalyzátor je potřeba k reakci: C3PO + R2D2 -> CD + C2OPQR*
+
+Chlorofyl.
+
+*Jak byste změnila dotaci hodin chemie na vysokých školách?*
+
+To je jedna z mála věci, kterou není třeba měnit.
+
+*Do jakých mezí jste ochotna zajít, abyste závod vyhrála?*
+
+Já jsem ochotna udělat--
+
+*Vyjmenujte nám všechna využití vody.*
+
+Voda je život.
+
+*Jak se změnil váš osobní vztah k paní Záchelové, poté co jste ji vyhodila z Velké pětky?*
+
+Nijak zvlášť.
+
+*Mohou se na vás zbylí členové Velké pětky spolehnout, když jste utekla z vily Toogen-Hut bez nich?*
+
+Samozřejmě. Teď je někdo, kdo je může zachránit.
+*** Korespondence
+*Do /Monte Karlos/ nám přišel pohled:*
+
+*Vážená paní Horáková,*
+
+*před osmi lety jsme s manželem vystudovali Gymnázium v Hranicích. Oba dva jsme se dali na cestu chemické kariéry a dodnes zaznamenáváme přesný rozměr vašeho příspěvku.*
+
+*Chtěli jsme vám poděkovat za lekce, které jste nám oběma poskytla, a jako výraz úcty si dovolujeme poslat vám přiložený pH papírek s nadějí, že jej budete ve jménu všech svých podpůrců nosit při nevyhnutelné bitvě s paní Pálkovskou.*
+
+*S přáním světlé budoucnosti, pan a paní Kunderovi, zaměstnanci ÚDN a hrdí a praktikující členové SNP.*
+
+*Zaprvé: našim odborníkům se nepodařilo vypátrat, co je ÚDN a SNP. Víte /vy/, co to může znamenat?*
+
+Úděsně... Nevím. Já jsme měla občas divné žáky.
+
+*Zadruhé: vyhovíte manželům Kunderovým a ponesete pH papírek, který vám pošleme poštou, do bitvy?*
+
+Takový pH papírek může být v bitvě velmi užitečný. Já myslím, že nebude jenom jeden.
+*** Závěrečný proslov
+*Oslovte prosím širokou veřejnost, která se na vás spoléhá pro poražení paní Pálkovské, a řekněte jim, co sama uznáte, že by bylo dobré jim říci.*
+
+Vážení voliči, chápu, že nám v tuto chvíli možná nevěříte a ztratili jste veškeré naděje. Ano, nechali jsme se zaskočit. Naše sídlo bylo rozprášené a většina našich členů stále v zajetí. Nicméně, my se jen tak nevzdáme a tyto překážky nás nezničí, ale nakonec nás posílí.
+
+Nevzdávejte se v tomto těžkém okamžiku, protože ani my se nevzdáme. A jednou znovu povstaneme ještě silnější, než jsme byli předtím
+** Hodnocení odborníka
+Paní Horáková mi připomíná mojí tetu: chytrá, vynalézavá, vlezlá, vypočítavá, do kostela nechodí (současnou situaci vyjímaje), Kabáty neposlouchá, náladu kazí. Typický učitel, jestli se k tomu můžu vyjádřit. Akorát v tomto konkrétním případě i zdánlivě schopný. Ale nenechte se, milý posluchači[fn:13] obalamutit. Paní Horáková není o nic lepší než ten zbytek.
+
+S tou informací z krku, paní Pálkovská se má čeho bát. V minulém čísle jsem razantně vyjádřila své pochybnosti o tom, zda dokáže rozeznat realitu od skutečnosti. No, dovolte mi říci, že jestli chce porazit tuhle slizkou, nepříjemnou, malou, vlasatou, holohlavou ženu, bude si mezi nimi udělat jasno. A to ne proto, že by paní Horáková vlastnila nadprůměrné (v případě učitelů tedy nadpřirozené) vědění o skutečnosti, ale právě naopak proto, že její mozek pracuje s duchapřítomností židovského kamene.
+
+Co paní Horáková nedostala, to si vynahradí tím, co ztratila. Co ale má, je neuvěřitelné štěstí. Pokud jí můžeme věřit (nemůžeme), dostala se z vily Toogen-Hut náhodou (nedostala) a byla jí nabídnuta (nebyla) amnestie mnichy v klášteře v Šumperku (nemnichy; počkat, cože?). Všichni víme, že paní Horáková podepsala odevzdání části svých hlasů paní Pálkovské, nemohla tudíž uniknout náhodou, protože právě byla "na správném místě". Jako pardon, ale to vykládejte Krakonošovi. Ale její ustavičné lhaní a přetvářka mě dovedly na stopu teorie, která vás nepochybně nadchne. Paní Horáková pozvala paní Pálkovskou do vily dobrovolně. To vysvětluje rychlost, s jakou bylo sídlo dobyto, vzhledem k nedávným vývojům, kdy ani sama Horáková nedokázala provést rychlý útok. A pokud tomu tak je, je naše Horáková nejen mazaná jako kovadlina, ale rovněž kluzká jako opilý kanibal a úskočná jako klokan.......[fn:14] V Rolexkách.
+
+Ale nic z toho jí nijak nebrání realizovat její plán. Úspěšně se jí podařilo osvobodit své "spolupracovníky", bezpochyby z pouhých strategicko-dekorativních důvodů, a její armáda, ačkoli stále znatelně menší než armády jejích protivníků, nabyla velikosti soudního Pytágora a má na své straně tajemnou pomoc, o které se Horáková zmínila v rozhovoru.
+
+A když mluvíme o rozhovoru, jak se jí vedlo? Inu, viděla jsem peprnější sokoly... Má jakousi nepochopitelnou víru v sebe sama a je vidět, že svého odpůrce poněkud podceňuje. „Dočasný omyl“, říká. „Lajdová mě v tuto chvíli netrápí“, říká. „Moje čivava skáče výš než vaše“, říká. Respektive neříká, ale kdyby jí měla, říkala by. A to je, jistě uznáte, poněkud mnoho. Místo pobočníka razantně odmítá. A jindy bych pevný postoj chválila, jenomže naše Januška není v situaci, kdy by si mohla dovolit odmítat na zem spadlé hamburgry, natož takovou pozici. Ráda bych jí vysvětlila, proč tomu tak je, ale pravdou zůstává, že pokud to neví sama, neradno korýše zmrzačiti.
+
+A vůbec mě nenechávejte začínat na tom malování. To já prostě-- to snad neni-- tohle fakt-- a-- HHhhrrRRRaaaaaaAAAAAA!.
+
+Její závěrečný proslov byl zato ukázkový. A nepopiratelně předem připravený. Jako promiňte mi, ale „...a jednou znovu povstaneme...“ není věta, kterou byste dokázali vysmolit na místě. Zkuste to. Zkuste si to! Já počkám. Myslím to vážně. Dělej. Makej! Dals to? Nedal. Tak nekecej.
+
+Shrnutím bych tedy řekla, že paní Horáková viděla díru a vlezla do ní; spatřila prostor a vyplnila ho; uzřela škvíru a protáhla se jí; zpozorovala místo a nasádlila se do něj; šla po mostě nad vysokou řekou a HLE-- paličatý krokodýl! To z ní nedělá ideálního kandidáta. Dokonce i paní Pálkovská, ta chorá, realitou zmatená, skutečností převálcovaná stará pánev, se na své místo dostala vlastním příčiněním. Co to z Horákové dělá, je suchý homol. Šumperk nad Cidlinou. Regresivní autochladič. Ne vůdce.
+
+Ale ještě se uvidí, uvidíte
+* Korespondence
+Bradavice k nepoznání. Schválí ministerstvo odvážný plán a ukončí "Bradavický spor"?
+
+Patnáct let po skončení legendární bitvy, v níž byl společnými silami studentů, profesorů a některých rodičů zničen nebezpečný psychopat a sociopat, používající přezdívku Voldemort, zůstávalo jediné vzdělávací kouzelnické zařízení na ostrovech v troskách, zatímco výuka studentů musela být omezována a stěhovala se po celé zemi, aniž kde nalezla odpovídající komfort, a ještě se prodražovala. Nyní konečně svítá naděje, že se tento žalostný stav změní.
+
+Jakmile utichl bojový ryk a zvířený prach bitvy dosedl na poničené zdi bradavického hradu, započalo Ministerstvo kouzel s úvahami, jak se vyrovnat s neblahými důsledky několika těžkých let, které likvidaci Voldemorta předcházely a jež jí provázely. Zvláštní místo v těchto úvahách měla pochopitelně budoucnost bradavické školy, která utrpěla těžké ztráty jak po stránce personální, tak materiální, o ztrátě autority a důvěry nemluvě. Škole bylo potřeba nají nový, kompetentní profesorský sbor a obsadit ředitelské místo důvěryhodnou osobou s jasnou vizí a koncepcí. Vypsané výběrové řízení proběhlo teprve v následujícím akademickém roce. O odkladu bylo na ministerstvu rozhodnuto po dlouhé debatě: jeho zastánci argumentovali nutností dopřát zájemcům o místo ředitele dostatek času a klidu k vypracování co nejpodrobnějšího plánu dalšího směřování školy. Do zadání konkurzu protlačili někteří mladí agilní pracovníci ministerstva řadu zcela nových parametrů. Nejkontroverznější z nich se týkal otevření výběrového řízení i pro zájemce z ciziny. Tradicionalisté se proti této možnosti od počátku jasně vymezovali s poukazem na národní specifika a zájmy, ale nakonec byli přehlasováni. Tak na personální otázce vedení školy nečekaně vyrostl zásadní problém, který od porážky Voldemorta  rozdělil kouzelnické společenství a vykopal nové příkopy, jejichž zasypání bude kouzelnickou veřejnost stát ještě mnoho sil a práce.
+
+Prvním řádným ředitelem bradavické školy v éře "po Voldemortovi" se stal adept z Francie, který jasně zvítězil nejen před ostatními zahraničními zájemci, kteří vesměs vykázali závažné nedostatky v chápání ostrovních reálií, ale také před domácími kandidáty, jimž sice nechyběla výhoda znalostí místních poměrů a mentality, ale jejichž projekty, předložené konkurzní komisi, se ukázaly většinou až příliš konzervativní, odtržené od požadavků moderní doby, obsahově i metodicky zkostnatělé a naprosto bez zpětné vazby k realitě postvoldermotovské kouzelnické Anglie.
+
+Doba čekání na nový sbor a vedení sice škole přivodila neblahou ztrátu školního roku, což vyvolalo značnou míru nevole jak v řadách frekventantů sedmých ročníků, tak mezi jejich rodiči, ukázalo se však, že to byla ztráta vyvážená v budoucnu řadou pozitiv.
+
+Před novým vedením bradavického učiliště stála především složitá otázka zajištění prostorů k řádné výuce. Bradavický areál byl v důsledku válečných ztrát zcela provozuneschopný: poškozeny byly jak výukové prostory, včetně školních laboratoří a knihovny, tak provozní zázemí a koleje, s výjimkou ložnic a společenské místnosti Zmijozelu, které jsou situovány v suterénu. Menší ztráty utrpělo pouze venkovní sportoviště a srub, sloužící jako privátní ubytovna správce školy, úplně zničeny naopak byly školní skleníky. Strop společenského sálu se propadl, takže obloha, která se nad jeho ruinami od toho okamžiku klenula, stejně jako plující mračna a zářící hvězdy byly napříště stoprocentně pravé. Třetina budov areálu vzala během bojů za své a verdikt  statiků byl  neúprosný: ze zbývajících dvou třetin je větší část v havarijním stavu a hrozí zřícením. Škola musela být úředně uzavřena a výuku bylo nutno provizorně přenést na nejrůznější detašovaná pracoviště, jejichž vybavení bylo nedostatečné a bezpečnostní zajištění chatrné (nebo rovnou žádné).Škola musela omezit počet přijímaných studentů a kalkulovat rodičům tučné školné, což rozhořčilo méně movité rodiny, které začaly své potomky hromadně posílat do bezplatných, přitom moderních a nadstandardně vybavených skandinávských škol.
+
+Ředitel školy, M. Charles Frank, usiloval od počátku svého angažmá v Bradavicích o co nejrychlejší řešení otázky, jak naložit s poškozenými zbytky školních budov a pozemků. Jeho racionálním návrhům, aby se jich ministerstvo zbavilo například v dražbě, z čehož poplyne hned trojnásobný zisk (z prodeje, z jednorázové daně při nabytí nemovitosti a z každoroční daně za držbu nemovitosti, kterou bude odvádět nový majitel, na jehož bedra také padne povinnost objekt opravit), poněvadž rekonstrukce by byla velice nákladná a zabrala by spoustu času, nenašly ale zprvu pochopení ani u skupiny mladých ministerských pozitivistů, nakloněných jinak vcelku mnoha rozumným myšlenkách na modernizaci systému odborného vzdělávání kouzelnického dorostu, natož u starší generace. M. Frank, jehož výhodou jistě byla absence jakéhokoli sentimentu, neúnavně předkládal nové a nové návrhy a směřoval na ministerstvo svá memoranda, v nichž snášel argumenty proti zastaralému, byť na ostrovech zažitému konceptu kolejní výuky, která drží studenty v elitářské uzavřenosti a izolaci od "skutečného života" - v tom dobrém i špatném slova smyslu. Poukazoval na praktické obtíže při správě tak rozlehlého komplexu a konečně dodal i drtivé ekonomické analýzy s výčtem skutečných nákladů na provoz a údržbu Bradavic, které mnohým ministerských úředníkům vyrazily dech a na příslušných odborech způsobily malou "revoluci" v pohledu na budoucnost bradavických ruin.
+
+Prvním vítězstvím modernisticky orientované skupiny úředníků a neortodoxního vedení školy bylo prosazení myšlenky na vytvoření nezávislé odborné komise, která by vypracovala posudek možného výhledového uplatnění Bradavic v kontextu  celkové vzdělávací koncepce. Závěrečný verdikt vyzněl jednoznačně v neprospěch hradu, ministerští tradicionalisté se přesto nechtěli myšlenky na znovuotevření Bradavic vzdát. V jejich prospěch hovořil fakt, že náklady na pořízení a zabezpečení zcela nového, moderního školního areálu, odpovídajícího standardům jednadvacátého století, by byly prakticky srovnatelné s odhadovanými výdaji na generální rekonstrukci poškozené školy, nehledě na to, že bradavický komplex bude tak jako tak nutno opravit, ať už jeho účel bude jakýkoli, což přijde ministerstvo na další peníze. Návrh M. Franka, aby byly zbytky Bradavic strženy a místo upraveno do původní přírodní podoby, což bude investičně nejlevnější a do budoucnosti zcela bez nároku na provozní prostředky, se naštěstí rozvážnější skupině pozitivistů podařilo stáhnout ze zasedání komise dřív, než došlo na jeho projednání. M. Frank se kvůli tomu velice zlobil a hrozil dokonce v první chvíli svou rezignací, pravda ale je, že tímto krokem umírněné křídlo pravděpodobně zachránilo nejen ohrožený hrad, ale i kariéru (ne-li život a zdraví) M. Franka.
+Blamáž s cynickým přístupem bradavického ředitele otřásla důvěrou pozitivistů ve Frankovy kvality, nicméně neměli příliš času dál se tím zabývat, protože museli čelit dalšímu tlaku tradicionalistů, kteří tentokrát přizvali na pomoc své věci kolegy z odboru památkové péče. Ti Bradavice ve zrychleném řízení prohlásili za národní kulturní a technickou památku. Tím byla eliminována jakákoli jiná možnost, jak s ruinami naložit, než opravit je a uvést do původního stavu. Pokus mladých modernistů protiargumentovat odborným posudkem odboru životního prostředí, který se vyslovil pro likvidaci hradu s tím, že v jeho okolí se vyskytuje řada vzácných a ohrožených rostlinných a živočišných druhů, zejména pavouků, jejichž zachování a úspěšná reprodukce je přítomností a provozem školy narušena, nevyšel. Modernisté se tedy stáhli do vyčkávacích pozic s vírou, že vyřešení problému se stává závislým na "čase a přírodě", jak se při jedné příležitosti (s cynismem sobě vlastním) vyjádřil M. Frank...
+
+Po deseti letech zákopové války mezi vedením Bradavic a ministerskými modernisty na jedné a konzervativními tradicionalisty na druhé straně, během níž se věci nikam nepohnuly a zbořeniště dál chátralo, došlo konečně k posunu poté, co se vyplnila Frankova prognóza a do čela ministerstva byl jmenován sympatizant modernistické strany Thomas Destroy. Tento absolvent pařížské Sorbony a blízký přítel M. Charlese Franka, s nímž se seznámil ještě za studií, již ve své inaugurační řeči slíbil "vrátit se se vší naléhavostí a otevřeností k bolestivé otázce budoucnosti bradavického areálu a  kouzelnického školství v Anglii vůbec" a věnovat se jí s patřičnou "naléhavostí, odborností a úctou", ale též "bez zátěže falešných emocí a pout minulosti," přičemž avizované reformě dával za vzor právě francouzský systém, což mnoha jeho podřízeným (zejména ze starší generace) způsobilo určité zdravotní potíže. Doyen školského odboru podal pod dojmem Destroyovy nástupní řeči výpověď a odešel do předčasného důchodu.
+
+Rázný postoj T. Destroye vedl nejprve ke znovuobnovení činnosti nezávislé odborné komise. Její doporučení přirozeně nemohlo znít jinak než před deseti lety, zvláště když reálný stav Bradavic se posunul jedině k horšímu: zřítila se další část zdiva, dřevěné tribuny famfrpálového hřiště se zhroutily, při jedné silné bouřce uhodil blesk do správcova srubu a ten vyhořel do základů. Zdevastované místo bylo vyňato ze správy školského odboru a převedeno do péče odboru věcí nemovitých, kde konečně, nyní snad již ke všeobecné spokojenosti, bude pro objekt někdejší školy nalezeno adekvátní využití.
+
+Kdysi neotřelý, progresivistický pohled M. Franka a jeho podporovatelů a názorových souputníků na nové pojetí odborného vzdělávání mladých kouzelníků v Anglii totiž získal nečekanou, ale silnou podporu nastupující generace, resp. té její části, která si ze svých studií v cizině, zejména ve vzpomenuté Skandinávii, přivezla ty nejlepší dojmy a zároveň brzy i v praxi předvedla oprávněnost svého vysokého profesního sebevědomí, s nímž se z ciziny vrátila. To vše k nelibosti starších generací, odchovaných ještě konceptem internátního výchovně-vzdělávacího pracoviště, za jehož zdi nebylo příliš vidět a kde vládly zaostalé poměry a duch drilu, represe a šikany, které ovšem absolventům připadaly jako samozřejmost, ba dokonce se pro ně staly synonymem kvality.
+
+V současné době je na ministerstvu kouzel v řízení návrh postoupit bradavický areál ve veřejné nabídce soukromému subjektu, který bude ochoten se jej ujmout a opravit pro adekvátní komerční potřeby. Protože pozemky, jezero, les i budovy zůstanou majetkem ministerstva, vyslovilo ministerstvo dvě základní podmínky realizace pronájmu, a tou jsou jednak dohoda o spolupodílu ministerstva na zisku ze všech podnikatelských aktivit v Bradavicích, jednak vyčlenění části objektu k užití ministerské agentuře, která bude napříště koordinovat výjezdy dětí z anglických kouzelnických rodin na studia do zahraničí. Ministerstvo kouzel tím ušetří nejen na rekonstrukci a provozu Bradavic, ale také na reformě svého vzdělávacího systému, neboť v něm napříště zůstanou jen Ti, kterým jeho rigidní podoba vyhovuje, a ještě mají dost peněz, takže ministerstvo do jeho provozu nebude muset prakticky nic investovat.
+
+M. Charles Frank a ministr Thomas Destroy tak konečně, po letech vyčerpávajících bojů a nejistoty, které rozdělily a nešťastně poznamenaly celou první postvoldemortovskou generaci kouzelníků, našli cestu, jak z neblahého dědictví válečných let vytěžit pro budoucnost kouzelnické Anglie maximum
+
+* Poznámky
+
+[fn:1] Viz rubrika Host.
+
+[fn:2] Viz minulé číslo.
+
+[fn:3] Nutno poznamenat, že pan Rychnovský přejal Křesťanské jméno Bruncvík.
+
+[fn:4] Ženy, protože do soutěže jsou připuštěni pouze muži a Britové si k okupaci náhodou vybrali konec listopadu, ve kterém je Nandaam-a'spaPâam v nejlepším.
+
+[fn:5] Obrazně řečeno. Tehdy ještě nebyly vynalezeny válce. Britové pravděpodobně použili koule či zaoblené kvádry.
+
+[fn:6] Na jaře, 21. 5. 2018.
+
+[fn:7] Překlad poskytl deník Všeobec.
+
+[fn:8] Zde je však vidět nedostatečné plánování ze strany tvůrců soutěže, slavného Iba la Zhyba a jeho syna Pyha, ačkoli se jedná o nedostatek jediný. V pravidlech totiž nestojí nic o telefonních hovorech.
+
+[fn:9] Pravděpodobně kvůli jejímu nedostatku v celém Súdánu.
+
+[fn:10] Paní Horáková se skrývá před Modrými klobouky poté, co během Oranžové okupace napadli její původní sídlo Toogen-Hut.
+
+[fn:11] Diváci ne neubrání smíchu, když se z telefonního přenosu ozvou zvuky psaní na klávesnici. Paní Horáková se odmlčí.
+
+[fn:12] Rozdíl v tom je. Zatímco tvaru je skutečně látka bla bla bla, /Tvaru/ je teplota varu, tudíž teplota varu (ono se to vysvětluje samo tím názvem, že?).
+
+[fn:13] Paní Kupé zde zřejmě zapomněla, že její nahrávky se posílají do /studia Žebatý/ a převádějí se do psané formy. Ale dopřejme paní Kupé trochu volnosti, není už nejmladší.
+
+[fn:14] Dlouhý nádech.
+

@@ -1,0 +1,466 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");-*-
+:Uvozovky:
+# \bdquo = „
+# \ldquo = “
+# \sbquo = ‚
+# \lsquo = ‘
+# [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][LaTeX symbols]]
+:END:
+:stuff:
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:3 toc:nil num:1 d:nil ^:t
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+
+#+OPTIONS: author:nil
+# Doesn't include author's name
+
+#+OPTIONS: creator:nil
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: Bažant v chřtánu lvovém
+
+* 24/2019
+Ročník XXVIIII
+
+*Adresa redakce:*
+Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:*
+EmailNoReply@server.mok
+
+*Zákaznická linka:*
+0004 892 223 03E
+
+*Šéfredaktor:*
+Alžběta Ašelová
+
+*Manažer redakce:*
+Jiří b'Ačkora
+
+*Zástupce šéfredaktora:*
+Hobbo Habán
+
+*Fotograf:*
+Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:*
+Tara Kočí
+
+*Obrazová redakce:*
+Honza Kůň
+
+*Rozhovor:*
+Karlos Žebatý, Lubomír Lečko
+
+*Politická recenze:*
+Olšana Kupé
+
+*Editoři:*
+Antonín Obsenblesprk, Šimon Balabán, Lobor Sko'madženta
+
+*Zahradník:*
+Mário Luigi
+
+*Vydavatel:*
+Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:*
+Karlos Žebatý
+
+*Sociální poradce:*
+Lightningh Danger
+
+*Sociální podpora:*
+Anna Oleš
+
+*Inzerce:*
+Many Hrabal
+
+*E-shop:*
+nakupsisam.cz
+
+*Tiskne:*
+individuálně
+
+*Korespondent:*
+
+
+*Rozšiřují:*
+google.com
+
+/Monte Karlos Někdeník/ byl založen skupinou černých nosorožců afrických v létě roku 1989. Jeho stránkami byly poznamenány takovými autory jako Alexandr Malinovský, Jack O'Clock a Veronika Oškalová a všeobecnému ohlasu se těší již třetím rokem pod brilantním vedením šéfredaktorky Alžběty Ašelové©. Stojí na železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po prachbídné korespondenty se řídí všestrannými, nesmrtelnými pravidly slušného chování.
+
+* Editorial
+Populární valašská lidová píseň z dvanáctého století praví:
+
+Já chtěl bych jet do Dubaje,
+a neb tam malá zima je
+tak i přes všechny výdaje
+tam tvoje zloba roztaje
+na všechny strany volaje
+až motor lodi dohraje.
+Tam rozběhneš se do kraje
+ten čistý vzdoušek lokaje,
+ač povědomí nemaje,
+jak moc já chci do Dubaje.
+
+Uznávám, mnoho smyslu to nedává, ale pořekadlo je to pěkné. Dnešní vydání jsem se rozhodla začít těmito nezvyklými verši, protože ve své všeobecné snaze uvést čtenáře do naprostého pohodlí je nutné, abych ho připravila na opravdu nezvyklé číslo. Jak se vyjádřil Karlos Žebatý, volby jsou v plném proudu. Pokud jste si mysleli, že Langer zažil nepříjemný pád, počkejte, co pro vás mají nejnovější zprávy.
+
+Dokud mluvíme o volbách, rozhodla jsem se zavést nový pravidelný segment /Hodnocení odborníka/, do kterého se mi povedlo z důchodu povolat Olšanu Kupé, třiaosmdesátiletou politickou poradkyni a recenzentku na poli Evropské Unie a Západního Protektorátu a osminásobnou držitelku řádu Svatého Osla. Jakožto nejzkušenější odborník, kterého si může svět přát, bude neocenitelnou pomocí všem kandidátům doufajícím se poučit z chyb svých možných nadřízených. Bude-li o její názory velký zájem, pověřím Karlose, aby s ní udělal rozhovor a ze všech stran ji rozcupoval, jak to jen Karlos nejlépe umí.
+
+Lubomír Lečko se opět vytáhl - celebrita mu tentokrát do pořadu přišla. Bohužel pro ni. Ale nezlobte se na něj - on za to nemůže...
+
+Mimo to jsem nadšena, že jako obvykle přinášíme aktuální zprávy z celého světa - dnes je na pořadu Velká Británie, kde se teroristé pokoušejí připravit nás o naši svobodu, ale v rámci kolektivního ducha a soudržného vědomí jim nesmíme dát tu šanci. Američané měli za svou chabou existenci jeden dobrý nápad - ukázat jim, co jsme my západští zač. Natočili totiž televizní soutěž, ve které se každý týden hrálo o vodní scooter. A když ho nikdo nevyhrál, byl tento shozen ze střechy mrakodrapu v New Yorku. A já volám: „Podívejte se, teroristi! Co nám můžete udělat, co jsme si my už neudělali sami?“ A co se svobody týče? Říkám: „Seberme si ji, dokuj ji ještě máme.“ A začněme v té Dubaji.
+
+Alžběta Ašelová, šéfredaktorka
+* Zprávy
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** BBC: „Terminal terminal”
+:Story:
+Něco se děje na letišti v Manchesteru s teroristama - Fjord. Vyžadujou něco _nesmyslnýho_, zatimco cestující ani nevědí, že se to děje, protože vedoucí letištní gardy je hodně _dobrej a blbej zárověň_.
+
+Teroristi sou víc a víc frustrovaný, že o nich nikdo neví, a _snažej se na sebe upoutat pozornost_. Lidi to považujou za další z těch věcí, který letiště dělaj, jako piána _a podobně_.
+
+Vláda s teroristama ale rapidně _vyjednává_, nemůže se ale dostat k vedoucímu gardy, kterej se nějak _začal chovat jako skutečnej terorista_, i když se je snaží zastavit.
+
+REbeka de Roto z časopisu El Elektro tohle _omylem_ objevil a teď o tom reportuje.
+
+BBC noviny celou situaci označují za tzv. "Terminal terminal."
+
+Blogeři, vlogeři a cvokaři se sjeli do Manchesteru, tělaj selfíčka,...
+:END:
+Španělské noviny /El Elektro/ vydaly koncem minulého týdne zprávu o teroristickém útoku na terminál 1 mezinárodního letiště v Manchesteru ve Spojeném království, zahájeném před patnácti dny a soustavně pokračujícím až do dnešního odpoledne. Redaktorka Rebeka de Roto, autorka původního článku, se stala dočasnou obětí švédského gangu /Fjord/, který za útokem stojí. /Fjord/ operuje v utajení mezi zákazníky i zaměstnanci letiště a ustavičně pracuje na rafinovaném útoku.
+
+Do hledáčku široké veřejnosti se však tento případ nedostal kvůli jeho vskutku nevídané brutalitě. Jak napsala de Roto: „Nadie se interesa a que podría ver a casa cada día.[fn:1]” Proslulým se stal především reakcí místních obyvatel. Manchesterská komunita celistvě povstala a v neslýchaném gestu soudružné kolektivity jednohlasně prohlásila: „What?”
+
+Ano, jak článek /El Elektra/ odhalil, byla /Fjordova/ operace natolik úspěšná ve své tajnosti, že, ačkoli se útoky odehrávají již patnáctým dnem, úřady, občané ani cestující si nevšimli ničeho podezřelého. Letiště vydalo prohlášení, že ve světle těchto odhalení zváží zvýšení automatů na kávu v lóži pro větší pocit bezpečí a pohodlí svých zákazníků. Provoz letiště zůstává nezměněn i po tiskové konferenci Manchesterské policie, kde vedoucí okresu Yana Opphre řekla: „...[Vládní vyjednavači] věří, že skupina /Fjord/ vydala požadavky a ultimátum. Bohužel nebylo možné zachytit ani jedno, nevíme tudíž, co letišti a jeho návštěvníkům hrozí, kdy to přijde, ani co máme udělat, abychom tomu zabránili, ani v pravdě, jestli se to vůbec stalo.” Dále pak Opphre nevylučuje možnost, že potenciální výhrůžky teroristů již byly vykonány.
+
+Britský časopis /The Space/ domluvil exklusivní interview s velitelem celé akce, Kurtem Lindénem, ve svém čísle však píše, že pan Lindén se buďto nedostavil, nebo ho neviděli.
+
+Kolem letiště se od vydání de Rotina článku shromažďují zástupy vládních aut, stanů a zaměstnanců. Vyjednavači z Interpolu se vehementně snaží navázat kontakt s teroristy, zatímco policejní hlídky se speciálním vybavením[fn:2] obchází v pravidelných intervalech letištní východy ve strachu, že se teroristé pokusí o útěk. Podle výpovědi cestujících, zejména těch přilétajících, jim přítomnost policie poněkud vadí - připadají si sledovaní a policejní hlídky jim dávají pocit, že jsou v nebezpečí.
+
+Ministr Carl Olstrich vznesl v parlamentu námitku na adresu /El Elektra/ a jmenovitě paní de Roto. Podle jeho názoru by se v zájmu všeobecné bezpečnosti měly podělit o způsob, jakým se podařilo o teroristech poprvé dozvědět. /El Elektro/ obratem vydalo oficiální žádost o vydání profesního tajemství, zároveň však dodalo, že dle pracovní smlouvy nemohou Rebeku k vydaní žádně informace tlačit. Paní Rebeka této možnosti využila a odmítá britské vládě pomoci.
+
+Na internetových fórech se rozšiřují teorie o možném důvodu, který /Fjord/ mohl k napadení mít. Dvě nejčastěji zmiňované hypotézy jsou: A) /Fjord/ a jeho členové jsou nespokojeni se současnou politickou situací ve Švédsku a vyprovokováním britské vlády ke spolupráci s jejich úřady ji hodlají změnit; a B) švédská vláda přikročila k urychlenému uplatnění své dlouho vyvíjené technologie neviditelného pláště. Švédský princ radikálně odmítá veškerá nařčení z jeho vlastní účasti na celé akci, stejně jako účasti jeho vládních zaměstnanců, a britská královna stejně radikálně odmítá spolupráci se švédskými úřady.
+
+Zatímco se vlády snaží současně domluvit na dalším postupu a nespolupracovat jedna s druhou, shromáždili se kolem letiště v Manchesteru davy turistů z celého království. CNN ve večerních zprávách ukázal záběry z vrtulníku ukazující přes dvě stě tisíc nadšenců zaplňujících celé okolí letiště a několik okolních ulic. Jak daleko se tato masa rozrostla nevíme, neboť byl vrtulník sestřelen /terror-huntery/ amatéry v domnění, že se jedná o posily /Fjordu/.
+
+Rebeka de Roto oznámila, že pokud tento turistický nával neopadne do tří dnů, bude po městském úřadě v Manchesteru vyžadovat kompenzaci za zvýšení návštěvnosti; neudala však cílovou částku.
+
+Zatímco BBC označila celou oblast jako „Terminal terminal[fn:3]”, Interpol jako „ohrožení 4C”, CNN „that place... what do you call it? Manchester?” a východoasijská hip-hopová skupina /Ábes un-šábes/ zase jako „žublevul o'krosa[fn:4],” někteří obyvatelé Manchesteru jí stále říkají „Co? Jo tohle. Ne, moment... Ne, to je něco jiného. Tak nic. Co?"
+
+Boris Johnson, britský ministerský předseda, přizval na pomoc Klingony, ti se však údajně omluvili kvůli neodkladné práci v Orionu.
+** Na lavici ve dvojici
+:Story:
+- [X] M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. vyhlásila, že vítězný kandidát si bude muset vybrat partnera. Ten bude muset být mezi nejvyšší osmičkou.
+
+- [X] Šeiner prohlásil, že pokud vyhraje, bude v první osmičce, takže si vybere sebe. Křenková řekla, že uzavře smlouvy s nejslibnějšími kandidáty. Ona se nebude snažit dostat se na první místo, čimž A) ho uvolní, a B) může pomoct ostatním, když si ji vyberou za partnera. Nikdo ji nechce.
+
+- [X] Ve spodních řadách se zbrkle uzavírají spojenectví, které mají dvojice dostat na vrchol. Právnické firmy vytvářejí šablony pro smlouvy ohledně dvojic, které se spojují takhle brzy.
+
+- [X] Velká pětka, předvapivě nezměněná po tragickém výkonu Záchelové (nyní na 233. místě) v /Monte Karlos/, se prozatim stáhla z veřejného politického dění, aby v soukromí projednala, jak si poradit se svou lichostí.
+
+- [X] Indický parlament začal projednávat, zda jednala M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. právně.
+
+- [X] Lajdová se dere nahoru!
+:END:
+Boj o /Nejvyššího vůdce všeho učitelstva/ pokračuje. Závěrečný počet uchazečů se pohybuje kolem devíti a půl tisíc, přesnější statistiky budou pravděpodobně na Googlu. Kanadská vláda, která až do nedávna odmítala nechat své občany se přihlásit, povolila pod tlakem veřejného mínění a Kanaďané se nahrnuly do provizorních zapisovacích komor v rekordních počtech. Dvanáct lidí bylo ušlapáno a jedny dveře se pro změnu trhly.
+
+Po oficiálním ukončení zapisovací lhůty vyhlásil mluvčí M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. na tiskové konferenci v Ženevě, že při zasedání představenstva byla kvůli nadměrné účasti odhlasována drobná změna pravidel. Vítězný učitel si bude muset vybrat pobočníka z první osmičky.
+
+Tato změna vyvolala vlnu pobouření, nechuti a dotazů. /Sržba/, největší skupina druhořadých kantorů[fn:5] čítající 1 503 členů v rozmezí 4 882. a 9 002. pozice, vznesla dotaz na pana mluvčího ohledně pravidel arény a jak toto upravení ovlivní průběh voleb v ní. Pan mluvčí se nechal slyšet: „Učitelé, kteří by do arény byli vpuštěni, si budou moci vybrat, zda vstoupí a podrobí se riziku, či zda zůstanou mimo. Ti, kteří se rozhodnou arénu navštívit tak dobrovolně prohlašují, že v případě své smrti na bojišti nebudou po vítězi vyžadovat, aby byli vybráni za pobočníka. Přesná pravidla se ještě dopilují.“
+
+Etiopské učitelské sdružení vyjádřilo oficiální bojkot celých voleb, dokud Ústav neodvolá své prohlášení. Podle jeho představitelů se jedná o zneužívání státní moci, které by mohlo přinést nerovnoměrné rozdělení vlády nad učiteli světa. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. na oplátku bojkotovala všechny etiopské učitele a diskvalifikovala je z voleb. Celkový počet uchazečů se tak snížil o necelé dvě desítky.
+
+Indický parlament zaznamenal etiopskou situaci a počal vyšetřování, zda Ústav jedná právně.
+
+Dvacet statečných [fn:6] bylo /Monte Karlos Někdeníkem/ požádáno o vyjádření se k stávající situaci. Jiří Šeiner prohlásil, že bude-li vítězem, bude nutně v první osmičce, vybere si tedy sám sebe jako svého pobočníka. Marta Křenková, 17. místo po „výměně čarodějnic“ s Pálkovskou, při které si prohodily 16. a 17. pozice, ohlásila změnu strategie. Nebude se snažit vyhrát, nýbrž podporovat slibné kandidáty výměnou za to, že bude vybrána jako pobočník. Tím zároveň uvolní své potencionální místo na vrcholu žebříčku. Do dnešního odpoledne se jí nepodařilo sehnat partnera.
+
+Velká pětka[fn:7], která zázrakem zůstala nezměněná po tragickém propadu paní Záchelové[fn:8] propadnuvší se na 233. místo, se odebrala do ústraní svého sídla v jeskyni ve Švýcarsku pod vodopádem zvaného vila Toogen Hut, aby zde v soukromí probrala problém své lichosti.
+
+Paní Záchelovou na sedmém místě vystřídala paní Jakešová (původně osmá). Pan Langer se prozatím ustálil na patnáctém místě, ačkoli odborníci říkají, že za to může vděčit rozruchu kolem změny pravidel. Paní učitelce Lajdové naopak tato změna výrazně prospěla. Prudkým zvýšením ohlasu, jehož původ odmítla komentovat, se z dvacátého místa dostala na deváté a její popularita stále nevysvětlitelné stoupá.
+
+Mezinárodní právnická firma /Hokus Pokus, Jetel Lotus/ připravuje šablony pro smlouvy mezi kantory, kteří na základě /pobočnické doktríny/ uzavírají spojenectví již v tak brzkém stádiu voleb.
+** Do války
+Po neplánovaném zemětřesení v Dubajské poušti se hlavní město emirátu octlo ve stavu naprostého chaosu. Vše začalo dvouminutovým lokálním výpadkem proudu, který způsobil nepatrný pokles vysílací kvality na rádiové vlně 89.0002 a přerušení dopravní signalizace na hlavní třídě. Celá Dubaj se tak na sto dvacet sekund ocitla bez /Rádia Ropa/ a semaforů. Tamější občané se v panice stihly za tyto dvě minuty sbalit, nasednout do svých karavanů, propustit zaměstnance, prodat nemovitosti a vyrazit vstříc kočovnému životu mezi dunami a oázami.
+
+Bohužel pro ně už se nestačili dostat z města, neboť hlavní třída, jak již bylo zmíněno, se právě nalézala ve stavu bezproudosti a řidiči tudíž nevěděli, co mají dělat. Podle očitých a ušitých svědků se po „úporných“ dvou minutách světla opět rozsvítila a rádia opět rozehrála. Do duší rádoby cestovatelů se vrátil klid a mír, ne však do Dubaje samotné.
+
+Tento hyperrychlý emigrační proces ponechal celé město v dopravní zácpě nevídaných rozsahů. Při zemětřesení se zřítilo jen pět budov, profesionální profesor konspiračních teorií Albert Kozlakov však vznesl hypotézu, že jejich přesné umístění odhalilo zásadní chybu v infrastruktuře města a karavany se teď pohybují v kruhu rychlostí přibližně 5,332 metrů za dvanáct a půl hodiny. Albert také dodává, že se jedná o znamení Temného Rytíře, věčného strážce naší rasy, a dále pokračuje v jeho rozšifrování. Takovými věcmi se však slušný člověk nezabývá.
+
+Zatímco se starosta a jeho poskoci snaží situaci napravit, na silnici je patrný nezdravý vliv karavanů na lidskou mysl. Jejich luxus zajišťuje, že řidič ani spolujezdec, respektive spolunamístěstojící, nemají potřebu ho opustit. Nikdo tedy nespěchá domů, nikdo netroubí, nikdo nekřičí a nešílí. Hlavně se ale nikdo nesnaží ze zácpy dostat. „Moje rodina už má hlad,“ pověděl nám jeden řidič. „Zásoby jsem snědli předevčírem. Naštěstí si moje žena všimla támhleté restaurace,“ ukazuje na /kebab house/ necelých dvě stě metrů po proudu zácpy, „a tak jsme si řekli, že si tam zajedem. Počítáme, že se tam dostaneme někdy příští týden.“ Na dotaz, kam má vlastně on a jeho rodina namířeno, bez váhání ukázal palcem přes rameno. „Tamten dům. Pětaosmdesáté patro. Omylem jsme to přejeli, tak se musíme dostat na náměstí Oleje a otočit to zpátky.“
+
+Emirátští psychologové se odmítli zabývat doporučením našeho časopisu na prozkoumání tohoto jevu a karavanní lobisté zvýšili dotace Evropské Unii, beze sporu aby její představitelé odhlédli od podobných incidentů. Jediný hlas odporu zní z malého města na Sibiři, kde ho ale nikdo neslyší. Monte Karlos Někdeník tedy vyhlašuje válku všem karavanům světa a přísahá, že nepoleví, dokud v nich lidstvo nespatří vražedné stroje a vymývače mozků, kterými jsou.
+* Host
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** Rozhovor - „Všechno by se dalo zlepšit.”
+Paní Pavla Záchelová.
+
+*Kdy jste se zapojila do takzvané velké pětky?*
+
+To bylo asi před třemi týdny.
+
+*Kdo vás k tomu přemluvil*
+
+Mě nikdo nepřemlouval. Dohodli jsme se jednohlasně.
+
+*Minulý týden jsme zde měli pana Langera, který, jak chápu je vaší nadřízeným. /On/ byl mezi studenty populární. Moje otázka zní: Po jeho propadu, zvolila jste zcela opačnou taktiku v domnění, že budete mít větší šanci?*
+
+Ne, má taktika se nezměnila.
+
+*Takže jste stále nepopulární před i po propadu pana Langera.*
+
+ Říkáte sedmému místu nepopulární?
+
+ *Mezi mladými studenty, ano. Naše statistiky tak naznačují.*
+
+ Kolik účastníků máte zaznamenaných v soutěži?
+
+ *Všechny. Úplně všechny.*
+
+ Kolik jich je?
+
+ *Účastníků v soutěži? Asi 2 603.*
+
+ A vám připadá, že /sedmé/ místo je nepopulární?
+
+ *Jste populární mezi voliči, ne mezi studenty. Máte dvanácti procentní oblíbenost.*
+
+ To ale neznamená, že ostatní kantoři ji nemají nižší.
+
+ *Já jsem neřekl, že ostatní mají vyšší; já jsem řekl, že vy ji máte nízkou. Co jsem také řekl je, že pan Langer ji měl mnohem vyšší?*
+
+ A jaká byla u pana Langera?
+
+ *Devadesát tři.*
+
+ ... Já mu to jenom přeji.
+
+ *Co říkáte na současnou znalosti anglického jazyka v Čechách?*
+
+ Podívejte se - já si myslím, že znalost angličtiny v České republice, minimálně mezi mladými lidmi, je velmi vysoká, protože to, do jaké míry všechny školy vzdělávají svoje studenty (už malé žáky) v tomto jazyce, je v dnešní době nebývalá. Ale myslím, že to je naprosto správně.
+
+ *Jakožto učitelka anglického jazyka, myslíte, že by se tato úroveň dala zlepšit?*
+
+ Všechno by se dalo zlepšit. Nicméně, myslím si, že úroveň, jaká je například u nás na gymnáziu, je dostatečně vysoká, minimálně mezi ostatními školami. Tudíž pokud by zapracovali i jiné školy a dostaly se na úroveň gymnázia, tak bude úroveň víc než dostačující. Na druhou stranu bylo vždycky zvykem, že gymnázium má o něco vyšší úroveň než ostatní školy.
+
+ *Jaké kroky byste podstoupila, aby se situace zlepšila i na těch jiných školách?*
+
+ Já myslím, že to hodně záleží na úrovni kantorů a bohužel střední školy nikdy nepřitáhnou takové kantory jako gymnázium. Pokud by učitelé dostávali vyšší plat, tak si myslím, že to ihned pozvedne úroveň celkového školství, nejen anglického jazyka. Protože, za ty platy... více si vyděláte v Kauflandu. Pokud někoho učitelská profese vyloženě nebaví, nemá smysl, aby ji dělal.
+
+ *Už víme, jaký je vztah vašich žáků k vám. Můžete se nějak vyjádřit ke svému vztahu k nim?*
+
+ Já se snažím k žákům přistupovat maximálně... /přívětivě/ a nabídnout jim opravdu co nejlepší vzdělání. Bohužel se mnohdy setkávám s naprostým nezájmem. S tím už potom dokážete málo udělat.
+
+ *V případě, že se snažíte ke svým žákům přistupovat co nejvlídněji, jak si vysvětlujete svou neoblíbenost?*
+
+ Podívejte se...
+
+ ...
+
+ ...
+
+...
+
+ *To je velice zajímavé. Povězte svým sponzorům trochu o svém osobním životě.*
+
+ Za jakým účelem bych měla rozebírat svůj osobní život?
+
+ *Prosím vás nevyjadřujte se, jestli vám to nějak vadí. Mně to vadit nebude, že?*
+
+ Co konkrétně byste si přál?
+
+ *Cokoli. Co si myslíte, že je důležité, aby o vás vaši sponzoři věděli.*
+
+ Já si myslím, že mým sponzorům může být můj osobní život... ukradený.
+
+ *Jako učitel angličtiny máte výhodu nad učiteli, kteří se se zahraničními podpůrci nedomluví. Jak si tedy vysvětlujete úspěch pana Rychnovského[fn:9]?*
+
+ Já opravdu netuším, jaké jazykové schopnosti má pan Rychnovský. Pokud umí rusky, dovedu si představit, že najde velké množství sponzorů.
+
+ *Jak snášíte, že paní Rotreklová, vaše kolegyně, nad vámi vede o dvě místa?*
+
+ Velmi dobře. Já jí to přeji.
+
+ *Co máte proti japonským animovaným filmům?*
+
+ Nic. Jak jste na to přišel?
+
+ *Anonymní typ.*
+
+*** Kampaň
+*Paní Horáková oznámila, že cílem velké pětky je svržení Macháčka, Rychnovského a Ebbe z prvních dvou míst. Nečekám, že nám řeknete, jak toho hodláte docílit, ale jako člen velké pětky, jaký je váš plán předehnat všechny, co jsou nad vámi. Konec konců, kdyby velká pětka uspěla, budete pořád na pátém místě.*
+
+Já si myslím, že na toto téma už jsme diskutovali. Připadá vám páté místo jako špatná pozice?
+
+*Ne, ale první místo vyhrává a všechny ostatní prohrávají.*
+
+Pokud v rámci našeho spojenectví vyhraje někdo jiný, tak budu také velice potěšená. Samozřejmě bych se ráda dostala na první příčku, nicméně nemíním snažit se své kolegy předehnat. To by uškodilo našemu spojenectví.
+
+*Nebojíte se, že v aréně budete v nevýhodě oproti kantorům, kteří se nebojí roztržky páchat?*
+
+Naše skupina je velmi jednomyslná.
+
+*Prozatím. Nemáme přístup k vaším tajným schůzkám, ale vyhrává jen jeden, že?*
+
+No, proti ostatním kantorům samozřejmě budeme bojovat. To je naším cílem. Ale v rámci naší skupiny rozhodně nechceme, alespoň prozatím, soupeřit. To by nám neprospělo.
+
+*Jak byste se cítila, kdyby vás někdo s této skupiny vystrnadil na mnohem nižší příčku?*
+
+Já si nemyslím, že by se něco takového stalo.
+
+*Co je vaší největší předností v těchto volbách?*
+
+Zapálení pro věc.
+
+*V posledních dnech se mezi níže postavenými kandidáty vyskytují nové strategie. Velké skupiny zaměřují osobní život výše hodnocených kantorů ve snaze donutit je k odstupu. Do jakých mezí byste byla ochotna jít, abyste si pozici zajistila?*
+
+Chcete naznačit, že bych měla pomlouvat ostatní učitele?
+
+*Já se ptám, jestli byste byla ochotna. A pokud, jak moc.*
+
+Nemyslím si, že by bylo nutné v rámci této soutěže uchylovat se k pomluvám a pošpiňování ostatních kandidátů. Pokud by se ukázalo, že, kdo nahází více špíny na ostatní, vyhrává, tak bych ani nelitovala, že v takové soutěži nevyhraji.
+
+*Za jakých okolností byste vy sama uvažovala o odstupu?*
+
+Zatím si nedovedu představit, že by takové okolnosti mohly nastat.
+
+*I přesto, je něco, o čem nechcete, aby se vaši soupeři dozvěděli?*
+
+Já se za své soukromí nestydím. Nevidím ale důvod se o něm šířit. Nemyslím, že by na mě ostatní soutěžící byli schopni cokoli získat.
+
+*Na jakou oblast vzdělávání se hodláte zaměřit v případě, že budete zvolena?*
+
+Jak jsem říkala, pokud by tato soutěž byla o zaměřování se na osobní život, nedosahuje úrovně, o které se domnívám, že by měla mít.
+
+*Teď se obávám, že nerozumím. Otázka zněla: Na jakou oblast vzdělávání se hodláte zaměřit v případě, že budete zvolena?*
+
+Vy se ptáte na...
+
+*Ano, na jakou oblast vzdělávání se hodláte zaměřit v případě, že budete zvolena.*
+
+Ale to jste měl /říct/.
+
+*To jsem* /měl/ *říct, ano. Bláhově jsem se domníval, že jsem to řekl.*
+
+Všechny oblasti jsou důležité, nicméně angličtině je dnes věnováno velmi málo času.
+*** Random otázka dne
+ *Jsou cereálie s mlékem polévka?*
+
+ Ano, tato otázka je opravdu náhodná. Ne. Ani, když je uvaříte.
+*** Rychlá střelba
+*Co musí žák udělat, abyste se na něj nenaštvala?*
+
+Já se na žáky zásadně nezlobím.
+
+*Kolik způsobových sloves je v angličtině?*
+
+Spoustu.
+
+*Přišla jste někdy včas do hodiny?*
+
+Samozřejmě. Někdy jsem ani neodešla.
+
+*Kdyby vás měli vaši žáci popsat jednou větou, jaká věta by to byla?*
+
+To já opravdu nevím. Já jsem učitelka, ne žáci.
+
+*Naše průzkumy říkají „Ani mi o ní nemluv.” Jak byste reagovala, kdybyste volby prohrála o 0,05 bodu?*
+
+To by bylo naprosto férové.
+
+*Něco řeknu a vy mi dejte jednoslovnou asociaci:*
+
+*Angličtina*
+
+Jazyk.
+
+*Horáková*
+
+Učitel.
+
+*Zvonění*
+
+Na to nemám asociaci.
+
+*Vlídnost*
+
+Učitelé.
+
+*Martin Klvaňa*
+
+--
+*** Korespondence
+*Do kanceláře nám oknem proletěl kámen zabalený do kusu papíru. Nebyl vám přímo adresován, ale /Monte Karlovští/ právníci říkají, že se to počítá za korespondenci. Anonym píše:*
+
+*Takový blbosti. Proč jednou nepozvete někoho zajímavýho? Polovinu času tam nikdo ani nepřijde, naposledy tam byl nějakej Langer a teď tahle ----[fn:10].*
+
+*Aniž bychom vám řekli, co to poslední slovo bylo, jak reagujete na označení "téhle ----[fn:10]?"*
+
+Na to se velmi dobře reaguje. Na něco, o čem nevím, co to vlastně je. Opravdu děkuji za takovouto otázku.
+
+*Prosím*
+*** Závěrečný proslov
+*Řekněte divákům, kteří se už rozhodli, že vás nebudou podporovat, proč by měli změnit názor a volit právě /vás/.*
+
+Pokud se někdo už rozhodl, že mne volit nebude, tak ať si svůj hlas nechá.
+** Hodnocení odborníka
+Takže paní Záchelová. No...
+
+Jedním slovem: katastrofa. Druhým slovem: naprostá. Za celou svou kariéru politického poradce a recenzenta jsem neviděla tak nepochopitelně neschopného, neobeznámeného, neobratného, nesnesitelného, neflexibilního, nechápajícího a naivního křečka, natož kandidáta na celosvětově uznávaný politický post, jako je paní Záchelová. Ale dost o mně. Jak se vedlo jí?
+
+Vedlo se jí příšerně. Od začátku bylo vidět, že se pohybuje mimo svůj rámec, jak muselo být zřejmé každému posluchači našeho vysílání. Opakovaně se ukázalo, že kandidátka není schopná poprat se s myšlenkou, že by mohla být sedmá v pořadí a přesto nevyhrát. „Říkáte sedmému místu nepopulární?“ bránila se, jako by jí nedocházelo, na co se jí Karlos Žebatý ptá - pomineme-li, že to opravdu nepochopila. Ihned nato zpochybnila statistiky na tolika úrovních, že nemám čas, chuť, ani žaludek je všechny rozebírat.
+
+Zároveň, což bylo rovněž patrné z prvních minut rozhovoru, postrádá základní přehled o tom, v jaké situaci se nachází. Svým odpůrcům přeje úspěch, plány na jejich poražení nemá, věří, že její spojenci s ní zůstanou (ano, nový vývoj naznačuje, že vyhrát mohou ve skutečnosti dva, ale to paní Záchelová nevěděla a pravděpodobně ani nikdy vědět nebude, protože světlo dvaceti statečných už nikdy nespatří) a nevrhnou se po ní jako antilopa po štěněti v první možné chvíli.
+
+Co je ale největší prohřešek v její blahoduchosti, je její přístup k výhře. Z jejich odpovědí je patrné, že by jí nevadilo, kdyby prohrála. Já se ptám, dámy a pánové: „Neuvědomuje si ta ženská, do čeho to vlezla!!!?“ JAK JAKO, nevadí? JAK JAKO, úroveň? Paní Záchelová má pocit, jako by hrála nějakou hru! A pokud se jí nelíbí, prostě ji bude po etiopském vzoru bojkotovat. TADY JDE O VLÁDU, LIDI!!! Na dotaz, co je ochotna podstoupit, aby zvítězila, bez oka mžiku opáčí: „To jako, že mám pomlouvat své soupeře?“ SAMOZŘEJMĚ!!! Do čeho si myslíš, že ses to namočila?!
+
+Jak je možné, že někdo takový se do první desítky dostal, vám mé roky bohaté praxe povědět nemůžou. Naštěstí je vidět, že pravidla veřejného života přetrvávají a když se paní Záchelová nehodlá /snížit na úroveň hry/, sníží se hra na její a vykopne ji dál než albatros dohodí šavli. Když má ona zájem na vítězství jako kuře na omeletě, ztratili její sponzoři veškerý zájem o ni. Dejte na má slova, skončí pod devátým tisícím místem ještě, než bude patnáct finálních uchazečů vysláno do arény.
+
+Co ještě se k této ženě dá říci? Po volbách vyžaduje úroveň! Sama sobě si protiřečí (jednou řekne, že úroveň angličtiny je dobrá, pak zase, že je jí věnováno málo času). Na otázku, která začne „random otázka dne“, má potřebu dodat „Ano, tato otázka je opravdu náhodná.“ O osobním životě mluvit nechce. ---[fn:11]. Pardon. To já jenom, že pokud kandidujete a vaše kampaň zcela závisí na podpoře bohatých investorů, ta nejhorší věc, kterou můžete udělat-- A tím myslím ta n e j h o r š í věc, kterou můžete udělat-- Ten druh věci, jako kdyby bažant, vlezuvší spícímu lvovi do chřtánu, počal hlasitě prohlašovat, že otep se nemá nosit vzhůru nohama - názor, o kterém je v savaně všeobecně známo, že lvové budou trhat maso i kosti, když ho uslyší - a tančit na jeho jazyce dupáka v nažhavených stepovacích kramflecích s kastaněty v rukou do rytmu metalového zpracování Shakespearova Hamleta. Takový druh věci to je, když o sobě odmítnete dát informace s tím, že „do nich nikomu nic není“.
+
+Takže shrnutím: Záchelová padla a padat bude dál; vyhořela a už ani nedoutná; a v tomto „závodě“ už si neškrtne.
+* Korespondence
+
+* Poznámky
+
+[fn:1] Nikoho nezajímá, co vidí denně doma.
+
+[fn:2] Zásobou špendlíků, tatranek a holinkami.
+
+[fn:3] Ang. „terminál smrti.”
+
+[fn:4] Překlad nenalezen. Autor článku uznává, že toto jméno nemusí ve skutečnosti znamenat nic, nemusí být míněno jako označení Manchesterského terminálu 1, a striktně řečeno nemusí ani jménem být.
+
+[fn:5] Termín /druhořadý kantor/ byl použit německým politickým expertem Albrechtem Bahbaanem pro označení kantorů pod dvou stou příčkou. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. jeho názvosloví adaptoval a rozšířil o /primární kantory/ - druhořadé kantory ze zemí prvního světa; /sekundární kantory/ - druhořadé kantory ze zemí třetího světa; /archeology/ - kantory starší padesáti let ze zemí čtvrtého světa; /podkopávače/ - kantory mladší deseti let; /obelisky/ - prvořadé kantory (mezi stou a dvoustou pozicí) z Thajska; /nežádoucí kantory/ - kantory z Francie; /slovníky/ - kantory matematiky, kteří aktivně neučí minimálně šest let a přihlásili se během prvních osmdesáti hodin zápisu; a /slony/ - nezcela naplněné petlahve, které se vidí jako zpola prázdné, nikoli zpola plné.
+
+[fn:6] Oficiální název dvaceti dvou kantorů na první až dvacáté pozici (druhé a jedenácté místo je obsazené dvěma osobami)
+
+[fn:7] Sdružení pěti kantorů z Dvaceti statečných s účelem vystrnadit Macháčka, Dušana a Ebbe z prvních dvou míst, vedené paní Horákovou na třetím místě.
+
+[fn:8] Viz sekce Rozhovor, článek Hodnocení.
+
+[fn:9] Pan Rychnovský se dělí o druhé místo.
+
+[fn:10] Nemůžeme vyslovovat v televizi.
+
+[fn:11] Zde byl hlasový záznam, ze kterého je text přepisován, náhle přerušen pisklavým ječením a zvukem trhajících se šatů. Statický šum způsobil, že vyřčená slova, ač značně slyšitelná, byla naprosto nesrozumitelná. Následoval zvuk tříštícího se porcelánu, převrácení stolu (podle zvuku nočního) a vyvolávání jakéhosi spirituálního vůdce v jazyce dávno zapomenutém a staletí neslyšeném. Přepisovatel nemohl tedy záznam přeložit do psané formy.
+
