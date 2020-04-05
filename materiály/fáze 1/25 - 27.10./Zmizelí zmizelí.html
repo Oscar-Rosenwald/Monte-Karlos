@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>MONTE KARLOS NĚKDENÍK</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">MONTE KARLOS NĚKDENÍK
+<br />
+<span class="subtitle">Zmizelí zmizelí</span>
+</h1>
+<pre class="example">
+25/2019
+Ročník XXVIIII
+
+*Adresa redakce:*
+Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:*
+EmailNoReply@server.mok
+
+*Zákaznická linka:*
+0004 892 223 03E
+
+*Šéfredaktor:*
+Alžběta Ašelová
+
+*Manažer redakce:*
+Jiří b'Ačkora
+
+*Zástupce šéfredaktora:*
+Hobbo Habán
+
+*Fotograf:*
+Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:*
+Tara Kočí
+
+*Obrazová redakce:*
+Honza Kůň
+
+*Rozhovor:*
+Karlos Žebatý, Lubomír Lečko
+
+*Politická recenze:*
+Olšana Kupé
+
+*Editoři:*
+Šimon Balabán, Istus Korugo, Alexandre de'Kropná
+
+*Knihovník:*
+Žokej Elebronf
+
+*Vydavatel:*
+Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:*
+Karlos Žebatý
+
+*Sociální poradce:*
+Lightningh Danger
+
+*Sociální podpora:*
+Anna Oleš
+
+*Inzerce:*
+Many Hrabal
+
+*E-shop:*
+nakupsisam.cz
+
+*Tiskne:*
+individuálně
+
+*Korespondent:*
+Yorga Mnjelsemsen-dottir
+
+*Rozšiřují:*
+google.com
+
+/Monte Karlos Někdeník/ byl založen skupinou černých nosorožců afrických v létě roku 1989. Jeho stránky byly poznamenány takovými autory jako Alexandr Malinovský, Jack O'Clock a Veronika Oškalová a všeobecnému ohlasu se těší již třetím rokem pod brilantním vedením šéfredaktorky Alžběty Ašelové©. Stojí na železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po prachbídné korespondenty se řídí všestrannými, nesmrtelnými pravidly slušného chování.
+</pre>
+<div id="outline-container-org6556f75" class="outline-2">
+<h2 id="org6556f75"><span class="section-number-2">1</span> Editorial</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Řecký filosof Galkorés kdysi řekl: „Nehledej jej, kdož si schován býti žádá, však hledejš toho, jenž o pomoc tě prosí.“ V minulém čísle jsme zaznamenali nepříjemnou událost, která postihla <i>Monte Karlos</i> při jednom ze svých vysílání. Nerada to přiznávám, ale situace se poněkud zhoršuje, a dbavá slov Galkorése velikého, zvaného Pichlavý, ráda bych využila moc mně lidem svěřenou a usměrnila vaši ctěnou pozornost na první článek dnešního vydání, neboť zmizení pokračují.<br />
+</p>
+
+<p>
+Snad nemusím vysvětlovat, jak velká ztráta to pro nás je, když jeden jediný člen naší komunity, ať je to dělník, horník, či učitel, zmizí. Jménem našeho časopisu tímto vyjadřuji upřímnou soustrast pozůstalým a naději, že se jejich milovaní A) dostanou do nebe, nebo B) najdou.<br />
+</p>
+
+<p>
+K poněkud veselejšímu tématu, objevily se důkazy o naprosté zkáze světové metropole. Více se dočtete na [stránce, kam to grafik dá. Já nevim, já se mu přes rameno nedívám]. Dnes vám rovněž přináším zprávy z dalekého východu a blízkého jihu, kde se naše nová korespondentka Yorga rozepsala o kuriozitách zahraniční módy. Jakožto vášnivý vyznavatel moderního umění jsem z jejího příspěvku naprosto nadšena a doufám, že i vy naleznete její článek užitečný.<br />
+</p>
+
+<p>
+Pokud jde o daleký východ, sama se musím přiznat, že se v těchto krajinách příliš nevyznám. Naštěstí na to máme lidi, takže se nemusíme spoléhat na to, že všechno vím a všechno znám. Jako vážně, dámy a pánové, to snad ode mě nemůžete čekat a ocenila bych, kdybyste podobné požadavky předem důkladně promysleli, než s nimi takto přiběhnete a trváte na tom, že jim bude vyhověno. Upřímně, je to neslušné a nespolečenské.<br />
+</p>
+
+<p>
+Když se ale vrátím k dnešnímu číslu, je to sedm. Ha ha ha, omlouvám se, to byl jen takový vydavatelský žertík.<br />
+</p>
+
+<p>
+Karlos pozval mého zatím nejoblíbenějšího kandidáta, nějakého Duška nebo koho, a konečně vyplavává na povrch, že, konec konců jak jsem říkala hned na začátku, ačkoli k tomu nebylo mnoho, či vlastně žádné důkazy, tato soutěž nepřitahuje jen samé debily. Abych to upřesnila, pan Rychnovský do této skupiny patří, ale nevypadá tak, a to mi v těchto typech společenského žití bohatě vyhovuje a postačuje. Člověk nemůže dostatečně chválit výkon paní Olšany Kupé, takže se o to ani nebudu pokoušet. Doufám, že mě neukousne ucho.<br />
+</p>
+
+<p>
+Každopádně si toto vydání užijte a uvidíme se příště v našem <i>zcela pravidelném</i> vydání.<br />
+</p>
+
+<p>
+Alžběta Ašelová, šéfredaktorka<br />
+</p>
+</div>
+</div>
+<div id="outline-container-orga00f6c2" class="outline-2">
+<h2 id="orga00f6c2"><span class="section-number-2">2</span> Zprávy</h2>
+<div class="outline-text-2" id="text-2">
+</div>
+<div id="outline-container-org6745c70" class="outline-3">
+<h3 id="org6745c70">Zmizení hrdiny</h3>
+<div class="outline-text-3" id="text-org6745c70">
+<p>
+Minulý týden přinesl velké změny v závodě o <i>nejvyššího vůdce všeho učitelstva</i>, pro někoho dobré, pro někoho příšerné a pro většinu nezajímavé. Vše začalo v úterý, kdy Hranická policie oznámila pátrání po původně vedoucím kandidátu Radovanu Langerovi, který zmizel někdy během předešlého dne. Očití svědci ho údajně identifikovali kolem první hodiny odpolední, jak vycházel z Gymnázia, a jiní zase, jak v na minutu přesně stejnou přibližnou dobu trhal pampelišky pod akvadukty, viadukty, nebo jaké dukty to vlastně Hranice mají. Krátce po třetí hodině už si všichni dotázaní jasně pamatují, že ho neviděli. Tento rozdíl ve výpovědích vedl policii k pochybnostem o jejich důvěryhodnosti.<br />
+</p>
+
+<p>
+„Když se jednou liší a podruhé ne,“ oznámil vedoucí stanice Franta Kovadlina, „jak má člověk vědět, kdy se co stalo? Kam se poděla konzistenčnost, ptám se! Kdyby se neshodovali celkově, dá se s tím nějak pracovat. Ale co máte dělat, když se najednou všichni shodnou na tom, že tam nebyl?&ldquo; O psychickém stavu pana Kovadliny se vedou vášnivé spory na akademické půdě v Helsinkách<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>.<br />
+</p>
+
+<p>
+Ve světle jeho zmizení se dvacet statečných - dvacet dva nejvýše postavených kantorů v závodě - sešlo na neplánované solidární akci, kam byli přizváni novináři. Jeden po druhém se vyjádřily ke stavu vyšetřování a po dvouhodinové debatě do jednoho podepsali Chartu 19, ve které označily jednání únosců, pokud nějací jsou, za nemorální.<br />
+</p>
+
+<p>
+Vedoucí celé akce a tehdejší nejvýše postavený kandidát, Ivo Macháček, poté vystoupil před kamery a vyzval Langerovi držitele, aby se k činu přihlásili a vyřkli své požadavky. Tento proslov, byť srdcervoucí, přinesl panu Macháčkovi nepříjemné následky. Ještě během přenosu se na celosvětovém fóru <i>4 Chan</i> rozeběhly spekulace o jeho kandidatuře s některými odvážnějšími návštěvníky fóra dokonce tvrdícími, že panu Macháčkovi na panu Langerovi záleží. Pan Macháček téhož večera na Twitteru podobná nařčení odmítl, slovy Olšany Kupé (naší politické recenzentky a hodnotící výkonu kandidátů) byla však už <i>kovadlina ven z kurníku</i>.<br />
+</p>
+
+<p>
+Panu Macháčkovi se nepodařilo širokou veřejnost přesvědčit o svém nezájmu na osudu pana Langera a jeho popularita mezi žáky přes noc rapidně klesla. Jeho post rychle následoval, ačkoli sponzoři zatím nebyli natolik rapidní a prozatím ho srazili na čtvrté místo. Pan Rychnovský situace využil a s pomocí Velké pětky se dostal do vedení<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>, ponechal tak paní Ebbe na druhém místě a přenechal Macháčka žralokům.<br />
+</p>
+
+<p>
+Zmizení pana Langera rozpoutalo vlnu protestů i sympatií jak pro jeho osobu, tak pro jeho kandidaturu, tak pro jeho únosce. Uzbekistán již pět dní v kuse vysílá jeho fotografii v národní televizi a žádá občany, aby se „ještě jednou podívali pod gauč.“ M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. a jeho vyšetřovací tým <i>Sígři</i> počal rozsáhlé pátrání na Sahaře.<br />
+</p>
+
+<p>
+Paní Lajdová, stále nevysvětlitelně se deroucí kupředu, překonala další dvě příčky. S rozdělením pana Rychnovského a paní Ebbe je však na místě považovat tyto za příčky tři. Ať se ale podíváte na propočty jakkoli<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>, nalézá se nyní na sedmém místě. Na dotaz, zda se jí nezdá nemístné postupovat ve chvíli národního smutku nad dočasnou ztrátou pana Langera, odpověděla: „To teda nevim proč. On od doby, co zmizel, stoupl. Proč bych to nemohla udělat taky?“ <i>Monte Karlos Někdeník</i> je nucen přiznat, že od doby páně Langerova zmizení jeho popularita poněkud stoupla a dokázala ho vynést až na 13. místo (z původního 15.). Pan Oberon Oblong vysvětlit tento jev jako projev úcty a solidarity, nadšení pro senzaci, gravitaci skandálu a debilitu světa. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. odmítl pana Langera vyřadit ze seznamu pro případ, že by se ještě někdy objevil.<br />
+</p>
+
+<p>
+Jisté dotazy byly vzneseny na osobu Karlose Žebatého, našeho vládce a pána, ohledně znepokojivých statistik zmizení jeho hostů. Jak pan Langer, tak Adel přišli do jeho <i>talkshow</i> a beze stopy zmizeli. Pan Žebatý radikálně odmítá jakákoli nařčení, ačkoli nikdo s žádnými nepřišel, a poukazuje, aniž by se ho někdo prosil, na „všechny ty hosty, kteří se neztratili“. Raněn svým náhlým pádem, pan Macháček odmítl Karlosovu žádost o interview s výmluvou, že se nechce ztratit také. Ačkoli tyto komentáře neměly na jeho pořadí vliv, Karlos a paní Kupé kolektivně slibují, že budou.<br />
+</p>
+
+<p>
+Policie zatím nevydala žádné další zprávy. Seznam podezřelých je k nahlédnutí online. <i>Monte Karlos Někdeník</i> by tímto rád požádal o pomoc čtenáře - máte-li nějaké informace o současné poloze pana Langera, dejte nám vědět. Ale buďme upřímní, asi nemáte. To video, kde policie oznámila jeho pohřešování, má víc shlédnutí, než naše rohožka tykadel<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>. Vyšetřování zatím pokračuje a pachatel je zatím zcela neznámý, i když ve světle minulého čísla se <i>Monte Karlos Někdeník</i> cítí povinen poznamenat, že viníme karavany.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-org643ec04" class="outline-3">
+<h3 id="org643ec04">Japonsko si zvolilo císaře</h3>
+<div class="outline-text-3" id="text-org643ec04">
+<p>
+Zatímco se celý západ, sever, jih a střed zaobírá všelijakými mezinárodními volbami, je nutné pamatovat na zemi, která svou účast v závodě M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. odmítla ještě před tím, než byl vyhlášen - Japonsko. Mávnutím ruky s komentářem „Takový blbosti“ Jakuza zamítla podílení svých učitelů na celé akci a vyhrazuje si tím právo neposlouchat toho, kdo nakonec vyhraje. Ach ta naivita.<br />
+</p>
+
+<p>
+Faktem však zůstává, že japonští učitelé se závodu neúčastní a počet sponzorů je v tomto státě až brutálně nízký. „Čím se tedy tamější lidé baví?“ ptáte se? Na to je jednoduchá odpověď: uspořádali si volby vlastní. Nikoli však učitelů. Po dlouhých dohadech a přetahováních byrokratů s politiky a s plastovými kbelíky si ostrovní země konečně zvolila nového císaře. Stalo se tak předevčírem po dvouatřičtvrtěroční kampani, která divákům naskytla podobné zážitky jako muže v obleku padajícího do dortu, muže v kabátu skákajícího radostí a narážejícího hlavou do stropu s vehemencí parní lokomotivy, muže bez obleku skákajícího z dortu a všelijaké další podobné aktivity, kterými se uchazeči o tisíciletý post snažili upoutat pozornost diváků. A pak, že volby nejsou zábava.<br />
+</p>
+
+<p>
+Od začátku závodu se však zraky upíraly na jediného kandidáta: Elsona V. Elson se, podle jeho slov, jednoho rána probudil, uklonil se slunci, podíval se na západ, odkýchnul si, zatřepal srstí a řekl si: „Když může Trump, tak já můžu taky.“ S heslem <i>NO WE CAN&rsquo;T!</i> předstoupil před Radu Starších a ohlásil svou kandidaturu. Po krátké roztržce mezi staršími ohledně faktu, že Elson V. je býk, která skončila nařčením odpůrce z druhysmu, byl přijat mezi ostatní uchazeče s láskou, obdivem, nadějí a náhubkem.<br />
+</p>
+
+<p>
+V následujících měsících se Elson V. prodíral zástupy předsudků, urážek a protivníků, čelil nesčetným zato násobným útokům na svou osobu a pomalu ale jistě okouzlil publikum svým šarmem, galantností a sebevědomím. Jako vážně braný kandidát se však ukázal až po otázce protivníka v politické debatě. Tento se zeptal, či spíše opáčil: „Ty vole, to je vrchol!&ldquo; načež Elson V. pravil s ledovou tváří: „Od kdy mi tykáš?&rdquo;<br />
+</p>
+
+<p>
+Jednoho po druhém se Elsonovi V. podařilo zbavit se protihráčů a k překvapení nejednoho sledujícího se probojoval do semifinále. Starosta Akiru Hikurima poté, co mu na jevišti bylo sděleno, že jeho počet hlasů nedosahuje potřebných hodnot na postup do dalšího kola, odešel z dosahu kamer se svěšenou hlavou, zklamaným výrazem na tváři a slovy „Taková volovina“. Po této poznámce nezbylo porotcům než souhlasit a z té pozice už bylo jen otázkou času, kdy se názor, že zbytek voleb není nutné provádět, protože volovině má, logicky, velet vůl, prosadí. Toho docílil porotce Kimušito Oškolebo právě předevčírem.<br />
+</p>
+
+<p>
+Elson V. se tak stal prvním zvoleným císařem Japonska, prvním výhercem voleb, ke kterým nikdy nedošlo, prvním obyvatelem v nově postaveném císařském paláci, ale hlavně, čemuž japonská média přikládala nehoráznou váhu, prvním císařem se jménem Elson.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-orgbd6863b" class="outline-3">
+<h3 id="orgbd6863b">Tragédie v Bout´-`a&rsquo;Lotti</h3>
+<div class="outline-text-3" id="text-orgbd6863b">
+<p>
+Archeologickým světem otřáslo objevení dvacetitisíciletého kronikářského svitku na hranici mezi Mongolskem a Indií, jinak zvané Čína. Objev byl učiněn skupinou amatérských horolezců-knihovníků při výstupu na horu o-Šuntál. Díky včasnému zásahu jednoho jejího člena - paní Agdy Akagdy, která ve své knihovně spravuje historickou sekci - se podařilo svitek nepoškozený dopravit do Světového Centra Archeologie ve Španělsku a předat příslušným orgánům, Žaludku a Plíci. Horolezci-knihovníci byli pro jistotu vrženi do hladomorny pro případ, že by se svitek ukázal jako cenný a oni by vyžadovali finanční odměnu, či, přiznejme si to, odměnu jakéhokoli typu.<br />
+</p>
+
+<p>
+Po podrobném zkoumání se ukázalo, že svitek vskutku cenný je. Horolezci-knihovníci byli ústavem donuceni podepsat prohlášení o <i>vzdání se práva na jakoukoli kompenzaci hotovo konec tečka basta fidli</i> a za souhlas o mlčenlivosti zaplaceni dvojnásobek částky, kterou by jim objev svitku přinesl.<br />
+</p>
+
+<p>
+Tak zvaný <i>svitek o-Šuntělý</i> dokumentuje pád prastarověkého města Bout´-`a&rsquo;Lotti díky přírodní katastrofě zvané <i>kapka smrti</i>. Vedoucí výzkumného týmu Comier de Santes uvedl: „Existence tohoto svitku nám přibližuje dobu prastarověku víc, než jakýkoli jiný archeologický nález. Prastarověké civilizace stavěly jen limitované množství sídel, nalézt proto důkaz o možná největším městě všech dob je pro nás výjimečně důležité.<br />
+</p>
+
+<p>
+„Mýtické město Bout´-`a&rsquo;Lotti se údajně nacházelo někde mezi Grónskem a Islandem. Svitek téměř melancholicky vypráví o věžích ze zlata a penězích z cihel. Hlavně se ale věnuje jeho zkáze. Autor, zřejmě jediný přeživší oné katastrofy, mluví o <i>kapce smrti</i>, bouři tak nevídané, tak nepředstavitelné a tak nevyžehlené, že podobnou svět od té doby nezažil.“<br />
+</p>
+
+<p>
+Ve svitku se píše o dešti tak ukrutném, že smetl všechna sídla z povrchu zemského, a větru tak nepředstavitelném, že „co jste nepřivázali, to vám uletělo, o co jste přivázali, to taky“. Detailní průzkum detailů svitku přinesl zjištění, že, dle autora, všechny kapky spadly naráz, v jedné, půl kilometru široké kapce. <i>Monte Karlos</i> se vydal za odborníkem Elvisem Šťapatým a poprosil o vysvětlení.<br />
+</p>
+
+<p>
+„Tomuto hypotetickému jevu říkáme dešťová gravitace,“ řekl Elvis. „Když se dvě kapky dostatečně vysoko dostanou blízko sebe, navzájem se přitáhnou, pak okolní kapky a teoreticky dokáží takto nabalit všechnu padající vodu do jednoho křehkého celku natolik masivního, že k sobě dokáže přitáhnout i kapky již spadlé. Ty potom tedy spadnou ještě jednou, činící tak zem dvakrát mokřejší. Je však nutné dodat, že <i>magnum stillabunt</i>, vědecký název pro tento jev, je pouhou hypotézou v teoretické počasfyzice.“<br />
+</p>
+
+<p>
+Svitek byl předán laboratoři v Ženevě pro bližší analýzu. Světové Centrum Archeologie se zatím zdržel dalších komentářů ohledně Bout´-`a&rsquo;Lotti, jeho vrchní představitel však v amoku z přívalu novinářů omylem prozradil, že „tenkrát dostali pořádný kapky“.<br />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org5d0a538" class="outline-2">
+<h2 id="org5d0a538"><span class="section-number-2">3</span> Host</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-org4b78dc4" class="outline-3">
+<h3 id="org4b78dc4">Rozhovor - „Hodně mě znervózňuje účast jezevce&#x2026;“</h3>
+<div class="outline-text-3" id="text-org4b78dc4">
+<p>
+Pan Dušan Ruchnovský - dlouholetý učitel informatiky a biologie na gymnáziu v malém, nepatrném městečku na východě republiky. Pan Rychnovský rád jezdí na ryby, debatuje o počasí a nechává své žáky opisovat čistě z dobroty srdce. Po pádu pana Langera před několika týdny se octl na druhém místě, sdíleném s bývalou kolegyní Elisie G&rsquo;uaun Ebbe ze základní školy Šromotovo, kde se od té doby dokázali oba udržet. <i>Monte Karlos</i> si s ním domluvil schůzku při příležitosti zmizení pana Langera, aby zjistil, jak tato situace pana Rychnovského ovlivnila.<br />
+</p>
+
+<p>
+<b>Co říkáte na současnou sestavu dvaceti statečných?</b><br />
+</p>
+
+<p>
+Podle mě je to velice zajímavá sestava a všichni si podle mě zasloužili v ní být. Nicméně se ještě během celých voleb hodně změní.<br />
+</p>
+
+<p>
+<b>Vy kandidujete jako učitel informatiky a biologie. Nezdá se vám, že jsou to poněkud nesourodé předměty?</b><br />
+</p>
+
+<p>
+Ani ne. Spojení informatiky a biologie se v dnešní době ukazuje jako velmi užitečné.<br />
+</p>
+
+<p>
+<b>Co vás táhlo právě k těmto předmětům?</b><br />
+</p>
+
+<p>
+Řekl bych, že mě zkrátka bavily. Když jsem vybíral vysokou školu, tak to vyplynulo.<br />
+</p>
+
+<p>
+<b>Proč zrovna učitel? Proč ne třeba archeolog?</b><br />
+</p>
+
+<p>
+Mě hodně baví předávat informace mladým lidem a toho bych si jako archeolog mnoho neužil.<br />
+</p>
+
+<p>
+<b>Pokud se bavíme o předávání informací, kolik prezentací od vás jako vůdce všeho učitelstva můžeme čekat?</b><br />
+</p>
+
+<p>
+Já myslím, že poměrně hodně. Já mám prezentace rád a myslím si, že je to velice populární způsob jak učit ve školách i na vědeckých konferencích.<br />
+</p>
+
+<p>
+<b>Myslíte, že to vaší žáci vidí stejně?</b><br />
+</p>
+
+<p>
+Nikdy jsem z jejich strany neměl stížnosti. Nicméně, dá se samozřejmě učit i jinak.<br />
+</p>
+
+<p>
+<b>Popsal byste sám sebe jako snášenlivého člověka?</b><br />
+</p>
+
+<p>
+No, řekl bych, že ano.<br />
+</p>
+
+<p>
+<b>Jak tedy snášíte dělení se o místo s paní Ebbe?</b><br />
+</p>
+
+<p>
+Samozřejmě bych byl raději na druhém místě sám. Nebo ideálně na místě prvním. Ale řekl bych, že zatím je celá soutěž teprve v začátcích a ještě se toho může hodně změnit. Zatím jsme viděli spíše propady než postupy. Takže rád zůstanu na druhém místě, byť je sdílené.<br />
+</p>
+
+<p>
+<b>Máte nějaký plán, jak těmto potenciálním propadům napomoci?</b><br />
+</p>
+
+<p>
+Myslíte propadům ostatních?<br />
+</p>
+
+<p>
+<b>Samozřejmě.</b><br />
+</p>
+
+<p>
+Jasně. Sám se asi nebudu snažit propadnout, to je pravda. To by byla poněkud zvláštní strategie, i když myslím, že celkem neočekávaná.<br />
+</p>
+
+<p>
+<b>Je pravda, že by to nikdo nečekal, to můžu potvrdit.</b><br />
+</p>
+
+<p>
+Otázka je, jestli by mi to pomohlo. Nevím, jestli budu natolik odvážný, abych to vyzkoušel. Podívejte, zatím to vypadá, že se kandidáti dokážou propadat sami od sebe a není třeba jim napomáhat.<br />
+</p>
+
+<p>
+<b>Takže podle vás stačí nedělat ze sebe vola? A ostatní se jaksi propadnou sami.</b><br />
+</p>
+
+<p>
+Je to docela dobře možné. Aspoň podle toho, jak to vypadalo zatím. Pokud mě nepotká stejný osud, tak se pode mnou odehraje ještě spousta bojů a později během soutěže uvidíme, kdo postoupí na nejvyšší příčky.<br />
+</p>
+
+<p>
+<b>Vy říkáte pod vámi, ale co nad vámi. Myslíte, že Macháček bude obětí stejného osudu jako zatím zmínění kantoři? A že se tam dostane vlastní příčinou?</b><br />
+</p>
+
+<p>
+To si opravdu netroufám odhadnout. Samozřejmě je to možné.<br />
+</p>
+
+<p>
+<b>Jak pravděpodobné si myslíte je, že Macháček zůstane na prvním místě až do arény.</b><br />
+</p>
+
+<p>
+To si myslím, že by bylo poněkud zvláštní. Čekal bych, že v rámci té první dvacítky dojde ještě k hodně změnám. Sám bych považoval za úspěch pokud se v první dvacítce udržím.<br />
+</p>
+
+<p>
+<b>Podle novozélandských propočtů vás brzy předběhne. O novozélanských propočtech si tady v <i>Monte Karlos</i> myslíme svoje, přikládáte jim ale <i>vy</i> nějakou váhu?</b><br />
+</p>
+
+<p>
+Popravdě řečeno o novozélandských propočtech nemám nejmenší ponětí.<br />
+</p>
+
+<p>
+<b>Já bych skoro až řekl, že to je dobře.</b><br />
+</p>
+
+<p>
+Je těžké ještě něco předpovědět.<br />
+</p>
+</div>
+<div id="outline-container-org8caa8e2" class="outline-4">
+<h4 id="org8caa8e2">Kampaň</h4>
+<div class="outline-text-4" id="text-org8caa8e2">
+<p>
+<b>Do soutěže jste se přihlásil jako učitel ohně. Váš živel sice hraje roli až v aréně, objasníte nám ale, co vás vedlo k tomuto rozhodnutí?</b><br />
+</p>
+
+<p>
+Řekl bych, že jsem postupoval vylučovací metodou a oheň zbyl jako nejlepší volba.<br />
+</p>
+
+<p>
+<b>M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. předevčírem oznámil, že dvaceti statečným umožní bezplatný statistický průzkum veřejného mínění vždy jednou za tři volební kola. První kolo se uzavírá koncem měsíce a jak vidím, vy už jste svůj průzkum udělal. Jaké informace vám přinesl?</b><br />
+</p>
+
+<p>
+Raději bych teď o této věci pomlčel. Nerad bych prozrazoval něco ostatním kandidátům.<br />
+</p>
+
+<p>
+<b>To jste na tom až tak dobře, nebo až tak špatně?</b><br />
+</p>
+
+<p>
+Raději bych se o svůj výzkum prozatím nedělil a ponechal si to jako drobnou výhodu.<br />
+</p>
+
+<p>
+<b>Bez ohledu na to, jaké jsou ty skutečné výsledky, očekával jste jiné?</b><br />
+</p>
+
+<p>
+Asi se nic nestane, když řeknu, že s výsledky jsem poměrně spokojený.<br />
+</p>
+
+<p>
+<b>A opět, aniž byste cokoli naznačoval, co jste si od nich sliboval?</b><br />
+</p>
+
+<p>
+Jak už jsem myslím zmínil, rád bych se udržel v té první dvacítce.<br />
+</p>
+
+<p>
+<b>Myslím, že paní Záchelové, budiž jí země lehká, už se bát nemusíte. Z vašich osobních zkušeností s panem Langerem, myslíte si, že by se mohl prodrat zpět do vedení, kdyby se znovu objevil?</b><br />
+</p>
+
+<p>
+Nevím, jestli až do vedení, nicméně je možné, že se opět vrátí na přední příčky.<br />
+</p>
+
+<p>
+<b>Je v závodě někdo, koho se vyloženě bojíte?</b><br />
+</p>
+
+<p>
+Hodně mě znervózňuje účast jezevce. Z toho mám špatný pocit. Nevím, co od něj čekat. Jako učitel biologie bych měl mít určitou výhodu a o jezevcích něco vědět, ale přiznám se, nijak mě to neuklidňuje.<br />
+</p>
+
+<p>
+<b>Znamená to, že o jezevci nemáte statistický průzkum?</b><br />
+</p>
+
+<p>
+Jezevec je ještě hůře předvídatelný, než ostatní kandidáti.<br />
+</p>
+
+<p>
+<b>Co hodláte dělat s velkou pětkou? Ona existuje, aby vás tři vystrnadila z vaší pozice. Jak se budete bránit.</b><br />
+</p>
+
+<p>
+Je pravda, že to je trochu nepříjemné. Skoro bych řekl, že by bylo ideální se s pětkou spojit a nedělat si takové množství nepřátel, kteří jsou hned pode mnou. Na druhou stranu nejsem si jistý, jestli by velká pětka takové spojenectví uvítala.<br />
+</p>
+
+<p>
+<b>Pokud si nechcete dělat nepřátele z lidí, kteří jsou pod vámi, znamená to, že až do arény hodláte prosazovat mírovou spolupráci a aliance, a nebo je to jenom hra, jak si získat lidi na svoji stranu a potom je ve chvíli, kdy to nečekají, vykopnout.</b><br />
+</p>
+
+<p>
+Myslím, že uznáte, že kdybych vám odpověděl, tak se jakéhokoli překvapení vzdám.<br />
+</p>
+
+<p>
+<b>To byl test. Prošel jste. Všechno v pořádku.</b><br />
+</p>
+
+<p>
+<b>Kdyby na to přišlo a vy byste si měl vybrat pobočníka, kdo ze současných dvaceti statečných by to určitě nebyl?</b><br />
+</p>
+
+<p>
+Já se celou dobu snažím tvářit nestraně, ale to u vás jaksi nejde.<br />
+</p>
+
+<p>
+<b>My si na tom zakládáme.</b><br />
+</p>
+
+<p>
+No, myslím, že s paní Ebbe se úplně neshodujeme v názorech, jak by se měla vést výuka. A obecně v dalších věcech. Ač to říkám nerad, pro tento nedostatek vzájemných sympatií bych nevolil právě ji.<br />
+</p>
+
+<p>
+<b>Znamená to, že jste s paní Ebbe v kontaktu, když víte, že se vaše názory liší?</b><br />
+</p>
+
+<p>
+Městečko, ze kterého pocházíme není velké. Znám poměrně velké množství učitelů a na Šromotově<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> jsem nějakou dobu pracoval. Takže s paní Ebbe jsme se potkali už dříve. Ale komunikoval jsem s ní i během soutěže.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-orged08a61" class="outline-4">
+<h4 id="orged08a61">Random otázka dne</h4>
+<div class="outline-text-4" id="text-orged08a61">
+<p>
+<b>Proč lezou turisté na vysoké budovy a hází peníze do teleskopů, když na zemi to, na co se koukají, můžou vidět zblízka a zdarma?</b><br />
+</p>
+
+<p>
+Protože dikobrazi jsou hnědí.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-org80b059d" class="outline-4">
+<h4 id="org80b059d">Rychlá střelba</h4>
+<div class="outline-text-4" id="text-org80b059d">
+<p>
+<b>Usnul jste někdy nudou ve své vlastní hodině?</b><br />
+</p>
+
+<p>
+Ne, rozhodně ne.<br />
+</p>
+
+<p>
+<b>Co máte připraveného na Macháčka?</b><br />
+</p>
+
+<p>
+Překvapení.<br />
+</p>
+
+<p>
+<b>Jaký počet slov na slajdu je neakceptovatelný?</b><br />
+</p>
+
+<p>
+Žádný.<br />
+</p>
+
+<p>
+<b>Paní Křenková nabídla spolupráci každému členovi dvaceti statečných. Proč jste její nabídku odmítl?</b><br />
+</p>
+
+<p>
+&#x2026;<br />
+</p>
+
+<p>
+&#x2026;<br />
+</p>
+
+<p>
+Myslím, že to už jsem nestihl.<br />
+</p>
+
+<p>
+<b>Ne, až TEĎ. Kolik procent lidí odhadujete, že opisovalo při vašich testech?</b><br />
+</p>
+
+<p>
+Tak dvacet procent.<br />
+</p>
+
+<p>
+<b>Dovedete si vysvětlit náhlou úspěšnost paní Lajdové?</b><br />
+</p>
+
+<p>
+Upřímně ne, ale neznamená to, že bych proti ní něco měl.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-orgc0dbf68" class="outline-4">
+<h4 id="orgc0dbf68">Korespondence</h4>
+<div class="outline-text-4" id="text-orgc0dbf68">
+<p>
+<b>Do studia nám přišel email - Michael Roskovov Rozkovovič píše:</b><br />
+</p>
+
+<p>
+<b>Dobrý den,</b><br />
+</p>
+
+<p>
+<b>Jmenuji se Michael Roskovov Rozkovovič, nejvyšší představený týmu vědeckého výzkumu abnormálních jevů. V prostředí vaší školy již pětaosmdesátým rokem zaznamenáváme neobvyklá měření, naznačující, že v jejich zdech se skrývá pradávné zlo.</b><br />
+</p>
+
+<p>
+<b>Můj rozkaz zní jasně - držet toto objevení v tajnosti. Ve světle vaší kandidatury jsem se však rozhodl jít proti vůli svých nadřízených a zeptat se. Kdyby o mě už nikdo nikdy neslyšel, byl jsem pravděpodobně zajat, mučen a zabit.</b><br />
+</p>
+
+<p>
+<b>Ptám se právě Vás, protože při náhodné prohlídce Vaší kanceláře jsme zachytily značnou zbytkovou radiaci. Můj dotaz je přímý: jste v kontaktu s mimozemskými, paranormálními či božskými entitami?</b><br />
+</p>
+
+<p>
+<b>S láskou,</b><br />
+</p>
+
+<p>
+<b>Michael Roskovov Rozkovovič</b><br />
+</p>
+
+<p>
+Takovouto možnost nemohu vyloučit. Pokud k něčemu takovému dochází, tak k mému nemalému zděšení o tom nemám nejmenší tušení.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-org8bbc8bc" class="outline-4">
+<h4 id="org8bbc8bc">Závěrečný proslov</h4>
+<div class="outline-text-4" id="text-org8bbc8bc">
+<p>
+<b>Závěrečným proslovem prosím shrňte své požadavky na bezchybný chod základních škol, které byste zavedl za své vlády.</b><br />
+</p>
+
+<p>
+Není lepší možnost, jak zakončit náš rozhovor, než slovy pana Komenského, a to, že škola, zejména základní, by měla být škola hrou.<br />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org8e7fef5" class="outline-3">
+<h3 id="org8e7fef5">Hodnocení odborníka</h3>
+<div class="outline-text-3" id="text-org8e7fef5">
+<p>
+Hned na začátek musím něco dostat z krku: Pan Rychnovský je rozený talent. Bohužel ne pro roli <i>nejvyššího vůdce všechno učitelstva</i>, ale talent to rozhodně je. Neberte mě špatně, z těch, které Karlos Žebatý pozval k sobě do pořadu, je to zatím nejlepší kandidát a pokud může dosavadní zkušenost něco napovědět, může závod klidně i vyhrát, ale upřímně se musím přiznat, že to není člověk, kterého bych na podobném postu chtěla, ačkoli se můžu šeredně mýlit. K tomu se ale dostanem.<br />
+</p>
+
+<p>
+Pan Rychnovský mi připadá jako velice schopná osoba, je však příliš přátelský. Mnozí z vás jistě mohou namítnout, že charisma a přitažlivost osobnosti je v podobném závodě důležitá, a já s vámi budu naprosto souhlasit. Ani mandarinka nesouhlasila s golfovou holí tak silně, jako bych já souhlasila s vámi. Problém se neskýtá v jeho vystupování, ale plánech. Ano, je velice strategické snažit se nezačínat spory se soupeři, dokud na ně nejste připraveni, obávám se ale, že pan Rychnovský má v úmyslu zůstat v tomto stavu donekonečna.<br />
+</p>
+
+<p>
+Jedna věc, která proti panu Rychnovskému stojí, je jeho notoricky známá láska prezentací. Pan Žebatý se ho zeptal na plány ohledně této vášně ve vztahu k postu, pan Rychnovský si ale jen vykopal hlubší jámu. Ve voličských kruzích, musíte rozumět, se prezentace berou jako baterie na stožáru. Ti, kteří je vyžadují, většinou pocházejí z neučitelských oborů, a celá pointa závodu je ustanovit právě <i>učitele</i> jako vůdce učitelů. Zatím se ale zdá, že pana Rychnovského jeho láska k tomuto sdělovacímu prostředku nestáhla ke dnu víc než Křemílka hoboj.<br />
+</p>
+
+<p>
+Přesuňme se nyní k jeho přednostem. Pan Rychnovský si od Karlose nechal poradit a zaútočil, i když ne zrovna vehementně, na své protihráče. Paní Záchelová, jak se dalo očekávat, byla internetovými fóry odhalena jako překupitelka drog (pak prý, že veřejnost nemá, co na ni vyšťourat) a paní Horáková, vůdce Velké pětky, se okamžitě distancovala od její osoby. Pan Rychnovský, očividně na pozoru, dokázal nám neznámým způsobem přimět zbylé čtyři členy Pětky, aby pro něj provedli jistou službu. Poté, co se o Ivu Macháčkovi ukázalo, že mu záleží na panu Langerovi (že se nestydí) ujmul se Rychnovský vedení stylem osmahlého padáku a předal citlivé informace o paní Ebbe paní Horákové, která s profesionální přesností stoletého výtahu okamžitě využila situace a srazila paní Ebbe o jedno místo dolů. Pan Rychnovský se tedy octl ve vedení.<br />
+</p>
+
+<p>
+Kdybych měla hádat, řekla bych, že Velká pětka pana Rychnovského považuje za daleko menší nebezpečí, než Macháčka či Ebbe, nevadí jim proto nechat ho vystlat si na vrcholku. Zde právě přichází na řadu jeho vlídnost. Ano, podařilo se mu odvrátit předvídanou porážku oproti paní Ebbe, otázkou však zůstává, nakolik se mu podaří se na pozici udržet.<br />
+</p>
+
+<p>
+První volební kolo se uzavírá koncem října a supy se slétají na kořist jako korouhve na Archiméda. Aliance jsou nutné, ale celková přátelskost vůči téměř všem zúčasntněným vám může uškodit víc než prací prášek deodorantu. Je ale nutné si připustit ještě jednu možnost - pan Rychnovský je chytřejší, než si všichni myslíme. Konec konců, za jediný týden se dokázal prodrat na první příčku nikoli pouze neschopností soupeřů, jako například pan Macháček, který za svou pozici vděčil propadu pana Rychnovského, ale svou vlastní vynalézavostí. A nezapomeňme, že Karlos se ho zeptal: „Myslíte, že Macháček bude obětí stejného osudu jako zatím zmínění kantoři? A že se [níže] dostane vlastní příčinou?“ a náš Dušan odvětil: „Samozřejmě je to možné.“ Možná má pan Rychnovský plán hodný krokodýla stojícího na banánu.<br />
+</p>
+
+<p>
+I tak zůstává faktem, že o panu Rychnovském budu uvažovat jako o vážném uchazeči až ve chvíli, kdy se dokáže udržet na první pozici po 28. říjnu.<br />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org54c2b7e" class="outline-2">
+<h2 id="org54c2b7e"><span class="section-number-2">4</span> Korespondent</h2>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+Na akademické půdě v tom smyslu, že žádný vyřčený názor není stavěn proti jeho vyřčíteli. V Helsinkách v tom smyslu, že je to v Helsinkách. Vášnivé v tom smyslu, že všechny se strany zapojují s neočekávanou vervou. Spory v tom smyslu, že spolu všichni souhlasí.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+O této události se dočtete v našem <i>Hodnocení odborníka</i> v rubrice Host.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+Matematika je, konec konců, subjektivní.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">
+Ano, odhadli jste správně. Tuto větu vyřkla paní Kupé.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">
+Paní Ebbe učí na Základní škole Šromotovo.<br />
+</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
