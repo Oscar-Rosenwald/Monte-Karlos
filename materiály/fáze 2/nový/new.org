@@ -1,0 +1,157 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
+</style:style>
+
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+
+#+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: 
+Vítejte v Monte Karlos, 
+#+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
+* 2/2019
+Ročník XXVIIII
+
+*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:* EmailNoReply@server.mok
+
+*Zákaznická linka:* 0004 892 223 03E
+
+*Šéfredaktor:* Alžběta Ašelová
+
+*Manažer redakce:* Jiří b'Ačkora
+
+*Zástupce šéfredaktora:* Hobbo Habán
+
+*Fotograf:* Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:* Tara Kočí
+
+*Obrazová redakce:* Honza Kůň
+
+*Rozhovor:* Karlos Žebatý, Lubomír Lečko
+
+*Politická recenze:* Olšana Kupé
+
+*Móda:* Šlapeboso Elle'Gante
+
+*Editoři:* Andrew McTallas, Lobor Sko'madženta
+
+*:* 
+
+*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:* Karlos Žebatý
+
+*Sociální poradce:* Lightningh Danger
+
+*Sociální podpora:* Anna Oleš
+
+*Inzerce:* Many Hrabal
+
+*E-shop:* nakupsisam.cz
+
+*Tiskne:* individuálně
+
+*Korespondent:* 
+
+*Vyšetřovatel:* Sir Daniel Jonathan Pace
+
+*Rozšiřují:* google.com
+
+/Monte Karlos Někdeník/ byl založen  skupinou černých nosorožců afrických v létě
+roku  1989.  Jeho  stránkami  byly poznamenány  takovými  autory  jako  Alexandr
+Malinovský, Jack  O'Clock a Veronika Oškalová  a všeobecnému ohlasu se  těší již
+třetím rokem  pod brilantním  vedením šéfredaktorky  Alžběty Ašelové©.  Stojí na
+železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po
+prachbídné korespondenty  se řídí  všestrannými, nesmrtelnými  pravidly slušného
+chování.
+* Editorial
+
+
+Alžběta Ašelová, šéfredaktor
+#+ODT: </text:section>
+* Zprávy
+#+ODT: <text:section text:style-name="NormalSect" text:name="Zprávy">
+** 
+**                                                                               
+
+#+ODT: </text:section>
+* Závod
+#+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
+** Vývoj
+** Postupy v žebříčku
+#+BEGIN_EXAMPLE
+(progn (insert-file "/home/oscar/Documents/Monte-Karlos/žebříček.org")
+	   (backward-kill-sentence))
+#+END_EXAMPLE
+
+#+ODT: </text:section>
+** Rozhovor - „“
+
+#+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
+*** Kampaň
+*** Rychlá střelba
+*** Korespondence
+*** Závěrečný proslov
+
+#+ODT: </text:section>
+** Hodnocení odborníka
+#+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
+
+#+ODT: </text:section>
+* Korespondent - 
+* Lifestyle
+Módní sekce Monte Karlos Někdeníku vám přináší 
+
+* Vyšetřování
+** Dokumenty
+** _Část první: Nepřítel za branami_
+*** 
+* Poznámky
