@@ -167,7 +167,45 @@ náboženství■
 * Závod
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
 ** Vývoj
+Zatímco  se dvacet  statečných  připravovalo na  tiskvou konferenci  přezdívanou
+tlačenka, starali se zbylí uchazeči v  závodě, téměř osm tisíc učitelů, kteří si
+již tlačenkou prošli, o své vlastní problémy. Zejména došlo ke sporům mezi KUS -
+kantoří umělé společenství -, M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. a vládou v Chile.
 
+Spory se  týkají dvou oblastí: sídla  budoucího nevyššího vůdce a  stavby arény,
+která  byde použita  v  poslední fázi  výběru zmíněného.  V  posledním týdnu  se
+několik KUSů najednou  a zcela nezávisle rozhodlo protestovat  proti oběma bodům
+naráz.
+
+KUS je  označení pro skupinu  kantorů, kteří se  rozhodli spojit síly  v závodě.
+Důvody mohou  být různé -  politická nestabilita, nedostatek  hlasů jednotlivých
+členů nebo  příliš silná konkurence. KUSy  se nesmí zaměňovat s  KBSy, kantořími
+bláhovými společenstvími, která  se zásadně uzavírají mezi  dvojicí kantorů, kde
+se  jeden druhému  zavazuje, že  bude-li zvolen,  vybere si  truhého jako  svého
+pobočníka.  Bláhové  se  jmenují proto,  že  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.  sám
+ohlásil, že pobočníkem může být pouze  někdo z prvních patnácti učitelů, to jest
+těch, kteří  se dostanou do  arény (a přežijí).  KUS je jen  dočasné spojenectví
+dvou a více  osob, založené s cílem  účelné pomoci a vědomím, že  se rychle zase
+rozpadne. Asi jako politická strana. Velká pětka byla jedním takovým KUSem.
+
+Ihned  po vyhlášení  závodu se  Chile  rozhodlo vystavět  vítězi malebné  sídlo.
+Doufalo tak, že zvýší své místo na poli světového oblibu. Architekt Chobroščenko
+Gister-Rotti přednesl své  plány v OSN 22.4. tohoto roku.  Několik KUSů se velmi
+hlasitě ozvalo  na Twitteru, že  s jeho návrhem  principielně nesouhlasí a  že v
+takovém sídle nehodlají žít. Mezi  důvody zařadily například nedostatek prostoru
+pro koňskou dráhu,  nadměrné množství severních zdí a své  přesvědčení, že se na
+ně stavba (v tuto dobu existující pouze v plánech) nepříjemně a vysmívavě dívá.
+
+Ve  stejnou dobu  zveřejnil M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.  své plány  vybudovat
+arénu pod  vodní hladinou v  atolu Usmen  v Atlantiku. Toto  rozhodnutí vyvolalo
+vlnu  pobouření v  KUSech  ze střední  Asie, které  si  stěžovaly na  nedostatek
+finančních prostředků pro  přepravu na místo, alergie na  písečné pláže, kterými
+je  Usmen  proslulý,  a  na  nedostatek  ohledu  na  fakt,  že  některá  tamější
+náboženství  výslovně zakazují  pobývání  pod vodní  hladinou  déle než  dvanáct
+hodin.
+
+Karlos Žebatý celou  situaci shrnul nejlépe: „Nevím, proč si  stěžují. Stejně se
+tam nedostanou.“
 ** Postupy v žebříčku
 #+BEGIN_EXAMPLE
 (progn (insert-file "/home/oscar/Documents/Monte-Karlos/žebříček.org")

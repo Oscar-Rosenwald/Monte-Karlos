@@ -19,7 +19,7 @@
 klepat: 1x, 3x a pak 5x; "Kabinet zla"
 *** 2. Patro
 - Zeměpis: +Martina Hapalová, Nikola Stodůlková+
-** Skupiny
+** KUSy
 *** Velká pětka:
 1. Horáková
 2. Rotreklová
@@ -51,6 +51,7 @@ klepat: 1x, 3x a pak 5x; "Kabinet zla"
 11. Horký
 12. Menšíková
 13. Kubešová
+** KBSy
 * Fáze
 ** Horáková X Pálkovská
 High Fantasy
