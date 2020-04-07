@@ -119,13 +119,55 @@ Alžběta Ašelová, šéfredaktor
 #+ODT: </text:section>
 * Zprávy
 #+ODT: <text:section text:style-name="NormalSect" text:name="Zprávy">
-** 
-**                                                                               
+** Španělská mutace
+Otec de'Galla, farář v kostele svaté  Anny v Barceloně, odhalil Někdeníku pozadí
+nepříjemné politicko-památkářské situace. Otec  de'Galla upozornil na jev, který
+v tu dobu již několikátým dnem probýhal nejen po celém Španělsku.
+
+„Jak je známo,“ praví, „pro založení  nového města je třeba kostelní semínko. To
+vláda zasadí a hnojí tři měsíce. Z něj vyroste malá kaple, která posléze dospěje
+v kostel.“  Otec de'Galla  zde naráží  na středověký  postup praktikující  se ve
+španělsky mluvících  zemích již  od dvanáctého  století. „V  posledních měsících
+musela svatá  buňka -  amenius dominika  - zmutovat,  protože po  celé Barceloně
+začaly závratně růst nové kostely.“
+
+Otec Někdeníku  ukázal kostel na náměstí  sv. Anny. „Tohle není  můj kostel. Můj
+kostel je za tím, schovaný.“
+
+Zdá se, že v průběhu několika hodin  před branami kostela dokázal vyrůst druhý a
+zcela zabarikádovat budovu původní. Není zdaleka jediným ve městě.
+
+Otec de'Galla poslal petici na městský úřad, aby se situace vyřešila radikálními
+opatřeními.  Radní  města byl  připraven  jednat,  ale Sbor  památkářů  amatérů,
+mezinárodní  organizace pro  ochranu volně  vyrůstajících budov,  situaci značně
+zkomplikoval.
+
+„Listina základních práv a budov jasně praví, že volně vyrostlá budova nesmí být
+zbourána,  neohrožuje-li ekonomický  růst,“ praví  Zachariáš Šťastný,  prezident
+SPA. „Nikde není zmíněno, že by  situace byla jiná v průmyslových oblastech.“ Na
+dotaz, co  si myslí  o teorii  mutujících svatých buňek,  se pak  vyjádřil pouze
+písemně, a to tak, že nám neví neví.
+
+I když urbaničtí biologové několikátým  rokem varují Švědskou královskou rodinu,
+že starobylá praktika může přinést nepříjemnosti, náhlý růst budov nepředvídali.
+Celé Španělsko  je tak zcela  nepřipraveno na  nával náboženství, který  ho nyní
+čeká. Debaty o řešení situace se ale potáhnou měsíce a do té doby může být podle
+některých odhadů postiženo přeš šedesát procent volného prostoru.
+
+V Barceloně  se vyskytlo již několik  znatelných potíží. Celá čínská  čtvrť byla
+pohlcena bazilikou sv. Petra a přilehlými zahradami a mnozí občané si stěžují na
+vtěrné dřevořezby, schopné  jim přes noc zabarikádovat okna.  Do dnešního večera
+došlo k  třem vážným konvercím a  jednomu fatalnímu selhání víry.  Otec de'Galla
+zatím  zápasí s  konkurenčními  farnostmi  o účast  na  mších,  neboť věřící  se
+rozprostřeli do nově  vyrostlých kostelů a vytváří tak  nestabilní prostředí pro
+náboženství■
+** Ryby v topení
 
 #+ODT: </text:section>
 * Závod
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
 ** Vývoj
+
 ** Postupy v žebříčku
 #+BEGIN_EXAMPLE
 (progn (insert-file "/home/oscar/Documents/Monte-Karlos/žebříček.org")
