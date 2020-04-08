@@ -208,10 +208,63 @@ Karlos Žebatý celou  situaci shrnul nejlépe: „Nevím, proč si  stěžují.
 tam nedostanou.“
 ** Postupy v žebříčku
 #+BEGIN_EXAMPLE
-(progn (insert-file "/home/oscar/Documents/Monte-Karlos/žebříček.org")
-	   (backward-kill-sentence))
+1. Jiří Šeiner
+2. Zdenka Lajdová
+3. Jana Horáková
+4. Ludmila Malá
+5. Dušan Rychnovský
+6. Ivo Macháček
+7. Dagmar Kolářová
+8. Hana Mužíková
+9. Dana Kubešová
+10. Martina Rotreklová
+11. Věra Zemánková
+12. Marie Vávrová
+13. Lenka Vývodová
+14. Marta Křenková
+15. Taťána Jakešová
+16. Elisie G’uaun Ebbe
+17. Josef Král
+18. Radovan Langer
+19. Gustav Havell
+20. Jiří Lysák
 #+END_EXAMPLE
+Nad Der  Weiderhohlle Flüsemschliessem se  stahují metaforická mračna.  Na hradě
+vládne nehostiná  nálada a kantoři  se začali  smykat do hloučků,  kdykoli spolu
+něco probírají. Panuje nevyřčené pravidlo zákazu vycházení po deváté hodině a do
+zahrad  se  odváží přinejmenším  ve  dvojicích.  Hradní televizní  štáb  bedlivě
+monitoruje každý kout, ale až na problémy s vodovodními trubkami na skladě zatím
+neobjevili nic nápadného.
 
+Obyvatelé  Der  Weiderhohlle  Flüsemschliessem  se ale  mohou  radovat.  Všichni
+zmizelí kantoři, Langer, Macháček, Horáková  a nově Mužíková, poznali komplikace
+své nepřítomnosti na poviné tiskové  konferenci. I když jsou technicky vyloučeni
+ze závodu - Mužíková, protože opustila hrad bez dovolení, a ostatní tři, protože
+se  ani   nedostavili  -  technologické   křidlo  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.
+opravuje chybu v systému, a všichni  jsou tudíž stále přítomni v žebříčku. Ústav
+nás ubezpečuje, že do arény času dost, a všechno se zpraví.
+
+Kantorům  se  i  tak  zachtělo   zvýšit  ochranu.  Počet  bodyguardů  se  zvíšil
+dvanáctinásobně  a  Mezinárodní  ústav  poukazuje,   že  tento  čin  hraničí  se
+shromažďováním  armád.  Paní   Křenková  se  dala  do   debat  obhajujících  své
+rozhodnutí, což ji v žebříčku nijak neprospělo. Naopak paní Jakešová, tvrdohlavě
+odmítající  jakékoli  nebezpečí,  získala  bonusové  body  za  nekonfliktnost  a
+vystoupala o dvě příčky.
+
+Tak  zvaná tlačenka  proběhla tiše  a neceremoniálně.  Monte Karlos  Někdeník si
+zamluvil slíbené množství sedadel a  položil kantorům vámi zvolené otázky. Přímý
+přenos celé události najdete na našem YouTube kanále.
+
+Za zmínku  stojí tři  zásadní body toho  dne. My se  budeme zabývat  dvěma. Paní
+Kubešová dosáhla  neočekávaného úspěchu,  když odpovídala  na otázku  „Co nemáte
+ráda na matematice.“ Její  odpověd - trojčelenky - jí výstup  o tři příčky. Zato
+Lajdová, kterou  celá akce  otravovala, se nezmohla  na kloudnou  větu. Odradila
+publikum, když vešla do místnosti a oznámila, že všichni smrdí. Dále pak odmítla
+odpovědět přímo  na jednoduché otázky  jako jak se  jí podařilo zajistit  si tak
+dobré místo, když o její kampani veřejnost neví naprosto nic.
+
+Výsledkem  jejího neúspěchu  se stala  rapidní ztráta  sponzorů a  propad o  dvě
+místa, což ale podle odborníků není v žádném případě dost■
 #+ODT: </text:section>
 ** Rozhovor - „“
 
