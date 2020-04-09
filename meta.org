@@ -1,3 +1,4 @@
+-*-eval: (set-input-method "czech-qwerty");-*-
 * Nejvyšší vůdce všeho učitelstva
 ** Kabinety
 *** Přízemí
@@ -68,14 +69,16 @@ Tři měsíce po bitvě u Nového Dilhí.
 Unesen někde v Dilhí Waldu. Jeho pravá ruka, Komisař Pedro, byl jediný, kdo se dostavil do DWF a řekl o tom lidem.
 **** Mužíková
 Unesena během bálu, kam byl pozván Šeiner, kde přitahoval pozornost.
+**** Vávrová
+Na procházce kolem Der Weiderhohlle Flüsemschliessem před Tlačenkou.
 *** Čísla
-**** 
+**** [[file:materialy/faze%202/1%20-%201.4./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org][1.4.2020 - Opět zde a v plné síle]]
 - Natočeno <2020-02-22 Sat>
 - *Host:* Jakešová
 - Vyšetřování není
 - *Zmizelí*
   Horáková
-**** 19.4.2020 - Čeho je moc
+**** [[file:materialy/faze%202/2%20-%2019.4./%C4%8Ceho%20je%20moc...org][19.4.2020 - Čeho je moc]]
 - Natočeno <2020-03-14 Sat>
 - *Host:* Šeiner
 - *Vyšetřování*
@@ -89,7 +92,7 @@ Unesena během bálu, kam byl pozván Šeiner, kde přitahoval pozornost.
 - *Vyšetřování*
   Část druhá: 
 - *Zmizelí*
-  - /Mezi:/ 
+  - /Mezi:/ Vávrová
   - /Po:/   
 **** 17.5.2020
 - Natočeno <2020-04-25 Sat>

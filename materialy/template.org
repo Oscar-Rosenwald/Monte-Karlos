@@ -1,4 +1,4 @@
-# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local default-justification 'full); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
 :stuff:
 <style:style style:name="InterviewSect" style:family="section">
 <style:section-properties text:dont-balance-text-columns="false" style:editable="false">

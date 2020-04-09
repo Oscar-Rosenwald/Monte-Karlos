@@ -1,4 +1,4 @@
-# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local default-justification 'full); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
 :stuff:
 <style:style style:name="InterviewSect" style:family="section">
 <style:section-properties text:dont-balance-text-columns="false" style:editable="false">
@@ -251,9 +251,13 @@ rozhodnutí, což ji v žebříčku nijak neprospělo. Naopak paní Jakešová, 
 odmítající  jakékoli  nebezpečí,  získala  bonusové  body  za  nekonfliktnost  a
 vystoupala o dvě příčky.
 
-Tak  zvaná tlačenka  proběhla tiše  a neceremoniálně.  Monte Karlos  Někdeník si
-zamluvil slíbené množství sedadel a  položil kantorům vámi zvolené otázky. Přímý
-přenos celé události najdete na našem YouTube kanále.
+Den nato se porařilo zmizet paní Vávrové. S povolením z vyšších míst si vyšla na
+procházku kolem sídla a už se nevrátila. Její ochranka zmizela také.
+
+Tak zvaná  tlačenka proběhla  v nepřítomnosti pěti  z Dvaceti  statečných. Monte
+Karlos  Někdeník  si  zamluvil  slíbené množství  sedadel  a  položil  přítomným
+kantorům  vámi zvolené  otázky.  Přímý  přenos celé  události  najdete na  našem
+YouTube kanále.
 
 Za zmínku  stojí tři  zásadní body toho  dne. My se  budeme zabývat  dvěma. Paní
 Kubešová dosáhla  neočekávaného úspěchu,  když odpovídala  na otázku  „Co nemáte
