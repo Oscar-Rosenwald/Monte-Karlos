@@ -270,18 +270,191 @@ dobré místo, když o její kampani veřejnost neví naprosto nic.
 Výsledkem  jejího neúspěchu  se stala  rapidní ztráta  sponzorů a  propad o  dvě
 místa, což ale podle odborníků není v žádném případě dost■
 #+ODT: </text:section>
-** Rozhovor - „“
-
+** Rozhovor - „Já hodlám být navždy mysteriósní.“
+Paní Malá - velké jméno mezi učiteli.  Její nesmírná pověst jí předchází nejen v
+někdeníku,  nýbrž   i  mezi  voliči   a  sponzory.  Velikost  jejího   ducha  je
+nepopiratelná. V  dnešním čísle odhalíme  některá z jejích  ohromných soukromých
+tajemství, a mnoho dalšího.
 #+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
-*** Kampaň
-*** Rychlá střelba
-*** Korespondence
-*** Závěrečný proslov
+*Jak jste se cítila, když vám nařídili zbavit se své armády a opustit svá sídla*
+*v Asii?*
 
+Byla  jsem trochu  zaskočená. Bez  své armády  po boku  se rozhodně  necítím tak
+jistě.  Také se  mi stýská  po mích  malebných sídlech  v Asii.  Ale tady  v Der
+Weiderhohlle Flüsemschliessem  mám velmi milou  společnost. A také  velmi dobrou
+ostrahu.
+
+*Strupe  Slýme  vybar-Víme  hrálo  zásadní  roli  ve  válce  s  Pálkovskou.  Jak
+*spokojena* jste byla s tím, že bylo použito takovým způsobem? Nepřipadá mi jako
+*válečné* sídlo, a muselo čelit dlouhému obléhání panem Lysákem.*
+
+Byla jsem  velmi potěšena,  že se  jedno z  mých sídel  stalo jaksi  díky tomuto
+konfliktu místem významné historické události.  O prázdninách, až skončí všechna
+omezení, začnu tam pořádat turisticé zájezdy. Vydělávat na tom.
+
+*Obranou  vašeho  sídla  byla  pověřena   paní  Rotreklová.  Necítíte  se  nějak
+vynechána?*
+
+Ne. Paní Rotreklová ho myslím ubránila dobře. Nemám, na co si stěžovat.
+
+*Jak reaguje vaše rodina na vaše vysoké ambice?*
+
+Kdybych neměla takové ambice, tak by mě k tomu stějně donutili.
+
+*Jakou podporu jste od nich dostala?*
+
+Ujistili mě, že neprodají má sídla, kdybych náhodou v aréně padla.
+
+*Co s nimi hodlají dělat? Také vydělávat?*
+
+No samozřejmě. Ani netušíte jak.
+
+*Jakou nadiji si dáváte, prosím realisticky, na vítězství?*
+
+Naděje umírá  poslední, v  tomto případě  až přes mou  mrtvolu. Naději  si dávám
+velkou. Chtěla bych závod vydržet s optimismem  a veselou myslí, ale jsou to jen
+naděje, takže...
+
+*Kdo je váším nejoblíbenějším umělcem všech dob?*
+
+To budu asi já. Nebo Mozart.
+
+*Od začátku  závodu jste byla poněkud  uzavřená a schraňovala si  své soukromí.*
+*Změnilo se něco, nebo hodláte být nadále mysteriózní?*
+
+Já hodlám být navždy mysteriózní.
+
+*Řekněte nám přesto něco, co o vás vaši voliči můžou vědět, co ještě neví.*
+
+Myslím, že  se nic  nestane, když  prozradím, že  jako malá  jsem si  v hodinách
+fyziky na gymnáziu hrávala piškvorky.
+*** Kampaň
+*Naše průzkumy  ukazují, že investujete  mnoho času a energie  do shromažďování*
+*renesančních maleb. Objasníte  nám, jak je hodláte využít pro  boj s ostatními*
+*kantory.*
+
+Ale to vůbec  nebude sloužit k boji.  To bude pouze taková drobná  galerie v měm
+sídle. Její finanční výsledky pak samozřejmě vhodně využiji.
+
+*Jste momentálně na třetím místě v žebříčku. Čemu vděčíte za takovou pozici?*
+
+Svým voličům a sponzorům.
+
+*Těsně pod  vámi se nachází  Lajdová. My se  poslední dobou ptáme  skoro všech,*
+*jestli si její úspěchy dodevou vysvětlit, vzhledem k tomu, že je veřejně zcela*
+*neaktivní. Dovedete to nějak vysvětlit vy?*
+
+Do  toho bych  se raději  nepoštěla. Já  bych se  vůbec do  paní Lajdové  nerada
+pouštěla. Ona by si to také potom mohla vzít osobně.
+
+*Dá se říct, že se bojíte paní Lajdové?*
+
+Spíše nechci vyvolávat zbytečné konflikty.
+
+*Nedávná zmizení jistě  změnila život v Der  Weiderhohlle Flüsemschliessem. Jaká
+*je* nálada mezi učiteli?*
+
+Pořád celkem  dobrá. Víte,  na jednu  stranu se mezi  kantory vkrádá  strach, na
+druhou starnu je tu  ale radost z toho, že ubívá  konkurence. Zatím byli unášeni
+kantoři z předních příček.
+
+*Jak to zasahuje vás? Bojíte se?*
+
+Bojím? Ne,  to ne. Spíše bych  ráda přišla na  to, kdo za únosy  stojí. Rozhodně
+tomu budu věnovat svůj čas a úsilí.
+
+*Jak si zmizení vysětlujente?*
+
+Víte, mám několik teorií. Žádná se mi ale ani trochu nezamlouvá.
+*** Random otázka dne
+*Souhlasíte s výrokem, že čtení je zírání na mrtvý strom zatímco halucinujete?*
+
+S první polovinou ano, s druhou ne.
+*** Rychlá střelba
+*Kdo je vaším nejoblíbenějším učitelem?*
+
+To budu zase já.
+
+*Jak porazíte ostatní kantory v aréně?*
+
+Drtivě.
+
+*Rychnovský, nebo Plžková?*
+
+Plžková.
+
+*Co jste udělala s Horákovou?*
+
+Já? Nic.
+
+*To  byla  taková... Já  to  chtěl  jenom zkusit.  Pardon.  Co  jste udělala  s*
+*Macháčkem?*
+
+Já? Nic.
+
+*To byla taková... Já to chtěl jenom zkusit. Pardon. Jak se budete bránit proti*
+*rostoucí hrozbě únosu?*
+
+Já? --
+*** Korespondence
+*Do Monte Karla nám zavolala paní Stružíková z Prahy. Paní Stružíková se řekla:*
+
+*V bulvárních  časopisech se  v posledních týdnech  objevily zprávy,  že nejste*
+*spokojena  s výukou  ve  své  škole. Zdroje  jsou  to  nespolehlivé, ale  vaše*
+*nesouhlasné reakce na jistá rozhodnutí vedení jsou všeobecně známá.*
+
+*Zajímalo by mě, co si skuteně myslíte o vedení svého gymnázia.*
+
+Vedení našeho  gymnázia mi  připadá velmi  nezodpovědné a  hlavně v  tuto chvíli
+nezvěstné. To je  vůči žákům velmi nefér, teď, kdy  celá výuka probíhá distanční
+formou. Takovýto neomluvitelný krok - přihlásit se do přestižního závodu a potom
+to takto nezvládnout... To mi připadá jako skandální zklamání.
+
+*Myslíte, že byste dokázala odvést lepší práci?*
+
+Pevně v to doufám.
+*** Závěrečný proslov
+*Vaši  voliči  se  jistě  bojí  o  vaše  zdraví.  Ujistěte  je  svým  závěrečným
+*proslovem,*  jakýmikoli  prostředky uznáte  za  vhodné,  že vám  nehrozí  žádné
+*nebezpečí.*
+
+Kromě mě  je zde  ještě osm  tísíc dalších  kantorů. I  tady v  Der Weiderhohlle
+Flüsemschliessem je poměrně velký výběr. Já bych byla velice nepříjemný rukojmí.
+Myslím si, že by mě nikdo nechtěl unést...
 #+ODT: </text:section>
 ** Hodnocení odborníka
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
+Paní Malá je mi nepříjemnější než suchý sokol na kamenitém koláči. Je to ten typ
+člověka, který vás  uchvátí svými roztomilými, barevnými,  suchozemskými sliby a
+nechá vás ve stavu zoufalé anestezie, když  odejde a vy si uvědomíte, že vlastně
+nic neřekli a ani nevíte, o čem se mluvilo.
 
+Jsou  zde  jisté věci,  které  mohu  pochválit.  Její iniciativa  pro  vyšetření
+učiteslkých zmizení je chválihodná, ačkoli stejně jako Achiles před horou v dáli
+stojí, může se  jí tento plán vymstít časem ztraceným  jeho prováděním. A ačkoli
+je osvěžující vidět kantora s dostatkem  zdravého rozumu, aby se aktivně věnoval
+problémům současné společnosti, její selhání  na poli politickém způsobilo malou
+či  žádnou podporu  jejího odhodlání,  což je  něco, co  strpím ještě  méně, než
+kopilečník struhou mašli.
+
+K dalším  pozitivním vlastnostem,  které nemohu  opomenout, patří  její naprostá
+láska k  penězům. Malá chápe, jak  se věci mají  ve světě politiky, i  když sama
+není schopná této  znalosti využít, a připravuje se na  velký střet budoucnosti.
+Za to  ji chválím. Ale opět  nacházím problém s jistými  aspekty jejího postupu.
+Konkrétně mám na mysli její sbírku renesančních maleb.
+
+Několik týdnů  slinila veřejnost  jako pes z  vrtačky vystřižený  nad prospektem
+nějakého velkého plánu, něčeho  úžasného. Malá o tom slyší a  místo toho, aby si
+něco na  místě vymyslela,  což by  ji vyzdvyhlo  v očích  veřejnosti, a  tudíž i
+sponzorů, přijde  s takovou  nicotnou blbostí  jako výstava.  A co  je nejhorší,
+tváří  se, že  nic  lepšího s  tím  dělat nejde!  RENESANČNÍ  MALBY MAJÍ  STOVKY
+ÚTOČNÝCH VYUŽITÍ!
+
+Nejvíc mě ale  štve, jak vlezlá je. Odevzdat sídlo  Rotreklové jí nevadilo. Její
+rodina ji  dotlačila do závodu  a ona to ani  nepřizná. Mozartovi leze  do sena.
+Nesnesitelné. Říká:  „Já bych byla velice  nepříjemný rukojmí.“ Ano. Ano,  to by
+byla. Mimochodem, všimli  jste si, jak odbyla poznámky o  Lajdové? Vlezlá, vždyť
+to říkám. Někdo by se tím měl zabývat.
 #+ODT: </text:section>
 * Korespondent - 
 * Lifestyle
