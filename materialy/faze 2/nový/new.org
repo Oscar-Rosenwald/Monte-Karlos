@@ -162,8 +162,48 @@ zatím  zápasí s  konkurenčními  farnostmi  o účast  na  mších,  neboť 
 rozprostřeli do nově  vyrostlých kostelů a vytváří tak  nestabilní prostředí pro
 náboženství■
 ** Ryby v topení
+Říkali jste  si někdy, že ve  vašem ústředním topení chybí  něco zásadního? Máte
+někdy pocit,  že váž  život by  mohl být pln  lahodných specialit?  /Prąve Firmy
+Domovne/ pro vás mají řešení.
 
-#+ODT: </text:section>
+Ukrajinská firma  přivádí nový trend  do západní Evropy.  Přechovávání chutných,
+chci říci exotických  akvarijních rybiček v útrobách ústředního  topení je zcela
+běžné  ve  východní  Evropě, ale  u  nás  se  tento  zvyk zatím  neujal.  Vedení
+housingové prodejny si slibuje, že to do roka změní.
+
+V designu navrženém Korejským architektem  Šaamalo a-Hliňoo se potkáte s moderně
+vybaveným systémem trubek, který dovádí a  odvádí vodu do a z ústředního topení.
+Revoluční na něm je schopnost udržet v  těchto trubkách ryby až tří seti druhů v
+naprosto  tvranlivém stavu.  Jejich pohybem  po  domě se  vytváří frikce,  která
+zahřívá vodu a odvádí tak práci za drahou elektřinu či plyn. Hlavním ekonomickým
+lákadlem těchto  domů se tak stal  slib ušetření za podobné  komodity, nahrazené
+pouze výdaji na krmení.
+
+/Prąva Firma  Domovná/ ale čelí  nepříjemným okolnostem. Po  veřejném předvedení
+svého produktu  na urbanní přehlídce  v Katalánsku zaplatila bezmála  tři prdele
+dolarů  na reklamní  kampani, aby  zvýšila prodej.  Důvodem je  fakt, že  jejich
+předvedení  nelze  nazvat  jinak  než  fiaskem. Všechny  ryby  byly  těsně  před
+uveřejněním záhadně  zbaveny šťavnatého masa  a v  trubkách tak plavaly  kosti a
+kůže, které přes všechnu námahy dokázaly vyprodukovat pouhou třetinu slibovaného
+tepla.
+
+Vedení  /Prąve Firmy  Domovne/  si ale  slibuje zvětlé  zítřky.  Jejich plán  na
+integraci  v tomto  roce  předvídá  boom a  někteří  členové  komory se  dokonce
+vyjádřili, že by se domy mohly stát jejich vlajkovým produktem.
+
+Důvod pro  tyto prospekty  je prostý. Biolog  Antonín Šesterečný  nabídl drobnou
+změnu  v  rozestavění  trubek  a  velkou změnu  v  jejich  obsahu.  Namísto  ryb
+akvarejních  navrhl použít  ohrožené druhy  mořských živočichů,  které jsou  prý
+ještě chutnější a které by tak byly  zbaveny přirozených predátorů a časem by se
+mohli opět  rozmnožit do  přijatelných počtů.  Firma doufá,  že toto  jim zařídí
+levnou publicistiku, až přírodní ochranáři začnou protestovat na ulicích a každý
+z nich ponese jméno společnosti a produktu na pětimetrovém plakátě po největších
+velkoměstech světa.
+
+/Prąva Firma Domovná/ rovněž nabízí /extra variantu/, sestávající z oleje, který
+produkuje  větší odpor,  a  /light  variantu/, která  bude  ručně zbavena  všech
+přidaných ryb.  Cena /light varianty/ tak  stoupne a dům bude  muset být vytápěn
+plynem, ale co by lidstvo nedalo pro pohodlí...#+ODT: </text:section>
 * Závod
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
 ** Vývoj
