@@ -502,7 +502,7 @@ přemýšlet,  můžete mít  rádi matematiku.  A  pokud přemýšlet  nechcete
 nevím, jestli potřebuju takové voliče■
 #+ODT: </text:section>
 ** Hodnocení odborníka
-#+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
+   #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
 Jiří Šeiner  je velmi  osobitá osoba s osobními osobnostními  problémy. Jakožto
 politický  recenzent jsem  nucena přiznat,  že má  jak potenticál,  tak potenci.
 Politicky to zvládá dostatečně a jeho voliči ho zbožňují. Ale zde právě nerážíme

@@ -51,10 +51,10 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 #+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
-#+SUBTITLE: 
-Vítejte v Monte Karlos, 
+#+SUBTITLE: Potíže neMalé
+Vítejte v Monte Karlos, druhém pátém divu světa.
 #+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
-* 2/2019
+* 3/2019
 Ročník XXVIIII
 
 *Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
@@ -81,9 +81,9 @@ Ročník XXVIIII
 
 *Móda:* Šlapeboso Elle'Gante
 
-*Editoři:* Andrew McTallas, Lobor Sko'madženta
+*Editoři:* 
 
-*:* 
+*Mytologie:* Krupičník Davidd
 
 *Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
 
@@ -106,7 +106,7 @@ Ročník XXVIIII
 *Rozšiřují:* google.com
 
 /Monte Karlos Někdeník/ byl založen  skupinou černých nosorožců afrických v létě
-roku  1989.  Jeho  stránkami  byly poznamenány  takovými  autory  jako  Alexandr
+roku  1989.  Jeho  stránky  byly   poznamenány  takovými  autory  jako  Alexandr
 Malinovský, Jack  O'Clock a Veronika Oškalová  a všeobecnému ohlasu se  těší již
 třetím rokem  pod brilantním  vedením šéfredaktorky  Alžběty Ašelové©.  Stojí na
 železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po
@@ -527,6 +527,224 @@ princeznou  Leonor.  Jeho   použití  se  stále  probírá   na  světových  
 konciliích, ale Monte Karlos si nemohl dovolit jej zde nezmínit.
 * Vyšetřování
 ** Dokumenty
-** _Část první: Nepřítel za branami_
-*** 
+H. Mužíková
+- Zmizela 10.4.2020
+- Zrovna, když novináři hlídali Šeinera.
+- Musela věřit svému únosci.
+- Byla s ním domluvená?
+
+M. Vávrová
+- Zmizela 22.4.2020
+- Neunesli ji zevnitř, ale zvenku komplexu.
+- Vyšla na procházku kolem hradu, když se unášejí kantoři.
+- Mohla by být tak blbá?
+** _Část druhá: Nečekaná spojenectví_
+*** 22.4.2020
+Tohle je  všechno na  houby, tohle  to. Jednoho  učitele unesou  zdejší ochrance
+přímo pod  nosem a druhej si  řekne: „Helemese, jaký zatraceně  krásný večer. Je
+čas na  procházku!" Učitelé  pitomí. Kdo  to má hlídat,  když to  dělá takovýhle
+hovadiny?
+*** 25.4.2020
+Po Vávrový ani stopa. Prohlídl sem si  místo, kde jí sebrali, ale nic. Musel sem
+se na to koukat dalekohledem z vrcholku  zdi, protože kdybych vyšel z DWF, už mě
+sem nepustěj, ale i tak.
+
+Měla údajně dvanáct  bodyguardů. Spolehliví chlapíci, to vám povim.  Zmizeli i s
+ní. Možná měl někdo z nich v únosy prsty.
+*** 27.4.2020
+Malá se  zamkla u sebe v  pokoji. Včera se vrátila  z Monte Karla, ještě  sme jí
+viděli  na večeři,  a dneska  ani nevyšla  z pokoje.  Je tam,  spustil sem  se z
+hydrantu na  střeše a  ujistil se, že  jí neunesli. Sedí,  něco čte,  něco píše.
+Zatracená ženská.
+
+Jak sem šplhal  nahoru, viděla mě ochranka. Vystřelili po  mně, ale naštěstí sem
+byl tři sta metrů nad zemí, takže  se netrefili. Kdyby byli schopný něco udělat,
+tak bych se  staral o to, že  si budou myslet, že  sem jí chtěl unýst  já. Ale s
+těmahle parchantama nemam obavy.
+*** 29.4.2020
+Sedim v archívu a prohlížim  si dopisy z a do DWF. No, tak  se to nesmí. Tady se
+sakra vyšetřuje. Žalujte mě.
+
+Ze záznamů čtu, že  Malá dostala včera dopis ještě před snídaní.  Co v něm bylo,
+že se naší  mladé paní zachtělo nevycházet z pokoje?  Výhuržka? Nebo pokyny, aby
+se držela dál? Mohla by bejt zapojená do únosů a takhle veřejně to ukazovat?
+
+Proč ne? Lidi sou pitomí.
+*** 30.2020
+Dvacet  zatracenejch hodin  zatracenýho zírání  do ušmudlanejch  starech papírů,
+bolaví záda a  voči, přesezená zadnice a  nic! /Vykašlat/ bych se na  to mohl. Z
+dopisů sem nic nezjistil. Dostal sem ale nápad.
+
+Jestli Malí vyhrožujou, možná vyhrožovali  i ostatním. Vávrový nic nepřišlo, ale
+možná pachatel nečekal, že jí unese, dokud mu nevlezla pod nos.
+
+Začal  sem  prohledávat  veřejný  záznamy.  Televizní  vystoupení,  roznovory  v
+novinách,  komenty  na  Twitteru.  /Twitter!/ Pche!  Kdo  to  vymyslel,  takovou
+kravinu?  Jako  bysme  neměli  dost  názorů lítajících  z  hub  každýho  druhýho
+zatracenýho chytráka. A kdo jinej než já by se nechal zatáhnout do práce, kde se
+tim musí  člověk prohrabávat jako kompostem  a hledat tam jednu  shnikou okurku.
+Zatracená práce.
+*** 1.5.2020 - 10:00
+Něco sem objevil. Už bylo sakra na čase. A kdo jinej než moji zaměstnavatelé, že
+jo?  První učitel,  kterýho  pozvali,  byl Langer.  Ten  dostal v  korespondenci
+následující:
+
+#+BEGIN_EXAMPLE
+...
+
+Jak dlouho si myslíte, že vás před námi vaše pozice uchrání? Jistě ne věčně...
+
+S pozdravem,
+
+Eliška Oslová, generální ředitelka ústavu pro duševně neschopné a kultovní hlava
+Sekty nesplněné pomsty
+#+END_EXAMPLE
+
+A pak zmizel. Horáková dostala dopsi s timhle:
+
+#+BEGIN_EXAMPLE
+...jako výraz  úcty si dovolujeme poslat  vám přiložený pH papírek  s nadějí, že
+jej budete  ve jménu všech  svých podpůrců  nosit při nevyhnutelné  bitvě s paní
+Pálkovskou.*
+
+S přáním  světlé budoucnosti, pan  a paní Kunderovi,  zaměstnanci ÚDN a  hrdí a
+praktikující členové SNP.
+#+END_EXAMPLE
+
+Horáková slíbila, že papírek bude mít na  sobě. Karlos se zeptal, jestli ví, kdo
+je ÚDN a  SNP, ale to vona ne. Ale  já to vim. Co čučíte, co?  Ústav pro duševně
+neschopné (ÚDN) a Sekta zatracený  nesplněný pomsty (SNP). Horáková měla papírek
+na sobě a zmizela v den svýho  tak slavnýho vítězství. Co lidi slavěj na takovym
+masakru nemam ponětí.
+
+Mohl mít  ten papírek nějakej sledovač?  GPS? GGL? ODS? TOP-09?  Možná jí takhle
+našli v Novym Dilí a sebrali jí.
+
+Macháček nic nedostal, ale ten nebyl v  Monte Karlos. Víte ale, kdo něco dostal?
+Šiener. Karlos měl trochu problémy to přečíst, ale tady to je:
+
+#+BEGIN_EXAMPLE
+Vážený a milý..., přijměte  prosím naše srdečné pozvání na...
+v Karolíně, osmého čtvrtý v....
+
+...jako ctěná návštěva na počest...
+
+Mnohokrát vám děkujeme za odpověď a těšíme se na shledanou.
+
+Manželé Kubřínovi,
+
+UDN
+#+END_EXAMPLE
+
+A zatimco  byl ten starej dědula  na bále v  Karolíně a všichni ho  tam hlídali,
+včetně mě, do prkýnka zatracenýho, vkradli se do DWF a sebrali Mužíkovou.
+
+Že bysme měli pachatele? To se mi nezdá. Ještě je na to nějak brzo. Ale stopa...
+Zatracená stopa. Těch stop už mam po krk. Stopa sem, stopa tam a Danieli skákej,
+jak pískáme. Ještě, že končim, jinak bych se s tim musel zabejvat ještě dýl.
+*** 1.5.2020 - 16:40
+Sedim  v  místní kavárně  a  popíjim  kafe. Ne,  jastně,  že  nepopíjim kafe!  V
+kavárně?! Jako  bych na to  měl čas! Ne  v kavárně, na  zadku v archivu  sedim a
+makám jako zatracenej mezek.
+
+Dělám si  záznamy o  ÚDN a SNP.  Hledám na internetu,  hledám v  knihách, hledám
+všude.
+
+Někdo si ke mě přisedne. Podivám se a vidim Rotreklovou.
+
+"Můžu vám pomoct?" zeptám se. Jako bych jí chtěl s něčim pomáhat. Zavrtí hlavou,
+že prej  chce ona pomoct mě.  "Jak," zeptám se.  Chvíli mlčí. Dívá se  po stole.
+Poznámky rozházený vlepo vpravo. Kdyby se tak starala o sebe.
+
+"Chtěla jsem vám pomoct s tím vyšetřováním."  To mi vyrazí dech. Pomoct? To víš,
+že jo,  ty káčo  pitomá. Prej  mě viděla,  jak lezu  Malý od  okno. Dvě  věci mě
+napadnou.  1) Hurá,  našel sem  někoho  chytrýho v  týhle smradlavý,  demetností
+přeplněný  díře. 2)  Zatraceně, našel  sem  někoho chytrýho  v týhle  smradlavý,
+demetností přeplněný díře. Jestli měl  někdo mít inteligenci tohle zorganizovat,
+musel jí mít hodně. Dívám se na svýho zrádce?
+
+"Lajdová je nebezpečná,"  řekne. Jako bych to  nevěděl. I když, když  se nad tim
+tak zamyslim, to slyšim poprvé. "Nikdo neví, kde sebrala svoje body." Hezkej pokus, holčičko, ale  Lajdová byla jedna z těch, který  se hádali v noci,
+kdy zmizela Mužíková. Nech laskavě dedukce na profesionálech.
+
+Ale možná  to Lajdová udělala  nějak chytře. Nebudu  jí vyřazovat. A  tuhle nánu
+vlezlou, tu si nechám. Může bejt užitečná.
+*** 2.5.2020 - 14:00
+Je tu tlačenka. Ze všech koutů světa se sjeli novináři a významní hostě. Přepych
+z nich  čiší jako z voda  z kašny. Slušné vychování,  vytříbené chování, zkrátka
+vyšší třída. Blbci zatracený.
+
+Sedim v řadě  a poslouchám. Už přišlo  několik učitelů. Ptali se  jich na takový
+blbosti, že sem se ani neodvážil je poslouchat. Vidim Lajdovou. Tak prej všichni
+smrdíme, aspoň podle ní. Ta má, co  řikat. A já nejsem žádnej politik, ale tahle
+vypadá, že  neumí ani  poskládat srozumitelnou větu  dohromady. Ale  musim dávat
+pozor, když je teď ta podezřelá.
+
+Zezadu mi  někdo poklepe na rameno.  Co po mě kdo  zase chce? Nechte mě  hádat -
+spletli  si mě  s Michalem  Jacksonem a  chtěj autogram.  Před tvaceti  lety sem
+stoupnul jejich kočce na ocas a teď si to chtěj vyříkat. Moje zatracený štěstí.
+
+Je to  nějaká ženská, kterou sem  v životě neviděl. "Odpovídat  takhle pitomně,"
+ukáže na  Lajdovou, "to je  horší než kdyby se  oslí vejce křepelilo  na sluncem
+rozpálené ústavě. Ta to nedotáhne dál, než kolibřík vodovod dohodí."
+
+Co že sem řikal o těch chytřejch lidech?
+
+"Olšana  Kupé,"  představí  se,  jako  bych   to  méno  měl  znát.  Prej  nějaká
+recenzentka. Pracuje pro Karlose,  ale kdo dneska ne? A to  mam bejt v zatracený
+anonymitě.
+
+Ptá se  mě, jestli vim, co  se děje s Malou.  Rači zavrtim hlavou, než  abych jí
+něco prozrazoval. Ale taky nevim, co bude dělat. Tlačenak je povinná.
+*** 2.5.2020 - 15:10
+Skoro všichni už se vystřídali. Rotreklová  chybí, ale před chvílí tu byla. Malá
+se neukázala. Šeiner  právě skončil, sestupuje z hlediště a  zachází do čekárny.
+Kupé sedí porád vedle mě. Nakonec spolu nějak vycházíme. Já ní neposlouchám, ona
+pořád mele a nečeká, že budu odpovídat, a voba sme spokojený.
+
+Otevřou se dveře.  Do místnosti vejde Malá a Rotreklová,  prakticky ruku v ruce.
+Novináři po  nich skočej,  jako po  čerstvě vytesaném humrovi.  Tak mi  to aspoň
+popisuje Kupé.
+
+Rotreklová dovede Malou na pódium a vzdálí se. To bude zajímavý. Vysloveně hořim
+nadšenim. Nemůžu se zatraceně dočkat.
+
+Malá vytáhne  papír a ukáže nám  ho. Nemůžeme to přečíst,  protože ten chytrolín
+tim mává ze strany na stranu a pak to strčí zpátky do kapsy.
+
+"Domnívám  se,  že  někdo  se  cíleně snaží  zlikvidovat  zbytky  Velké  pětky."
+Místností to  zašumí. "Já a kolegyně  Rotreklová jsem jediní, kteří  zbyli. Před
+několika  dny  jsem  obdržela  tento  dopis, vyhrožující,  že  budu  unesena,  a
+Rotreklová dostala podobný dnes."
+
+HA! Kdo to řikal?  Já sem to řikal! Já sem to /zatraceně/  řikal! Jenže to situaci
+akorát tak zhoršuje.
+
+Dovnitře se nahrne prakticky celá pitomá  ochranka na hradě. Každej novinář zírá
+na Malou, kažkej bodyguard prohledává novináře a hledá útočníka. Jako by po Malý
+někdo vystartovat takhle před kamerama.
+
+Ale kde  je Rotreklová? V  čekárně s dalšíma kantorama,  řekl bych. Seberu  se a
+vyběhnu ven. Jestli chcete sebrat skupinu  učitelů, nechte pozornost na jednom z
+nich, nahrntě ostatní na jedno místo a máte to.
+
+Běžim  jako nějakej  /pes/ běžící.  Vpadnu do  čekárny s  kusem pouliční  lampy,
+kterou sem  cestou utrhl,  připravenym k  útoku. Ale  nic se  neděje. Rotreklová
+stojí uprostřed místnosti, nějakejch pět, sedm učilů kolem ní.
+
+"Oba dopisy  podepsali jako  SNP," žvaní  Rotreklová. "Myslím,  že to  je nějaká
+skupina, která nás unáší."
+
+"Ticho!" zařvu na ní. Ještě mi rozkecá tejden těžký práce pachateli. Dekuju všem
+bohům, že zmlkne.
+
+Rozhlídnu se kolem. Ostatní se na mě koukaj, jako na vola. Volové.
+
+"Kde je Šeiner?" Nikdo neví. Nikdo zatraceně neví.
+*** 2.5.2020 - 19:50
+Šeinera sme nenašli.  Cestou ven prohledali všechny novináře,  jestli ho náhodou
+nesebrali, ale toho dědka starýho si můžete strčit do kabelky.
+
+Zmizel mi  další. Zatracená, pitomá, stupidní,  zatracená práce na nic.  Ale mam
+jméno - Eliška Oslová. To bude něco.
 * Poznámky
