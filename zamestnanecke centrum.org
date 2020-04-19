@@ -21,7 +21,7 @@ Mlčokoutek - věci o Totismu v Někdeníku
 *** Andrew McTallas (Americká kultura)
 - [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*Small-town%20Funk][Small-town Funk]]
 - [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*HTBBB%20Club,%20Mayami][HTBBB Club, Mayami]]
-*** Aráb a'Ráb (právo - východní Evropa a západní Asie)
+*** Aráb a'Ráb (východní Evropa a západní Asie)
 - [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*%C5%BDalovn%C3%AD%C4%8Dek%20%C5%BEaluje][Žalovníček žaluje]]
 - [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*PO%20-%20D%C4%9A][PO - DĚ]]
 *** Antonín Obsenblesprk (terorismus)
@@ -37,6 +37,10 @@ Mlčokoutek - věci o Totismu v Někdeníku
 - [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Adrift][Adrift]]
 *** Kapilár del Maare (botanika)
 - [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Rok%20Trifid%C5%AF][Rok Trifidů]]
+*** Teodor Buřinovský (ekonomika)
+- [[file:materialy/faze%202/nov%C3%BD/new.org::*Z%C3%A1chrana%20ohro%C5%BEen%C3%BDch%20druh%C5%AF][Záchrana ohrožených druhů]]
+*** Sancho Panzam (západní a střední Evropa)
+- [[file:materialy/faze%202/nov%C3%BD/new.org::*%C5%A0pan%C4%9Blsk%C3%A1%20mutace][Španělská mutace]]
 *** Olšana Kupé (Hodnocení odborníka)
 - [[file:9.14./Ba%C5%BEant%20v%20ch%C5%99t%C3%A1nu%20lvov%C3%A9m.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Záchelová]]
 - [[file:A10.12./Zmizel%C3%AD%20zmizel%C3%AD.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Rychnovský]]

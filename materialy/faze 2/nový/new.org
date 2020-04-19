@@ -27,8 +27,9 @@ style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
 fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 </style:style>
 
-#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
-# ' Toggle smart quotes
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
+# tags		Toggle inclusion of tags
+# '			Toggle smart quotes
 # \n		newline = new paragraph
 # f			Enable footnotes
 # date		Doesn't include date
@@ -51,10 +52,10 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 #+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
-#+SUBTITLE: Potíže neMalé
-Vítejte v Monte Karlos, druhém pátém divu světa.
+#+SUBTITLE: 
+Vítejte v Monte Karlos, 
 #+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
-* 3/2019
+* 2/2019
 Ročník XXVIIII
 
 *Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
@@ -83,7 +84,7 @@ Ročník XXVIIII
 
 *Editoři:* 
 
-*Mytologie:* Krupičník Davidd
+*:* 
 
 *Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
 
@@ -112,665 +113,252 @@ třetím rokem  pod brilantním  vedením šéfredaktorky  Alžběty Ašelové©
 železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po
 prachbídné korespondenty  se řídí  všestrannými, nesmrtelnými  pravidly slušného
 chování.
-* Editorial
-Dave Bubtistt, čínský  provizorní umělec, v jednom ze  svých slavných půlnočních
-proslovů  řekl:  „Budeme-li  zavřeni,  bude-li nám  zakázáno  vycházet  z  domu,
-budou-li obchody mimo provoz a lidský  kontakt trestán státem, stanou-li se tyto
-věci, pak vězme, že  nastal konec světa.“ Na druhou stranu,  v dalším řekl: „Ti,
-kteří společně do houští zalezou, dřepí.“ Takže ho berte s jinou dávkou rezervy.
+* Editorial                                                             :200:
 
-Konec světa  sice nenastal, ale  někteří naši bratři  po celém širém  světě jsou
-svědky Davem předvídaných katastrof. V takových  časech je třeba stmelit se a já
-věřím, že Někdeník nám v tom zdatně pomůže.
-
-V dnešním  čísle vám přinášíme mnoho  novinek, pár naučných článků  a jednu nebo
-dvě  senzace.  Můj  oblíbený  kantor,  smím-li se  tak  vyjádřit,  byl  vystaven
-Kralosově pevné ruce  a hbytému peru. Naše módní oddělení  se vytáhlo ještě více
-než dříve, korespondent  se tentorkát uráčil nám napsat, na  rozdíl od minula, a
-naši  editoři vyprodukovali  hrst  čerstvých  zpráv. Vše  funguje,  jak má.  Tak
-nezoufejte, svět ještě nekončí.
-
-Kdo by  ale zoufat  mohl, jsou  učitelé. S  jejich situací  to vypadá  bleději a
-bleději. Sir Daniel pracuje, jak může, ale  věci jsou ještě horší, než se zdálo.
-I od něj v dnešním čísle uslyšíte, buďte si jisti.
-
-Kdo mě  tentorkát trochu zklamal, je  Lubomír Lečko. Ano, některé  problémy jsou
-nepředvídatelné a neřešitelné,  ale ten, který uvedl jako  důvod pro chybějícího
-hosta tentokrát, nebyl ani jedno. Ale co,  doufám, že mu to odpustíte. Karlos to
-udělal, tak si z něm vemte příklad. To je vlastně vždy úžitečná rada do života.
 
 Alžběta Ašelová, šéfredaktor
 #+ODT: </text:section>
-* Zprávy
+* Zprávy                                                                :350:
+:news:
+Topic [fish in heating]
+Designing principle [new house; fish are a feature; we're selling]
+Random thing [this stuff is normal in Ukraine since 1976]
+Story [Housing agency struggling to sell the houses]
+Characters [salesmen, CEO]
+Voice [author eats fish]
+Logistics of story [public reaction; history of product;...]
+Quotes, vision, assessment
+:END:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Zprávy">
-** Španělská mutace
-Otec de'Galla, farář v kostele svaté  Anny v Barceloně, odhalil Někdeníku pozadí
-nepříjemné politicko-památkářské situace. Otec  de'Galla upozornil na jev, který
-v tu dobu již několikátým dnem probýhal nejen po celém Španělsku.
+** Porušení dohody Duny
+Silniční války v druhé polovině šedesátých  let byly krutou a nepříjemnou etapou
+naší společné historie. Ke konci pohltila statisíce životů nejen lidských, nýbrž
+i protivníkových.  Dohoda Duny  představovala mírovou  smlouvu mezi  všemi třemi
+válčícími stranami  - lisdtvem, Unií  asfaltu, železa  a betonu a  štěrkem. Naši
+nepřátelé tehdy přistoupili na lidské  podmínky souznění a společně uzavřeli mír
+na půdě neutrálního  písku v Gobi. Následovalo vytvoření dohody  Duny, která mír
+stvrzovala.
 
-„Jak je známo,“ praví, „pro založení  nového města je třeba kostelní semínko. To
-vláda zasadí a hnojí tři měsíce. Z něj vyroste malá kaple, která posléze dospěje
-v kostel.“  Otec de'Galla  zde naráží  na středověký  postup praktikující  se ve
-španělsky mluvících  zemích již  od dvanáctého  století. „V  posledních měsících
-musela svatá  buňka -  amenius dominika  - zmutovat,  protože po  celé Barceloně
-začaly závratně růst nové kostely.“
+Podle  dohody,  mimo  jiné,  jsou  asfalty  zavázány  ke  spolupráci  ve  věcech
+silničních výměnou za pravidelnou (a nadměrnou) dodávku ananasu. Jistý asfalt na
+T-křižovatce na  západní Ukrajině se  však nedávno odhodlal napadnout  tuto námi
+poskytnutou  symbiózu. V  noci  z úterý  na pátek  bez  varování odmítl  povolit
+přepravu tří dodávek přes střed křižovatky. Řidiči tak byli v rozpacích.
 
-Otec Někdeníku  ukázal kostel na náměstí  sv. Anny. „Tohle není  můj kostel. Můj
-kostel je za tím, schovaný.“
+„Já  nejsem  žádnej právník,“  říká  pan  Chrastivějský,  který jím  od  pohledu
+opravdu, ale  opravud není,  „ale znám  trochu historie.  DD nikdy  nepočítala s
+takovou situací, jestli  se tam můžu vyjádřit.“ Pan  Chrastivějský má překvapivě
+pravdu. Podle  dohody nesmí člověk  nutit asfalt dělat,  co sám dělat  nechce, v
+souladu  s Deskou  základních materiálních  práv.  Podle stejné  dohody je  však
+asfalt  povinen  sloužit,  chci  říct  asistovat nám  na  cestách.  Dohoda  Duny
+nestanovuje žádný aparát pro řešení takovéto situace.
 
-Zdá se, že v průběhu několika hodin  před branami kostela dokázal vyrůst druhý a
-zcela zabarikádovat budovu původní. Není zdaleka jediným ve městě.
+Mezinárodní  sdružení asfaltů  se distancovalo  od názorů  tohoto asfaltu.  Jeho
+předleža praví:  „Je zřejmé, že  asfalt na křižovatce  E125 a R554  trpí jakousi
+poruchou mysli  a MSA je  toho názoru, že  by mu neuškodila  celková přestavba.“
+Štěrk se vzápětí distancoval od celé situace a odsypal se ze záběru kamer.
 
-Otec de'Galla poslal petici na městský úřad, aby se situace vyřešila radikálními
-opatřeními.  Radní  města byl  připraven  jednat,  ale Sbor  památkářů  amatérů,
-mezinárodní  organizace pro  ochranu volně  vyrůstajících budov,  situaci značně
-zkomplikoval.
+Zatím  nevděčný  asfalt na  křižovatce  odmítá  podat hlášení.  Jeho  stanovisko
+ohledně přejezdu  přes „jeho území“, jak  tomu panovačně říká, se  nijak nemění.
+Pokusy o mírové řešení selhaly ještě dřív, než začaly, a ukrajindká policie byla
+nucena  uzavřít   celou  oblast   a  vyhraničit  několikametrový   objezd  kolem
+inkriminované křižovatky. MSA  si následně začalo stěžovat, že  na jejich asfalt
+jsou pokládána příliš těžká břemena, a vyžaduje okamžitou nápravu.
 
-„Listina základních práv a budov jasně praví, že volně vyrostlá budova nesmí být
-zbourána,  neohrožuje-li ekonomický  růst,“ praví  Zachariáš Šťastný,  prezident
-SPA. „Nikde není zmíněno, že by  situace byla jiná v průmyslových oblastech.“ Na
-dotaz, co  si myslí  o teorii  mutujících svatých buňek,  se pak  vyjádřil pouze
-písemně, a to tak, že nám neví neví.
+Na  rozdíl od  své  vlády začala  asfaltská komunita  s  asfaltem na  křižovatce
+sympatizovat. Mnozí  se teď  ptají, jestli  je dohoda  Duny stále  prospěšná pro
+původní Unii. Nevděčníci[fn:1]■
+**                                                                               
 
-I když urbaničtí biologové několikátým  rokem varují Švědskou královskou rodinu,
-že starobylá praktika může přinést nepříjemnosti, náhlý růst budov nepředvídali.
-Celé Španělsko  je tak zcela  nepřipraveno na  nával náboženství, který  ho nyní
-čeká. Debaty o řešení situace se ale potáhnou měsíce a do té doby může být podle
-některých odhadů postiženo přeš šedesát procent volného prostoru.
-
-V Barceloně  se vyskytlo již několik  znatelných potíží. Celá čínská  čtvrť byla
-pohlcena bazilikou sv. Petra a přilehlými zahradami a mnozí občané si stěžují na
-vtěrné dřevořezby, schopné  jim přes noc zabarikádovat okna.  Do dnešního večera
-došlo k  třem vážným konvercím a  jednomu fatalnímu selhání víry.  Otec de'Galla
-zatím  zápasí s  konkurenčními  farnostmi  o účast  na  mších,  neboť věřící  se
-rozprostřeli do nově  vyrostlých kostelů a vytváří tak  nestabilní prostředí pro
-náboženství■
-** Ryby v topení
-Říkali jste  si někdy, že ve  vašem ústředním topení chybí  něco zásadního? Máte
-někdy pocit,  že váž  život by  mohl být pln  lahodných specialit?  /Prąve Firmy
-Domovne/ pro vás mají řešení.
-
-Ukrajinská firma  přivádí nový trend  do západní Evropy.  Přechovávání chutných,
-chci říci exotických  akvarijních rybiček v útrobách ústředního  topení je zcela
-běžné  ve  východní  Evropě, ale  u  nás  se  tento  zvyk zatím  neujal.  Vedení
-housingové prodejny si slibuje, že to do roka změní.
-
-V designu navrženém Korejským architektem  Šaamalo a-Hliňoo se potkáte s moderně
-vybaveným systémem trubek, který dovádí a  odvádí vodu do a z ústředního topení.
-Revoluční na něm je schopnost udržet v  těchto trubkách ryby až tří seti druhů v
-naprosto  tvranlivém stavu.  Jejich pohybem  po  domě se  vytváří frikce,  která
-zahřívá vodu a odvádí tak práci za drahou elektřinu či plyn. Hlavním ekonomickým
-lákadlem těchto  domů se tak stal  slib ušetření za podobné  komodity, nahrazené
-pouze výdaji na krmení.
-
-/Prąva Firma  Domovná/ ale čelí  nepříjemným okolnostem. Po  veřejném předvedení
-svého produktu  na urbanní přehlídce  v Katalánsku zaplatila bezmála  tři prdele
-dolarů  na reklamní  kampani, aby  zvýšila prodej.  Důvodem je  fakt, že  jejich
-předvedení  nelze  nazvat  jinak  než  fiaskem. Všechny  ryby  byly  těsně  před
-uveřejněním záhadně  zbaveny šťavnatého masa  a v  trubkách tak plavaly  kosti a
-kůže, které přes všechnu námahy dokázaly vyprodukovat pouhou třetinu slibovaného
-tepla.
-
-Vedení  /Prąve Firmy  Domovne/  si ale  slibuje zvětlé  zítřky.  Jejich plán  na
-integraci  v tomto  roce  předvídá  boom a  někteří  členové  komory se  dokonce
-vyjádřili, že by se domy mohly stát jejich vlajkovým produktem.
-
-Důvod pro  tyto prospekty  je prostý. Biolog  Antonín Šesterečný  nabídl drobnou
-změnu  v  rozestavění  trubek  a  velkou změnu  v  jejich  obsahu.  Namísto  ryb
-akvarejních  navrhl použít  ohrožené druhy  mořských živočichů,  které jsou  prý
-ještě chutnější a které by tak byly  zbaveny přirozených predátorů a časem by se
-mohli opět  rozmnožit do  přijatelných počtů.  Firma doufá,  že toto  jim zařídí
-levnou publicistiku, až přírodní ochranáři začnou protestovat na ulicích a každý
-z nich ponese jméno společnosti a produktu na pětimetrovém plakátě po největších
-velkoměstech světa.
-
-/Prąva Firma Domovná/ rovněž nabízí /extra variantu/, sestávající z oleje, který
-produkuje  větší odpor,  a  /light  variantu/, která  bude  ručně zbavena  všech
-přidaných ryb.  Cena /light varianty/ tak  stoupne a dům bude  muset být vytápěn
-plynem, ale co by lidstvo nedalo pro pohodlí...#+ODT: </text:section>
+#+ODT: </text:section>
 * Závod
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
-** Vývoj
-Zatímco  se dvacet  statečných  připravovalo na  tiskvou konferenci  přezdívanou
-tlačenka, starali se zbylí uchazeči v  závodě, téměř osm tisíc učitelů, kteří si
-již tlačenkou prošli, o své vlastní problémy. Zejména došlo ke sporům mezi KUS -
-kantoří umělé společenství -, M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. a vládou v Chile.
+** Vývoj                                                                :400:
+Mezinárodní Úřad  pro Úplnou a  Asertivní Spolupráci Spojených Států  Místních i
+Zahraničních za Účelem Světového Míru, Obchodu  a Výměny Služeb měl v posledních
+týdnech napilno. Ve světle mizících  učitelů Dvaceti statečných (dvaceti nejvýše
+postavených učitelích v závodě o /nejvyššího vůdce všeho učitelstva) se rozhodli
+provést důkladné  vyšetřování níže  situovaných kantorů přihlášených  do závodu.
+Jejich cílem bylo objevit, kdo z nich může stát za těmito útoky.
 
-Spory se  týkají dvou oblastí: sídla  budoucího nevyššího vůdce a  stavby arény,
-která  byde použita  v  poslední fázi  výběru zmíněného.  V  posledním týdnu  se
-několik KUSů najednou  a zcela nezávisle rozhodlo protestovat  proti oběma bodům
-naráz.
+Pokusy Mezinárodního  Úřadu byly  zcela bez  výsledku na  poli vyšetřovatelském,
+přinesly zato plody  v oblasti jiné. Podrobným zkoumáním míst  3042 až 3990 byli
+objeveni dosud  přehlížení učitelé z  Guatemalských jižních kmenů. Na  rozdíl od
+svých aftických  protivníků, nemají  tito patřičné  doklady potřebné  k doložení
+svého  učitelství. Mezinárodní  Úřad  zahájil další  vyšetřování  do celé  věci,
+posunul ho na dobu neuričtou, protože se právě soustředil na mizející kantory, a
+tváří v tvář  svému neúspěchu se k  nim vrátil s vervou  poražených a odhodláním
+těch, kterým hrozí pokles ve veřejném mínění.
 
-KUS je  označení pro skupinu  kantorů, kteří se  rozhodli spojit síly  v závodě.
-Důvody mohou  být různé -  politická nestabilita, nedostatek  hlasů jednotlivých
-členů nebo  příliš silná konkurence. KUSy  se nesmí zaměňovat s  KBSy, kantořími
-bláhovými společenstvími, která  se zásadně uzavírají mezi  dvojicí kantorů, kde
-se  jeden druhému  zavazuje, že  bude-li zvolen,  vybere si  truhého jako  svého
-pobočníka.  Bláhové  se  jmenují proto,  že  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.  sám
-ohlásil, že pobočníkem může být pouze  někdo z prvních patnácti učitelů, to jest
-těch, kteří  se dostanou do  arény (a přežijí).  KUS je jen  dočasné spojenectví
-dvou a více  osob, založené s cílem  účelné pomoci a vědomím, že  se rychle zase
-rozpadne. Asi jako politická strana. Velká pětka byla jedním takovým KUSem.
+Političtí  odborníci  praví,  že  jejich  zásah do  života  Guatemaly  je  zcela
+pochopitelný. Musí  prý světu  ukázat, že přestupky  proti pravidlům  se nebudou
+tolerovat. Celá situace  je tedy o to  ošemetnější, že nikdo na  Úřadě neví, kdo
+kantory unáší, a nemůže tudíž nikoho potrestat.
 
-Ihned  po vyhlášení  závodu se  Chile  rozhodlo vystavět  vítězi malebné  sídlo.
-Doufalo tak, že zvýší své místo na poli světového oblibu. Architekt Chobroščenko
-Gister-Rotti přednesl své  plány v OSN 22.4. tohoto roku.  Několik KUSů se velmi
-hlasitě ozvalo  na Twitteru, že  s jeho návrhem  principielně nesouhlasí a  že v
-takovém sídle nehodlají žít. Mezi  důvody zařadily například nedostatek prostoru
-pro koňskou dráhu,  nadměrné množství severních zdí a své  přesvědčení, že se na
-ně stavba (v tuto dobu existující pouze v plánech) nepříjemně a vysmívavě dívá.
+„Může se stát,“  řekl Obřísko Šuplijský, „že se dostaneme  k symbolickému trestu
+pachatelů. Úřad si někoho vybere a  potrestáho ho exemplárně, bez ohledu na jeho
+vinu. Co vidíme v Guatemale je jen začátek.“
 
-Ve  stejnou dobu  zveřejnil M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.  své plány  vybudovat
-arénu pod  vodní hladinou v  atolu Usmen  v Atlantiku. Toto  rozhodnutí vyvolalo
-vlnu  pobouření v  KUSech  ze střední  Asie, které  si  stěžovaly na  nedostatek
-finančních prostředků pro  přepravu na místo, alergie na  písečné pláže, kterými
-je  Usmen  proslulý,  a  na  nedostatek  ohledu  na  fakt,  že  některá  tamější
-náboženství  výslovně zakazují  pobývání  pod vodní  hladinou  déle než  dvanáct
-hodin.
+A co že to vidíme v Guatemale? Celkem devět tamních okultních lídrů je podrobeno
+důkladným prověrkám a přezkoumáváním, aby se  Úřad ujistil, že se skutečně jedná
+o učitele.  Vyšetřující si Někdeníku  stěžují na obtížnost svého  úkolu, protože
+M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. nikdy  nestanovilo, co všechno musí  kantor umět,
+aby kantorem byl, a  od kdy je jeho kantorství dostatečné  pro příjem do závodu.
+Tyto otázky měly prý být vyžešeny před jejich přijetím do závodu v minulém roce.
 
-Karlos Žebatý celou  situaci shrnul nejlépe: „Nevím, proč si  stěžují. Stejně se
-tam nedostanou.“
-** Postupy v žebříčku
+Mezi ostatními  kantory se šíří  pobouření. Pan Komenský, jako  seniorní poradce
+Úřadu, se  vyjádřil, že dokud neučí  národ, nemají, co v  soutěži dělat. Obi-Wan
+Kenobi, nejproslulejší spirituální učitel, zastává  názor opačný, a to že jejich
+příspěvky  světovému učení  mohou přinést  potřebnou dávku  osvícení. Profesorka
+McGonagallová se zdrřela komentáře.
+
+Osud  guatemalských rádoby  kantorů je  nejistý. Vše  záleží na  tom, jestli  se
+podaří najít  pachatele únosů. Lidé si  přitom nejsou jisti, že  se tento skrývá
+mezi kantory. Nezbývá, než čekat.
+** Postupy v žebříčku                                                   :400:
 #+BEGIN_EXAMPLE
-1. Jiří Šeiner
-2. Zdenka Lajdová
-3. Jana Horáková
-4. Ludmila Malá
+1. Ludmila Malá
+2. Jiří Šeiner
+3. Dana Kubešová
+4. Dagmar Kolářová
 5. Dušan Rychnovský
-6. Ivo Macháček
-7. Dagmar Kolářová
-8. Hana Mužíková
-9. Dana Kubešová
-10. Martina Rotreklová
-11. Věra Zemánková
-12. Marie Vávrová
-13. Lenka Vývodová
-14. Marta Křenková
-15. Taťána Jakešová
-16. Elisie G’uaun Ebbe
-17. Josef Král
-18. Radovan Langer
-19. Gustav Havell
-20. Jiří Lysák
+6. Martina Rotreklová
+7. Zdenka Lajdová
+8. Věra Zemánková
+9. Lenka Vývodová
+10. Taťána Jakešová
+11. Marie Vávrová
+12. Jana Horáková
+13. Marta Křenková
+14. Hana Mužíková
+15. Elisie G’uaun Ebbe
+16. Josef Král
+17. Ivo Macháček
+18. Gustav Havell
+19. Jiří Lysák
+20. Otakar su-džima a'Líma
 #+END_EXAMPLE
-Nad Der  Weiderhohlle Flüsemschliessem se  stahují metaforická mračna.  Na hradě
-vládne nehostiná  nálada a kantoři  se začali  smykat do hloučků,  kdykoli spolu
-něco probírají. Panuje nevyřčené pravidlo zákazu vycházení po deváté hodině a do
-zahrad  se  odváží přinejmenším  ve  dvojicích.  Hradní televizní  štáb  bedlivě
-monitoruje každý kout, ale až na problémy s vodovodními trubkami na skladě zatím
-neobjevili nic nápadného.
+Zatímco se  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. snaží  zastavit mizení  své autority,
+učitelé  Dvaceti statečných  se  snaží  zastavit mizení  sebe  sama. Po  zmizení
+tehdejšího vůdce  žebříčku, pana Šeinera,  který se  propadl o jedno  celé míst,
+začali společně  stavět bunkr,  do které  se plánují  schovat. Jenpilněji  se na
+práci podílí paní Rotreklová a Malá, které jsou si obě jisté, že útočníci půjdou
+brzy po  nich. Jejich  ustavičné popohánění  ostatních jim  vysloužilo přezdívku
+diktátorky, ale vesměs se zdá býti účinné.
 
-Obyvatelé  Der  Weiderhohlle  Flüsemschliessem  se ale  mohou  radovat.  Všichni
-zmizelí kantoři, Langer, Macháček, Horáková  a nově Mužíková, poznali komplikace
-své nepřítomnosti na poviné tiskové  konferenci. I když jsou technicky vyloučeni
-ze závodu - Mužíková, protože opustila hrad bez dovolení, a ostatní tři, protože
-se  ani   nedostavili  -  technologické   křidlo  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.
-opravuje chybu v systému, a všichni  jsou tudíž stále přítomni v žebříčku. Ústav
-nás ubezpečuje, že do arény času dost, a všechno se zpraví.
+Paní Kubešová ke  své smůle nedokázala využít výhody  poskutnuté svým špehováním
+na  někdejší /Pálkovská  squad/,  a  začase postupně  ztrácet  body. Její  místo
+převzala paní  Malá, nemalou zásluhou  svého vystoupení  na Tlačence, a  ta byla
+následně vynesena na místo první, když Šeiner Kubešovou následoval.
 
-Kantorům  se  i  tak  zachtělo   zvýšit  ochranu.  Počet  bodyguardů  se  zvíšil
-dvanáctinásobně  a  Mezinárodní  ústav  poukazuje,   že  tento  čin  hraničí  se
-shromažďováním  armád.  Paní   Křenková  se  dala  do   debat  obhajujících  své
-rozhodnutí, což ji v žebříčku nijak neprospělo. Naopak paní Jakešová, tvrdohlavě
-odmítající  jakékoli  nebezpečí,  získala  bonusové  body  za  nekonfliktnost  a
-vystoupala o dvě příčky.
+Ostatní zmizelí kantoři se potkávají  se stejným osudem. Macháček zažil největší
+propad - celých  devět míst, ale Horáková ho těsně  následuje. Mužíková ztratila
+dvě příčky, Vávrová rovněž a nejdéle  zmizelý pan Langer byl kompletně vystřídán
+na poli Dvaceti statečných  Otakarem su-džimou a'Límou, severohavajskému učiteli
+tance, kterému dal  Mazinárodní Úřad pět dní k dostavení  se do Der Weiderhohlle
+Flüsemschliessem.
 
-Den nato se porařilo zmizet paní Vávrové. S povolením z vyšších míst si vyšla na
-procházku kolem sídla a už se nevrátila. Její ochranka zmizela také.
+Zde je  nutno podotknout, že podle  stále platících pravidel jsou  všichni dosud
+zmínění zmizelí  vyloučeni z  celého závodu,  ale M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.
+nehodlá  ztrácet  čas  vyřazováním  jejich  jmen z  žebříčku.  Prý  se  postupně
+propadnou sami a nebudou dělat problémy.
 
-Tak zvaná  tlačenka proběhla  v nepřítomnosti pěti  z Dvaceti  statečných. Monte
-Karlos  Někdeník  si  zamluvil  slíbené množství  sedadel  a  položil  přítomným
-kantorům  vámi zvolené  otázky.  Přímý  přenos celé  události  najdete na  našem
-YouTube kanále.
+Mluvíme-li ale  o zmizelích  učitelích, nesmíme  opomenout jistéha  pana Lysáka,
+slavného učitele  tělocviku a dějepisu na  gymnáziu v Hranicích. Na  Moravě. Pan
+Lysák si  vyžádal neplacené  volno od Der  Weiderhohlle Flüsemschliessem  a jako
+důvod uvedl naléhavou  záležitost s hraničkou tělocvičnou.  Ačkoli jeho povolená
+doba nepřítomnosti  ještě nevypršela,  neodpovídá na žádné  pokusy o  kontakt ze
+strany svých  voličů, sponzorů, novinářů  ani Úřadu samotného. Jeho  nejbližší -
+dva   medicimbálové  míče   -  se   domnívají,  že   dostal  vzkaz   od  únosce,
+předstírajícího poruchu  v tělocvičnách, a  byl unesen. Veřejnost  zaplavil stav
+bláznivého nadšení, ale rovněž strachu z budoucnosti závodu.
 
-Za zmínku  stojí tři  zásadní body toho  dne. My se  budeme zabývat  dvěma. Paní
-Kubešová dosáhla  neočekávaného úspěchu,  když odpovídala  na otázku  „Co nemáte
-ráda na matematice.“ Její  odpověd - trojčelenky - jí výstup  o tři příčky. Zato
-Lajdová, kterou  celá akce  otravovala, se nezmohla  na kloudnou  větu. Odradila
-publikum, když vešla do místnosti a oznámila, že všichni smrdí. Dále pak odmítla
-odpovědět přímo  na jednoduché otázky  jako jak se  jí podařilo zajistit  si tak
-dobré místo, když o její kampani veřejnost neví naprosto nic.
-
-Výsledkem  jejího neúspěchu  se stala  rapidní ztráta  sponzorů a  propad o  dvě
-místa, což ale podle odborníků není v žádném případě dost■
+Kdo zůstává  nepříjemně klidný,  je paní Lajdová.  Přesněji řečeno,  její nemalé
+rozhořčení pramení čistě  jen ze ztráty jejích bodů. Zatímco  ona voliče ztrácí,
+paní Rotreklová  je nabírá (ku svě  jistě nemalé radosti) a  momentálně jsou obě
+učitelky vedle  sebe. Na závěr ještě  dodáme, že kromě přehození  Rychnovského a
+Kolářové je v žebříčku docela klidno.
 #+ODT: </text:section>
-** Rozhovor - „Já hodlám být navždy mysteriósní.“
-Paní Malá - velké jméno mezi učiteli.  Její nesmírná pověst jí předchází nejen v
-někdeníku,  nýbrž   i  mezi  voliči   a  sponzory.  Velikost  jejího   ducha  je
-nepopiratelná. V  dnešním čísle odhalíme  některá z jejích  ohromných soukromých
-tajemství, a mnoho dalšího.
+** Rozhovor - „“
+
 #+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
-*Jak jste se cítila, když vám nařídili zbavit se své armády a opustit svá sídla*
-*v Asii?*
-
-Byla  jsem trochu  zaskočená. Bez  své armády  po boku  se rozhodně  necítím tak
-jistě.  Také se  mi stýská  po mích  malebných sídlech  v Asii.  Ale tady  v Der
-Weiderhohlle Flüsemschliessem  mám velmi milou  společnost. A také  velmi dobrou
-ostrahu.
-
-*Strupe  Slýme  vybar-Víme  hrálo  zásadní  roli  ve  válce  s  Pálkovskou.  Jak
-*spokojena* jste byla s tím, že bylo použito takovým způsobem? Nepřipadá mi jako
-*válečné* sídlo, a muselo čelit dlouhému obléhání panem Lysákem.*
-
-Byla jsem  velmi potěšena,  že se  jedno z  mých sídel  stalo jaksi  díky tomuto
-konfliktu místem významné historické události.  O prázdninách, až skončí všechna
-omezení, začnu tam pořádat turisticé zájezdy. Vydělávat na tom.
-
-*Obranou  vašeho  sídla  byla  pověřena   paní  Rotreklová.  Necítíte  se  nějak
-vynechána?*
-
-Ne. Paní Rotreklová ho myslím ubránila dobře. Nemám, na co si stěžovat.
-
-*Jak reaguje vaše rodina na vaše vysoké ambice?*
-
-Kdybych neměla takové ambice, tak by mě k tomu stějně donutili.
-
-*Jakou podporu jste od nich dostala?*
-
-Ujistili mě, že neprodají má sídla, kdybych náhodou v aréně padla.
-
-*Co s nimi hodlají dělat? Také vydělávat?*
-
-No samozřejmě. Ani netušíte jak.
-
-*Jakou nadiji si dáváte, prosím realisticky, na vítězství?*
-
-Naděje umírá  poslední, v  tomto případě  až přes mou  mrtvolu. Naději  si dávám
-velkou. Chtěla bych závod vydržet s optimismem  a veselou myslí, ale jsou to jen
-naděje, takže...
-
-*Kdo je váším nejoblíbenějším umělcem všech dob?*
-
-To budu asi já. Nebo Mozart.
-
-*Od začátku  závodu jste byla poněkud  uzavřená a schraňovala si  své soukromí.*
-*Změnilo se něco, nebo hodláte být nadále mysteriózní?*
-
-Já hodlám být navždy mysteriózní.
-
-*Řekněte nám přesto něco, co o vás vaši voliči můžou vědět, co ještě neví.*
-
-Myslím, že  se nic  nestane, když  prozradím, že  jako malá  jsem si  v hodinách
-fyziky na gymnáziu hrávala piškvorky.
 *** Kampaň
-*Naše průzkumy  ukazují, že investujete  mnoho času a energie  do shromažďování*
-*renesančních maleb. Objasníte  nám, jak je hodláte využít pro  boj s ostatními*
-*kantory.*
-
-Ale to vůbec  nebude sloužit k boji.  To bude pouze taková drobná  galerie v měm
-sídle. Její finanční výsledky pak samozřejmě vhodně využiji.
-
-*Jste momentálně na třetím místě v žebříčku. Čemu vděčíte za takovou pozici?*
-
-Svým voličům a sponzorům.
-
-*Těsně pod  vámi se nachází  Lajdová. My se  poslední dobou ptáme  skoro všech,*
-*jestli si její úspěchy dodevou vysvětlit, vzhledem k tomu, že je veřejně zcela*
-*neaktivní. Dovedete to nějak vysvětlit vy?*
-
-Do  toho bych  se raději  nepoštěla. Já  bych se  vůbec do  paní Lajdové  nerada
-pouštěla. Ona by si to také potom mohla vzít osobně.
-
-*Dá se říct, že se bojíte paní Lajdové?*
-
-Spíše nechci vyvolávat zbytečné konflikty.
-
-*Nedávná zmizení jistě  změnila život v Der  Weiderhohlle Flüsemschliessem. Jaká
-*je* nálada mezi učiteli?*
-
-Pořád celkem  dobrá. Víte,  na jednu  stranu se mezi  kantory vkrádá  strach, na
-druhou starnu je tu  ale radost z toho, že ubívá  konkurence. Zatím byli unášeni
-kantoři z předních příček.
-
-*Jak to zasahuje vás? Bojíte se?*
-
-Bojím? Ne,  to ne. Spíše bych  ráda přišla na  to, kdo za únosy  stojí. Rozhodně
-tomu budu věnovat svůj čas a úsilí.
-
-*Jak si zmizení vysětlujente?*
-
-Víte, mám několik teorií. Žádná se mi ale ani trochu nezamlouvá.
-*** Random otázka dne
-*Souhlasíte s výrokem, že čtení je zírání na mrtvý strom zatímco halucinujete?*
-
-S první polovinou ano, s druhou ne.
 *** Rychlá střelba
-*Kdo je vaším nejoblíbenějším učitelem?*
-
-To budu zase já.
-
-*Jak porazíte ostatní kantory v aréně?*
-
-Drtivě.
-
-*Rychnovský, nebo Plžková?*
-
-Plžková.
-
-*Co jste udělala s Horákovou?*
-
-Já? Nic.
-
-*To  byla  taková... Já  to  chtěl  jenom zkusit.  Pardon.  Co  jste udělala  s*
-*Macháčkem?*
-
-Já? Nic.
-
-*To byla taková... Já to chtěl jenom zkusit. Pardon. Jak se budete bránit proti*
-*rostoucí hrozbě únosu?*
-
-Já? --
 *** Korespondence
-*Do Monte Karla nám zavolala paní Stružíková z Prahy. Paní Stružíková se řekla:*
-
-*V bulvárních  časopisech se  v posledních týdnech  objevily zprávy,  že nejste*
-*spokojena  s výukou  ve  své  škole. Zdroje  jsou  to  nespolehlivé, ale  vaše*
-*nesouhlasné reakce na jistá rozhodnutí vedení jsou všeobecně známá.*
-
-*Zajímalo by mě, co si skuteně myslíte o vedení svého gymnázia.*
-
-Vedení našeho  gymnázia mi  připadá velmi  nezodpovědné a  hlavně v  tuto chvíli
-nezvěstné. To je  vůči žákům velmi nefér, teď, kdy  celá výuka probíhá distanční
-formou. Takovýto neomluvitelný krok - přihlásit se do přestižního závodu a potom
-to takto nezvládnout... To mi připadá jako skandální zklamání.
-
-*Myslíte, že byste dokázala odvést lepší práci?*
-
-Pevně v to doufám.
 *** Závěrečný proslov
-*Vaši  voliči  se  jistě  bojí  o  vaše  zdraví.  Ujistěte  je  svým  závěrečným
-*proslovem,*  jakýmikoli  prostředky uznáte  za  vhodné,  že vám  nehrozí  žádné
-*nebezpečí.*
 
-Kromě mě  je zde  ještě osm  tísíc dalších  kantorů. I  tady v  Der Weiderhohlle
-Flüsemschliessem je poměrně velký výběr. Já bych byla velice nepříjemný rukojmí.
-Myslím si, že by mě nikdo nechtěl unést...
 #+ODT: </text:section>
-** Hodnocení odborníka
+** Hodnocení odborníka                                                  :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
-Paní Malá je mi nepříjemnější než suchý sokol na kamenitém koláči. Je to ten typ
-člověka, který vás  uchvátí svými roztomilými, barevnými,  suchozemskými sliby a
-nechá vás ve stavu zoufalé anestezie, když  odejde a vy si uvědomíte, že vlastně
-nic neřekli a ani nevíte, o čem se mluvilo.
 
-Jsou  zde  jisté věci,  které  mohu  pochválit.  Její iniciativa  pro  vyšetření
-učiteslkých zmizení je chválihodná, ačkoli stejně jako Achiles před horou v dáli
-stojí, může se  jí tento plán vymstít časem ztraceným  jeho prováděním. A ačkoli
-je osvěžující vidět kantora s dostatkem  zdravého rozumu, aby se aktivně věnoval
-problémům současné společnosti, její selhání  na poli politickém způsobilo malou
-či  žádnou podporu  jejího odhodlání,  což je  něco, co  strpím ještě  méně, než
-kopilečník struhou mašli.
-
-K dalším  pozitivním vlastnostem,  které nemohu  opomenout, patří  její naprostá
-láska k  penězům. Malá chápe, jak  se věci mají  ve světě politiky, i  když sama
-není schopná této  znalosti využít, a připravuje se na  velký střet budoucnosti.
-Za to  ji chválím. Ale opět  nacházím problém s jistými  aspekty jejího postupu.
-Konkrétně mám na mysli její sbírku renesančních maleb.
-
-Několik týdnů  slinila veřejnost  jako pes z  vrtačky vystřižený  nad prospektem
-nějakého velkého plánu, něčeho  úžasného. Malá o tom slyší a  místo toho, aby si
-něco na  místě vymyslela,  což by  ji vyzdvyhlo  v očích  veřejnosti, a  tudíž i
-sponzorů, přijde  s takovou  nicotnou blbostí  jako výstava.  A co  je nejhorší,
-tváří  se, že  nic  lepšího s  tím  dělat nejde!  RENESANČNÍ  MALBY MAJÍ  STOVKY
-ÚTOČNÝCH VYUŽITÍ!
-
-Nejvíc mě ale  štve, jak vlezlá je. Odevzdat sídlo  Rotreklové jí nevadilo. Její
-rodina ji  dotlačila do závodu  a ona to ani  nepřizná. Mozartovi leze  do sena.
-Nesnesitelné. Říká:  „Já bych byla velice  nepříjemný rukojmí.“ Ano. Ano,  to by
-byla. Mimochodem, všimli  jste si, jak odbyla poznámky o  Lajdové? Vlezlá, vždyť
-to říkám. Někdo by se tím měl zabývat.
 #+ODT: </text:section>
-* Korespondent - 
+* Korespondent - Welcome to Moon!
+Převzato z nezávislého extranetového serveru B-S ENQUETE
+
+Když jsem před šesti týdny nalezl ve schránce pozvánku na otevření nového bistra
+Moonlight se slibným názvem „Easter on  the Moon“, nebyl jsem nadšený. Ano, byla
+pocta  ocitnout se  ve  dvacítce gurmet-reportérů,  vybraných  k účasti na  této
+mimořádné  události, a  bylo úžasné  představit  si cestu  na odvrácenou  stranu
+Měsíce,  kam jsem  se  vždy  toužil podívat,  ale  z pocty  samotné nakonec  nic
+příjemného  nekouká,   nemáte-li  čas,   peníze  a   koneckonců  ani   moc  chuť
+k zajišťování všech  náležitostí, které  s cestou na  Měsíc souvisí.  Kdo jednou
+prošel martyriem shánění a ověřování  všech potřebných dokladů a potvrzení, věru
+se do nich nežene podruhé – a moje propustka, kterou jsem před lety získal kvůli
+letu  na restaurační  základnu  Brillat-Savarin  na Mysu  Bec  fin se,  bohužel,
+ukázala  bezcennou,   neboť  servisní   společnost  Dossier,   patřící  majiteli
+Brillat-Savarinu,  exterestrickému gastropodnikateli  André  Béovi, odmítá  dané
+dokumenty předat jakékoli třetí straně.
+
+Naštěstí mezinárodní vesmírná  agentura GASA nám byla ochotna pro  let na Catena
+Lucretius,   kde   je   nové   bistro  situováno,   udělit   výjimku   z většiny
+administrativních i  zdravotních pravidel.  Od této neobyčejné  benevolence GASA
+neustoupila  ani po  obvyklých protestech  André Béa,  jenž si  již dlouhá  léta
+pěstuje  v centrále  GASA vlivovou  pozici,  zastiňující  i pravomoci  samotného
+jejího šéfa; jádrem roztržky mezi vesmírnou agenturou a předním transgalaktickým
+investorem se ukázal  být, jako obvykle, střet Béových  podnikatelských zájmů se
+zájmy agentury, která se v posledních  letech usilovně snaží rozbít Béův solaire
+gastromonopol, čehož důkazem je,  koneckonců, samo zprovoznění bistra Moonlight.
+Tento  malý,  ale   sympatický  podnik  patří  dosud   málo  známému  anglickému
+podnikateli Bamesi Jondovi, který  je sice v oboru solaire-gastronomie naprostým
+začátečníkem, ale jehož minulost je provázena množstvím těžko uvěřitelných mýtů,
+legend  a dobrodružných  příběhů, o  nichž si  ani nejzasvěcenější  kruhy v GASA
+nejsou jisty, nakolik  mohou být odrazem skutečnosti a nakolik  dílem odvážné PR
+strategie.  V kuloárech  se proto  nikoli  náhodou  v souvislosti s  vybudováním
+Moonlightu šeptalo, že GASA se  konečně povedlo najít na podnikatelskou aroganci
+a neotřesitelnou pozici André Béa protiúder náležitého kalibru.
+
+Nevelká lunární  provozovna, poskytující  jednoduché , ale  poctivé občerstvení,
+byla v jihovýchodní části vnějšího valu  kráteru Hertzsprung na odvrácené straně
+Měsíce, vybudována s finančním přispěním  britské společnosti Universal Exports,
+pro  niž  Bames   Jond  v minulosti  pracoval  a  která,  jak   se  ukazuje,  má
+v exterestrickém byznysu velké plány.  Propojení solidnosti britského kapitálu a
+svobodomyslného podnikatelského  ducha připravuje  návštěvníkům již  při příletu
+řadu příjemných překvapení od portrétu  britské panovnice nad vstupem po placení
+výhradně britskými librami. Provozovatelé bistra vsadili i v jiných aspektech na
+kvalitu a tradici: obsluhu obstarává výhradně mužský personál, v nabídce nechybí
+lojový pudink a nápojovému lístku vévodí pravý lapsam se smetanou, servírovaný s
+original  scottish   shortbread.  Ubytovací   kapacity  Moonlightu   jsou  zatím
+limitované,  poskytují však  dostatek  soukromí a  pohodlí. Pokoje,  designované
+v duchu  edwardovské estetiky,  jsou  vybaveny vším  dostupným komfortem,  který
+naznačuje další možnosti rozvoje.
+
+Jak ukázala mezinárodní vernisáž bistra Moonlight, André Béovi v prostoru, který
+až dosud považoval za své výsostné působiště, vyrůstá zdatný protivník. Byl by o
+to zdatnější,  pokud by se vyplnily  pokradmu šířené zprávy, jež  se objevily po
+zdárném  uvedení podniku  do  provozu, že  za rok  v dubnu  zde plánuje  britská
+panovnice Alžběta II. oslavit své 134. narozeniny. André Béovi by se tak konečně
+postavil  soupeř,  který  by  –  po  dlouhých desítkách  let  –  mohl  být  jeho
+exterestrickému monopolu skutečně nebezpečný.
 * Lifestyle
-Módní sekce Monte Karlos Někdeníku vám  přináší Karlosův výběr z módní přehlídky
-v Kazachstánu.
+Módní sekce Monte Karlos Někdeníku vám přináší 
 
-[[file:photos/dwarf.JPG][dwarf]]
-
-Začínáme  jednoduše.  Trpaslík je  moderní  experimentální  vymoženot pro  mladé
-bankéře. Vhodný  pro obchodní  záležitosti každodenního  typu, zejména  pro muže
-vyšší postavy. Neakceptovatelná pro ženy.
-
-[[file:photos/overreach%201.JPG][overreach]]
-[[file:photos/overreach%202.JPG][overreach 2]]
-
-Kontroverzní Převis se značí nutností  pro jistou samolibost nositele. Ještě při
-přehlídce  si vysloužil  přezdívku Kardashian.  Sedí dobře  na svalnatém  těle s
-menší mozkovou kapacitou, neboť vizuálně přidává obvodu hlavy.
-
-[[file:photos/cap.JPG][cap]]
-
-Instantní  miláček  fanoušků   sportu.  Kšiltovka  se  ujala   mezi  dvaceti-  a
-třicetiletými  velmi  rychle  po  svém představení  a  baseballové,  hokejové  a
-curlingové stadiony jsou dnes zaplněny tímto módním trendem.
-
-[[file:photos/daredevil.JPG][daredevil]]
-
-A  na  konec  jsme  si  nechali Batmana.  Odvážný  nápad  propagovaný  španělkou
-princeznou  Leonor.  Jeho   použití  se  stále  probírá   na  světových  módních
-konciliích, ale Monte Karlos si nemohl dovolit jej zde nezmínit.
 * Vyšetřování
 ** Dokumenty
-H. Mužíková
-- Zmizela 10.4.2020
-- Zrovna, když novináři hlídali Šeinera.
-- Musela věřit svému únosci.
-- Byla s ním domluvená?
+** _Část první: Nepřítel za branami_
+*** 
 
-M. Vávrová
-- Zmizela 22.4.2020
-- Neunesli ji zevnitř, ale zvenku komplexu.
-- Vyšla na procházku kolem hradu, když se unášejí kantoři.
-- Mohla by být tak blbá?
-** _Část druhá: Nečekaná spojenectví_
-*** 22.4.2020
-Tohle je  všechno na  houby, tohle  to. Jednoho  učitele unesou  zdejší ochrance
-přímo pod  nosem a druhej si  řekne: „Helemese, jaký zatraceně  krásný večer. Je
-čas na  procházku!" Učitelé  pitomí. Kdo  to má hlídat,  když to  dělá takovýhle
-hovadiny?
-*** 25.4.2020
-Po Vávrový ani stopa. Prohlídl sem si  místo, kde jí sebrali, ale nic. Musel sem
-se na to koukat dalekohledem z vrcholku  zdi, protože kdybych vyšel z DWF, už mě
-sem nepustěj, ale i tak.
-
-Měla údajně dvanáct  bodyguardů. Spolehliví chlapíci, to vám povim.  Zmizeli i s
-ní. Možná měl někdo z nich v únosu prsty.
-*** 27.4.2020
-Malá se  zamkla u sebe v  pokoji. Včera se vrátila  z Monte Karla, ještě  sme jí
-viděli  na večeři,  a dneska  ani nevyšla  z pokoje.  Je tam,  spustil sem  se z
-hydrantu na  střeše a  ujistil se, že  jí neunesli. Sedí,  něco čte,  něco píše.
-Zatracená ženská.
-
-Jak sem šplhal  nahoru, viděla mě ochranka. Vystřelili po  mně, ale naštěstí sem
-byl tři sta metrů nad zemí, takže  se netrefili. Kdyby byli schopný něco udělat,
-tak bych se  staral o to, že  si budou myslet, že  sem jí chtěl unýst  já. Ale s
-těmahle parchantama nemam obavy.
-*** 29.4.2020
-Sedim v archívu a prohlížim  si dopisy z a do DWF. No, tak  se to nesmí. Tady se
-sakra vyšetřuje. Žalujte mě.
-
-Ze záznamů čtu, že  Malá dostala včera dopis ještě před snídaní.  Co v něm bylo,
-že se naší mladé paní zachtělo  nevycházet z pokoje? Výhuržka? Nebo pokyny, koho
-má unýst dál? Mohla by bejt zapojená do únosů a takhle veřejně to ukazovat?
-
-Proč ne? Lidi sou pitomí.
-*** 30.2020
-Dvacet  zatracenejch hodin  zatracenýho zírání  do ušmudlanejch  starech papírů,
-bolaví záda a  voči, přesezená zadnice a  nic! /Vykašlat/ bych se na  to mohl. Z
-dopisů sem nic nezjistil. Dostal sem ale nápad.
-
-Jestli Malí vyhrožujou, možná vyhrožovali  i ostatním. Vávrový nic nepřišlo, ale
-možná pachatel nečekal, že jí unese, dokud mu nevlezla pod nos.
-
-Začal  sem  prohledávat  veřejný  záznamy.  Televizní  vystoupení,  roznovory  v
-novinách,  komenty  na  Twitteru.  /Twitter!/ Pche!  Kdo  to  vymyslel,  takovou
-kravinu?  Jako  bysme  neměli  dost  názorů lítajících  z  hub  každýho  druhýho
-zatracenýho chytráka. A kdo jinej než já by se nechal zatáhnout do práce, kde se
-tim musí  člověk prohrabávat jako kompostem  a hledat tam jednu  shnikou okurku.
-Zatracená práce.
-*** 1.5.2020 - 10:00
-Něco sem objevil. Už bylo sakra na čase. A kdo jinej než moji zaměstnavatelé, že
-jo?  První učitel,  kterýho  pozvali,  byl Langer.  Ten  dostal v  korespondenci
-následující:
-
-#+BEGIN_EXAMPLE
-...
-
-Jak dlouho si myslíte, že vás před námi vaše pozice uchrání? Jistě ne věčně...
-
-S pozdravem,
-
-Eliška Oslová, generální ředitelka ústavu pro duševně neschopné a kultovní hlava
-Sekty nesplněné pomsty
-#+END_EXAMPLE
-
-A pak zmizel. Horáková dostala dopsi s timhle:
-
-#+BEGIN_EXAMPLE
-...jako výraz  úcty si dovolujeme poslat  vám přiložený pH papírek  s nadějí, že
-jej budete  ve jménu všech  svých podpůrců  nosit při nevyhnutelné  bitvě s paní
-Pálkovskou.*
-
-S přáním  světlé budoucnosti, pan  a paní Kunderovi,  zaměstnanci ÚDN a  hrdí a
-praktikující členové SNP.
-#+END_EXAMPLE
-
-Horáková slíbila, že papírek bude mít na  sobě. Karlos se zeptal, jestli ví, kdo
-je ÚDN a  SNP, ale to vona ne. Ale  já to vim. Co čučíte, co?  Ústav pro duševně
-neschopné (ÚDN) a Sekta zatracený  nesplněný pomsty (SNP). Horáková měla papírek
-na sobě a zmizela v den svýho  tak slavnýho vítězství. Co lidi slavěj na takovym
-masakru nemam ponětí.
-
-Mohl mít  ten papírek nějakej sledovač?  GPS? GGL? ODS? TOP-09?  Možná jí takhle
-našli v Novym Dilí a sebrali jí.
-
-Macháček nic nedostal, ale ten nebyl v  Monte Karlos. Víte ale, kdo něco dostal?
-Šiener. Karlos měl trochu problémy to přečíst, ale tady to je:
-
-#+BEGIN_EXAMPLE
-Vážený a milý..., přijměte  prosím naše srdečné pozvání na...
-v Karolíně, osmého čtvrtý v....
-
-...jako ctěná návštěva na počest...
-
-Mnohokrát vám děkujeme za odpověď a těšíme se na shledanou.
-
-Manželé Kubřínovi,
-
-UDN
-#+END_EXAMPLE
-
-A zatimco  byl ten starej dědula  na bále v  Karolíně a všichni ho  tam hlídali,
-včetně mě, do prkýnka zatracenýho, vkradli se do DWF a sebrali Mužíkovou.
-
-Že bysme měli pachatele? To se mi nezdá. Ještě je na to nějak brzo. Ale stopa...
-Zatracená stopa. Těch stop už mam po krk. Stopa sem, stopa tam a Danieli skákej,
-jak pískáme. Ještě, že končim, jinak bych se s tim musel zabejvat ještě dýl.
-*** 1.5.2020 - 16:40
-Sedim v místní kavárně a popíjim kafe. Ne, jasně, že nepopíjim kafe! V kavárně?!
-Jako bych  na to měl čas!  Ne v kavárně, na  zadku v archivu sedim  a makám jako
-prase.
-
-Dělám si  záznamy o  ÚDN a SNP.  Hledám na internetu,  hledám v  knihách, hledám
-všude.
-
-Někdo si ke mě přisedne. Podivám se a vidim Rotreklovou.
-
-"Můžu vám pomoct?" zeptám se. Jako bych jí chtěl s něčim pomáhat. Zavrtí hlavou,
-že prej  chce ona pomoct mě.  "Jak," zeptám se.  Chvíli mlčí. Dívá se  po stole.
-Poznámky rozházený vlepo vpravo. Kdyby se tak starala o sebe.
-
-"Chtěla jsem vám pomoct s tím vyšetřováním."  To mi vyrazí dech. Pomoct? To víš,
-že jo,  ty káčo  pitomá. Prej  mě viděla,  jak lezu  Malý od  okno. Dvě  věci mě
-napadnou.  1) Hurá,  našel sem  někoho chytrýho  v týhle  smradlavý, dementností
-přeplněný  díře. 2)  Zatraceně, našel  sem  někoho chytrýho  v týhle  smradlavý,
-dementností přeplněný díře. Jestli měl někdo mít inteligenci tohle zorganizovat,
-musel jí mít hodně. Dívám se tu na svýho zrádce?
-
-"Lajdová je nebezpečná,"  řekne. Jako bych to  nevěděl. I když, když  se nad tim
-tak zamyslim,  to slyšim poprvé.  "Nikdo neví,  kde sebrala svoje  body." Hezkej
-pokus, holčičko,  ale Lajdová  byla jedna z  těch, který se  hádali v  noci, kdy
-zmizela  Mužíková. Nemohla  u toho  bejt v  konferenční místnosti.  Nech laskavě
-dedukce na profesionálech.
-
-Ale možná  to Lajdová udělala  nějak chytře. Nebudu  jí vyřazovat. A  tuhle nánu
-vlezlou, tu si nechám. Může bejt užitečná.
-*** 2.5.2020 - 14:00
-Je tu tlačenka. Ze všech koutů světa se sjeli novináři a významní hostě. Přepych
-z nich  čiší jako z voda  z kašny. Slušné vychování,  vytříbené chování, zkrátka
-vyšší třída. Blbci zatracený.
-
-Sedim v řadě  a poslouchám. Už přišlo  několik učitelů. Ptali se  jich na takový
-blbosti, že sem se ani neodvážil je poslouchat. Vidim Lajdovou. Tak prej všichni
-smrdíme, aspoň podle ní. Ta má, co  řikat. A já nejsem žádnej politik, ale tahle
-vypadá, že  neumí ani  poskládat srozumitelnou větu  dohromady. Ale  musim dávat
-pozor, když je teď ta podezřelá.
-
-Zezadu mi  někdo poklepe na rameno.  Co po mě kdo  zase chce? Nechte mě  hádat -
-spletli  si mě  s Michalem  Jacksonem a  chtěj autogram.  Před tvaceti  lety sem
-stoupnul jejich kočce na ocas a teď si to chtěj vyříkat. Moje zatracený štěstí.
-
-Je to  nějaká ženská, kterou sem  v životě neviděl. "Odpovídat  takhle pitomně,"
-ukáže na  Lajdovou, "to je  horší než kdyby se  oslí vejce křepelilo  na sluncem
-rozpálené ústavě. Ta to nedotáhne dál, než kolibřík vodovod dohodí."
-
-Co že sem řikal o těch chytrejch lidech?
-
-"Olšana  Kupé,"  představí  se,  jako  bych   to  méno  měl  znát.  Prej  nějaká
-recenzentka. Pracuje pro Karlose,  ale kdo dneska ne? A to  mam bejt v zatracený
-anonymitě.
-
-Ptá se  mě, jestli vim, co  se děje s Malou.  Rači zavrtim hlavou, než  abych jí
-něco prozrazoval. Ale taky nevim, co bude dělat. Tlačenka je povinná.
-*** 2.5.2020 - 15:10
-Skoro všichni už se vystřídali. Rotreklová  chybí, ale před chvílí tu byla. Malá
-se neukázala. Šeiner  právě skončil, sestupuje z hlediště a  zachází do čekárny.
-Kupé sedí porád vedle mě. Nakonec spolu nějak vycházíme. Já jí neposlouchám, ona
-pořád mele a nečeká, že budu odpovídat, a voba sme spokojený.
-
-Otevřou se dveře.  Do místnosti vejde Malá a Rotreklová,  prakticky ruku v ruce.
-Novináři po  nich skočej,  jako po  čerstvě vytesaném humrovi.  Tak mi  to aspoň
-popisuje Kupé.
-
-Rotreklová dovede Malou na pódium a vzdálí se. To bude zajímavý. Vysloveně hořim
-nadšenim. Nemůžu se zatraceně dočkat.
-
-Malá vytáhne  papír a ukáže nám  ho. Nemůžeme to přečíst,  protože ten chytrolín
-tim mává ze strany na stranu a pak to strčí zpátky do kapsy.
-
-"Domnívám  se,  že  někdo  se  cíleně snaží  zlikvidovat  zbytky  Velké  pětky."
-Místností to  zašumí. "Já a kolegyně  Rotreklová jsem jediní, kteří  zbyli. Před
-několika  dny  jsem  obdržela  tento  dopis, vyhrožující,  že  budu  unesena,  a
-Rotreklová dostala podobný dnes."
-
-HA! Kdo to řikal?  Já sem to řikal! Já sem to /zatraceně/  řikal! Jenže to situaci
-akorát tak zhoršuje.
-
-Dovnitř se nahrne  prakticky celá pitomá ochranka na hradě.  Každej novinář zírá
-na Malou, kažkej bodyguard prohledává novináře a hledá útočníka. Jako by po Malý
-někdo vystartovat takhle před kamerama.
-
-Ale kde  je Rotreklová? V  čekárně s dalšíma kantorama,  řekl bych. Seberu  se a
-vyběhnu ven. Jestli chcete sebrat skupinu  učitelů, nechte pozornost na jednom z
-nich, nahrntě ostatní na jedno místo a máte to.
-
-Běžim  jako nějakej  /pes/ běžící.  Vpadnu do  čekárny s  kusem pouliční  lampy,
-kterou sem  cestou utrhl,  připravenym k  útoku. Ale  nic se  neděje. Rotreklová
-stojí uprostřed místnosti, nějakejch pět, sedm učilů kolem ní.
-
-"Oba dopisy  podepsali jako  SNP," žvaní  Rotreklová. "Myslím,  že to  je nějaká
-skupina, která nás unáší."
-
-"Ticho!" zařvu na ní. Ještě mi rozkecá tejden těžký práce pachateli. Děkuju všem
-bohům, že zmlkne.
-
-Rozhlídnu se kolem. Ostatní se na mě koukaj jako na vola. Volové.
-
-"Kde je Šeiner?" Nikdo neví. Nikdo zatraceně neví.
-*** 2.5.2020 - 19:50
-Šeinera sme nenašli.  Cestou ven prohledali všechny novináře,  jestli ho náhodou
-nesebrali, ale toho dědka starýho si můžete strčit do kabelky.
-
-Zmizel mi  další. Zatracená, pitomá, stupidní,  zatracená práce na nic.  Ale mam
-jméno - Eliška Oslová. To bude něco.
 * Poznámky
+
+[fn:1] Neberte mě špatně. Já nejsem materialista. Můj nejlepší přítel ze střední
+školy byl  kus chodníku. Ale když  si ti asfalti nedovedou  uvědomit, jakou čest
+jim nabízíme, když je necháváme pro nás pracovat, co mám dělat?
