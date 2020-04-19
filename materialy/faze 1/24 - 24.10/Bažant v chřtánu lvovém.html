@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>MONTE KARLOS NĚKDENÍK</title>
+<meta name="generator" content="Org mode" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">MONTE KARLOS NĚKDENÍK
+<br />
+<span class="subtitle">Bažant v chřtánu lvovém</span>
+</h1>
+
+<div id="outline-container-orgb16fe6e" class="outline-2">
+<h2 id="orgb16fe6e"><span class="section-number-2">1</span> 24/2019</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+Ročník XXVIIII<br />
+</p>
+
+<p>
+<b>Adresa redakce:</b><br />
+Karlosova 77, 000 03 Monte Carlo 4<br />
+</p>
+
+<p>
+<b>E-mail:</b><br />
+EmailNoReply@server.mok<br />
+</p>
+
+<p>
+<b>Zákaznická linka:</b><br />
+0004 892 223 03E<br />
+</p>
+
+<p>
+<b>Šéfredaktor:</b><br />
+Alžběta Ašelová<br />
+</p>
+
+<p>
+<b>Manažer redakce:</b><br />
+Jiří b&rsquo;Ačkora<br />
+</p>
+
+<p>
+<b>Zástupce šéfredaktora:</b><br />
+Hobbo Habán<br />
+</p>
+
+<p>
+<b>Fotograf:</b><br />
+Alexandra Dimitrij von Dieseldorf<br />
+</p>
+
+<p>
+<b>Grafická úprava:</b><br />
+Tara Kočí<br />
+</p>
+
+<p>
+<b>Obrazová redakce:</b><br />
+Honza Kůň<br />
+</p>
+
+<p>
+<b>Rozhovor:</b><br />
+Karlos Žebatý, Lubomír Lečko<br />
+</p>
+
+<p>
+<b>Politická recenze:</b><br />
+Olšana Kupé<br />
+</p>
+
+<p>
+<b>Editoři:</b><br />
+Antonín Obsenblesprk, Šimon Balabán, Lobor Sko&rsquo;madženta<br />
+</p>
+
+<p>
+<b>Zahradník:</b><br />
+Mário Luigi<br />
+</p>
+
+<p>
+<b>Vydavatel:</b><br />
+Monte Karlos Inc. a. s.r.o. a spol©<br />
+</p>
+
+<p>
+<b>Brand manager:</b><br />
+Karlos Žebatý<br />
+</p>
+
+<p>
+<b>Sociální poradce:</b><br />
+Lightningh Danger<br />
+</p>
+
+<p>
+<b>Sociální podpora:</b><br />
+Anna Oleš<br />
+</p>
+
+<p>
+<b>Inzerce:</b><br />
+Many Hrabal<br />
+</p>
+
+<p>
+<b>E-shop:</b><br />
+nakupsisam.cz<br />
+</p>
+
+<p>
+<b>Tiskne:</b><br />
+individuálně<br />
+</p>
+
+<p>
+<b>Korespondent:</b><br />
+</p>
+
+
+<p>
+<b>Rozšiřují:</b><br />
+google.com<br />
+</p>
+
+<p>
+<i>Monte Karlos Někdeník</i> byl založen skupinou černých nosorožců afrických v létě roku 1989. Jeho stránkami byly poznamenány takovými autory jako Alexandr Malinovský, Jack O&rsquo;Clock a Veronika Oškalová a všeobecnému ohlasu se těší již třetím rokem pod brilantním vedením šéfredaktorky Alžběty Ašelové©. Stojí na železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po prachbídné korespondenty se řídí všestrannými, nesmrtelnými pravidly slušného chování.<br />
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgb410376" class="outline-2">
+<h2 id="orgb410376"><span class="section-number-2">2</span> Editorial</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Populární valašská lidová píseň z dvanáctého století praví:<br />
+</p>
+
+<p>
+Já chtěl bych jet do Dubaje,<br />
+a neb tam malá zima je<br />
+tak i přes všechny výdaje<br />
+tam tvoje zloba roztaje<br />
+na všechny strany volaje<br />
+až motor lodi dohraje.<br />
+Tam rozběhneš se do kraje<br />
+ten čistý vzdoušek lokaje,<br />
+ač povědomí nemaje,<br />
+jak moc já chci do Dubaje.<br />
+</p>
+
+<p>
+Uznávám, mnoho smyslu to nedává, ale pořekadlo je to pěkné. Dnešní vydání jsem se rozhodla začít těmito nezvyklými verši, protože ve své všeobecné snaze uvést čtenáře do naprostého pohodlí je nutné, abych ho připravila na opravdu nezvyklé číslo. Jak se vyjádřil Karlos Žebatý, volby jsou v plném proudu. Pokud jste si mysleli, že Langer zažil nepříjemný pád, počkejte, co pro vás mají nejnovější zprávy.<br />
+</p>
+
+<p>
+Dokud mluvíme o volbách, rozhodla jsem se zavést nový pravidelný segment <i>Hodnocení odborníka</i>, do kterého se mi povedlo z důchodu povolat Olšanu Kupé, třiaosmdesátiletou politickou poradkyni a recenzentku na poli Evropské Unie a Západního Protektorátu a osminásobnou držitelku řádu Svatého Osla. Jakožto nejzkušenější odborník, kterého si může svět přát, bude neocenitelnou pomocí všem kandidátům doufajících se poučit z chyb svých možných nadřízených. Bude-li o její názory velký zájem, pověřím Karlose, aby s ní udělal rozhovor a ze všech stran ji rozcupoval, jak to jen Karlos nejlépe umí.<br />
+</p>
+
+<p>
+Lubomír Lečko se opět vytáhl - celebrita mu tentokrát do pořadu přišla. Bohužel pro ni. Ale nezlobte se na něj - on za to nemůže&#x2026;<br />
+</p>
+
+<p>
+Mimo to jsem nadšena, že jako obvykle přinášíme aktuální zprávy z celého světa - dnes je na pořadu Velká Británie, kde se teroristé pokoušejí připravit nás o naši svobodu, ale v rámci kolektivního ducha a soudržného vědomí jim nesmíme dát tu šanci. Američané měli za svou chabou existenci jeden dobrý nápad - ukázat jim, co jsme my západští zač. Natočili totiž televizní soutěž, ve které se každý týden hrálo o vodní scooter. A když ho nikdo nevyhrál, byl tento shozen ze střechy mrakodrapu v New Yorku. A já volám: „Podívejte se, teroristi! Co nám můžete udělat, co jsme si my už neudělali sami?“ A co se svobody týče? Říkám: „Seberme si ji, dokuj ji ještě máme.“ A začněme v té Dubaji.<br />
+</p>
+
+<p>
+Alžběta Ašelová, šéfredaktorka<br />
+</p>
+</div>
+</div>
+<div id="outline-container-orgf94915b" class="outline-2">
+<h2 id="orgf94915b"><span class="section-number-2">3</span> Zprávy</h2>
+<div class="outline-text-2" id="text-3">
+</div>
+<div id="outline-container-orgd7a369e" class="outline-3">
+<h3 id="orgd7a369e">BBC: „Terminal terminal”</h3>
+<div class="outline-text-3" id="text-orgd7a369e">
+<p>
+Španělské noviny <i>El Elektro</i> vydaly koncem minulého týdne zprávu o teroristickém útoku na terminál 1 mezinárodního letiště v Manchesteru ve Spojeném království, zahájeném před patnácti dny a soustavně pokračujícím až do dnešního odpoledne. Redaktorka Rebeka de Roto, autorka původního článku, se stala dočasnou obětí švédského gangu <i>Fjord</i>, který za útokem stojí. <i>Fjord</i> operuje v utajení mezi zákazníky i zaměstnanci letiště a ustavičně pracuje na rafinovaném útoku.<br />
+</p>
+
+<p>
+Do hledáčku široké veřejnosti se však tento případ nedostal kvůli jeho vskutku nevídané brutalitě. Jak napsala de Roto: „Nadie se interesa a que podría ver a casa cada día.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>” Proslulým se stal především reakcí místních obyvatel. Manchesterská komunita celistvě povstala a v neslýchaném gestu soudružné kolektiality jednohlasně prohlásila: „What?”<br />
+</p>
+
+<p>
+Ano, jak článek <i>El Elektra</i> odhalil, byla <i>Fjordova</i> operace natolik úspěšná ve své tajnosti, že, ačkoli se útoky odehrávají již patnáctým dnem, úřady, občané ani cestující si nevšimli ničeho podezřelého. Letiště vydalo prohlášení, že ve světle těchto odhalení zváží zvýšení automatů na kávu v lóži pro větší pocit bezpečí a pohodlí svých zákazníků. Provoz letiště zůstává nezměněn i po tiskové konferenci Manchesterské policie, kde vedoucí okresu Yana Opphre řekla: „&#x2026;[Vládní vyjednavači] věří, že skupina <i>Fjord</i> vydala požadavky a ultimátum. Bohužel nebylo možné zachytit ani jedno, nevíme tudíž, co letišti a jeho návštěvníkům hrozí, kdy to přijde, ani co máme udělat, abychom tomu zabránili, ani v pravdě, jestli se to vůbec stalo.” Dále pak Opphre nevylučuje možnost, že potenciální výhrůžky teroristů již byly vykonány.<br />
+</p>
+
+<p>
+Britský časopis <i>The Space</i> domluvil exklusivní interview s velitelem celé akce, Kurtem Lindénem, ve svém čísle však píše, že pan Lindén se buďto nedostavil, nebo ho neviděli.<br />
+</p>
+
+<p>
+Kolem letiště se od vydání de Rotina článku shromažďují zástupy vládních aut, stanů a zaměstnanců. Vyjednavači z Interpolu se vehementně snaží navázat kontakt s teroristy, zatímco policejní hlídky se speciálním vybavením<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup> obchází v pravidelných intervalech letištní výchovy ve strachu, že se teroristé pokusí o útěk. Podle výpovědi cestujících, zejména těch přilétajících, jim přítomnost policie poněkud vadí - připadají si sledovaní a policejní hlídky jim dávají pocit, že jsou v nebezpečí.<br />
+</p>
+
+<p>
+Premiér Carl Olstrich vznesl v parlamentu námitku na adresu <i>El Elektra</i> a jmenovitě paní de Roto. Podle jeho názoru by se v zájmu všeobecné bezpečnosti měly podělit o způsob, jakým se podařilo o teroristech poprvé dozvědět. <i>El Elektro</i> obratem vydalo oficiální žádost o vydání profesního tajemství, zároveň však dodalo, že dle pracovní smlouvy nemohou Rebeku k vydaní žádně informace tlačit. Paní Rebeka této možnosti využila a odmítá britské vládě pomoci.<br />
+</p>
+
+<p>
+Na internetových fórech se rozšiřují teorie o možném důvodu, který <i>Fjord</i> mohl k napadení mít. Dvě nejčastěji zmiňované hypotézy jsou: A) <i>Fjord</i> a jeho členové jsou nespokojeni se současnou politickou situací ve Švédsku a vyprovokováním britské vlády ke spolupráci s jejich úřady ji hodlají změnit; a B) švédská vláda přikročila k urychlenému uplatnění jejich dlouho vyvíjené technologie neviditelného pláště. Švédský princ radikálně odmítá veškerá nařčení z jeho vlastní účasti na celé akci, stejně jako účasti jeho vládních zaměstnanců, a britská královna stejně radikálně odmítá spolupráci se švédskými úřady.<br />
+</p>
+
+<p>
+Zatímco se vlády snaží současně domluvit na dalším postupu a nespolupracovat jedna s druhou, shromáždili se kolem letiště v Manchesteru davy turistů z celého království. CNN ve večerních zprávách ukázal záběry z vrtulníku ukazující přes dvě stě tisíc nadšenců zaplňujících celé okolí letiště a několik okolních ulic. Jak daleko se tato masa rozrostla nevíme, neboť byl vrtulník sestřelen <i>terror-huntery</i> amatéry v domnění, že se jedná o posily <i>Fjordu</i>.<br />
+</p>
+
+<p>
+Rebeka de Roto oznámila, že pokud tento turistický nával neopadne do tří dnů, bude po městském úřadě v Manchesteru vyžadovat kompenzaci za zvýšení návštěvnosti; neudala však cílovou částku.<br />
+</p>
+
+<p>
+Zatímco BBC označila celou oblast jako „Terminal terminal<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>”, Interpol jako „ohrožení 4C”, CNN „that place&#x2026; what do you call it? Manchester?” a východoasijská hip-hopová skupina <i>Ábes un-šábes</i> zase jako „žublevul o&rsquo;krosa<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup>,” někteří obyvatelé Manchesteru jí stále říkají „Co? Jo tohle. Ne, moment&#x2026; Ne, to je něco jiného. Tak nic. Co?&ldquo;<br />
+</p>
+
+<p>
+Boris Johnson, britský ministerský předseda, přizval na pomoc Klingony, ti se však údajně omluvili kvůli neodkladné práci v Orionu.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-org137f505" class="outline-3">
+<h3 id="org137f505">Na lavici ve dvojici</h3>
+<div class="outline-text-3" id="text-org137f505">
+<p>
+Boj o <i>Nejvyššího vůdce všeho učitelstva</i> pokračuje. Závěrečný počet uchazečů se pohybuje kolem devíti a půl tisíc, přesnější statistiky budou pravděpodobně na Googlu. Kanadská vláda, která až do nedávna odmítala nechat své občany se přihlásit, povolila pod tlakem veřejného mínění a Kanaďané se nahrnuly do provizorních zapisovacích komor v rekordních počtech. Dvanáct lidí bylo ušlapáno a jedny dveře se pro změnu trhly.<br />
+</p>
+
+<p>
+Po oficiálním ukončení zapisovací lhůty vyhlásil mluvčí M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. na tiskové konferenci v Ženevě, že při zasedání představenstva byla kvůli nadměrné účasti odhlasována drobná změna pravidel. Vítězný učitel si bude muset vybrat pobočníka z první osmičky.<br />
+</p>
+
+<p>
+Tato změna vyvolala vlnu pobouření, nechuti a dotazů. <i>Sržba</i>, největší skupina druhořadých kantorů<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup> čítající 1 503 členů v rozmezí 4 882. a 9 002. pozice, vznesla dotaz na pana mluvčího ohledně pravidel arény a jak toto upravení ovlivní průběh voleb v ní. Pan mluvčí se nechal slyšet: „Učitelé, kteří by do arény byli vpuštěni, si budou moci vybrat, zda vstoupí a podrobí se riziku, či zda zůstanou mimo. Ti, kteří se rozhodnou arénu navštívit tak dobrovolně prohlašují, že v případě své smrti na bojišti nebudou po vítězi vyžadovat, aby byli vybráni za pobočníka. Přesná pravidla se ještě dopilují.“<br />
+</p>
+
+<p>
+Etiopské učitelské sdružení vyjádřilo oficiální bojkot celých voleb, dokud Ústav neodvolá své prohlášení. Podle jeho představitelů se jedná o zneužívání státní moci, které by mohlo přinést nerovnoměrné rozdělení vlády nad učiteli světa. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. na oplátku bojkotovala všechny etiopské učitele a diskvalifikovala je z voleb. Celkový počet uchazečů se tak snížil o necelé dvě desítky.<br />
+</p>
+
+<p>
+Indický parlament zaznamenal etiopskou situaci a počal vyšetřování, zda Ústav jedná právně.<br />
+</p>
+
+<p>
+Dvacet statečných <sup><a id="fnr.6" class="footref" href="#fn.6">6</a></sup> bylo <i>Monte Karlos Někdeníkem</i> požádáno o vyjádření se k stávající situaci. Jiří Šeiner prohlásil, že bude-li vítězem, bude nutně v první osmičce, vybere si tedy sám sebe jako svého pobočníka. Marta Křenková, 17. místo po „výměně čarodějnic“ s Pálkovskou, při které si prohodily 16. a 17. pozice, ohlásila změnu strategie. Nebude se snažit vyhrát, nýbrž podporovat slibné kandidáty výměnou za to, že bude vybrána jako pobočník. Tím zároveň uvolní své potencionální místo na vrcholu žebříčku. Do dnešního odpoledne se jí nepodařilo sehnat partnera.<br />
+</p>
+
+<p>
+Velká pětka<sup><a id="fnr.7" class="footref" href="#fn.7">7</a></sup>, která zázrakem zůstala nezměněná po tragickém propadu paní Záchelové<sup><a id="fnr.8" class="footref" href="#fn.8">8</a></sup> propadnuvší se na 233. místo, se odebrala do ústraní svého sídla v jeskyni ve Švýcarsku pod vodopádem zvaného vila Toogen Hut, aby zde v soukromí probrala problém své lichosti.<br />
+</p>
+
+<p>
+Paní Záchelovou na sedmém místě vystřídala paní Jakešová (původně osmá). Pan Langer se prozatím ustálil na patnáctém místě, ačkoli odborníci říkají, že za to může vděčit rozruchu kolem změny pravidel. Paní učitelce Lajdové naopak tato změna výrazně prospěla. Prudkým zvýšením ohlasu, jehož původ odmítla komentovat, se z dvacátého místa dostala na deváté a její popularita stále nevysvětlitelné stoupá.<br />
+</p>
+
+<p>
+Mezinárodní právnická firma <i>Hokus Pokus, Jetel Lotus</i> připravuje šablony pro smlouvy mezi kantory, kteří na základě <i>pobočnické doktríny</i> uzavírají spojenectví již v tak brzkém stádiu voleb.<br />
+</p>
+</div>
+</div>
+<div id="outline-container-orge489fd4" class="outline-3">
+<h3 id="orge489fd4">Do války</h3>
+<div class="outline-text-3" id="text-orge489fd4">
+<p>
+Po neplánovaném zemětřesení v Dubajské poušti se hlavní město emirátu octlo ve stavu naprostého chaosu. Vše začalo dvouminutovým lokálním výpadkem proudu, který způsobil nepatrný pokles vysílací kvality na rádiové vlně 89.0002 a přerušení dopravní signalizace na hlavní třídě. Celá Dubaj se tak na sto dvacet sekund ocitla bez <i>Rádia Ropa</i> a semaforů. Tamější občané se v panice stihly za tyto dvě minuty sbalit, nasednout do svých karavanů, propustit zaměstnance, prodat nemovitosti a vyrazit vstříc kočovnému životu mezi dunami a oázami.<br />
+</p>
+
+<p>
+Bohužel pro ně už se nestačili dostat z města, neboť hlavní třída, jak již bylo zmíněno, se právě nalézala ve stavu bezproudosti a řidiči tudíž nevěděli, co mají dělat. Podle očitých a ušitých svědků se po „úporných“ dvou minutách světla opět rozsvítila a rádia opět rozehrála. Do duší rádoby cestovatelů se vrátil klid a mír, ne však do Dubaje samotné.<br />
+</p>
+
+<p>
+Tento hyperrychlý emigrační proces ponechal celé město v dopravní zácpě nevídaných rozsahů. Při zemětřesení se zřítilo jen pět budov, profesionální profesor konspiračních teorií Albert Kozlakov však vznesl hypotézu, že jejich přesné umístění odhalilo zásadní chybu v infrastruktuře města a karavany se teď pohybují v kruhu rychlostí přibližně 5,332 metrů za dvanáct a půl hodiny. Albert také dodává, že se jedná o znamení Temného Rytíře, věčného strážce naší rasy, a dále pokračuje v jeho rozšifrování. Takovými věcmi se však slušný člověk nezabývá.<br />
+</p>
+
+<p>
+Zatímco se starosta a jeho poskoci snaží situaci napravit, na silnici je patrný nezdravý vliv karavanů na lidskou mysl. Jejich luxus zajišťuje, že řidič ani spolujezdec, respektive spolunamístěstojící, nemají potřebu ho opustit. Nikdo tedy nespěchá domů, nikdo netroubí, nikdo nekřičí a nešílí. Hlavně se ale nikdo nesnaží ze zácpy dostat. „Moje rodina už má hlad,“ pověděl nám jeden řidič. „Zásoby jsem snědli předevčírem. Naštěstí si moje žena všimla támhleté restaurace,“ ukazuje na <i>kebab house</i> necelých dvě stě metrů po proudu zácpy, „a tak jsme si řekli, že si tam zajedem. Počítáme, že se tam dostaneme někdy příští týden.“ Na dotaz, kam má vlastně on a jeho rodina namířeno, bez váhání ukázal palcem přes rameno. „Tamten dům. Pětaosmdesáté patro. Omylem jsme to přejeli, tak se musíme dostat na náměstí Oleje a otočit to zpátky.“<br />
+</p>
+
+<p>
+Emirátští psychologové se odmítli zabývat doporučením našeho časopisu na prozkoumání tohoto jevu a karavanní lobisté zvýšili dotace Evropské Unii, beze sporu aby její představitelé odhlédli od podobných incidentů. Jediný hlas odporu zní z malého města na Sibiři, kde ho ale nikdo neslyší. Monte Karlos Někdeník tedy vyhlašuje válku všem karavanům světa a přísahá, že nepoleví, dokud v nich lidstvo nespatří vražedné stroje a vymývače mozků, kterými jsou.<br />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org17bd947" class="outline-2">
+<h2 id="org17bd947"><span class="section-number-2">4</span> Host</h2>
+<div class="outline-text-2" id="text-4">
+</div>
+<div id="outline-container-org9069ea0" class="outline-3">
+<h3 id="org9069ea0">Rozhovor - „Všechno by se dalo zlepšit.”</h3>
+<div class="outline-text-3" id="text-org9069ea0">
+<p>
+Paní Pavla Záchelová.<br />
+</p>
+
+<p>
+<b>Kdy jste se zapojila do takzvané velké pětky?</b><br />
+</p>
+
+<p>
+To bylo asi před třemi týdny.<br />
+</p>
+
+<p>
+<b>Kdo vás k tomu přemluvil</b><br />
+</p>
+
+<p>
+Mě nikdo nepřemlouval. Dohodli jsme se jednohlasně.<br />
+</p>
+
+<p>
+<b>Minulý týden jsme zde měli pana Langera, který, jak chápu je vaší nadřízeným. <i>On</i> byl mezi studenty populární. Moje otázka zní: Po jeho propadu, zvolila jste zcela opačnou taktiku v domnění, že budete mít větší šanci?</b><br />
+</p>
+
+<p>
+Ne, má taktika se nezměnila.<br />
+</p>
+
+<p>
+<b>Takže jste stále nepopulární před i po propadu pana Langera.</b><br />
+</p>
+
+<p>
+Říkáte sedmému místu nepopulární?<br />
+</p>
+
+<p>
+<b>Mezi mladými studenty, ano. Naše statistiky tak naznačují.</b><br />
+</p>
+
+<p>
+Kolik účastníků máte zaznamenaných v soutěži?<br />
+</p>
+
+<p>
+<b>Všechny. Úplně všechny.</b><br />
+</p>
+
+<p>
+Kolik jich je?<br />
+</p>
+
+<p>
+<b>Účastníků v soutěži? Asi 2 603.</b><br />
+</p>
+
+<p>
+A vám připadá, že <i>sedmé</i> místo je nepopulární?<br />
+</p>
+
+<p>
+<b>Jste populární mezi voliči, ne mezi studenty. Máte dvanácti procentní oblíbenost.</b><br />
+</p>
+
+<p>
+To ale neznamená, že ostatní kantoři ji nemají nižší.<br />
+</p>
+
+<p>
+<b>Já jsem neřekl, že ostatní mají vyšší; já jsem řekl, že vy ji máte nízkou. Co jsem také řekl je, že pan Langer ji měl mnohem vyšší?</b><br />
+</p>
+
+<p>
+A jaká byla u pana Langera?<br />
+</p>
+
+<p>
+<b>Devadesát tři.</b><br />
+</p>
+
+<p>
+Já mu to jenom přeji.<br />
+</p>
+
+<p>
+<b>Co říkáte na současnou znalosti anglického jazyka v Čechách?</b><br />
+</p>
+
+<p>
+Podívejte se - já si myslím, že znalost angličtiny v České republice, minimálně mezi mladými lidmi, je velmi vysoká, protože to, do jaké míry všechny školy vzdělávají svoje studenty (už malé žáky) v tomto jazyce, je v dnešní době nebývalá. Ale myslím, že to je naprosto správně.<br />
+</p>
+
+<p>
+<b>Jakožto učitelka anglického jazyka, myslíte, že by se tato úroveň dala zlepšit?</b><br />
+</p>
+
+<p>
+Všechno by se dalo zlepšit. Nicméně, myslím si, že úroveň, jaká je například u nás na gymnáziu, je dostatečně vysoká, minimálně mezi ostatními školami. Tudíž pokud by zapracovali i jiné školy a dostaly se na úroveň gymnázia, tak bude úroveň víc než dostačující. Na druhou stranu bylo vždycky zvykem, že gymnázium má o něco vyšší úroveň než ostatní školy.<br />
+</p>
+
+<p>
+<b>Jaké kroky byste podstoupila, aby se situace zlepšila i na těch jiných školách?</b><br />
+</p>
+
+<p>
+Já myslím, že to hodně záleží na úrovni kantorů a bohužel střední školy nikdy nepřitáhnou takové kantory jako gymnázium. Pokud by učitelé dostávali vyšší plat, tak si myslím, že to ihned pozvedne úroveň celkového školství, nejen anglického jazyka. Protože, za ty platy&#x2026; více si vyděláte v Kauflandu. Pokud někoho učitelská profese vyloženě nebaví, nemá smysl, aby ji dělal.<br />
+</p>
+
+<p>
+<b>Už víme, jaký je vztah vašich žáků k vám. Můžete se nějak vyjádřit ke svému vztahu k nim?</b><br />
+</p>
+
+<p>
+Já se snažím k žákům přistupovat maximálně&#x2026; <i>přívětivě</i> a nabídnout jim opravdu co nejlepší vzdělání. Bohužel se mnohdy setkávám s naprostým nezájmem. S tím už potom dokážete málo udělat.<br />
+</p>
+
+<p>
+<b>V případě, že se snažíte ke svým žákům přistupovat co nejvlídněji, jak si vysvětlujete svou neoblíbenost?</b><br />
+</p>
+
+<p>
+Podívejte se&#x2026;<br />
+</p>
+
+<p>
+&#x2026;<br />
+</p>
+
+<p>
+&#x2026;<br />
+</p>
+
+<p>
+<b>To je velice zajímavé. Povězte svým sponzorům trochu o svém osobním životě.</b><br />
+</p>
+
+<p>
+Za jakým účelem bych měla rozebírat svůj osobní život?<br />
+</p>
+
+<p>
+<b>Prosím vás nevyjadřujte se, jestli vám to nějak vadí. Mně to vadit nebude, že?</b><br />
+</p>
+
+<p>
+Co konkrétně byste si přál?<br />
+</p>
+
+<p>
+<b>Cokoli. Co si myslíte, že je důležité, aby o vás vaši sponzoři věděli.</b><br />
+</p>
+
+<p>
+Já si myslím, že mým sponzorům může být můj osobní život&#x2026; ukradený.<br />
+</p>
+
+<p>
+<b>Jako učitel angličtiny máte výhodu nad učiteli, kteří se se zahraničními podpůrci nedomluví. Jak si tedy vysvětlujete úspěch pana Rychnovského<sup><a id="fnr.9" class="footref" href="#fn.9">9</a></sup>?</b><br />
+</p>
+
+<p>
+Já opravdu netuším, jaké jazykové schopnosti má pan Rychnovský. Pokud umí rusky, dovedu si představit, že najde velké množství sponzorů.<br />
+</p>
+
+<p>
+<b>Jak snášíte, že paní Rotreklová, vaše kolegyně, nad vámi vede o dvě místa?</b><br />
+</p>
+
+<p>
+Velmi dobře. Já jí to přeji.<br />
+</p>
+
+<p>
+<b>Co máte proti japonským animovaným filmům?</b><br />
+</p>
+
+<p>
+Nic. Jak jste na to přišel?<br />
+</p>
+
+<p>
+<b>Anonymní typ.</b><br />
+</p>
+</div>
+
+<ul class="org-ul">
+<li><a id="orgd60caed"></a>Kampaň<br />
+<div class="outline-text-5" id="text-orgd60caed">
+<p>
+<b>Paní Horáková oznámila, že cílem velké pětky je svržení Macháčka, Rychnovského a Ebbe z prvních dvou míst. Nečekám, že nám řeknete, jak toho hodláte docílit, ale jako člen velké pětky, jaký je váš plán předehnat všechny, co jsou nad vámi. Konec konců, kdyby velká pětka uspěla, budete pořád na pátém místě.</b><br />
+</p>
+
+<p>
+Já si myslím, že na toto téma už jsme diskutovali. Připadá vám páté místo jako špatná pozice?<br />
+</p>
+
+<p>
+<b>Ne, ale první místo vyhrává a všechny ostatní prohrávají.</b><br />
+</p>
+
+<p>
+Pokud v rámci našeho spojenectví vyhraje někdo jiný, tak budu také velice potěšená. Samozřejmě bych se ráda dostala na první příčku, nicméně nemíním snažit se své kolegy předehnat. To by uškodilo našemu spojenectví.<br />
+</p>
+
+<p>
+<b>Nebojíte se, že v aréně budete v nevýhodě oproti kantorům, kteří se nebojí roztržky páchat?</b><br />
+</p>
+
+<p>
+Naše skupina je velmi jednomyslná.<br />
+</p>
+
+<p>
+<b>Prozatím. Nemáme přístup k vaším tajným schůzkám, ale vyhrává jen jeden, že?</b><br />
+</p>
+
+<p>
+No, proti ostatním kantorům samozřejmě budeme bojovat. To je naším cílem. Ale v rámci naší skupiny rozhodně nechceme, alespoň prozatím, soupeřit. To by nám neprospělo.<br />
+</p>
+
+<p>
+<b>Jak byste se cítila, kdyby vás někdo s této skupiny vystrnadil na mnohem nižší příčku?</b><br />
+</p>
+
+<p>
+Já si nemyslím, že by se něco takového stalo.<br />
+</p>
+
+<p>
+<b>Co je vaší největší předností v těchto volbách?</b><br />
+</p>
+
+<p>
+Zapálení pro věc.<br />
+</p>
+
+<p>
+<b>V posledních dnech se mezi níže postavenými kandidáty vyskytují nové strategie. Velké skupiny zaměřují osobní život výše hodnocených kantorů ve snaze donutit je k odstupu. Do jakých mezí byste byla ochotna jít, abyste si pozici zajistila?</b><br />
+</p>
+
+<p>
+Chcete naznačit, že bych měla pomlouvat ostatní učitele?<br />
+</p>
+
+<p>
+<b>Já se ptám, jestli byste byla ochotna. A pokud, jak moc.</b><br />
+</p>
+
+<p>
+Nemyslím si, že by bylo nutné v rámci této soutěže uchylovat se k pomluvám a pošpiňování ostatních kandidátů. Pokud by se ukázalo, že, kdo nahází více špíny na ostatní, vyhrává, tak bych ani nelitovala, že v takové soutěži nevyhraji.<br />
+</p>
+
+<p>
+<b>Za jakých okolností byste vy sama uvažovala o odstupu?</b><br />
+</p>
+
+<p>
+Zatím si nedovedu představit, že by takové okolnosti mohly nastat.<br />
+</p>
+
+<p>
+<b>I přesto, je něco, o čem nechcete, aby se vaši soupeři dozvěděli?</b><br />
+</p>
+
+<p>
+Já se za své soukromí nestydím. Nevidím ale důvod se o něm šířit. Nemyslím, že by na mě ostatní soutěžící byli schopni cokoli získat.<br />
+</p>
+
+<p>
+<b>Na jakou oblast vzdělávání se hodláte zaměřit v případě, že budete zvolena?</b><br />
+</p>
+
+<p>
+Jak jsem říkala, pokud by tato soutěž byla o zaměřování se na osobní život, nedosahuje úrovně, o které se domnívám, že by měla mít.<br />
+</p>
+
+<p>
+<b>Teď se obávám, že nerozumím. Otázka zněla: Na jakou oblast vzdělávání se hodláte zaměřit v případě, že budete zvolena?</b><br />
+</p>
+
+<p>
+Vy se ptáte na&#x2026;<br />
+</p>
+
+<p>
+<b>Ano, na jakou oblast vzdělávání se hodláte zaměřit v případě, že budete zvolena.</b><br />
+</p>
+
+<p>
+Ale to jste měl <i>říct</i>.<br />
+</p>
+
+<p>
+<b>To jsem</b> <i>měl</i> <b>říct, ano. Bláhově jsem se domníval, že jsem to řekl.</b><br />
+</p>
+
+<p>
+Všechny oblasti jsou důležité, nicméně angličtině je dnes věnováno velmi málo času.<br />
+</p>
+</div>
+</li>
+<li><a id="org8d907be"></a>Random otázka dne<br />
+<div class="outline-text-5" id="text-org8d907be">
+<p>
+<b>Jsou cereálie s mlékem polévka?</b><br />
+</p>
+
+<p>
+Ano, tato otázka je opravdu náhodná. Ne. Ani, když je uvaříte.<br />
+</p>
+</div>
+</li>
+<li><a id="org2eeda51"></a>Rychlá střelba<br />
+<div class="outline-text-5" id="text-org2eeda51">
+<p>
+<b>Co musí žák udělat, abyste se na něj nenaštvala?</b><br />
+</p>
+
+<p>
+Já se na žáky zásadně nezlobím.<br />
+</p>
+
+<p>
+<b>Kolik způsobových sloves je v angličtině?</b><br />
+</p>
+
+<p>
+Spoustu.<br />
+</p>
+
+<p>
+<b>Přišla jste někdy včas do hodiny?</b><br />
+</p>
+
+<p>
+Samozřejmě. Někdy jsem ani neodešla.<br />
+</p>
+
+<p>
+<b>Kdyby vás měli vaši žáci popsat jednou větou, jaká věta by to byla?</b><br />
+</p>
+
+<p>
+To já opravdu nevím. Já jsem učitelka, ne žáci.<br />
+</p>
+
+<p>
+<b>Naše průzkumy říkají „Ani mi o ní nemluv.” Jak byste reagovala, kdybyste volby prohrála o 0,05 bodu?</b><br />
+</p>
+
+<p>
+To by bylo naprosto férové.<br />
+</p>
+
+<p>
+<b>Něco řeknu a vy mi dejte jednoslovnou asociaci:</b><br />
+</p>
+
+<p>
+<b>Angličtina</b><br />
+</p>
+
+<p>
+Jazyk.<br />
+</p>
+
+<p>
+<b>Horáková</b><br />
+</p>
+
+<p>
+Učitel.<br />
+</p>
+
+<p>
+<b>Zvonění</b><br />
+</p>
+
+<p>
+Na to nemám asociaci.<br />
+</p>
+
+<p>
+<b>Vlídnost</b><br />
+</p>
+
+<p>
+Učitelé.<br />
+</p>
+
+<p>
+<b>Martin Klvaňa</b><br />
+</p>
+
+<p>
+&#x2013;<br />
+</p>
+</div>
+</li>
+<li><a id="orgb4d672b"></a>Korespondence<br />
+<div class="outline-text-5" id="text-orgb4d672b">
+<p>
+<b>Do kanceláře nám oknem proletěl kámen zabalený do kusu papíru. Nebyl vám přímo adresován, ale <i>Monte Karlovští</i> právníci říkají, že se to počítá za korespondenci. Anonym píše:</b><br />
+</p>
+
+<p>
+<b>Takový blbosti. Proč jednou nepozvete někoho zajímavýho? Polovinu času tam nikdo ani nepřijde, naposledy tam byl nějakej Langer a teď tahle ----<sup><a id="fnr.10" class="footref" href="#fn.10">10</a></sup>.</b><br />
+</p>
+
+<p>
+<b>Aniž bychom vám řekli, co to poslední slovo bylo, jak reagujete na označení &ldquo;téhle ----<sup><a id="fnr.10.100" class="footref" href="#fn.10">10</a></sup>?&rdquo;</b><br />
+</p>
+
+<p>
+Na to se velmi dobře reaguje. Na něco, o čem nevím, co to vlastně je. Opravdu děkuji za takovouto otázku.<br />
+</p>
+
+<p>
+<b>Prosím</b><br />
+</p>
+</div>
+</li>
+<li><a id="org7f14f38"></a>Závěrečný proslov<br />
+<div class="outline-text-5" id="text-org7f14f38">
+<p>
+<b>Řekněte divákům, kteří se už rozhodli, že vás nebudou podporovat, proč by měli změnit názor a volit právě <i>vás</i>.</b><br />
+</p>
+
+<p>
+Pokud se někdo už rozhodl, že mne volit nebude, tak ať si svůj hlas nechá.<br />
+</p>
+</div>
+</li>
+</ul>
+</div>
+<div id="outline-container-org8659cf2" class="outline-3">
+<h3 id="org8659cf2">Hodnocení odborníka</h3>
+<div class="outline-text-3" id="text-org8659cf2">
+<p>
+Takže paní Záchelová. No&#x2026;<br />
+</p>
+
+<p>
+Jedním slovem: katastrofa. Druhým slovem: naprostá. Za celou svou kariéru politického poradce a recenzenta jsem neviděla tak nepochopitelně neschopného, neobeznámeného, neobratného, nesnesitelného, neflexibilního, nechápajícího a naivního křečka, natož kandidáta na celosvětově uznávaný politický post, jako je paní Záchelová. Ale dost o mně. Jak se vedlo jí?<br />
+</p>
+
+<p>
+Vedlo se jí příšerně. Od začátku bylo vidět, že se pohybuje mimo svůj rámec, jak muselo být zřejmé každému posluchači našeho vysílání. Opakovaně se ukázalo, že kandidátka není schopná poprat se s myšlenkou, že by mohla být sedmá v pořadí a přesto nevyhrát. &ldquo;Říkáte sedmému místu nepopulární?&rdquo; bránila se, jako by jí nedocházelo, na co se jí Karlos Žebatý ptá - pomineme-li, že to opravdu nepochopila. Ihned nato zpochybnila statistiky na tolika úrovních, že nemám čas, chuť ani žaludek je všechny rozebírat.<br />
+</p>
+
+<p>
+Zároveň, což bylo rovněž patrné z prvních minut rozhovoru, postrádá základní přehled o tom, v jaké situaci se nachází. Svým odpůrcům přeje úspěch, plány na jejich poražení nemá, věří, že její spojenci s ní zůstanou (ano, nový vývoj naznačuje, že vyhrát mohou ve skutečnosti dva, ale to paní Záchelová nevěděla a pravděpodobně ani nikdy vědět nebude, protože světlo dvaceti statečných už nikdy nespatří) a nevrhnou se po ní jako antilopa po štěněti v první možné chvíli.<br />
+</p>
+
+<p>
+Co je ale největší prohřešek v její blahoduchosti, je její přístup k výhře. Z jejich odpovědí je patrné, že by jí nevadilo, kdyby prohrála. Já se ptám, dámy a pánové: „Neuvědomuje si ta ženská, do čeho to vlezla!!!?“ JAK JAKO, nevadí? JAK JAKO, úroveň? Paní Záchelová má pocit, jako by hrála nějakou hru! A pokud se jí nelíbí, prostě ji bude po etiopském vzoru bojkotovat. TADY JDE O VLÁDU, LIDI!!! Na dotaz, co je ochotna podstoupit, aby zvítězila, bez okamžiku opáčí: „To jako, že mám pomlouvat své soupeře?“ SAMOZŘEJMĚ!!! Do čeho si myslíš, že ses to namočila?!<br />
+</p>
+
+<p>
+Jak je možné, že někdo takový se do první desítky dostal, vám mé roky bohaté praxe povědět nemůžou. Naštěstí je vidět, že pravidla veřejného života přetrvávají a když se paní Záchelová nehodlá <i>snížit na úroveň hry</i>, sníží se hra na její a vykopne ji dál než albatros dohodí šavli. Když má ona zájem na vítězství jako kuře na omeletě, ztratili její sponzoři veškerý zájem o ni. Dejte na má slova, skončí pod devátým tisícím místem ještě, než bude patnáct finálních uchazečů vysláno do arény.<br />
+</p>
+
+<p>
+Co ještě se k této ženě dá říci? Po volbách vyžaduje úroveň. Sama sobě si protiřečí (jednou řekne, že úroveň angličtiny je dobrá, pak zase, že je jí věnováno málo času). Na otázku, která začne „random otázka dne“, má potřebu dodat „Ano, tato otázka je opravdu náhodná.“ O osobním životě mluvit nechce. ---<sup><a id="fnr.11" class="footref" href="#fn.11">11</a></sup>. Pardon. To já jenom, že pokud kandidujete a vaše kampaň zcela závisí na podpoře bohatých investorů, ta nejhorší věc, kterou můžete udělat&#x2013; A tím myslím ta n e j h o r š í věc, kterou můžete udělat&#x2013; Ten druh věci, jako kdyby bažant, vlezuvší spícímu lvovi do chřtánu, počal hlasitě prohlašovat, že otep se nemá nosit vzhůru nohama - názor, o kterém je v savaně všeobecně známo, že lvové budou trhat maso i kosti, když ho uslyší - a tančit na jeho jazyce dupáka v nažhavených stepovacích kramflecích s kastaněty v rukou do rytmu metalového zpracování Shakespearova Hamleta. Takový druh věci to je, když o sobě odmítnete dát informace s tím, že „do nich nikomu nic není“.<br />
+</p>
+
+<p>
+Takže shrnutím: Záchelová padla a padat bude dál; vyhořela a už ani nedoutná; a v tomto „závodě“ už si neškrtne.<br />
+</p>
+</div>
+</div>
+</div>
+<div id="outline-container-org462fdd8" class="outline-2">
+<h2 id="org462fdd8"><span class="section-number-2">5</span> Korespondence</h2>
+</div>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+Nikoho nezajímá, co vidí denně doma.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+Zásobou špendlíků, tatranek a holinkami.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+Ang. „terminál smrti.”<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.4" class="footnum" href="#fnr.4">4</a></sup> <div class="footpara"><p class="footpara">
+Překlad nenalezen. Autor článku uznává, že toto jméno nemusí ve skutečnosti znamenat nic, nemusí být míněno jako označení Manchesterského terminálu 1, a striktně řečeno nemusí ani jménem být.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.5" class="footnum" href="#fnr.5">5</a></sup> <div class="footpara"><p class="footpara">
+Termín <i>druhořadý kantor</i> byl použit německým politickým expertem Albrechtem Bahbaanem pro označení kantorů pod dvou stou příčkou. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. jeho názvosloví adaptoval a rozšířil o <i>primární kantory</i> - druhořadé kantory ze zemí prvního světa; <i>sekundární kantory</i> - druhořadé kantory ze zemí třetího světa; <i>archeology</i> - kantory starší padesáti let ze zemí čtvrtého světa; <i>podkopávače</i> - kantory mladší deseti let; <i>obelisky</i> - prvořadé kantory (mezi stou a dvoustou pozicí) z Thajska; <i>nežádoucí kantory</i> - kantory z Francie; <i>slovníky</i> - kantory matematiky, kteří aktivně neučí minimálně šest let a přihlásili se během prvních osmdesáti hodin zápisu; a <i>slony</i> - nezcela naplněné petlahve, které se vidí jako zpola prázdné, nikoli zpola plné.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.6" class="footnum" href="#fnr.6">6</a></sup> <div class="footpara"><p class="footpara">
+Oficiální název dvaceti dvou kantorů na první až dvacáté pozici (druhé a jedenácté místo je obsazené dvěma osobami)<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.7" class="footnum" href="#fnr.7">7</a></sup> <div class="footpara"><p class="footpara">
+Sdružení pěti kantorů z Dvaceti statečných s účelem vystrnadit Macháčka, Dušana a Ebbe z prvních dvou míst, vedené paní Horákovou na třetím místě.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.8" class="footnum" href="#fnr.8">8</a></sup> <div class="footpara"><p class="footpara">
+Viz sekce Rozhovor, článek Hodnocení.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.9" class="footnum" href="#fnr.9">9</a></sup> <div class="footpara"><p class="footpara">
+Pan Rychnovský se dělí o druhé místo.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.10" class="footnum" href="#fnr.10">10</a></sup> <div class="footpara"><p class="footpara">
+Nemůžeme vyslovovat v televizi.<br />
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.11" class="footnum" href="#fnr.11">11</a></sup> <div class="footpara"><p class="footpara">
+Zde byl hlasový záznam, ze kterého je text přepisován, náhle přerušen pisklavým ječením a zvukem trhajících se šatů. Statický šum způsobil, že vyřčená slova, ač značně slyšitelná, byla naprosto nesrozumitelná. Následoval zvuk tříštícího se porcelánu, převrácení stolu (podle zvuku nočního) a vyvolávání jakéhosi spirituálního vůdce v jazyce dávno zapomenutém a staletí neslyšeném. Přepisovatel nemohl tedy záznam přeložit do psané formy.<br />
+</p></div></div>
+
+
+</div>
+</div></div>
+<div id="postamble" class="status">
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

@@ -1,0 +1,510 @@
+﻿# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„"); eval: (set-register ?m "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ?T "");-*-
+:Uvozovky:
+# \bdquo = „
+# \ldquo = “
+# \sbquo = ‚
+# \lsquo = ‘
+# [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][LaTeX symbols]]
+:END:
+:stuff:
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:3 toc:nil num:0 d:nil ^:t
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: Výhružky dané, výhružky splněné
+
+28/2019
+Ročník XXVIIII
+
+*Adresa redakce:*
+Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:*
+EmailNoReply@server.mok
+
+*Zákaznická linka:*
+0004 892 223 03E
+
+*Šéfredaktor:*
+Alžběta Ašelová
+
+*Manažer redakce:*
+Jiří b'Ačkora
+
+*Zástupce šéfredaktora:*
+Hobbo Habán
+
+*Fotograf:*
+Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:*
+Tara Kočí
+
+*Obrazová redakce:*
+Honza Kůň
+
+*Rozhovor:*
+Karlos Žebatý, Lubomír Lečko
+
+*Politická recenze:*
+Olšana Kupé
+
+*Editoři:*
+Šimon Balabán
+
+*Heretik:*
+Uštěpač o'Connel
+
+*Vydavatel:*
+Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:*
+Karlos Žebatý
+
+*Sociální poradce:*
+Lightningh Danger
+
+*Sociální podpora:*
+Anna Oleš
+
+*Inzerce:*
+Many Hrabal
+
+*E-shop:*
+nakupsisam.cz
+
+*Tiskne:*
+individuálně
+
+*Rozšiřují:*
+google.com
+
+/Monte Karlos Někdeník/ byl založen skupinou černých nosorožců afrických v létě roku 1989. Jeho stránkami byly poznamenány takovými autory jako Alexandr Malinovský, Jack O'Clock a Veronika Oškalová a všeobecnému ohlasu se těší již třetím rokem pod brilantním vedením šéfredaktorky Alžběty Ašelové©. Stojí na železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po prachbídné korespondenty se řídí všestrannými, nesmrtelnými pravidly slušného chování.
+* Editorial
+Šťastné a veselé! Nebo, jak říkával můj děda, „rohlíky s pomádou!“ Můj děda byl tak rochu mimo, ale co naděláte? Normálně bych se podělila i o ty šťavnatější informace, jako například, že náš rodinný právník, pan Guláš von Skop, musel mému otci třikrát v jednom obzvlášť nesnesitelném týdnu osmkrát potvrdit, že ano, vražda /je/ vždy zločin. Ale dnes tomu tak nebude, dnes se slaví svátky klidu, míru a pokoje, kdy rodiny pokrevní i symbolické kladou stranou své rozepře a otevřou náruč celému svému okolí plni lásky, pochopení a odpouštění.
+
+Takže bude válka.
+
+Nebojte se, nic vážného. Respektive, vážné to je, ale v Indii. Jako výroba levných tiskáren za podhumánní plat a nedostatek pitné vody, je to daleko a nemusí vás to zajímat. Ale válka bude a /Monte Karlos Někdeník/ nehodlá přihlížet z dálky. Chceme se zapojit. Ne do bojů, do podívané.
+
+V dnešním poněkud netradičním čísle vám přinášíme pouze jednu tučnou zprávu, o to tučnější, o co je osamělejší. Takže hodně. V ní se dočtete o pozoruhodném vývoji v našem nejbližším kontinentálním sousedovi v podrobnostech, o kterých jste ani nevěděli, že je potřebujete.
+
+Naším dnešním hostem byla paní Dagmar Kolářová, což ukazuje určitou prozíravost na straně pana Lečka. Už chápu, proč si ho přes téměř železně pravidelná selhání Karlos nechává. Někdy se mu to povede. Ale, a to si prosím zapište za uši, jenom někdy. Každopádně, dnes se mu výběr hosta povedl, protože paní Kolářová hraje nezbytnou roli právě ve zmíněné válce. Dozvíte se o ní věci dosud nezveřejněné, ostatně jako vždy, ale tentokrát vás možná i budou zajímat.
+
+Zároveň je mi ctí vám oznámit, jako takový malý dárek pro vás, že, bude-li přízeň osudu na naší straně, domluvili jsme se s Karlosem na takové malé exkurzi. Já, on a Lečko spolu pojedeme do Indie a poskytneme vám přímý přenos utkání mezi dvěma největšími armádami shromážděnými kvůli školám v historii hokeje. Nevíme, jak dlouho to potrvá, než se k vám přenos dostane, protože události dějin nejsou plně v našich rukou (ještě), ale jakmile se něco stane, můžete se spolehnout, že vám dáme vědět. Já písemně a oni ústně jako vždy.
+
+Tuhle se mě někdo zeptal, jak se já cítím uprostřed takového kolosu, který se snaží dnem i nocí, týden po týdnu odhalit utajené pravdy jiných, větších kolosů, které se na oplátku snaží hodinu po hodině bez ustání zamaskovat pravdy, které by někdo jako já chtěl odhalit. Upřímně si již nepamatuji, co jsem tehdy řekla. Kdyby se mne ale zeptal dnes, odpověděla bych: „hrdost.“ Ne ani tak na sebe či na svoje zaměstnance (i když oni to jsou vlastně Karlosovi zaměstnanci, já je jenom řídím), ale na lid. Na společnost, stmelenou válkami a chaosem světa, společně se mnou hledající pravdu; a o to víc, že jí hledají u mě.
+
+Proč vám to říkám, ptáte se? Inu, protože budeme-li chtít přežít následující rok, vážené dámy a milí pánové, budeme se muset naučit chránit tuto společenskou kolektivní integritu, jak se svět řítí do, což už jsme jednou probírali, prdele.
+
+Ale na mě, a na to se spolehněte, se můžete spolehnout. Čím blíže se k ní dostaneme, tím více svých zaměstnanců tam pošlu, aby vás-- ne, aby nás předem připravili na to, jaké to tam je.
+
+A s tímto přáním světlí budoucnosti mi ještě jednou dovolte popřát vám krásné svátky a nezapomeňte: Než se trávit patosem, stravte večer s Karlosem.
+
+Rohlíky s pomádou!
+
+Alžběta Ašelová
+* Zprávy
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** „...jistá smrt...nepatrná naděje na úspěch...“
+Poslední týden a půl byly vskutku nabyté událostmi, zvraty a změnami. Po naprostém fiasku ze strany Větší pětky v Mariánských lázních se věci vyvíjely poněkud hekticky. Jak paní Horáková, tak paní Pálkovská využily nevyřčené dohody a zanechaly vzájemných útoků, zatímco čekaly na seskupení svých vojsk. Paní Jakešová se zahanbena porážkou vrátila do Colusum Beene k paní Pálkovské, která jí za trest odebrala hodnost korporálního žebníka a vzala si nemalou část jejích bodů, srážejíc tak svou kolegyni o dvě místa, čímž se nápadně dostala těsně za právě paní Pálkovskou. Paní Jakešová se však zdržela veškerých komentářů, nařčení či výlevů nespokojenosti.
+
+Místo ní byl uprostřed exotického oběda odchycen pan Šeiner, jeden z nejslibnějších členů /Pálkovská squadu/, podle svatého, dogmatického úsudku paní Kupé. Jeho rozhodnutí přidat se právě na tuto stranu vzbudilo mezi jeho příznivci značné pobouření, na což pan Jiří reagoval slovy: „Když chcete vyhrát, nesmíte se stavit na stranu poražených.“ Polkl a následně dodal: „Že?“ Na dotaz, zda mu dělá starosti pan Rychnovský, jeho dlouholetý přítel a kolega, se vyjádřil takto: „On je Dušan pořád někde v lese. Upřímně doufám, že tam zůstane. Pak nebudeme mít problém.“
+
+Díky početní nevýhodě a zoufalému nedostatku útočišť v Evropě byla Větší pětka nucena uchýlit se do zakontinentí. Naštěstí paní Malá nabídla využití svých sídel ve střední a východní Asii, kde má největší podporu. S pomocí jejích vojsk -- indické skupiny Nyrvána, čítající půl milionu vymaněných buddhistů -- se Větší pětce podařilo přesunou své zásoby, munici a bojové jednotky nejprve do Iránu a následně přes všechny možné stány do okolí Balkašského jezera. Po následném překontrolování munice se však ukázalo, že Iránem neprošla každá osmá kulka, každý osmý voják a každá osmá prášková polévka. Nikdo ve Větší pětce pro tento jev nedokázal najít vysvětlení.[fn:1]
+
+Paní Pálkovská situace plně využila a symbolicky obsadila zbytek kontinentu. V odpověď učinila paní Horáková totéž v Asii, pokryla tak značně větší plochu, zato přeplněnou méně vlivnými lidmi. Život to takhle někdy zařídí, víte?
+
+Dva dny tak obě strany setrvaly než si, čirou náhodou ve stejný okamžik uvědomily, že pokrytí jednoho kontinentu jednou armádou a druhého kontinentu druhou znamená, že členové první nemohou vést spolehlivou kampaň na území té druhé. A, samozřejmě, naopak. Na pomoc přispěchalo Pouralské Sdružení Rádoby Nezávislých Států -- PSRNS -- které veřejně prohlásilo, že: „Nic z toho nás nezajímá, běžte si to vyřešit někam jinam, nazdar.“ Předěl mezi kontinenty, ke kterému se posléze přidalo i Kaspické moře, tak vyhlásilo první nezávislé území v tomto konfliktu, pokud tedy nepočítáme Japonsko, které počítat nebudeme, protože ono nechtělo být počítáno. Jeho chyba. Jak se ale v dějinách mnohdy stává, dobré úmysly vedou ke špatným interpretacím zcela nevinného projevu nestrannosti. Jinak řečeno, Větší pětka a /Pálkovská squad/ jejich nestrannost vzaly jako pozvání k neutrálním bojům a ihned počaly s přípravami na závěrečnou bitvu někde na jejich území.
+
+Problémy však nastaly ve chvíli, kdy se měly vůdkyně dohodnout na konkrétním místě. Paní Horáková navrhovala rytířské utkání muže proti muži, ve kterém by bojovala ona s paní Pálkovskou a vítěz bere vše. Paní Pálkovská odmítla a nabídla Štukolské pláně s připomenutím, že se jedná o zcela plochou pláň, nikoli ten špatný, moderní druh pláně, který je ne zcela rovný. Paní Horáková, která si v tu chvíli už najala právníka a zapsala se do kurzů zvládání vzteku, tuto lokaci odmítla a zdůvodnila své rozhodnutí faktem, že nikdo nikdy o žádné Štukolské pláni neslyšel. To se Pálkovské nezdálo jako dostatečně pádný důvod, načež si i ona najala právníka a nechala se slyšet, že jestli paní Horáková nepřijde s rozumným návrhem, bude nucena postavit své vojsko doprostřed Štukolské pláně a vyčkat příchodu Větší pětky, třeba až do skonání světa. Paní Horáková si povzdychla, nadhodila námořní bitvu na Kaspickém moři a urazila tak paní Pálkovskou natolik, že si najala nestranného mluvčího a odmítla se dále účastnit debat. Paní Horáková tuto změnu uvítala, najala si /svého/ nestranného mluvčího a vzdálila se do Uba Bíva Perspek-týva, malého hradu paní Malé, ve kterém dočasně přespávali a kde na ní čekala připravená bublinková lázeň.
+
+Dvojice paní Mužíkové a paní Stodůlkové, která se po obležení Mariánských lázní promptně přesunula do Chile, aby tam dohlídla na svá vojska, se však v té době chystala změnit situaci na politickém poli, tedy na tzv. poli-poli. Ohnivé karasy (paní Mužíková) a Spolu-se-bavící metalové sdružení šumišů Šumím-Šumíš-Šumíme (paní Stodůlková) participovaly na rozkaz svých vůdců ve vojensko-sportovních potyčkách s tamními pasáky Pasy ve snaze získat tak sponzory na svou stranu; ve snaze, která se zdála býti úspěšnou. Paní Pálkovská neměla tedy sebemenší důvod se domnívat, že by Horáková odvolala tyto dvě skupiny z Latinské Ameriky a zapojila je do Euro-Asijských bojů. Paní Pálkovská, jak jsme se již mnohokrát přesvědčili, se mýlila. Mužíková-Stodůlková si sbalily saky paky, nechaly pasáky Pasy napospas a připravily svá vojska na eminentní přesun na místo boje[fn:2]. V celé situaci ale vězel háček - nikdo nevěděl, kde se bude bojovat. Tak Ohnivé karasy a Šumím-Šumíš-Šumíme kroužily nad Atlantickým oceánem až jim došlo palivo a nouzově přistály na Ibize, kde je ihned začaly zachraňovat výletní parníky.
+
+Paní Pálkovská v jejich příletu viděla nebezpečí. Bezodkladně napadla a obsadila Španělsko, do jehož jurisdikce Ibiza spadá, a zamezila tak veškerý tradiční kontakt mezi Uba Bíva Perspek-tývou a skupinou Mu-Stod. Následně zmobilizovala své vojsko (včetně záloh), přešla přes Ural a nepozvána vstoupila na území Větší pětky -- začala tak tzv. Pálkovské války.
+
+Špehové větší pětky její útok briskně oznámili a paní Kolářová sedící v čele špionážního oddělení Větší pětky, se ihned dala do řešení vyvstanuvší situace. Vyslala paní Rotreklovou, tiskovou mluvčí pro celý spolek, na Madagaskar, aby se tam pokusila navázat spojení s Mu-Stod-em. Internetová rada starších sídlící na ostrově však jejich žádost razantně odmítla s vysvětlením, že paní Horáková je učívávala z chemie.[fn:3] „Když je tak blbá,“ nechala se slyšet paní Rotreklová, „že v televizi prozradí, jakou strategií chce postupovat, tak to prostě budeme mít jednodušší.“ Hned nato nastoupila do soukromého letadla a podnikla cestu do Moskvy do Národního muzea, kde navázala kontakt s Oštěpičem A. Želivejkým, odborníkem na Napoleona a jeho četná tažení, zejména to do Ruska. Společně začali pracovat na protiútoku.
+
+#+CAPTION: Větší pětka a její vojska
+| Kantor                   | Vojsko                                 |     Počet | Poznámka             | Sídlo                   |
+|                          |                                        |       <r> | <20>                 |                         |
+|--------------------------+----------------------------------------+-----------+----------------------+-------------------------|
+| Horáková                 | spojené armády Velké pětky             |   860 000 | vedoucí osobnost     | Toogen-Hut              |
+| osvícená Malá            | Nyrvána                                |   500 000 | poskytuje zázemí; má i jiná sídla po celé Asii | Strupe Slýme vybar-Víme |
+| Křenková                 | sociální pracovníci                    |         0 | zdecimováni v lázních | Mariánské lázně         |
+| Rychnovský               | jeleni a lišky                         |   340 000 | schovává se v lese   | bájná Šabotka lesní     |
+| spolupětkařka Rotreklová | šílení oštěpaři                        |   420 000 | tisková mluvčí       | Brickhenge[fn:4]        |
+| Mužíková                 | Ohnivé karasy                          |   200 000 | v Chile              | Toogen-Hut              |
+| Stodůlková               | Šumím-Šumíš-Šumíme                     |   480 000 | v Chile; nemá sídlo, protože neměla čas ho udělat |                         |
+| Kolářová                 | skautské oddíly /Světové chrabré mise/ |    60 000 | zdecimováni u Kartága; šéf špionáže; nemá sídlo, protože bylo zlikvidováno Modrými klobouky |                         |
+| Havell                   | německá /Liga spravedlivé mrkve/       |         0 | zdecimováni u Kartága; nemá sídlo, protože na něj neměl. |                         |
+| Fürer Zemánková          | Nesmrtelní francouzští lingvisti       |   700 000 | a sloni; nemá sídlo, protože ho nepotřebuje |                         |
+|--------------------------+----------------------------------------+-----------+----------------------+-------------------------|
+|                          | Celkem:                                | 4 100 000 |                      |                         |
+
+Rotreklová strávila nesčetné hodiny (hlavně kvůli časovému posunu) nad knihami a v poněkud jednostranné konverzaci s Oštěpičem A. Želivejkým a vyslala telegram do Uba Bíva Perspek-tývy s nově vypracovanou, zcela okopírovanou strategií. Paní Horáková si její zprávu důkladně přečetla, odpověděla pochvalně a instruovala Rotreklovou, aby se přesunula do Mongolska. Zde se nachází Strupe Slýme vybar-Víme, hlavní sídlo paní Malé. Paní Rotreklová měla vzít svou armádu šílených oštěpařů a bránit toto útočiště, do kterého měl zbytek Větší pětky pomalu ustoupit, napodobujíce tak co nejvěrněji chování Rusů.
+
+Následující krátký rozhovor byl pořízen editorem v akci, panem Zezubou Huhňákem-Stropičem. Pan Huhňák-Stropič se vydal s kamerou a mikrofonem do víru války, aby Někdeníku mohl poskytnout co nejčerstvější informace. Vzhledem k tomu, že časové zařazení tohoto rozhovoru jak byl pořízen na jeho telefonu nese datum před-před-před-předvčerejška, moc se mu nedaří. I přesto jsou jeho informace žádané:
+
+#+BEGIN_EXAMPLE
+ZEZ: Nebojíte se, že postupovat jako vůdce poražené strany je nebezpečné?
+PÁL: Ne, proč?
+ZEZ: Nemyslíte, že můžete skončit stejně?
+PÁL: Jako na Elbě?
+ZEZ: Ne, jako prohrát.
+PÁL: Ne.
+ZEZ: Jak to?
+PÁL: Slyšel jste někdy o Sun Tzuovi?
+#+END_EXAMPLE
+
+Inu, my jsme o Sun Tzuovi slyšeli. Paní Pálkovská si zřejmě přečetla dílo Umění války a hodlala ho využít v praxi. To víme nejen proto, že bychom ho také četli, ale hlavě proto, že se tak stalo. Rozdělila své síly do tří dílů: Sama si nechala velení největší skupiny spolu s Horkým, Hapalovou, Vávrovou, Kubešovou a Jakešovou („Protože z tý už oči nespustím.“) a postupovala na Uba Bíva Perspek-tývu; pan Macháček, s pomocí Menšíkové, Šeinera a Ebbe, měl zavést přibližně třetinu spojených vojsk severně od Uby a odříznout tak cestu postupujícím vojskům. Mezi tím zbytek vojsk, vedený Lysákem, Polákovou a Králem, tajně postoupil až k Strupe Slýme vybar-Víme, které měl oblehnout, obsadit a zlikvidovat, čímž nechá paní Horákovou zcela bez útočiště, jídla, posil, naděje a, jak se necelých čtyřicet minut snažila Pálkovská vysvětlit svému válečnému štábu, cholesterolu. Jinak řečeno, Sun Tzuovo tažení jako vyšité.
+
+Dění následujících dvou dnů vyžaduje podrobnější popis.
+
+_Strupe Slýme vybar-Víme_
+
+Paní Rotreklová dorazila právě včas. Necelých patnáct minut nato spatřili strážní na hradbách Pálkovského kohouta a Lysákovu armádu, tvořenou především vymytými mozky třímajícími florbalové hokejky. Počalo mnohahodinové obléhání sídla.
+
+Paní Rotreklová povzbudila své vojsko zpěvem vánočních koled a vlastnohubně odrazila nejeden přímý nájezd na hlavní bránu kladením nečekaných otázek jako „What do you usually have for breakfast?“, „What are you most proud of doing?“ a „On a first date, who should pay -- the man, or separately?“[fn:5] Tím dokázala útočníky natolik zmást a zarazit, že se stali nejen snadnými terči, nýbrž rovněž zcela neschopnými boje i pokud by je nikdo nedostal.
+
+Pan Lysák, který měl zásoby na jediný den obléhání, využil svých organizačních schopností a instruoval paní Polákovou, aby tento problém vyřešila. Díky /jejím/ organizačním schopnostem se útočníky podařilo nakrmit o den déle, nikoli však zadarmo. Lysákovi bylo jasné, že nedobude-li Strupe Slýme vybar-Víme následujícího rána, bude nucen obrátit se a pochodovat zpět s nepořízenou. Připravil tedy poslední pokus o obsazení.
+
+Následujícího rána však vpadl do sídla zcela bez obrany, bez stráží, ba i bez obyvatel. Jakmile prorazili bránu, naskytl se jim pohled na spálené sýpky a prázdné lednice. Bez zásob se tedy skutečně otočil k západu a pochodoval.
+
+_Uba Bíva Perspek-týva_ 
+
+Ještě v tu dobu, kdy paní Rotreklová přestupovala na let do Mongolska, přistála na stole paní Horákové zpráva o zhruba polovině /Pálkovská squadu/ prakticky za humny. Na radu svého válečného poradce vydala rozkaz k evakuaci prostoru a vydala se jižně. Tento směr nás zanechává v rozpacích: na sever se nachází další ze sídel paní Malé, dalo by tedy rozum, že by paní Horáková chtěla tam, ona se však vydala opačně, jako by věděla, že na ní čeká Macháček. Paní Horáková odmítla své rozhodnutí dále komentovat, což vyvolalo ještě více podezření.
+
+Na pozornost veřejnosti přišla pasáž jejího rozhovoru s panem Žebatým, ve které se vyjadřuje k tomu, že paní Pálkovská by neměla věřit všem kolem sebe. Ačkoli Horáková sama odmítá závěr, že má v nejvyšších kruzích /Pálkovská squadu/ špeha, paní Pálkovská si nechala předvolat všechny přítomné a následovala mnohahodinová inkvizice, při které byla paní Jakešová označena za potenciální bezpečnostní hrozbu a její hodnost byla ještě více snížena. Někdeníku nezbývá než se domnívat, že paní Horáková si přibližně v tu chvíli mnula ruce. Rovněž si nemůžeme dovolit opomenout zmínku o jiné teorii, která se vynořila z hlubin internetu, a to teorie třetí osoby, tedy jakéhosi pomocníka nestraníka, který informaci o pohybech pana Macháčka a intencích jeho šéfové tajně předal do rukou Větší pětky. Avšak i tato teorie byla paní Horákovou odmítnuta.
+
+Vzhledem ke své pozici -- na západ Pálkovská, na sever Macháček a na východ dlouhý pochod do Mongolska, kde v tu chvíli stále probíhalo obléhání jejího útočiště -- nezbylo Horákové, než se vydat jižně, a to tak daleko, jak to jen šlo, tedy do Indie. Tak alespoň uvažovala paní Pálkovská. Po počátečních zprávách o pohybech paní Horákové byla v tomto přesvědčení utvrzena, vydala se tedy s Modrými klobouky za ní. A zabloudila.
+
+_Čína_
+
+Věřte tomu nebo jo, ale část této historické události se odehrála i v Číně. Pan Šin Pin Sžin, špion pracující pro paní Kolářovou, byl vyslán těsně před opuštěním Uba Bíva Perspek-tývy a s nasazením vlastního auta doručil tajnou zprávu do Strupe Slýme vybar-Víme k paní Rotreklové. Ta na jeho pokyny v roušce noci opustila sídlo, zapálila ho, a schovala se s armádou za kopec. Ve chvíli, kdy se pan Lysák otočil a vracel se k Macháčkovi a později k Pálkovské, ho sledovala až do chvíle, kdy zcela nečekaně narazil na spojené armády Velké pětky pod vedením Horákové a všechny ostatní přítomné armády federace.
+
+Zatímco Pálkovská hledala, kdyby z Indie, otočila se paní Horáková a šla na pomoc Rotreklové. Potkaly se veprostřed a navzájem rozdrtily pana Lysáka a jeho mozky. Pak se ale, ve snaze býti nepředvídatelní, vydaly do Indie, hlavně proto, že jinak neměli, kde přespat. Tento fakt přinesl paní Pálkovské první pokrok v hlasech, který si sama nedobyla, od Oranžové okupace. Nacházela se na osmém místě, díky naprosto neočekávaným vývojům událostí se ale dostala ještě o místo výš.
+
+Za tento pokrok může paní Lajdová. Ve chvíli, kdy se široká veřejnost začala sázet, jestli Pálkovská vyhraje nebo prohraje (chvíli po jejím náhlém vzestupu), byla paní Lajdová spatřena rodinkou ledních medvědů, jak sama sestavuje malou, osobní vojenskou sílu, něco, co do té doby neudělala. Jelikož, jako obyčejně, odmítla s kýmkoli jednat či hovořit, vymysleli si její voliči svou vlastní verzi jejího počínání -- paní Lajdová se bojí. To bylo pro lid natolik neskousnutelné, že se o dvě hodiny později nalezla o tři místa níže, tedy těsně pod Pálkovskou. Velká pětka se tak po mnoha týdnech opět ocitla pod sebou tak, jak byla na začátku. Tedy kromě Záchelové, kterou nikdo nepočítá a na kterou si nikdo nevzpomněl pardon už jí nebudu zmiňovat čestné slovo omlouvám se. Tento stav věci však nezůstal dlouho.
+
+#+CAPTION: Pálkovská squad a její vojska
+| Kantor               | Vojsko                                           |           Počet | Poznámka             | Sídlo                    |
+|                      |                                                  |             <r> | <20>                 |                          |
+|----------------------+--------------------------------------------------+-----------------+----------------------+--------------------------|
+| Pálkovská            | Modré klobouky                                   |       1 100 007 | Řídí si všechno sama | Colusum Beene            |
+| karota Macháček      | Region de'Carrot                                 |         300 000 | Nemá sídlo, protože mu vyhořelo staveniště |                          |
+| Jakešová             | Komando smrti                                    |          85 000 | Nemá sídlo, protože ho po jejím selhání zabrala Pálkovská a předělala na bowlingovou hernu |                          |
+| Lysák                | Vymyté mozky                                     |         850 000 | Sídlo založené roku 1449; odmítá sdělit zdroj svého četného vojska, ale naše zdroje říkají, že se jedná o celostátní konspirace na středních školách | The Big Jim              |
+| Vávrová              | zaměstnanci Vodafone Inc.                        |         150 000 | T-Mobile se odmítl zúčastnit | NiveaaLoe Věra           |
+| Poláková             | Ostražití mniši slunečního boha Škrala           |         600 000 | Nedá se o ní říct nic zajímavého, ale nechtěli jsme nechat toto pole prázdné | Kupilum d'Eee            |
+| školník Král         | jednomyslné sdružení pracujících (JSP)           |          40 000 | Nemá sídlo, protože by se o něj musel starat, a „toho mam v práci až nad hlavu“. |                          |
+| vrchní žebník Šeiner | podmořské Amazonky Sakumprásk                    |         793 000 | Odmítl sdělit jméno svého sídla. Místo toho dal Někdeníku hádanku a řekl, že když ji vyřešíme, najdeme jeho sídlo. My jsme jeho sídlo našli starou dobrou špionážní metodou, ale vám dáváme tuto variantu, protože se nám chce. | λl = ¾σf³                |
+| rozhodčí Ebbe        | fotbalový klub základní školy Šromotovo          |              45 | Nenechte je jejich počtem zmást. Jsou lítější, než vypadají. | Jídelna Šromotovo        |
+| Hapalová             | Druhořadá kolekce sebevražedných hrobařů amatérů |         200 000 | A když budete, milé děti, hodné, poví vám strýček Karlos, jak k nim Hapalová přišla. | palác DermaDol           |
+| Horký                | Žabáž u Špaláši, severní smečka hodnědů          |         120 000 | Sídlo postavil vlastníma rukama | Studený vrch             |
+| soudružka Menšíková  | praruská bohatýrská aliance Yvan                 | 150 000-200 000 | Nikdo vlastně přesně neví. Oni se neradi počítají. Sídlo v Bretani. | Der Schwarüng des Elbes  |
+| žebník Kubešová      | Suchozemci                                       |         120 000 | Jedná se o neidentifikovatelnou skupinu venkovní kožené obuvi | Betroitsch l'Enka Seneda |
+|----------------------+--------------------------------------------------+-----------------+----------------------+--------------------------|
+|                      | Celkem:                                          |       4 750 000 | ± 250 000            |                          |
+
+Nezvěstný pan Langer se rovněž propadl, protože se nehodlá účastnit bitvy, což se lidem nelíbí. Křenková „dočasně“ stoupla o dvě pozice díky své oběti v lázních. Předehnala tak Macháčka, momentálně na sedmnáctém místě, který jistě lituje, že se kdy o Langerovi slovem zmínil.
+
+Ovšem historie se ráda opakuje. Asi jí došly nápady. Stejně jako Napoleonovo tažení do Ruska, pochod paní Pálkovské (a rovněž paní Horákové) byl zcela změněn počasím. Zatímco Horáková očekávala, že Pálkovská už v Indii nebude, až tam s Větší pětkou dorazí, krutou hříčkou osudu tomu bylo naopak, a to výhradně kvůli nepřízni povětrnostních podmínek. Před úprkem do- či útokem na Asii se obě skupiny vybavily na to nejhorší -- mráz, krupobití, hromobití, déšť, led, sníh, záplavy, potopy, požáry, ale nikdo nemohl předpovědět, co doopravdy přišlo. Pouhých dvanáct hodin po překročení Indické hranice s Čínou na Větší pětku dolehlo naprosto neočekávané, zcela absurdní normální indické počasí.
+
+„Čekali jsme všechno,“ řekla paní Rotreklová, „ale kdo mohl čekat, že jsme neměli nic čekat?“ A tak byly obě strany nuceny se zastavit v pochodu, zaskočeni úporným klidným větrem a zcela neškodným mírným sluncem. Co situaci ještě zhoršilo byl fakt, že jako by si to někdo vymýšlel se obě armády zastavily na opačných stranách Nové Delhi. Nedošlo však k žádným potyčkám, neboť na obou stranách propadli bojující panice.
+
+V následujícím dni se Macháčkovi k jeho smůle podařilo paní Pálkovskou dohnat a připojit se k ní. Jeho jednotky padly pod stejným náporem sedmnácti stupňů Celsia a mírným mořským vánkem.
+
+Navrch nakonec získala Větší pětka. Paní Horáková dokázala uchovat morálku všech svých podřízených díky dvěma krokům: 1. Využila svých chemických znalostí a vytvořila kolem svých táborů umělý sníh. Toto přimělo vojáky myslet si, že nastaly těžké podmínky, a to už je něco, s čím se dá vypořádat. 2. Vytvořila nové zaměstnání, takzvané ofukovače. Ofukovači se během jediného dne, tedy teprve včera, rozrostli do počtu desítek tisíc a společnými plícemi dokázali vytvořit vichr natolik závažný, že spojené armády měly pocit, že jde do tuhého. A to jsou ve svém živlu.
+
+Tento krok nejen zajistil integritu mezi jejími silami, ale snížil nezaměstnanost v Indii o osmdesát šest procent. Celá Indie se přidala na stranu paní Horákové a ta se posunula o jedno místo vzhůru. Je tedy momentálně druhá, těsně za panem Rychnovským, který rovněž zažil vzestup.
+
+Stále schovaný v lese (a nikdo v tuhle chvíli neví, ve kterém), byla jeho osoba podpořena pohádkovým sdružením lesních pánů (PSLP), hlavně Rumcajsem, Krakonošem a Lotrandem. Všichni tři se přidali k jeho armádě, ačkoli si toho nikdo nevšiml, protože nikdo neví, kde jsou. Pan Rychnovský však již na prvním místě byl, nezaznamenal tedy žádný pokrok, což mu v očích odborníků ubírá na legitimnosti.
+
+V reakci na povětrnostní podmínky vyslala paní Pálkovská posla s žalobou na počasí k Nejvyššímu Evropskému Meteorologickému soudu, i když taková věc vůbec neexistuje a ani jedna strana se v tu chvíli nenacházela na území Evropy. Nema jiných možností, rozhodla se také zaútočit přímo na paní Horákovou, než se jí rozpadne armáda. Tento plán se však na poslední chvíli zpozdil, neboť z Pacifiku přispěchala dvojice Mu-Stod. a spojila síly se zbytkem Větší pětky. Paní Pálkovská tak byla, tváří v tvář téměř rovnému soupeři, nucena přehodnotit taktiku (= změnit bojový pokřik) a obě strany se shromáždily na pláních před branami Nové Delhi, zírají si jedna druhé do očí a vyčkávají na vhodnou chvíli zaútočit
+* Host
+  :PROPERTIES:
+  :VISIBILITY: content
+  :END:
+** Rozhovor - „Skoro bych řekla, že máte pravdu.“/„...“/„Já myslím, že by nám prospěly nějaké společenské hry.“/13 vteřin ticha
+Paní Kolářová je kantorem plně zabraným do své práce. Při rutijní prohlídce jejího domu před pozváním do /Monte Karla/ jsme nenašli jediný důkaz nezákonné, či dokonce ilegální činosti. Zejména jsme nedokázali objevit jedinou známku dealování drog, což nelje s úspěchem tvrdit o všech našich hostech. Paní Kolářová má syna a manžela a dům a práci a budoucnost. Teď jí ale čeká zkouška ohněm.
+
+/Rozhovor pořízem dva týdny před jejím odchodem do Asie/
+
+
+*Všichni víme o vašich problémech u Kartága. Váš partner, Gustav, se vyjádřil, že k Větší pětce se přidává jen kvůli své porážce. Je tomu tak i pro vás?*
+
+Rozhodně ne. Myslím si, že kdyby paní Pálkovská spolu se svou skupinou vyhrála, tak by to pro veškeré učitelstvo světa dopadlo špatně, a to nehodlám dopustit.
+
+*Znamená to tedy, že jste se přihlásila k Větší pětce hlavně, abyste porazila Pálkovskou, ne protože s tou Větší pětkou sdílíte... vlastně cokoliv?*
+
+Skoro bych řekla, že máte pravdu.
+
+*Takže souhlasíte s panem Havellem. Jak se vám s ním pracuje?*
+
+Až na to, že mu nerozumím, velmi dobře.
+
+*Jak vás dva přijal zbytek Větší pětky?*
+
+Celkem přívětivě.
+
+*Všichni, nebo jsou tam nějací jednotlivci, kteří by byli radši, kdybyste tam nebyli? Víme, že někdo hlasoval proti vám.*
+
+Já se všemi vycházím dobře.
+
+*Proč jste se do soutěže vůbec přihlásila?*
+
+To je snad jasné. Abych vyhrála.
+
+*Máte pro to nějaký osobní důvod? Nebo je to prostě pozice, kterou opravdu hodně chcete?*
+
+/[24 vteřin ticha]/
+
+*Vážně? To mi ani neříkejte. Jak se vám podařilo získat skautské oddíly /Světové chrabré mise/ na svou stranu? Většinou jsou zásadně neutrální. Vysloužili si přezdívku sokolské Švýcarsko.*
+
+Víte, já nevím. Oni se sami nabídli. Asi jsem oblíbená mezi některými členy. Nedokážu si to jinak vysvětlit. Některé z nich jsem totiž učila.
+
+*Jste s nimi spokojená?*
+
+Velmi.
+
+*I přes jejich, řekněme to na rovinu, nedostatky na bitevním poli?*
+
+Co byste od nich čekal při takové přesile?
+
+*Zmínila jste, že jste některé z nich učila. Když tu předminulý týden byla paní Horáková, dostala od svých bývalých žáků darem pH papírek. Dostala jste něco od svých žáků?*
+
+Nedostala jsem žádnou fyzickou věc, ale někteří moji bývalí žáci mi napsali a ujišťují mě o tom, že mě budou podporovat.
+
+*Čekáte od nich nějakou finanční podporu, či jen morální?*
+
+Od svých žáků bych ani finanční podporu nežádala.
+
+*To vám musí být velice vděční.*
+
+Ale za tu morální jsem velmi ráda.
+
+*Co si myslíte o nové vyhlášce, že každý bojující člen Větší pětky musí mít po ruce aspoň jeden pH papírek?*
+
+Já sice nevím, co se za tím skrývá - jestli tím paní Horáková něco sleduje; vlastně nevím, co jiného by to mohlo být. Jestli tím paní Horáková nic nesleduje, tak je to poněkud hloupé. Ale nosit pH papírek není problém. Naštěstí to není třeba obří plyšový medvěd, to by bylo horší.
+
+*Naše pátrání ukázalo, že pracujete ve stejné škole, jako zmizelý pan Langer. Jste si blízcí?*
+
+Popravdě ne, nebyli jsme si blízcí. Náš vztah byl čistě profesí jako nadřízený a zaměstnanec.
+
+*Víte, kdo ho mohl unést?*
+
+/[13 vteřin ticha]/
+
+*Mlčení znamená souhlas. Na čí stranu si myslíte, že by se přidal, kdyby tu byl?*
+
+Doufám, že na naší, ale nejsem si tak úplně jistá.
+
+*Měl nějaké problémy s paní Horákovou? Či naopak nějaké sympatie k paní Pálkovské?*
+
+Já bych spíše řekla, že ho dostatečně dobře neznám.
+
+*Mezi Dvaceti statečnými dochází k hluboké špionáži. Dokázaly vaše zdroje odhalit, kde by pan Langer mohl vzít svojí armádu?*
+
+Asi mezi umělci. Nevím.
+
+*Umaloval by své nepřátele k smrti.*
+
+Myslím, že to by nebyla zrovna příjemná smrt.
+
+*Máte s ní nějaké zkušenosti?*
+
+Ne, jen se dohaduji.
+
+*Minule se nám do studia ozvala nějaká rodina, která tvrdila, že pana Langera viděla živého, zdravého a hlavně neunešeného. Policie však nenašla žádné stopy. Co si myslíte o takovýchto /vtipálcích/? Nebo snad máte podezření, že jsou do jeho únosu zapleteni?*
+
+Víte, on je tu ještě jeden problém. Krom tohoto, o čemž já jsem nevěděla, v našich místních novinách vyšel rozhovor s panem ředitelem, který se zabýval hlavně událostmi 17. listopadu. Také jsem byla velice překvapená, neboť všechno nasvědčovalo tomu, že rozhovor nebyl pořízený před únosem pana Langera.
+
+*Nějaká konspirace, možná?*
+
+Nevím, každopádně bych řekla, že tento případ bude potřebovat další vyšetření.
+
+*A podnikla jste nějaká vyšetření sama?*
+
+Spolu s dalšími členy Větší pětky podnikáme kroky i proto, že pan Langer by právě mohl znamenat rozhodující sílu v následujícím střetu.
+
+*Vlastně, ať se přidá na jakoukoli stranu, ta strana pravděpodobně vyhraje. Takže byste chtěli vědět, kde je, kdyby se k vám přidat chtěl i nechtěl.*
+
+Ano, ano.
+*** Kampaň
+*Jakou cestou by se mělo učitelstvo světa vydat?*
+
+No, já myslím, že budu muset jít pro nabíječku.
+
+*Já počkám.*
+
+/[odejde; 90 vteřin ticha]/
+
+*Něco mi říká, že jste zpátky.*
+
+No, já si myslím, že potom, co bude dobojována tato válka, které diplomaticky říkáte volby, tak by se konečně učitelé měli vrátit k tomu, od čeho tu jsou, a to k výuce. A zapracovat na tom, aby školy byly příjemné místo, kam budou žáci rádi chodit a aby je to bavilo.
+
+*Byla-li byste zvolena, určitě nebudete sama na takto obří úkol. Budete kolem sebe mít lidi, kteří vám budou pomáhat. Jak je hodláte kolektivizovat? Udělat z nich tým, zajistit, že budou tahat spolu,...*
+
+/[19 vteřin ticha]/
+
+*Dneska jste samá perla. Já vám musím pogratulovat. Co kdybych se vás zeptal na vaše současné kolegy? Jak byste kolektivizovala je?*
+
+Já myslím, že by nám prospěly nějaké společenské hry.
+
+*Máte nějakou konkrétní na mysli?*
+
+Moji kolegové berou situaci příliš vážně. Já myslím, že by jim prospěla jakákoli hra.
+
+*Co takhle válka? To je nějaká karetní hra, ne?*
+
+To jsem zrovna na mysli neměla. Třeba /Člověče, nezlob se/.
+
+*Bridge?*
+
+Já opravdu nevím, kde na tohle chodíte.
+
+*To my vystudovaní... Hodláte využít svých matematických znalostí v nadcházející bitvě?*
+
+Samozřejmě. Co nejlépe budu moci.
+
+*Jak konkrétně plánujete takového cíle dosáhnout?*
+
+Jak nejlépe budu moci.
+
+*Chytrá odpověď. Velice diplomatická. Plánujete s paní Horákovou zůstat i po případném poražení paní Pálkovské, nebo se chystáte jít vlastní cestou?*
+
+No, myslím, že se trochu poradím se svým kolegou. Jako obyčejně se nic nedozvím, no a...
+
+*A s nim hodláte ještě nějakou dobu zůstat, předopkládám.*
+
+Ano, ano. Napřed jsem byla trochu zaskočená, když jsem zjistila, jak se věci mají, nicméně mi to spojenectví vyhovuje.
+
+*V tom případě, kdyby se vám podařilo soutěž vyhrát, zvolila byste pana Havella za svého pobočníka, a pokud ne, ví o tom?*
+
+No, víte, když vám řeknu, že ne, tak se to asi nedozví, protože mi nerozumí.
+
+*Je to tak, je to tak. Uvažujete sama o pozici pobočníka?*
+
+Koho? Paní Pálkovské rozhodně ne.
+
+*Je někdo, komu byste dělala pobočníka ráda?*
+
+No, asi ano. Někdo takový určitě je, akorát mě nenapadá.
+
+*Rozumím; další politická odpověď. Jaké jsou vaše dlouhodobé plány? Do této chvíle jste zůstávala relativně nečinná, až když jste byla vyprovokována k přímému střetu, jste se veřejně představila.*
+
+No, myslím, že nyní jsem už ukázala, na čí straně stojím. To byl asi nejdůležitější tah. Zatím budu spolupracovat s Větší pětkou a následně, až se situace vyvine, doufejme, že... ta kočka je hrozná.[fn:6] Doufejme, že k lepšímu, pak teprve začnu podnikat další korky. Nyní se budu soustředit hlavně na to, abychom Pálkovskou společně porazili.
+
+*Myslíte, že se vám vaše dosavadní taktika vyplatila?*
+
+Řekla bych, že ano.
+*** Random otázka dne
+*Když se při synchronizovaném plavání utopí člen týmu, mají ho ostatní zachraňovat, nebo se taky utopit?*
+
+Rozhodně zachránit.
+*** Rychlá střelba
+*Jaká je procentuální naděje, že Větší pětka zvítězí?*
+
+Doufám, že stoprocentní.
+
+*Vyjmenujte nám prosím všechny číslice π.*
+
+To se nedá stihnout.
+
+*Obětovala byste pana Havella, abyste si zachránila krk?*
+
+No, něco by se přece jenom mohl doslechnout, takže se radši zdržím odpovědi.
+
+*Doplňte prosím následující větu: Bez matematiky bychom...*
+
+...tu asi nebyli.
+
+*Jaká je vaše životní ambice?*
+
+Být dobrou učitelkou.
+*** Korespondence
+*Do Monte Karlos nám přišel dopis adresovaný paní Kolářové. Bohužel, cestou se tak nějak polil a většina je nečitelná. Našemu forensnímu týmu se podařily odhalit tyto části textu:*
+    
+*...s vašim svolením... ohledně nedávného pobouření... s kořeny v zádech a nosatkou k východu... nehynoucí blo--... ÚND a dlouholetý ... SNP.*
+    
+*Bez ohledu na nedostatek kontextu, subtextu a textu, máte něco, co byste pisateli ráda sdělila?*
+
+...doufám,... ráda vás zase uvidím.
+
+*Tyto iniciály – SNP a ÚND - už jsme viděli minule, když zde byla paní Horáková. Ona si, stejně jako my, nedokázala vysvětlit, o co jde. Objasníte nám to vy?*
+
+Domnívám se, že by to mohly být iniciály jednoho z mých bývalých žáků.
+
+*Zjevíte nám jeho jméno?*
+
+Kdyby chtěl, abyste jeho jméno znali, tak by se asi podepsal.
+
+*Problém je v tom, že minule v tom pohledu pro paní Horákovou se manželé Kunderovi podepsali jako členové ÚND a praktikanti SNP. To není jako iniciály člověka.*
+
+Hm. To je mi záhadné. V tom případě asi zůstane na nějakém jiném kantorovi, aby záhadu objasnil.
+*** Závěrečný proslov
+*Sdělte prosím svým následovníkům, voličům a sponzorům koho mají podle vašeho nejlepšího soudu podpořit v případě, že nedej Bože nepřežijete válku s paní Pálkovskou.*
+
+Řekla bych, ať podpoří paní Horákovou, která teď drží pevně v rukou jediné sily, které jsou schopně paní Pálkovské vzdorovat, a která má jasně stanovené cíle. Která by zároveň si myslím byla dobrou a svědomitou vůdkyní všeho učitelstva.
+
+*Takže nejde jen o tu sílu. Představte si, že to nepřežijete ale paní Pálkovská bude poražena. Pořád byste hlasovala pro paní Horákovou?*
+
+Ano
+** Hodnocení odborníka
+Běžně bych si připravila vše potřebné, udělala si výstižnou a stručnou osnovu a bedlivě se pročetla nejen mě poskytnutým rozhovorem, nýbrž i Twitterem dané osoby a nejméně třemi koláčky štěstí. Dnešní vánoční vydání mě však, milí posluchači[fn:7], nutí k poněkud odlišnému přístupu k věci, zejména z důvodů historických a politických, omluvte tedy prosím, kdybych se někdy zdála nekoherentní[fn:8]. Vše v dobré víře, doufám, a šupina koně stěží nevykope, že?
+
+Dejme se do Dagmar. No Bože, cos mi to zase poslal? A proč máš takovou potřebu mi tohle dělat? Paní Kolářová se v posledních týdnech stala velmi důležitou osobou. Čím níže pan Macháček klesá, tím výše se ona dere. Ne, že by nějak změnila pozici, to zase ať nevypadám, že nevím, o čem mluvím; jde spíše o to, že beze změny v pozici je v pozici pozici změnit. A to se nesmí přehlédnout.
+
+O to více mě zklamává pohled na tak zoufale necharismatickou osobu. Radši bych se, přiznejme si to, dívala na hopsavou stonohou dvaadvacetiletou mikrovlnnou houbičku na nádobí. A její slovní projev jako by reflektoval její osobitost - je nezajímavý, většinou předvídatelný, mnohdy neexistující. Sem tam vykoukne nějaká zajímavá, neřku-li poutavá myšlenka, pak ale spatří světlo projíždějícího kulometu a zase zaleze. Mohu se jen domnívat, já, osmapadesátadvousetletá politická recenzentka, jaké nadlidské, či možná nelidské pochody v její hlavě... pochodují, ale zvenku to vypadá jako svíčková v rozpaku, tedy nic moc a hlavně pozdě.
+
+Pojďme se nyní podívat na její odpovědi, abych mohla příkladně ukázat, kde jsou moje problémy. Byla jsem paní šéfredaktorkou Ašelovou instruována, že pokud se mi něco nebude líbit, mam si to strčit víte kam. Do prdelačky. A tak, v zájmu uchování všeobecné informovanost voličů, se pokusím dokázat každé své nařčení.
+
+Paní Kolářová lže. „Já se všemi vycházím dobře,“ říká, ale z brilantní reportáže CNN víme, že má osobní problémy s nejméně třetinou Větší pětky. Proč má potřebu nás takto vodit za nos nevím, ale můj nos amputovali, když mi bylo dvanáct, takže si jen tak nezavodí. Pravděpodobně se snaží ukázat se jako nekonfliktní osoba, ale co o ní říká fakt, že jediný člověk ochotný se s ní spojit je ten, který nemá sebemenší potuchy, co vlastně vychází z jejích, s prominutím, úst.
+
+Podívejte se na rozdíl mezi ní a, budížjízemělehká, paní Záchelovou. Ach ta Záchelka... Dovolte mi se vyjádřit jasně: paní Kolářová nemá na neschopnost Záchelové ani suchého chrousta, ale to neznamená, že /její/ neschopnost bude tolerována, ačkoli paní Ašelová by ráda, abych si takové názory nechala pro sebe. Ale zatímco Záchelová odmítala brát soutěž vážně, Kolářová ji bere zase až moc vážně, což maskuje poukazováním na to, že ostatní kantoři ji berou ještě vážněji. Ale jenom proto, že Kubeš se při skoku z okna zabil a vy ne, se nedá usoudit, že nevadí, když jste z toho okna skočili. Každý uchazeč by se měl snažit vyhrát za každou cenu, to dá rozum, ale proboha živého, neříkejte to nahlas. V televizi. Před lidma. To je průhledné, nezajímavé, odpuzující, heretické a hlavně katastrofické. Domnívám se, že paní Kolářová nezaznamenala pokles jen díky svému současnému postavení v horních příčkách Větší pětky.
+
+Když jsme u toho, Horáková z ní udělala šéfa špionáže. To se hodí, vhledem k tomu, že polovinu rozhovoru promlčela. Vlastně bych si nedokázala představit vhodnějšího kandidáta. Ale i největší velryba koláče polyká. Paní Kolářová se vyžije na výsluní špionážního zástiní a po válce, vyhraje-li, bude opět vržena do hlubin zapomnění. Leda by mě opravdu hodně překvapila. A... No, řekněme to na rovinu, překvapena jsem nebyla od ruské okupace Palestiny.
+
+Kdybych měla Dagmar popsat jedním slovem, bylo by to zoufale. Kdybych jí měla popsat dvěma slovy, přidala bych ještě nezajímavá. Zoufale nezajímavá. Prvoplánová. V životě chce být dobrou učitelkou... Jako bych to neslyšela každý druhý slunovrat. Odmítá odpovědět na otázku a vykrucuje se. „Jak nejlépe dovedu,“ prý. Co je to za odpověď?
+
+Ale to já nesmím říkat. Protože Ašelová nechce pokazit Karlosovo spojenectví s Větší pětkou a protože v ní z nějakého důvodu našla osobní, možná ideologické zalíbení. Ups, to jsem asi neměla říkat. No co. Každá osa někdy prudce ztrouchniví.
+
+Abych to tedy shrnula: paní Kolářová nevypadá jako špatný kandidát, jenom zoufale nedobrý. Nemohu říct, že bych jí rozhodně nesnášela. Problém je právě v tom, že je to nerozhodně
+* Poznámky
+
+[fn:1] /Monte Karlos Někdeník/ byl připraven celou situaci vysvětlit, ale pak si uvědomil, že takhle je to větší sranda.
+
+[fn:2] V /Monte Karlosem/ dodaných tryskových letounech; ne, že bychom se vychloubali.
+
+[fn:3] Toto rozložení kompetencí a rozdělení úloh je typické pro Větší pětku, čímž chceme říci, že je naprosto atypické, až dokonce neslýchané v řadách /Pálkovské squadu/. Paní Pálkovská si řídí všechno sama, což je jeden z důvodů, proč /Monte Karlos/ zcela nestranně podporuje Horákovou.
+
+[fn:4] Sídlo na pobřeží Anglie, současně okupováno
+
+[fn:5] Nutno poznamenat, že paní Rotreklová učí Anglický jazyk (v jistém, velmi osobitém podání).
+
+[fn:6] Paní Kolářová si do studia přinesla kočku a ta jí začala běhat po zádech.
+
+[fn:7] Paní Kupé si ještě stále nezvykla na fakt, že ačkoli ona své reakce nahrává a posílá do studia, my je zde přepisujeme a vydáváme v tiskové formě. Někdo by jí to měl říct.
+
+[fn:8] Poznámka přepisovatele: Hahahahahahahahahahahahahaha!

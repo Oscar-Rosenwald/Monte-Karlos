@@ -1,0 +1,407 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■");-*-
+:Uvozovky:
+# \bdquo = „
+# \ldquo = “
+# \sbquo = ‚
+# \lsquo = ‘
+# [[https://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html][LaTeX symbols]]
+:END:
+:stuff:
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: Opět zde a v plné síle
+
+Vítejte v /Monte Karlos/, levém ušním bubínku všemocného Krakena.
+* 1/2019
+Ročník XXVIIII
+
+*Adresa redakce:*
+Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:*
+EmailNoReply@server.mok
+
+*Zákaznická linka:*
+0004 892 223 03E
+
+*Šéfredaktor:*
+Alžběta Ašelová
+
+*Manažer redakce:*
+Jiří b'Ačkora
+
+*Zástupce šéfredaktora:*
+Hobbo Habán
+
+*Fotograf:*
+Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:*
+Tara Kočí
+
+*Obrazová redakce:*
+Honza Kůň
+
+*Rozhovor:*
+Karlos Žebatý, Lubomír Lečko
+
+*Politická recenze:*
+Olšana Kupé
+
+*Móda:*
+Šlapeboso Elle'Gante
+
+*Editoři:*
+Rebeka al'Chajda, Kapilár del Maare, Šimon Balabán
+
+*Předpověď počasí:*
+Hoso al'Kosso
+
+*Vydavatel:*
+Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:*
+Karlos Žebatý
+
+*Sociální poradce:*
+Lightningh Danger
+
+*Sociální podpora:*
+Anna Oleš
+
+*Inzerce:*
+Many Hrabal
+
+*E-shop:*
+nakupsisam.cz
+
+*Tiskne:*
+individuálně
+
+*Korespondent:*
+Pes
+
+*Rozšiřují:*
+google.com
+
+/Monte Karlos Někdeník/ byl založen skupinou černých nosorožců afrických v létě roku 1989. Jeho stránkami byly poznamenány takovými autory jako Alexandr Malinovský, Jack O'Clock a Veronika Oškalová a všeobecnému ohlasu se těší již třetím rokem pod brilantním vedením šéfredaktorky Alžběty Ašelové©. Stojí na železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po prachbídné korespondenty se řídí všestrannými, nesmrtelnými pravidly slušného chování.
+* Editorial
+U nás doma se vždy říkalo: Kdo má naspěch, dojde první, ale kdo si počká, dojede autobusem. No, dámy a pánové, autobus přijel. Lubomír Lečko vám barvitě vysvětlí, proč nám tvralo tak dlouho se k vám znovu dostat, stejně jako přoč nejste schopni poslechnout si vskutku vynikající komentář největší bitvy století. Ale čekání je u konce, milí přátelé, a Monte Karlos Někdeník vám konečně přináší další číslo sám sebe. No nejste rádi?
+
+Po dlouhých debatách se mi podařilo prosadit drobný redesign. Jak jste si jistě všimli. máme novou titulní stranu, nové korespondenty, nové rubriky, novou strukturu, nové kantory, jen Karlos je pořád stejný a tak to má v životě být. Karlos začal s osmnáctou řadou /Monte Karlos/ a hned nám přihodil šťavnatou lahůdku, do které se mí kalogové a bratři zde v někdeníku zakousnou a nepustí, dokud nevydá všechno, co v ní je.
+
+Už teď se těším, co všechno spolu v tomto roce zažijeme! Svět se mění, dejte na slova staré, moudré ženy. Ale spolu, spolu to zvládneme hravě. Ve světle tohoto faktu jsem se však rozhodla začít vás, mé čtenáře, připravovat na svět nový, lepší možná, možná horší, ale jiný v každém slova smyslu.
+
+A začala jsem tím, že jsem vám ubrala počet zpráv.
+
+Alžběta Ašelová■
+* Zprávy
+** Adrift
+Britské ostrovy zasáhla v minulých týndech přírodní katastrofa nevídaných následků i příčin. Nedávno zmizelému silnému orkánu, počasologicky /mega orkán/ neboli /morgán/, se podařilo uvolnit kovové vzpěry držící ostrovy u zbytku kontinentu a poslat Velkou Británii do největší migrace našeho věku.
+
+V sobotu 15. února zasáhl Anglii a Wales morgán třetí třídy. Shodou okolností v tu dobu zároveň pršelo, což rozmočilo podloží natolik, že se ještě téhož dne posunuly ostrovy jako jeden celek o dvaadvacet metrů na sever. Geologické stanice po celém statě ohlásili zrychlení o velikosti 0,3G, rekordní co se týče kontinentálního driftu. Nejeden občan ostrovů zpanikařil, nakoupil zásoby na dvacet let dopředu, zamkl se ve sklepě, snědl klíč a vyčkává, dokud se svět nevrátí, kde byl.
+
+Osud tomu chtěl, že se tak nestane brzy, pokud vůbec. Kovové vzpěty na severu ostrovů tlačící Británii k Francii, byly tímto posunem povoleny, a než se Úřadu pro násilné geologické změny podařilo lokalizovat a urovnat škody, praskl kritický počet vzpěr a Anglie, Walse a Skotsko se daly do nenávratného driftu směrem k Arktidě.
+
+"Ostrovy právě proplouvají lávovým korytem, promiňte, které nám zůstalo, pardon, utajeno hlavně kvůli vakcínám a podobným nesmyslům vědy, sakra au! pardon," nechal se slyšet Ian Sicstone, vedoucí Úřadu pro násilné geologické změny a zarytý antivakcinista za zmateného běhu z jedné strany Trafalgarského náměstí na druhé. Proč běžel, ptáte se? Inu, vláda vydala prohlášení, že lávové koryto je nestabilní a ostrovy udělají nejlépe, budou-li napodobovat sjezd snowboardu po svahu. Boris Johnson pověřil Ellien Stooovou, profesionální snowboardařku, aby organizovala hbyté přesuny obyvatel a kontrolovala tak směr skluzu Ostrovů.
+
+Chvíli po svém rozjezdu narazily ostrovy do Irska. Ohel odrazu odstrčil Irsko směrem severozápad, a poslední týden se přibližuje ke Grónsku. Sázkové kanceláře otevřely ostrovní větev, kde si zákazník může vsadit, jestli se Irsko trefí, připadně, trefí-li se, do koho se pak trefí Grónsko.
+
+Ostrovní drift, nazvaný po morgánu Morgán Le Fey, způsobuje nepříjemnosti hlavám všech států, podniků i těl, nikomu však ne tolik jako panu Oscaru Ohbedaiovi, Olympijskému plavci, který měl v plánu tento měsíc přeplavat Kanál v rekordním čase. Na tiskové konferenci se vyjádřil, že nemá v úmyslu od svého cíle opustit, ale přípravy se budou muset urychlit, jinak mu prý zmrzne voda■
+** Rok Trifidů
+Dlouho chátrající trávník pana Zacharomněje Šklopaxla, Praha 8, se v úterý 25. února stal botanicko-urbanistickým voláním po nápravě, které by vládu mohlo stála miliony. Pan Šofér Kučera, správce státní poklady, odmítl komentovat, miliony čeho že to měly být, ale tato částka je nepopiratelná.
+
+Pan Šklopaxl bydlí již dvanáctým rokem v malebném podkrovním pokoji na Slunečné ulici 18 poblíž letního kina, parku Hodnědov a starožitné, piktoreskní jaderné elektrárny. Místní obyvatelé podali řadu petic na městskou správu ohledně rušivého hluku akčních filmů o letních nocích a nesnesitelného, štiplavého a toxického zápachu hodnědských dubů. Město však vždy odpovědělo stejně - „Peníze... Kdyby peníze byly... Ale oni nejsou... Nejsou... Bohužel...“ Zvládání okolí tak připadlo na lidi v něm žijící, mezi ostatními také na pana Šklopaxla.
+
+Na střeše čísla 18 si pan Šklopaxl pěstoval soukromý trávník pro chov krtků. Jaderný odpad z nových, atomově poháněných vozidel přijíždějících každoročně na promítání filmu Kmotr způsobilo nekontrolovanou mutaci stébel trávy a pan Šklopaxl přestal na střechu chodit po nepříjemném incidentu jednoho jarního večera minulého roku.
+
+„Vrhly se na mě jako psy,“ řekl někdeníku pan Šklopaxl, „začaly kousat a trhat a nadávaly mi, že jsem tlustý a z kondice. Ale já jim ukázal. Já jim ukázal, neřádům jedněm. Každej den chodim do posilovny, každej! Ať si trhnout nohou, sviňáci zatracený.“ Pan Šklopaxl byl následně indisponován kvůli nervovému záchvatu a sanitkou odjel na homolku, kde zůstal v pěči psychiatrů.
+
+Nikomu se zatím nepodařilo přesně určit, o kom pan Šklopaxl mluvil, ale jistí spekulanti tvrdí, že šlo o zmutované traviny na střeše. Pro tuto teorii mluví argument, že na střechu nikdo néměř rok nevkrošil a že v 9:36 ráno 25. února zavolal domovníku Abrflaxonovoviči kořen jetele a stěžoval si na odporný, nesnesitelný zápach přicházející z parku Hodnědov. Manželé Skrblíkovi, žijící těsně pod zmíněným trávníkem, vypověděli, že téměř každou noc slyší ze střechy hlasité hádky, občas výstřely nebo nadávky.
+
+Ostatní obyvatelé domu vidí za tímto nepřirozeným úkazem radioaktivní politickou situaci v Čechách. Jiní si lámou hlavu, proč jejich domácí květiny také nemluví. Alexandr Šročko, vedoucí jaderné elektrárny, mna vousatou bradu prohlásil: „Jak to víte?“■
+* Závod
+** Vývoj
+Dámy a pánové, po dlouhé odmlce jsme opět zde a přinášíme vám čerstvé zprávy a novinky ze světa učitelů, žáků a diktatur. Náš poslední článek slibovat velikou bitvu mezi Větší pětkou a /Pálkovská squadem/ před branami Nového Dilhí v Indii. Štastnou shodou okolností se ukázalo, že k bitvě skutečně došlo. Neměli-li jste čas si přečíst přepis komentáře, nezoufejte - v rychlosti vám zde shrneme výsledek utkání.
+
+Vítězem se stala paní Horáková v čele Větší pětky, a to za velkých ztrát na životech, bodech, důstojnoti a důchodu. K bitvě došlo na přelomu nového roku, těsně po Silvestru, útokem paní Pálkovské, která se rozhodla napodobit Napoleonovo tažení do Ruska, ostatně jak sama předeslala, a prohrát.
+
+Její porážka je absolutní, neboť v půli bojů byla nucena vzdát se svého obřadního /Popravního biče/, který ji dával moc nad její armádou - Modrými klobouky - a představoval veškeré její bodové hodnocení v závodě. Bez biče se tak ocitla na posledním místě žebříčku, odkud ji její rodina následně vysvobodila kolektivním apelováním na její chabou mysl, protože nedokázali přijít na lepší způsob, jak odejít s důstojností.
+
+Její body však nepřipadly paní Horákové, jak se čekalo, nýbrž panu Macháčkovi, kterému se do té doby příliš nedařilo. Ten převzal vedení a pod jeho vládou se podařilo /Pálkovská squadu/ prohrát o několik hodin později.
+
+Armády obou stran jedna po druhé odpadaly. Do boje se zapojilo několik nepředvídaných faktorů, například spojené armády NATO, OSN a OPEKu, které přišly, viděly, zvítězily a zase odešly. V průběhu bitvy se podařilo panu Žebatému odhalit špeha v řadách /Pálkovská squadu/ - paní Kubešovou, která rovněž přispěla k výhře paní Horákové.
+
+Když však mluvíme o její výhře, nesmíme opomenout zmínit člověka, který jí bitvu vyhrál - pan Jiří Šeiner, který na poslední chvíli změnil strany a přinutil zbylé armády do lesa, na ostrov, či na kolena. Paní Zemánková by bývala dosáhla stejného cíle, nebýt jejího chabého výběru bojovníků, kteří se těsně před vítězstvím rozhodli, že už je situace nebaví a ráčeli odejít směr Francie.
+
+Macháček utekl i s bičem a ještě se neukázal na veřejnosti.
+
+Tolik k událostem Nového roku. Nyní se přesuneme do současnosti a připomeneme, že minulý týden probéhlo druhé kolo voleb v závodě. Výsledky jsou konkluzivní a více méně předvídatelné.
+
+Spoušť zanechaná po bitvě však nenechala dlouho čekat na následky. Velikost celého konfliktu přilákala pozornost nejvyšších hlav M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S., který si na několik dní vypůjčil Sistýnskou kapli, kde se zavřel a nevylezl, dokud nevymyslel následující vyhlášení.
+
+Od této chvíle je zakázáno shromažďovávat vojenské síly pod trestem vyloučení ze závodu. Kontakt s již existujícími armádami se rovněž přísně zakazuje. Od této chvíle je povoleno postupovat na žebříčku kantorů pouze politickým umem, popularitou a samozřejmě korupcí.
+
+Všem Dvaceti statečným - učitelům na prvních dvaceti příčkách žebříčku - bylo nařízeno dostavit se do Der Weiderhohlle Flüsemschliessem, rozlehlého hradního komplexu na jihu Bavorska, kde budou pod dohledem M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. provádět své machinace. Byla stanovena lhůta dvou měsíců, do kdy se každý kantor musí dostavit do objetku, jinak bude vyloučen. Mezinárodní Úřad pro úplnou a asertivní spolupráci tak doufá zabrátit budoucím konfliktům v globálním měřítku. Dorozem nad celou operací byl pověřen mladý německý plukovník Aberfaber Mahöny, syn převozníka Bruta a gumové kachničky.
+
+Někteří kantoři se již dostavili, jmenovitě např. Šeiner, Jakešová, Král či Lysák. Paní Rotreklová dorazila se zpožděním, kvůli jazykovým problémům na Indickém letiši Ábragukta. Na druhou stranu, některým učitelům se do hradu nechce. Lajdová se zatím zdržela veškerých komentářů. Zemánková se nechala slyšet, že vyrazí, jenco doopraví referáty. Macháček se zatím nevynořil z lesa a M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. nemá, jak ho vyloučit, neboť není prokazatelně možné ho informovat o jeho povinostech.
+
+Kdo se však nedostavil nejvíce, je paní Horáková. Byť bylo její vítězství patrné, ztratila se v ulicích Nového Dilhí a nikdo ji neviděl ani neslyšel. Přidala se tak ke svému kolegovi, panu Langerovi, který je nezvěstný již blíže neurčeným měsícem. Její sponzoři žádají okamžitou náhradu škod, buďto v podobě nového kandidáta, nebo nalezení toho starého, cokoli bude dřiv hotové.
+
+Změna v pravidlech však není po chuti diváků, kteří volají po zábavě, která jim bude tímto krokem odepřena. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. tak začal instalovat kamery po celém areálu a zaplatil HBO vysílací čas pro svou novou reality telenovelu Kantor■
+** Postupy v žebříčku
+#+BEGIN_EXAMPLE
+1. Macháček
+2. Šeiner
+3. Lajdová
+4. Horáková
+5. Rychnovský
+6. Ludmila Malá
+7. Kolářová
+8. Mužíková
+9. Rotreklová
+10. Jakešová
+11. Zemánková
+12. Vávrová
+13. Vývodová
+14. Kubešová
+15. Křenková
+16. Ebbe
+17. Gustav Havell
+18. Král
+19. Lysák
+20. Langer
+#+END_EXAMPLE
+Pořadí Dvaceti statečných je v novém roce poněkud nepředvídatelné. Vítěz bitvy, paní Horáková, se nachází až na čtvrtém místě, nemalou zásluhou svého ztracení, ale pan Macháček ji předehnal již den po svém úprku z bojiště. S body nejen svými, nýbrž také paní Pálkovské, na které má nárok díky Popravnímu biči, má téměř dvakrát tolik, co druhý kantor v pořadí, pan Šeiner. Jeho změna stran mu vysloužila značný skok vpřed a těší se na výsluní nejvyšším.
+
+Na třetím místě se nachází paní Lajdová, která se rozhodla boje nezúčastnit, dokonce se ani formálně nepřihlásila k žádné skupině, včetně Soudržných kantorů bojkotujících, v té době velmi rychle se rozrůstající spojenectví kantorů, kteří veřejně odmítali válečné střety v závodě. Možná to bylo od ní prozíravé, neboť Soudružní kantoři bojkotující se proti pravidlům utkali na Chicagských pláních 13. ledna a ti, kteří přežili, byli s okamžitou platností vyloučeni. Pozici paní Lajdové si však nedokáže nikdo vysvětlit. Není nikaj aktivní, její sponzoři jsou nepočetní, její voliči rovněž. Každopádně je tam, kde je, a my s tím nic nenaděláme, že?
+
+Největší změnu však přinesla nová vyhláška M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. zakazující výskyt dvojic mezi Dvaceti statečnými. Pan Havell, do té doby sdílející místo s paní Kolářovou, ztratil dvě třetiny svých sponzorů, což značně zhoršilo jeho pozici a značně zlepšilo její. Špionážní výsledky, kterými byla paní Kolářová Horákovou pověřena, jistě také neuškodily.
+
+S tak radikálně změněným pořadím je nespokojena hlavně paní Rotrklová, která je vyjádřila po příjezdu do Der Weiderhohlle Flüsemschliessem: „Nevím, proč jsem tak nízko. Když si vzpomenete na to, jak jsem sama ubránila Strupe Slýme vybar-Víme, jak moji Šílení oštěpaři padli při boji s Pálkovskou a hlavně, že jsem to byla já, kdo vymyslel strategii, jak válku vyhrát, nemyslím si, že je to fér.“
+
+Voliči nesouhlasí.
+
+Paní Jakešová je naopak se svým novým výslekdem spokojena. Její nový film Rychle a v přesile: Tóny smrti, již vypuštěný na filmovém festivalu v Karlových varech, si získává ohlas hlavně v Severní Americe, kde je takové věci baví. Film vyjde do kin někdy v průběhu příštího roku možná■
+** Rozhovor - „Nevím, co bych ještě měla udělat“/„Chtěla bych lepší učitele“
+   Po dlouhé odmlyce jsme si musleli, že vám poskytneme trochu té Holywoodské slávy a pozveme nějakého slavného herce nebo zpěváka... Takže paní Jakešová - bezesporu učitelka nesporně fyziky na, ať se vám to líbí, nebo ne, gymnáziu a nově i režisér a scénárista.
+
+*Zanedlouho vám vyjde nový film, Rychle a v přesile: Tóny smrti. Jak se mám spolupracuje se studiem Taťán, který film vydává?*
+
+No, je to dobrá spolupráce. Občas se i shodneme.
+
+*Jak často byste řekla?*
+
+Jak jsem říkala, občas.
+
+*Co vás přimělo k natočení muzikálu?*
+
+Zdálo se mi, že je muzikálů na trhu málo.
+
+*Takže se nejednalo o nějakou uměleckou potřebu.*
+
+Já nemám potřebu točit muzikál, ne. Řekla bych, že to bylo komerční rozhodnutí.
+
+*Kdyby se ukázalo, že Tóny smrti jsou populární, byla byste ochotna natočit další díl?*
+
+Já nemám ráda neplánovaná pokračování a žádné neplánuji. Byla bych ráda, kdyby Tóny smrti zůstaly jedním jediným filmeme.
+
+*Za vlády paní Pálkovské jste byla poněkud odstrčena stranou. Domníváte se, že by se situace vyvýjela jinak, kdyby vám dala větší šanci se zapojit?*
+
+Ano, určitě by se vyvíjela jinak, ale myslím, že možná spíš hůře pro mne. Takže jsem spíše ráda. Ostatně víte, jak Pálkovská dopadla.
+
+*Jak jste reagovala na převzetí moci panem Macháčkem?*
+
+Ten Macháček byl vždycky takový... slyzký. Já jsem ho moc ráda neměla. Upřímě něco takového jsem čekala, ale zrovna tohle...
+
+*Takže jste čekala něco, ale nevěděla co.*
+
+Řekla bych to tak.
+
+*Měla jste problémy s jeho velením?*
+
+Asi tak jako když byla u vedení Pálkovská.
+
+*Troufnete si říct, kdo byl lepším vůdcem?*
+
+To je jako snažit se rozhodnout, jestli je lepší být ukřižovaný nebo upálený na hranici. Osobně si myslím, že je docela jedno, co je lepší. Obojí je naprosto příšerné.
+
+*Proč jste se tedy přidala do Pálkovksá squadu?*
+
+Tehdy mi to připadalo jako dobrý nápad. Pak jsem ale zjistila, že jsem trochu přešlápla.
+
+*Jak zvládáte vyučovat, když máte nařízeno zůstat v Der Weiderhohlle Flüsemschliessem?*
+
+Víte, myslím, že s takovou krátkou absencí se moji žáci srovnají dobře.
+
+*Ale Mezinárodní Úřad pro úplnou a asertivní spolupráci a tak dále neindikoval, že by vás hodlal brzi propustit. Jaké jsou vaše plány do budoucna?*
+
+Já myslím, že si když tak prozatím najdou za mě náhradu.
+
+*Jak jste reagovala na zmizení paní Horákové?*
+
+Překvapila mě. Její strana vyhrávla a ona zmizí. Ale nevím, nemám tušení, proč něco takového udělala.
+
+*Myslíte, že to udělala schválně?*
+
+Já si rozhodně nemyslím, že by ji někdo unesl. Já myslím, že se rozhodla zmizet sama.
+
+*A nezdá se vám, že už takhle zmizelo příliš mnoho kantorů?*
+
+Neeeee. Co se týče pana Langera, nevím, ten byl vždycky takový zvláštní. Ale u něj nevím. U Horákové bych vsadila půlku hlasu na to, že se rozhodla zmizet sama.
+*** Kampaň
+*Jste momentálně nejschopnější kantor, pokud jde o točení filmů. Hodláte toho nějak využít pro propagandu?*
+
+To by nebylo špatné. Možná někdy v budoucnu. Až dotočím Rychle a v přesile.
+
+*Kdy plánujete, že to vyjde?*
+
+To mám naplánované někdy na rok 2021. Někdy v květnu.
+
+*Jaká je vaše vize pro učitelstvo světa?*
+
+Chtěla bych lepší učitele.
+
+*Školení, či vyhazov?*
+
+Obojí.
+
+*V jakém pořadí?*
+
+To záleží na konkrétních případech.
+
+*Byla-li byste zvolena a doneslo se vám, kdo stojí za únosem vašich kolegů, pokud byli uneseni, jak byste mu poděkovala?*
+
+Pokud by si žádali o výkupné, tak bych moc neděkovala.
+
+*Zaplatila byste?*
+
+Spíše bych uvědomila policii.
+
+*Desáté místo není špatné, ale jak hodláte předběhnout těch devět kantorů nad vámi? Macháčka, Lajdovou, Rychnovského, Rotreklovou...*
+
+Já si počkám do arény a tam je všechny zničím.
+
+*Nějaký konkrétní plán?*
+
+Velmi konkrétní.
+
+*Řeknete nám ho?*
+
+Ne.
+*** Random otázka dne
+*Kolik nohou je příliš mnoho nouhou pro domácí zavlažovač trávníku?*
+
+Padesát.
+*** Rychlá střelba
+*Jaká je vaše oblíbená metoda výuky?*
+
+Výklad kombinovaný se zápisem z učebnice.
+
+*Jaké pokusy provádíte v hodinách?*
+
+Občas demonstruji právě probíranou látku.
+
+*Jak tedy probíhá taková hodina?*
+
+Většinou děláme zápis z učebnice, něco vysvětlíme a zpočítáme nějaké příklady.
+
+*Takže studenty vlastně jenom rušíte při samostatném studiu z učebníce.*
+
+Hodně nadsazeně řečeno.
+*** Korespondence
+*Nyní bychom tradičně přešli ke korespondenci, ale vypadá to, že jste na svých žácích i voličích nezanechala dostatečný dojem, protože nám pro vás nic nepřišlo. Zeptám se tedy takto: Co hodláte udělat, aby si vás voliči a sponzoři všimli?*
+
+Nevím, co ještě bych měla udělat, co jsem ještě neudělala. Snad pospíším s natočením dalšího filmu. Představte si film Taťána a fyzika.
+
+*No, já se snažím.*
+*** Závěrečný proslov
+*Závěrečným proslovem nám prosím sdělte, proč je matematika lepší než fyzika a jak hodláte tohoto fatku využít ve své kampani.*
+
+Matematika je lepší než fyzika hlavně, protože je abstraktní a nenaráží na takové problémy jako, že něco neumíme změřiy a nevíme, co to znamená a nejsme schopni to zjistit. Matematika, pokud je někdo dostatečně chytrý, tak je nástroj, který nemá limit. V matematice si můžete ukazovat, co chcete. Ve fyzice to tak úplně nejde. To je tvrdá realita.
+
+Jak toho využiji v kampani? No... Asi tak, že učím jak fyziku, tak matematiku■
+** Hodnocení odborníka
+Uvědomme si laskavě, že stav voleb rapidně klesá. Macháček je na vrcholu, Lajdová si skáče nahoru a dolů jako suchý cement po dešti a Karlos mi k hodnocení pošle Jakešovou. Jakešovou! Může mi někdo vysvětlit, proč bych se měla zabývat takovou hromadou rododendronů, jako je tady Taťána? Ale nesmím se sdržovat, protože Ašelová mi řekla, že moc kecám a mám svoje hodnocení zkrátit. Já ti dám zkrátit! Když něco stojí za zlámanou grešli, nenechám topiče laminát po střeše nosit.
+
+Kdybych ale byla stručná, řekla bych, že paní Jakešová v sobě nemá ani špetku vůdcovského materiálu. Pro to je nutné mít úctu k nadřazenosti druhých, lepších lidí. A Jakeška naše nemá žádnou. Macháček? - /slizký/. Pálkovská? - /přášerná/. Langer? - zvláštní. Můžu pokračovat! Nemám s čím, protože s Karlosem mluvili jen o těchto třech lidech, ale mohla bych!
+
+Mám tokový pocit, že soutěž nebere vážně. Taťáno, Jakušátko naše, jak to jako myslíš, že nevíš, co bys měla udělat? Potřebuješ sponzory, ale jediné, s čím přijdeš, je nápad, který ti Karlos vnuknul. Mockrát děkuju, Karlosi. Horáková zmizela, Langer zmizel, ale Jakešová neeeeeee. Nic se nedějeeeeee. My se nebojímeeeeee. Sakra ženská, CO TO MELEŠ?! Někdo likviduje kantory a ty děláš, jakoby nic. V čem to žijem.
+
+Upřímně se Jakešovou nechci zabývat dlouho. Sem tam se objeví jiskřička naděje - malá, nicotná, bezvýznamná jiskřička - jako její odmítnutí sdílet plány do arény. Asi se poučila od Pálkovské. Ale proboha živýho, když není učitel schopný mluvit o svém předmětu s nadšením větším než bezové kolo lukrativního trpaslíka, jak čeká, že upoutá masy? Nijak, protože Jakešová si zřejmě nevšimla, že nějaké upoutávat má.
+
+A její projev byl hrůzostrašný. Když jdu do talkshow, tak si snad připravím pět, deset, možná patnáct stovek nejpravděpodobněji položených otázek, ne? /Jak využijete faktu, že matematika je lepší než fyzika ve své kampani/ je očividný dotaz, kterým se Jakošová tak tak prohrabala. Ale její odpověď je, promiňte mou francoužštinu, na hovno.
+
+A tam bych skončila. Slávu našim bohům, smrt utlačovatelům a reflexivní maršmelouny vám přeje Kupé. Zdar■
+** Vyšetřování
+Tuto část budeme mít až příště, ale bude pravidelná, takže potřebuju, aby sis vymyslel, jak bude vypadat. Nevim, jak přesně bude dlouhá, ale nesmí to bejt moc, ostatně jako všechno.
+
+Bude to reportáž, tj. v první osobě, minulém či přítomném čase (měl by být přítomný, ale v tom se mi nechce psát) a bude to vypravování, více méně. Bude v něm náš soukromý vyšetřovatel, který je poslán Karlosem vyšetřit zmizení Langera, Rotreklové a dalších věcí, které se stanou příště. Postupně bude odhalovat, co se děje v nejvyšších kruzích závodu, až nakonec najde pachatele.
+
+Nevim, kolik obrázků se do toho vejde, nebo jestli se nějaký hoděj. Řekl bych, že bych je tam chtěl. Ale nějaký hodně stylizovaný. Třeba vždycky černobílý, nebo s dlouhou expozicí nebo tak. Aby to bypadalo, že to ten člověk fotil na místě. Sem tam můžeme připojit i dokument, kterej okopíroval a poslal do někdeníku.
+
+V tuhle chvíli už jenom píšu, aby to bylo nějak dlouhý a mohl si líp odhadnout, co se bude hodit za styl. Plánuju to prakticky jako krátké kapitoly příběhu, konkrétně detektivky, protože to je náš současný žánr. Nebude se to jmenovat Vyšetřování, to je jenom dočasný název, než vymyslim lepší. Taky mi řekni, kam bys chtěl tohle zařadit. Musí to jít až po rubrice Závod, ale i ta je na místě, kde nemusí zkončit. Tohle je zatim v ní, ale taky nejt nemusí. Jenom mi to připadalo tématický. Vzhledem k tomu, že zprávy o závodě se přesunuly mimo Zprávy obecné, může se s těma kusama šachovat až do aleluja. Stejně tak pro Lifestyle, Zpověď a Korespondenta.
+
+To už by doufám stačilo. Kdybys potřeboval víc textu, aby sis to mohl líp prohlídnout, tak si to zkopíruj dvakrát za sebou■
+* Korespondent
+Jsem pes.
+
+Žiji na třetím satelitu středně malé hvězdy hlavní posloupnosti, spektrální třídy G2V, klasifikované jako „žlutý trpaslík“, obíhající kolem středu menší spirální galaxie s příčkou na vnitřním okraji jednoho z jejích ramen.
+
+Jsem pes – pozorovatel, klasifikace B6, subspecie 2-0a, nenápadného typu, hojně rozšířeného v běžně osídlených oblastech satelitu.  Na svou samostatnou misi jsem byl vybrán po dvou letech výcviku a půlroční stáži v tréninkovém středisku Alfa Psí. Mým úkolem bylo proniknout do bezprostřední blízkosti humanoidních tvorů, obývajících satelit, vytvořit stabilní pozici, provádět kontinuální pozorování a podávat o nich pravidelná komprimovaná hlášení prostřednictvím kódovaného teletransferu. Jsem nenápadný, nenáročný, přesný, spolehlivý a odolný. Mou neocenitelnou předností je naprostá oddanost misi.
+
+Po letech působení na kótě H 721 s akčním rádiem 100/120 jsem pocítil jistou míru demotivace a deprivace, příznačnou pro pozorovatele mého zařazení, a to v limitě 7 -  8,5. Řídící středisko vyhodnotilo můj aktuální stav jako varující, s progradující tendencí. Řešením bylo stažení z mise, což jsem nevítal. Požádal jsem proto o aktivaci programu „Re-flexi“ v hodnotové úrovni IIA, což mi bylo umožněno. Jako součást programu mi byla doporučena i řízená sebereflexivní terapie: po určitém váhání jsem zvolil kontaktní komunikaci verbálního typu, který je jinak pro emisary mého zařazení neobvyklý a užívá se jen minimálně (projekt „FIK“). Abych nebudil nevyžádanou pozornost v širším okruhu svého působení, oslovil jsem redakci neortodoxního polotištěného média s kódovým označením „Někdeník“, zda bych mohl příležitostně publikovat výsledky svých pozorování (případně též komentáře), přičemž bych jejich strukturovanou verbalizací eliminoval negativní působení většiny stresových faktorů, které přirozeně mou práci doprovázejí. Podmínkou bylo zachování mého plného inkognita. To mi bylo umožněno. Zároveň bylo domluveno, že moje příspěvky nebudou vystaveny volnému zpětnovazebnímu režimu, který je jinak v místě mého působení obvyklý, neboť na zátěž tohoto typu není pozorovatel mého zařazení připraven a není ani mocen přepnutí do nižší úrovně interakce. I v této věci mi bylo vyhověno.
+
+Pro neznalé věci, kteří nemusí hned zkraje plně chápat, proč jsem byl jako pozorovatel na zmíněné oběžnici , bych si dovolil doplnit stručné vysvětlení:
+
+Forma psa menšího typu, jako jsem já, má při plnění pozorovatelské mise jasné výhody, vyplývající celkově z pozice psa ve společenství humanoidů. Základní a rozhodující je fakt, že humanoidé oplývají vůči tvorům mého typu, jejichž výskyt je kvantitativně nadstandardní, řadou pozitivně laděných emocí. Mimořádnou náklonnost vyvolává naše předstíraná neschopnost řečové komunikace, která v humanoidech vyvolává pocit nadřazenosti a převahy, stejně jako zdání závislosti, které v humanoidech posiluje pocit důležitosti a nepostradatelnosti. Tyto postoje a pocity utvrzují humanoidy v naprosté nevědomosti o našich reálných schopnostech, dovednostech a možnostech, ba o samém smyslu naší existence; zaujímají vůči nám přezíravý, shovívaný případně ochranitelský postoj a nepodléhají žádným zábranám v rozsahu sdílení všech svých záležitostí. To nám jako pozorovatelům umožňuje dosahovat zcela mimořádných výsledků.
+
+Základem úspěchu psa – pozorovatele je na prvním místě naprosté zautomatizování zásady splynutí. Dokonalost emisara spočívá v nenápadnosti a standardnosti: humanoid, a to ani speciálně školený či intuitivně silný, by neměl mít šanci rozpoznat psa – pozorovatele od skutečného psa (běžného obyvatele oběžnice).  Předpokladem pro výkon mise je tudíž přirozený talent k přizpůsobení. Tento talent je systematicky a dlouhodobě pěstěn, kultivován, zkvalitňován, upevňován a zároveň testován. Pes – pozorovatel, který nezvládne zátěžový test, je okamžitě odvolán z mise, což se mi nikdy nestalo ani v náznaku. Nemám tudíž žádnou obavu, a ani mí velitelé v řídícím středisku tuto obavu neměli, že by verbalizace, expedice a publikace mých pozorování dovnitř struktury humanoidního světa mohla být pro mé inkognito jakkoli ohrožující. Ve skutečnosti můžete denně potkávat velké množství psů mého typu, z nichž kterýkoli může, ale nemusím být mnou. Jakákoli snaha o mé odhalení je ovšem zbytečná od samého začátku. 
+
+Několik pozorovacích poznámek úvodem:
+
+Humanoidé nazývají psa klasifikace B6 jezevčíkem, subspecie 2-0a pak je označována jako jezevčík hrubosrstý. Jsem středně vyvinuté tělesné konstituce, černé barvy s bílými znaky, lesklé srsti a zádumčivého výrazu. Mám velké oči, vyvolávající u kontaktní bytosti pozitivní hnutí mysli. Dokonale slyším. Jsem disciplinovaný, ale náročný. Neakceptuji nesprávné pokyny. Žiji ve společnosti osamělého humanoida vyššího věku, který v mnoha směrech nedosahuje mých možností: je pomalejší, náladovější, má špatnou paměť, postrádá intuici, a dělá proto nesprávná rozhodnutí. Pro má pozorování je ideálním objektem i prostředníkem s celou humanoidní strukturou, neboť udržuje řadu různě intenzivních kontaktů s jinými humanoidy. Obýváme samostatné prostory, vyhrazené pouze pro nás ve vyšším obytném celku. Tento způsob existence je značně energeticky a organizačně náročný, nepraktický, nevyzpytatelný a vcelku se jeví jako nevýhodný, humanoidé se jej ovšem ve svém celku drží a vynakládají na jeho realizaci (a na kompenzaci jeho nevýhod) téměř všechny své materiální a nemateriální prostředky. 
+
+V některém z dalších dílů svých záznamů si vás dovolím seznámit se závěry svých individuálních pozorování i s jejich objektivizovanými výstupy. Doufám, že Vám touto cestou zprostředkuji nejen řadu zajímavých informací o sobě, ale především o vás samotných. Těším se!■
+* Lifestyle
+Módní sekce Monte Karlos Někdeníku vám přináší výběrovou přehlídku moderních trendů.
+
+[[file:Pope.jpg]]
+
+Nejůspěšnějším stylem nošení Karlos-čepice se stal Papež. Vhodný pro sociální situace oficiálního charakteru, ale nebudete v něm vypadat špatně ani na párty. Nedoporučujeme na pohřeb.
+
+Papeš se snadno plete se Sauronem Tlustším, moderní verzi klasického Saurona.
+
+[[file:Sauron.jpg]]
+
+Ve světě módy jsou však nezaměnitelní. Ukážete-li se na bále se Sarumanem Tlutším, budete všem jenom pro smích.
+
+[[file:Tunel.jpg]]
+
+Další na řadé máme tunel, novinku z Italského poloostrova. Vhodný do teplého počasí a k moři, hlavně pro muže středního věku.
+
+[[file:Visadlo.jpg]]
+
+A jako poslední je zde naše oblíbené Visadlo. Jedná se o netradiční verzi světově proslulého Jednoušáku, avšak s tím rozdílem, že se nosí nalevo. Vhodný k jakékoli příležitosti neformálního charakteru, ve Spojených Státech zejména u večeře Díkuvzdání■
+* Zpověď Lubomíra Lečka
+* Poznámky
