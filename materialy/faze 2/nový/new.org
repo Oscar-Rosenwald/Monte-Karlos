@@ -27,8 +27,9 @@ style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
 fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 </style:style>
 
-#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
-# ' Toggle smart quotes
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
+# tags		Toggle inclusion of tags
+# '			Toggle smart quotes
 # \n		newline = new paragraph
 # f			Enable footnotes
 # date		Doesn't include date
@@ -81,7 +82,7 @@ Ročník XXVIIII
 
 *Móda:* Šlapeboso Elle'Gante
 
-*Editoři:* Andrew McTallas, Lobor Sko'madženta
+*Editoři:* 
 
 *:* 
 
@@ -106,169 +107,177 @@ Ročník XXVIIII
 *Rozšiřují:* google.com
 
 /Monte Karlos Někdeník/ byl založen  skupinou černých nosorožců afrických v létě
-roku  1989.  Jeho  stránkami  byly poznamenány  takovými  autory  jako  Alexandr
+roku  1989.  Jeho  stránky  byly   poznamenány  takovými  autory  jako  Alexandr
 Malinovský, Jack  O'Clock a Veronika Oškalová  a všeobecnému ohlasu se  těší již
 třetím rokem  pod brilantním  vedením šéfredaktorky  Alžběty Ašelové©.  Stojí na
 železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po
 prachbídné korespondenty  se řídí  všestrannými, nesmrtelnými  pravidly slušného
 chování.
-* Editorial
+* Editorial                                                             :200:
 
 
 Alžběta Ašelová, šéfredaktor
 #+ODT: </text:section>
-* Zprávy
+* Zprávy                                                                :350:
+:news:
+Topic [fish in heating]
+Designing principle [new house; fish are a feature; we're selling]
+Random thing [this stuff is normal in Ukraine since 1976]
+Story [Housing agency struggling to sell the houses]
+Characters [salesmen, CEO]
+Voice [author eats fish]
+Logistics of story [public reaction; history of product;...]
+Quotes, vision, assessment
+:END:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Zprávy">
-** Španělská mutace
-Otec de'Galla, farář v kostele svaté  Anny v Barceloně, odhalil Někdeníku pozadí
-nepříjemné politicko-památkářské situace. Otec  de'Galla upozornil na jev, který
-v tu dobu již několikátým dnem probýhal nejen po celém Španělsku.
+** Porušení dohody Duny
+Silniční války v druhé polovině šedesátých  let byly krutou a nepříjemnou etapou
+naší společné historie. Ke konci pohltila statisíce životů nejen lidských, nýbrž
+i protivníkových.  Dohoda Duny  představovala mírovou  smlouvu mezi  všemi třemi
+válčícími stranami  - lisdtvem, Unií  asfaltu, železa  a betonu a  štěrkem. Naši
+nepřátelé tehdy přistoupili na lidské  podmínky souznění a společně uzavřeli mír
+na půdě neutrálního  písku v Gobi. Následovalo vytvoření dohody  Duny, která mír
+stvrzovala.
 
-„Jak je známo,“ praví, „pro založení  nového města je třeba kostelní semínko. To
-vláda zasadí a hnojí tři měsíce. Z něj vyroste malá kaple, která posléze dospěje
-v kostel.“  Otec de'Galla  zde naráží  na středověký  postup praktikující  se ve
-španělsky mluvících  zemích již  od dvanáctého  století. „V  posledních měsících
-musela svatá  buňka -  amenius dominika  - zmutovat,  protože po  celé Barceloně
-začaly závratně růst nové kostely.“
+Podle  dohody,  mimo  jiné,  jsou  asfalty  zavázány  ke  spolupráci  ve  věcech
+silničních výměnou za pravidelnou (a nadměrnou) dodávku ananasu. Jistý asfalt na
+T-křižovatce na  západní Ukrajině se  však nedávno odhodlal napadnout  tuto námi
+poskytnutou  symbiózu. V  noci  z úterý  na pátek  bez  varování odmítl  povolit
+přepravu tří dodávek přes střed křižovatky. Řidiči tak byli v rozpacích.
 
-Otec Někdeníku  ukázal kostel na náměstí  sv. Anny. „Tohle není  můj kostel. Můj
-kostel je za tím, schovaný.“
+„Já  nejsem  žádnej právník,“  říká  pan  Chrastivějský,  který jím  od  pohledu
+opravdu, ale  opravud není,  „ale znám  trochu historie.  DD nikdy  nepočítala s
+takovou situací, jestli  se tam můžu vyjádřit.“ Pan  Chrastivějský má překvapivě
+pravdu. Podle  dohody nesmí člověk  nutit asfalt dělat,  co sám dělat  nechce, v
+souladu  s Deskou  základních materiálních  práv.  Podle stejné  dohody je  však
+asfalt  povinen  sloužit,  chci  říct  asistovat nám  na  cestách.  Dohoda  Duny
+nestanovuje žádný aparát pro řešení takovéto situace.
 
-Zdá se, že v průběhu několika hodin  před branami kostela dokázal vyrůst druhý a
-zcela zabarikádovat budovu původní. Není zdaleka jediným ve městě.
+Mezinárodní  sdružení asfaltů  se distancovalo  od názorů  tohoto asfaltu.  Jeho
+předleža praví:  „Je zřejmé, že  asfalt na křižovatce  E125 a R554  trpí jakousi
+poruchou mysli  a MSA je  toho názoru, že  by mu neuškodila  celková přestavba.“
+Štěrk se vzápětí distancoval od celé situace a odsypal se ze záběru kamer.
 
-Otec de'Galla poslal petici na městský úřad, aby se situace vyřešila radikálními
-opatřeními.  Radní  města byl  připraven  jednat,  ale Sbor  památkářů  amatérů,
-mezinárodní  organizace pro  ochranu volně  vyrůstajících budov,  situaci značně
-zkomplikoval.
+Zatím  nevděčný  asfalt na  křižovatce  odmítá  podat hlášení.  Jeho  stanovisko
+ohledně přejezdu  přes „jeho území“, jak  tomu panovačně říká, se  nijak nemění.
+Pokusy o mírové řešení selhaly ještě dřív, než začaly, a ukrajindká policie byla
+nucena  uzavřít   celou  oblast   a  vyhraničit  několikametrový   objezd  kolem
+inkriminované křižovatky. MSA  si následně začalo stěžovat, že  na jejich asfalt
+jsou pokládána příliš těžká břemena, a vyžaduje okamžitou nápravu.
 
-„Listina základních práv a budov jasně praví, že volně vyrostlá budova nesmí být
-zbourána,  neohrožuje-li ekonomický  růst,“ praví  Zachariáš Šťastný,  prezident
-SPA. „Nikde není zmíněno, že by  situace byla jiná v průmyslových oblastech.“ Na
-dotaz, co  si myslí  o teorii  mutujících svatých buňek,  se pak  vyjádřil pouze
-písemně, a to tak, že nám neví neví.
-
-I když urbaničtí biologové několikátým  rokem varují Švědskou královskou rodinu,
-že starobylá praktika může přinést nepříjemnosti, náhlý růst budov nepředvídali.
-Celé Španělsko  je tak zcela  nepřipraveno na  nával náboženství, který  ho nyní
-čeká. Debaty o řešení situace se ale potáhnou měsíce a do té doby může být podle
-některých odhadů postiženo přeš šedesát procent volného prostoru.
-
-V Barceloně  se vyskytlo již několik  znatelných potíží. Celá čínská  čtvrť byla
-pohlcena bazilikou sv. Petra a přilehlými zahradami a mnozí občané si stěžují na
-vtěrné dřevořezby, schopné  jim přes noc zabarikádovat okna.  Do dnešního večera
-došlo k  třem vážným konvercím a  jednomu fatalnímu selhání víry.  Otec de'Galla
-zatím  zápasí s  konkurenčními  farnostmi  o účast  na  mších,  neboť věřící  se
-rozprostřeli do nově  vyrostlých kostelů a vytváří tak  nestabilní prostředí pro
-náboženství■
-** Ryby v topení
+Na  rozdíl od  své  vlády začala  asfaltská komunita  s  asfaltem na  křižovatce
+sympatizovat. Mnozí  se teď  ptají, jestli  je dohoda  Duny stále  prospěšná pro
+původní Unii. Nevděčníci[fn:1]■
+**                                                                               
 
 #+ODT: </text:section>
 * Závod
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
-** Vývoj
-Zatímco  se dvacet  statečných  připravovalo na  tiskvou konferenci  přezdívanou
-tlačenka, starali se zbylí uchazeči v  závodě, téměř osm tisíc učitelů, kteří si
-již tlačenkou prošli, o své vlastní problémy. Zejména došlo ke sporům mezi KUS -
-kantoří umělé společenství -, M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. a vládou v Chile.
+** Vývoj                                                                :400:
+Mezinárodní Úřad  pro Úplnou a  Asertivní Spolupráci Spojených Států  Místních i
+Zahraničních za Účelem Světového Míru, Obchodu  a Výměny Služeb měl v posledních
+týdnech napilno. Ve světle mizících  učitelů Dvaceti statečných (dvaceti nejvýše
+postavených učitelích v závodě o /nejvyššího vůdce všeho učitelstva) se rozhodli
+provést důkladné  vyšetřování níže  situovaných kantorů přihlášených  do závodu.
+Jejich cílem bylo objevit, kdo z nich může stát za těmito útoky.
 
-Spory se  týkají dvou oblastí: sídla  budoucího nevyššího vůdce a  stavby arény,
-která  byde použita  v  poslední fázi  výběru zmíněného.  V  posledním týdnu  se
-několik KUSů najednou  a zcela nezávisle rozhodlo protestovat  proti oběma bodům
-naráz.
+Pokusy Mezinárodního  Úřadu byly  zcela bez  výsledku na  poli vyšetřovatelském,
+přinesly zato plody  v oblasti jiné. Podrobným zkoumáním míst  3042 až 3990 byli
+objeveni dosud  přehlížení učitelé z  Guatemalských jižních kmenů. Na  rozdíl od
+svých aftických  protivníků, nemají  tito patřičné  doklady potřebné  k doložení
+svého  učitelství. Mezinárodní  Úřad  zahájil další  vyšetřování  do celé  věci,
+posunul ho na dobu neuričtou, protože se právě soustředil na mizející kantory, a
+tváří v tvář  svému neúspěchu se k  nim vrátil s vervou  poražených a odhodláním
+těch, kterým hrozí pokles ve veřejném mínění.
 
-KUS je  označení pro skupinu  kantorů, kteří se  rozhodli spojit síly  v závodě.
-Důvody mohou  být různé -  politická nestabilita, nedostatek  hlasů jednotlivých
-členů nebo  příliš silná konkurence. KUSy  se nesmí zaměňovat s  KBSy, kantořími
-bláhovými společenstvími, která  se zásadně uzavírají mezi  dvojicí kantorů, kde
-se  jeden druhému  zavazuje, že  bude-li zvolen,  vybere si  truhého jako  svého
-pobočníka.  Bláhové  se  jmenují proto,  že  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.  sám
-ohlásil, že pobočníkem může být pouze  někdo z prvních patnácti učitelů, to jest
-těch, kteří  se dostanou do  arény (a přežijí).  KUS je jen  dočasné spojenectví
-dvou a více  osob, založené s cílem  účelné pomoci a vědomím, že  se rychle zase
-rozpadne. Asi jako politická strana. Velká pětka byla jedním takovým KUSem.
+Političtí  odborníci  praví,  že  jejich  zásah do  života  Guatemaly  je  zcela
+pochopitelný. Musí  prý světu  ukázat, že přestupky  proti pravidlům  se nebudou
+tolerovat. Celá situace  je tedy o to  ošemetnější, že nikdo na  Úřadě neví, kdo
+kantory unáší, a nemůže tudíž nikoho potrestat.
 
-Ihned  po vyhlášení  závodu se  Chile  rozhodlo vystavět  vítězi malebné  sídlo.
-Doufalo tak, že zvýší své místo na poli světového oblibu. Architekt Chobroščenko
-Gister-Rotti přednesl své  plány v OSN 22.4. tohoto roku.  Několik KUSů se velmi
-hlasitě ozvalo  na Twitteru, že  s jeho návrhem  principielně nesouhlasí a  že v
-takovém sídle nehodlají žít. Mezi  důvody zařadily například nedostatek prostoru
-pro koňskou dráhu,  nadměrné množství severních zdí a své  přesvědčení, že se na
-ně stavba (v tuto dobu existující pouze v plánech) nepříjemně a vysmívavě dívá.
+„Může se stát,“  řekl Obřísko Šuplijský, „že se dostaneme  k symbolickému trestu
+pachatelů. Úřad si někoho vybere a  potrestáho ho exemplárně, bez ohledu na jeho
+vinu. Co vidíme v Guatemale je jen začátek.“
 
-Ve  stejnou dobu  zveřejnil M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.  své plány  vybudovat
-arénu pod  vodní hladinou v  atolu Usmen  v Atlantiku. Toto  rozhodnutí vyvolalo
-vlnu  pobouření v  KUSech  ze střední  Asie, které  si  stěžovaly na  nedostatek
-finančních prostředků pro  přepravu na místo, alergie na  písečné pláže, kterými
-je  Usmen  proslulý,  a  na  nedostatek  ohledu  na  fakt,  že  některá  tamější
-náboženství  výslovně zakazují  pobývání  pod vodní  hladinou  déle než  dvanáct
-hodin.
+A co že to vidíme v Guatemale? Celkem devět tamních okultních lídrů je podrobeno
+důkladným prověrkám a přezkoumáváním, aby se  Úřad ujistil, že se skutečně jedná
+o učitele.  Vyšetřující si Někdeníku  stěžují na obtížnost svého  úkolu, protože
+M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. nikdy  nestanovilo, co všechno musí  kantor umět,
+aby kantorem byl, a  od kdy je jeho kantorství dostatečné  pro příjem do závodu.
+Tyto otázky měly prý být vyžešeny před jejich přijetím do závodu v minulém roce.
 
-Karlos Žebatý celou  situaci shrnul nejlépe: „Nevím, proč si  stěžují. Stejně se
-tam nedostanou.“
-** Postupy v žebříčku
+Mezi ostatními  kantory se šíří  pobouření. Pan Komenský, jako  seniorní poradce
+Úřadu, se  vyjádřil, že dokud neučí  národ, nemají, co v  soutěži dělat. Obi-Wan
+Kenobi, nejproslulejší spirituální učitel, zastává  názor opačný, a to že jejich
+příspěvky  světovému učení  mohou přinést  potřebnou dávku  osvícení. Profesorka
+McGonagallová se zdrřela komentáře.
+
+Osud  guatemalských rádoby  kantorů je  nejistý. Vše  záleží na  tom, jestli  se
+podaří najít  pachatele únosů. Lidé si  přitom nejsou jisti, že  se tento skrývá
+mezi kantory. Nezbývá, než čekat.
+** Postupy v žebříčku                                                   :400:
 #+BEGIN_EXAMPLE
-1. Jiří Šeiner
-2. Zdenka Lajdová
-3. Jana Horáková
-4. Ludmila Malá
+1. Ludmila Malá
+2. Jiří Šeiner
+3. Dana Kubešová
+4. Dagmar Kolářová
 5. Dušan Rychnovský
-6. Ivo Macháček
-7. Dagmar Kolářová
-8. Hana Mužíková
-9. Dana Kubešová
-10. Martina Rotreklová
-11. Věra Zemánková
-12. Marie Vávrová
-13. Lenka Vývodová
-14. Marta Křenková
-15. Taťána Jakešová
-16. Elisie G’uaun Ebbe
-17. Josef Král
-18. Radovan Langer
-19. Gustav Havell
-20. Jiří Lysák
+6. Martina Rotreklová
+7. Zdenka Lajdová
+8. Věra Zemánková
+9. Lenka Vývodová
+10. Taťána Jakešová
+11. Marie Vávrová
+12. Jana Horáková
+13. Marta Křenková
+14. Hana Mužíková
+15. Elisie G’uaun Ebbe
+16. Josef Král
+17. Ivo Macháček
+18. Gustav Havell
+19. Jiří Lysák
+20. Otakar su-džima a'Líma
 #+END_EXAMPLE
-Nad Der  Weiderhohlle Flüsemschliessem se  stahují metaforická mračna.  Na hradě
-vládne nehostiná  nálada a kantoři  se začali  smykat do hloučků,  kdykoli spolu
-něco probírají. Panuje nevyřčené pravidlo zákazu vycházení po deváté hodině a do
-zahrad  se  odváží přinejmenším  ve  dvojicích.  Hradní televizní  štáb  bedlivě
-monitoruje každý kout, ale až na problémy s vodovodními trubkami na skladě zatím
-neobjevili nic nápadného.
+Zatímco se  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. snaží  zastavit mizení  své autority,
+učitelé  Dvaceti statečných  se  snaží  zastavit mizení  sebe  sama. Po  zmizení
+tehdejšího vůdce  žebříčku, pana Šeinera,  který se  propadl o jedno  celé míst,
+začali společně  stavět bunkr,  do které  se plánují  schovat. Jenpilněji  se na
+práci podílí paní Rotreklová a Malá, které jsou si obě jisté, že útočníci půjdou
+brzy po  nich. Jejich  ustavičné popohánění  ostatních jim  vysloužilo přezdívku
+diktátorky, ale vesměs se zdá býti účinné.
 
-Obyvatelé  Der  Weiderhohlle  Flüsemschliessem  se ale  mohou  radovat.  Všichni
-zmizelí kantoři, Langer, Macháček, Horáková  a nově Mužíková, poznali komplikace
-své nepřítomnosti na poviné tiskové  konferenci. I když jsou technicky vyloučeni
-ze závodu - Mužíková, protože opustila hrad bez dovolení, a ostatní tři, protože
-se  ani   nedostavili  -  technologické   křidlo  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.
-opravuje chybu v systému, a všichni  jsou tudíž stále přítomni v žebříčku. Ústav
-nás ubezpečuje, že do arény času dost, a všechno se zpraví.
+Paní Kubešová ke  své smůle nedokázala využít výhody  poskutnuté svým špehováním
+na  někdejší /Pálkovská  squad/,  a  začase postupně  ztrácet  body. Její  místo
+převzala paní  Malá, nemalou zásluhou  svého vystoupení  na Tlačence, a  ta byla
+následně vynesena na místo první, když Šeiner Kubešovou následoval.
 
-Kantorům  se  i  tak  zachtělo   zvýšit  ochranu.  Počet  bodyguardů  se  zvíšil
-dvanáctinásobně  a  Mezinárodní  ústav  poukazuje,   že  tento  čin  hraničí  se
-shromažďováním  armád.  Paní   Křenková  se  dala  do   debat  obhajujících  své
-rozhodnutí, což ji v žebříčku nijak neprospělo. Naopak paní Jakešová, tvrdohlavě
-odmítající  jakékoli  nebezpečí,  získala  bonusové  body  za  nekonfliktnost  a
-vystoupala o dvě příčky.
+Ostatní zmizelí kantoři se potkávají  se stejným osudem. Macháček zažil největší
+propad - celých  devět míst, ale Horáková ho těsně  následuje. Mužíková ztratila
+dvě příčky, Vávrová rovněž a nejdéle  zmizelý pan Langer byl kompletně vystřídán
+na poli Dvaceti statečných  Otakarem su-džimou a'Límou, severohavajskému učiteli
+tance, kterému dal  Mazinárodní Úřad pět dní k dostavení  se do Der Weiderhohlle
+Flüsemschliessem.
 
-Den nato se porařilo zmizet paní Vávrové. S povolením z vyšších míst si vyšla na
-procházku kolem sídla a už se nevrátila. Její ochranka zmizela také.
+Zde je  nutno podotknout, že podle  stále platících pravidel jsou  všichni dosud
+zmínění zmizelí  vyloučeni z  celého závodu,  ale M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.
+nehodlá  ztrácet  čas  vyřazováním  jejich  jmen z  žebříčku.  Prý  se  postupně
+propadnou sami a nebudou dělat problémy.
 
-Tak zvaná  tlačenka proběhla  v nepřítomnosti pěti  z Dvaceti  statečných. Monte
-Karlos  Někdeník  si  zamluvil  slíbené množství  sedadel  a  položil  přítomným
-kantorům  vámi zvolené  otázky.  Přímý  přenos celé  události  najdete na  našem
-YouTube kanále.
+Mluvíme-li ale  o zmizelích  učitelích, nesmíme  opomenout jistéha  pana Lysáka,
+slavného učitele  tělocviku a dějepisu na  gymnáziu v Hranicích. Na  Moravě. Pan
+Lysák si  vyžádal neplacené  volno od Der  Weiderhohlle Flüsemschliessem  a jako
+důvod uvedl naléhavou  záležitost s hraničkou tělocvičnou.  Ačkoli jeho povolená
+doba nepřítomnosti  ještě nevypršela,  neodpovídá na žádné  pokusy o  kontakt ze
+strany svých  voličů, sponzorů, novinářů  ani Úřadu samotného. Jeho  nejbližší -
+dva   medicimbálové  míče   -  se   domnívají,  že   dostal  vzkaz   od  únosce,
+předstírajícího poruchu  v tělocvičnách, a  byl unesen. Veřejnost  zaplavil stav
+bláznivého nadšení, ale rovněž strachu z budoucnosti závodu.
 
-Za zmínku  stojí tři  zásadní body toho  dne. My se  budeme zabývat  dvěma. Paní
-Kubešová dosáhla  neočekávaného úspěchu,  když odpovídala  na otázku  „Co nemáte
-ráda na matematice.“ Její  odpověd - trojčelenky - jí výstup  o tři příčky. Zato
-Lajdová, kterou  celá akce  otravovala, se nezmohla  na kloudnou  větu. Odradila
-publikum, když vešla do místnosti a oznámila, že všichni smrdí. Dále pak odmítla
-odpovědět přímo  na jednoduché otázky  jako jak se  jí podařilo zajistit  si tak
-dobré místo, když o její kampani veřejnost neví naprosto nic.
-
-Výsledkem  jejího neúspěchu  se stala  rapidní ztráta  sponzorů a  propad o  dvě
-místa, což ale podle odborníků není v žádném případě dost■
+Kdo zůstává  nepříjemně klidný,  je paní Lajdová.  Přesněji řečeno,  její nemalé
+rozhořčení pramení čistě  jen ze ztráty jejích bodů. Zatímco  ona voliče ztrácí,
+paní Rotreklová  je nabírá (ku svě  jistě nemalé radosti) a  momentálně jsou obě
+učitelky vedle  sebe. Na závěr ještě  dodáme, že kromě přehození  Rychnovského a
+Kolářové je v žebříčku docela klidno.
 #+ODT: </text:section>
 ** Rozhovor - „“
 
@@ -279,41 +288,77 @@ místa, což ale podle odborníků není v žádném případě dost■
 *** Závěrečný proslov
 
 #+ODT: </text:section>
-** Hodnocení odborníka
+** Hodnocení odborníka                                                  :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
 
 #+ODT: </text:section>
-* Korespondent - 
+* Korespondent - Welcome to Moon!
+Převzato z nezávislého extranetového serveru B-S ENQUETE
+
+Když jsem před šesti týdny nalezl ve schránce pozvánku na otevření nového bistra
+Moonlight se slibným názvem „Easter on  the Moon“, nebyl jsem nadšený. Ano, byla
+pocta  ocitnout se  ve  dvacítce gurmet-reportérů,  vybraných  k účasti na  této
+mimořádné  události, a  bylo úžasné  představit  si cestu  na odvrácenou  stranu
+Měsíce,  kam jsem  se  vždy  toužil podívat,  ale  z pocty  samotné nakonec  nic
+příjemného  nekouká,   nemáte-li  čas,   peníze  a   koneckonců  ani   moc  chuť
+k zajišťování všech  náležitostí, které  s cestou na  Měsíc souvisí.  Kdo jednou
+prošel martyriem shánění a ověřování  všech potřebných dokladů a potvrzení, věru
+se do nich nežene podruhé – a moje propustka, kterou jsem před lety získal kvůli
+letu  na restaurační  základnu  Brillat-Savarin  na Mysu  Bec  fin se,  bohužel,
+ukázala  bezcennou,   neboť  servisní   společnost  Dossier,   patřící  majiteli
+Brillat-Savarinu,  exterestrickému gastropodnikateli  André  Béovi, odmítá  dané
+dokumenty předat jakékoli třetí straně.
+
+Naštěstí mezinárodní vesmírná  agentura GASA nám byla ochotna pro  let na Catena
+Lucretius,   kde   je   nové   bistro  situováno,   udělit   výjimku   z většiny
+administrativních i  zdravotních pravidel.  Od této neobyčejné  benevolence GASA
+neustoupila  ani po  obvyklých protestech  André Béa,  jenž si  již dlouhá  léta
+pěstuje  v centrále  GASA vlivovou  pozici,  zastiňující  i pravomoci  samotného
+jejího šéfa; jádrem roztržky mezi vesmírnou agenturou a předním transgalaktickým
+investorem se ukázal  být, jako obvykle, střet Béových  podnikatelských zájmů se
+zájmy agentury, která se v posledních  letech usilovně snaží rozbít Béův solaire
+gastromonopol, čehož důkazem je,  koneckonců, samo zprovoznění bistra Moonlight.
+Tento  malý,  ale   sympatický  podnik  patří  dosud   málo  známému  anglickému
+podnikateli Bamesi Jondovi, který  je sice v oboru solaire-gastronomie naprostým
+začátečníkem, ale jehož minulost je provázena množstvím těžko uvěřitelných mýtů,
+legend  a dobrodružných  příběhů, o  nichž si  ani nejzasvěcenější  kruhy v GASA
+nejsou jisty, nakolik  mohou být odrazem skutečnosti a nakolik  dílem odvážné PR
+strategie.  V kuloárech  se proto  nikoli  náhodou  v souvislosti s  vybudováním
+Moonlightu šeptalo, že GASA se  konečně povedlo najít na podnikatelskou aroganci
+a neotřesitelnou pozici André Béa protiúder náležitého kalibru.
+
+Nevelká lunární  provozovna, poskytující  jednoduché , ale  poctivé občerstvení,
+byla v jihovýchodní části vnějšího valu  kráteru Hertzsprung na odvrácené straně
+Měsíce, vybudována s finančním přispěním  britské společnosti Universal Exports,
+pro  niž  Bames   Jond  v minulosti  pracoval  a  která,  jak   se  ukazuje,  má
+v exterestrickém byznysu velké plány.  Propojení solidnosti britského kapitálu a
+svobodomyslného podnikatelského  ducha připravuje  návštěvníkům již  při příletu
+řadu příjemných překvapení od portrétu  britské panovnice nad vstupem po placení
+výhradně britskými librami. Provozovatelé bistra vsadili i v jiných aspektech na
+kvalitu a tradici: obsluhu obstarává výhradně mužský personál, v nabídce nechybí
+lojový pudink a nápojovému lístku vévodí pravý lapsam se smetanou, servírovaný s
+original  scottish   shortbread.  Ubytovací   kapacity  Moonlightu   jsou  zatím
+limitované,  poskytují však  dostatek  soukromí a  pohodlí. Pokoje,  designované
+v duchu  edwardovské estetiky,  jsou  vybaveny vším  dostupným komfortem,  který
+naznačuje další možnosti rozvoje.
+
+Jak ukázala mezinárodní vernisáž bistra Moonlight, André Béovi v prostoru, který
+až dosud považoval za své výsostné působiště, vyrůstá zdatný protivník. Byl by o
+to zdatnější,  pokud by se vyplnily  pokradmu šířené zprávy, jež  se objevily po
+zdárném  uvedení podniku  do  provozu, že  za rok  v dubnu  zde plánuje  britská
+panovnice Alžběta II. oslavit své 134. narozeniny. André Béovi by se tak konečně
+postavil  soupeř,  který  by  –  po  dlouhých desítkách  let  –  mohl  být  jeho
+exterestrickému monopolu skutečně nebezpečný.
 * Lifestyle
-Módní sekce Monte Karlos Někdeníku vám  přináší Karlosův výběr z módní přehlídky
-v Kazachstánu.
+Módní sekce Monte Karlos Někdeníku vám přináší 
 
-[[file:photos/dwarf.JPG][dwarf]]
-
-Začínáme  jednoduše.  Trpaslík je  moderní  experimentální  vymoženot pro  mladé
-bankéře. Vhodný  pro obchodní  záležitosti každodenního  typu, zejména  pro muže
-vyšší postavy. Neakceptovatelná pro ženy.
-
-[[file:photos/overreach%201.JPG][overreach]]
-[[file:photos/overreach%202.JPG][overreach 2]]
-
-Kontroverzní Převis se značí nutností  pro jistou samolibost nositele. Ještě při
-přehlídce  si vysloužil  přezdívku Kardashian.  Sedí dobře  na svalnatém  těle s
-menší mozkovou kapacitou, neboť vizuálně přidává obvodu hlavy.
-
-[[file:photos/cap.JPG][cap]]
-
-Instantní  miláček  fanoušků   sportu.  Kšiltovka  se  ujala   mezi  dvaceti-  a
-třicetiletými  velmi  rychle  po  svém představení  a  baseballové,  hokejové  a
-curlingové stadiony jsou dnes zaplněny tímto módním trendem.
-
-[[file:photos/daredevil.JPG][daredevil]]
-
-A  na  konec  jsme  si  nechali Batmana.  Odvážný  nápad  propagovaný  španělkou
-princeznou  Leonor.  Jeho   použití  se  stále  probírá   na  světových  módních
-konciliích, ale Monte Karlos si nemohl dovolit jej zde nezmínit.
 * Vyšetřování
 ** Dokumenty
 ** _Část první: Nepřítel za branami_
 *** 
+
 * Poznámky
+
+[fn:1] Neberte mě špatně. Já nejsem materialista. Můj nejlepší přítel ze střední
+školy byl  kus chodníku. Ale když  si ti asfalti nedovedou  uvědomit, jakou čest
+jim nabízíme, když je necháváme pro nás pracovat, co mám dělat?
