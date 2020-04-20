@@ -292,63 +292,7 @@ Kolářové je v žebříčku docela klidno.
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
 
 #+ODT: </text:section>
-* Korespondent - Welcome to Moon!
-Převzato z nezávislého extranetového serveru B-S ENQUETE
-
-Když jsem před šesti týdny nalezl ve schránce pozvánku na otevření nového bistra
-Moonlight se slibným názvem „Easter on  the Moon“, nebyl jsem nadšený. Ano, byla
-pocta  ocitnout se  ve  dvacítce gurmet-reportérů,  vybraných  k účasti na  této
-mimořádné  události, a  bylo úžasné  představit  si cestu  na odvrácenou  stranu
-Měsíce,  kam jsem  se  vždy  toužil podívat,  ale  z pocty  samotné nakonec  nic
-příjemného  nekouká,   nemáte-li  čas,   peníze  a   koneckonců  ani   moc  chuť
-k zajišťování všech  náležitostí, které  s cestou na  Měsíc souvisí.  Kdo jednou
-prošel martyriem shánění a ověřování  všech potřebných dokladů a potvrzení, věru
-se do nich nežene podruhé – a moje propustka, kterou jsem před lety získal kvůli
-letu  na restaurační  základnu  Brillat-Savarin  na Mysu  Bec  fin se,  bohužel,
-ukázala  bezcennou,   neboť  servisní   společnost  Dossier,   patřící  majiteli
-Brillat-Savarinu,  exterestrickému gastropodnikateli  André  Béovi, odmítá  dané
-dokumenty předat jakékoli třetí straně.
-
-Naštěstí mezinárodní vesmírná  agentura GASA nám byla ochotna pro  let na Catena
-Lucretius,   kde   je   nové   bistro  situováno,   udělit   výjimku   z většiny
-administrativních i  zdravotních pravidel.  Od této neobyčejné  benevolence GASA
-neustoupila  ani po  obvyklých protestech  André Béa,  jenž si  již dlouhá  léta
-pěstuje  v centrále  GASA vlivovou  pozici,  zastiňující  i pravomoci  samotného
-jejího šéfa; jádrem roztržky mezi vesmírnou agenturou a předním transgalaktickým
-investorem se ukázal  být, jako obvykle, střet Béových  podnikatelských zájmů se
-zájmy agentury, která se v posledních  letech usilovně snaží rozbít Béův solaire
-gastromonopol, čehož důkazem je,  koneckonců, samo zprovoznění bistra Moonlight.
-Tento  malý,  ale   sympatický  podnik  patří  dosud   málo  známému  anglickému
-podnikateli Bamesi Jondovi, který  je sice v oboru solaire-gastronomie naprostým
-začátečníkem, ale jehož minulost je provázena množstvím těžko uvěřitelných mýtů,
-legend  a dobrodružných  příběhů, o  nichž si  ani nejzasvěcenější  kruhy v GASA
-nejsou jisty, nakolik  mohou být odrazem skutečnosti a nakolik  dílem odvážné PR
-strategie.  V kuloárech  se proto  nikoli  náhodou  v souvislosti s  vybudováním
-Moonlightu šeptalo, že GASA se  konečně povedlo najít na podnikatelskou aroganci
-a neotřesitelnou pozici André Béa protiúder náležitého kalibru.
-
-Nevelká lunární  provozovna, poskytující  jednoduché , ale  poctivé občerstvení,
-byla v jihovýchodní části vnějšího valu  kráteru Hertzsprung na odvrácené straně
-Měsíce, vybudována s finančním přispěním  britské společnosti Universal Exports,
-pro  niž  Bames   Jond  v minulosti  pracoval  a  která,  jak   se  ukazuje,  má
-v exterestrickém byznysu velké plány.  Propojení solidnosti britského kapitálu a
-svobodomyslného podnikatelského  ducha připravuje  návštěvníkům již  při příletu
-řadu příjemných překvapení od portrétu  britské panovnice nad vstupem po placení
-výhradně britskými librami. Provozovatelé bistra vsadili i v jiných aspektech na
-kvalitu a tradici: obsluhu obstarává výhradně mužský personál, v nabídce nechybí
-lojový pudink a nápojovému lístku vévodí pravý lapsam se smetanou, servírovaný s
-original  scottish   shortbread.  Ubytovací   kapacity  Moonlightu   jsou  zatím
-limitované,  poskytují však  dostatek  soukromí a  pohodlí. Pokoje,  designované
-v duchu  edwardovské estetiky,  jsou  vybaveny vším  dostupným komfortem,  který
-naznačuje další možnosti rozvoje.
-
-Jak ukázala mezinárodní vernisáž bistra Moonlight, André Béovi v prostoru, který
-až dosud považoval za své výsostné působiště, vyrůstá zdatný protivník. Byl by o
-to zdatnější,  pokud by se vyplnily  pokradmu šířené zprávy, jež  se objevily po
-zdárném  uvedení podniku  do  provozu, že  za rok  v dubnu  zde plánuje  britská
-panovnice Alžběta II. oslavit své 134. narozeniny. André Béovi by se tak konečně
-postavil  soupeř,  který  by  –  po  dlouhých desítkách  let  –  mohl  být  jeho
-exterestrickému monopolu skutečně nebezpečný.
+* Korespondent - 
 * Lifestyle
 Módní sekce Monte Karlos Někdeníku vám přináší 
 
