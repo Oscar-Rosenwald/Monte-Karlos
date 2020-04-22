@@ -82,9 +82,9 @@ Ročník XXVIIII
 
 *Móda:* Šlapeboso Elle'Gante
 
-*Editoři:* 
+*Editoři:* Aráb a'Ráb, P. Harrold
 
-*:* 
+*Inkvizitor:* Paramount Fox
 
 *Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
 
@@ -168,8 +168,65 @@ jsou pokládána příliš těžká břemena, a vyžaduje okamžitou nápravu.
 Na  rozdíl od  své  vlády začala  asfaltská komunita  s  asfaltem na  křižovatce
 sympatizovat. Mnozí  se teď  ptají, jestli  je dohoda  Duny stále  prospěšná pro
 původní Unii. Nevděčníci[fn:1]■
-**                                                                               
+** Avalon 4
+:news:
+Topic [fish in heating]
+	Books too good for their own good.
+Designing principle [new house; fish are a feature; we're selling]
+	An author has written a book series  so good people started bullying him for
+	it.
+Random thing [this stuff is normal in Ukraine since 1976]
+	No book series is allowed to be so good and share the spotlight with LOTR.
+Story [Housing agency struggling to sell the houses]
+	P. Harrold has been writing a book series for the past eight years. With all
+	the books he's been on the edge  of perfection, but the last one practically
+	pushed him  to the realm  of perfect books. This  is not allowed  and people
+	have started to demand his head.
+Characters [salesmen, CEO]
+	P. Harrold
+Voice [author eats fish]
+	Written by P. Harrold himself
+Logistics of story [public reaction; history of product;...]
+Quotes, vision, assessment
+:END:
+Světoznámý autor moderní Sci-Fi P. Harrold čelí nařčení z ataku na pravidlo JRR,
+stanovené soudním precedentem  v 18. století. Jeho slavná knižní  série Avalon 4
+je podle jeho fanoušků příliš dobrá a vyžaduje přepracování.
 
+Před osmi  lety vydal P.  Harrold první knihu  Avalonu 4, Temnou  Skulinu. Kniha
+byla vyprodána  do dvou týdnů a  nakladatelství muselo dělat dva  další dotisky,
+než se čtenáři uklidnili. Od té  doby vydal Sloupy štěstí, Pět černých skořápek,
+Pofidérní  vagabundy a  začátkem tohoto  roku Skupinu  jezevců, jeho  (podle jeho
+skromného názoru) nejlepší dílo.
+
+Celá  série se  těšila nevídanému  výsluní.  Autor na  ní vydělal  přes tři  sta
+milionů dolarů. Jeho poslední kniha, Skupina jezevců, ale jeho úspěchy zhatila.
+
+Podle každého  žijícího kritika je Skupina  jezevců nejlepší kniha v  Avalonu 4.
+Prodala víc  kopií než Windows XP  a nelegálně si ji  stáhlo víc lidí než  Hru o
+stoly. Ale její úspěch se stal její záhubou.
+
+V soudním sporu z roku 1768 rozhodla porota, že žádná kniha, především fiktivní,
+nesmí dosahovat kvality Pána prstenů. Zejména  pak hloubka jejího světa musí být
+limitována detailností Středozemě. Harroldova série je přitom především chválena
+za kvalitu jím vytvořeného vesmíru. Když vyšla Skupina jezevců, netrvalo dlouho,
+než si fanoušci všimli, že se jedná o knihu takřka perfektní a bez vady. A to se
+nesmí tolerovat.
+
+Mnozí  přispěchali na  obranu  skvělého autora.  Jeden  velmi potentní  argument
+tvrdil, že Pán  prstenů není zas tak  dobrý, načež byl mluvčí  ušlapán davem. P.
+Harrold přitom cítil, že  měl pravdu. Ale precedent je precedent  a Avalon 4 tak
+čelí  největšímu útoku  na fiktivní  svět v  dějinách toho  skutečného[fn:2]. P.
+Harrold byl zachráněn z pranýře skupinou největších fanoušků a převezen do Jižní
+Afriky, kde  tamější komunita strávila  pět let  stavěním známých lokací  z jeho
+příběhu. P. Harrold se  obrnil na palubě své nejoblíbenější lodi  a nevyšel z ní
+již druhým  měsícem, ačkoli je  těžké rozeznat,  jestli ze strachu  před soudním
+řízením, nebo před koronavirem.
+
+Útoky  na jeho  osobu  neustaly  ani v  jeho  nepřítomnosti. Celkové  stanovisko
+knižního parlamentu v Himálajích je silně ovlivněno jejich vztahem k celé sérii,
+což  P. považuje  za zcela  normální, ale  veřejnost s  ním opět  nesouhlasí. P.
+Harrold tak píše další knihu v sérii a čeká na svou příležitost zaútočit.
 #+ODT: </text:section>
 * Závod
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
@@ -306,3 +363,7 @@ Módní sekce Monte Karlos Někdeníku vám přináší
 [fn:1] Neberte mě špatně. Já nejsem materialista. Můj nejlepší přítel ze střední
 školy byl  kus chodníku. Ale když  si ti asfalti nedovedou  uvědomit, jakou čest
 jim nabízíme, když je necháváme pro nás pracovat, co mám dělat?
+
+[fn:2] Je  nutné dodat, že  v Avalonu 4 existuje  knižní série Babylon  5, která
+čelí většímu
+
