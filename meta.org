@@ -3,7 +3,7 @@
 ** Kabinety
 *** Přízemí
 - Mlčoch, Jonasová
-- +Lenka Poláková+, ~Jana Horáková~, Ludmila Malá
+- +Lenka Poláková+, ~Jana Horáková~, ~Ludmila Malá~
 - Jíří Lysák, +Jiří Horký+, +Jana Menšíková+
 - Josef Král (školník)
 *** 1. Patro
@@ -15,7 +15,7 @@
 - ~Radovan Langer~
 - Fyzika: ~Taťána Jakešová~, ~Dagmar Kolářová~, +Dana Kubešová+, +Zdeněk Jemelík+
 - Čeština: Hana Mužíková
-- Anglický jazyk: Martina Rotreklová, ~Pavla Záchelová~, Lenka Vývodová
+- Anglický jazyk: _Martina Rotreklová_, ~Pavla Záchelová~, Lenka Vývodová
 - Německý jazyk: +Marie Vávrová+, Zdenka Lajdová, Věra Zemánková
 klepat: 1x, 3x a pak 5x; "Kabinet zla"
 *** 2. Patro
@@ -125,4 +125,4 @@ Thriller
 ** Zemánková X ????????
 Hist
 ** Kolářová/Horáková X Lysák
-Hunger Games?
+Hunger Games/Endgame?
