@@ -52,8 +52,8 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 #+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
-#+SUBTITLE: 
-Vítejte v Monte Karlos, 
+#+SUBTITLE: Hosté zvaní a nezvaní
+Vítejte v Monte Karlos, postmoderním znovuzrození Krále Artuše.
 #+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
 * 2/2019
 Ročník XXVIIII
@@ -360,17 +360,261 @@ učitelky vedle  sebe. Na závěr ještě  dodáme, že kromě přehození  Rych
 Kolářové je v žebříčku docela klidno.
 #+ODT: </text:section>
 ** Rozhovor - „“
-
+Samozvaná  šampiónka bivy  s Pálkovskou,  poslední osoba,  která přijela  do Der
+Weiderhohlle  Flüsemschliessem, kvůli  problémům  na letišti,  a bývalá  vůkdyně
+Šílených oštěpařů; učitelka angličtiny, Martina Rotreklová.
 #+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
+*V posledních týdnech jste byla velmi otevřená ohledně jistých nesrovnalostí v*
+*zásluhách na poražení paní Pálkovské. Vaše argumenty byly, že jste přišla s*
+*taktikou, jak ji porazit, ubránila jste vlastnoručně sídlo vaší kolegině Malé*
+*a položila jste život svého vojska za její poražení. Přesto to nevypadá, že*
+*byste sklízela pochvaly. Vysvětlete nám podrobně, co se děje.*
+
+Abych pravdu řekla, nechápu, jak se může něco takového dít. Ale už jsem asi
+vzdala veškeré snahy o spravedlnost a všechno apelování na zdravý rozum.
+
+*Proč si myslíte, že se vám nedostává uznání?*
+
+Nevím. Možná ani v tuto chvíli o žádné nestojím. Uvědomila jsem si, že jsou
+důležitější věci, jako třeba neztratit se, nechodit večer ven... Je to velice
+nepříjemná situace, jako by nestačila ta dálková výuka.
+
+*Takže vy vyučujete dálkově?*
+
+Ano. Já si myslím, že většina mých kolegů to tak dělá. Ale zvláštní věc, jako by
+se to chtěli skrývat. Jako by se za to styděli. Ale všimla jsem si, jak někdo
+opravuje testy, dělá online cvičení a podobně. Vyrovnávají se s tím každý
+jinak - třeba Rychnovský zadá projekt a tím je to pro něj vyřízené.
+
+*Mylíte, že je kontroluje, ty projekty?*
+
+Pochybuji, že je všechny čte.
+
+*Já jsem měl tu čest s panem Rychnovským mluvit a souhlasím s vámi.*
+*I když jste teď řekla, že jsou důležitější věci než uznání, v jaké situaci
+byste byla spokojená? Samozřejmě v situaci, kdy nezmizíte, ale co dál?*
+
+Maximálně spokojená bych byla na vrcholu žebříčku. Na druhou stranu, co jiného
+si v tuto chvíli si dávat za cíl? Pokud jde o boj s Pálkovskou...jde spíše o to,
+aby veřejnost pochopila, co se tehdy stalo, a nevykládala si celou situaci
+špatně.
+
+*Bojíte se cenzury?*
+
+Já už se teď bojím úplně všeho. Únosy...ty jsou velice nepříjemné.
+
+*Kdo byl vaším angličtinářským guru?*
+
+Myslíte, že jsem měla anglického guru? Myslíte snad, že angličtina je nějaké
+bojové umění?
+
+*To snad víte vy, ne?*
+
+Pak říkám, že není. Nejlepším učitelem mi byla píle.
+
+*Na tiskové konferenci Tlačenka jste s paní Malou oznámily, že jste ohrožovány*
+*únoscem učitelů. Jak se cítíte v takové situaci?*
+
+Ohrožená. Nejvíc mě stresuje, že možná někdo, kdo ty únosy organizuje, se stále
+pohybuje po Der Weiderhohlle Flüsemschliessem. Jenom ta představa, že je někdo
+ochotný zajít tak daleko, je mi odporná.
+
+*Hodláte se, kromě stále rostoucího bunkru, nějak zásadně chránit?*
+
+Ráda bych si myslela, že Der Weiderhohlle Flüsemschliessem nám poskytuje
+dostatečnou ochranu. Pevnost mi připadala jako naprosto bezpečné místo, střežené
+lépe než Buckinghamský palác.
+
+*Ale už teď zmizelo velké množství kantorů.*
+
+Ano, máte pravdu. Někdy si říkám, jestli vás to také znepokojuje.
+
+*Znepokojuje, a to velice. Pohrával jsem si s myšlnkou, že*
+*M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. je zapojen do únosů.*
+
+No...Co s námi bude, Karlosi? Co s námi bude?
+
+*Nevím. Jste ráda, že vám mizí konkurence?*
+
+Ne. Nejsem. Na jednu stranu je to konkurence, na druhou jsou to mí kolegové a
+takovýto způsob boje mi nepřipadá nějak uspokojivý. Naopak bych uvítala další
+pořádnou bitvu.
+
+*Co Horáková? Patřila jste do Velké pětky a ona byla jejím vedoucím. Jak se*
+*cítíte, když vidíte, jak se propadá v žebříčku?*
+
+Nijak zvlášť příjemně. Myslím, že Velká pětka už se stejně i tak rozpadla. Mám
+pocit, že už u Nového Dilí nás spíš držela ta válka, než společné sympatie. Měla
+jsem pocit, že mnozí kantoři zůstali, protože bylo zbabělé vycouvat. Ale ve
+skutečnosti už tehdy podle mě Větší pětka nefungovala.
+
+*Jak se vaše přítomnost v závodě podepsala na vašem profesionálním životě? Jak*
+*s vaší nepřítomností vycházejí vaši studenti?*
+
+Snažím se jim zameškaný čas vynahradit. Dokonce s nimi už dělám online cvičení
+přes Skype.
+
+*To musí být nadšeni.*
 *** Kampaň
+*Samozřejmě má teď Dvacet statečných spoustu práce, ale jak se připravujete na*
+*dalekou budoucnost? Například na arénu?*
+
+Pokud někdo z nás do arény zůstane, budeme připraveni drsnou realitou, ve které
+se nyní nacházíme.
+
+*Kde hodláte do té doby získat potřebné sponzory?*
+
+Jak už jsem říkala dříve, to je jedna z věcí, o které mi hlavně šlo ve věci
+probíhání bitvy u Nového Dilí. Aby lidé pochopili, co se tehdy stalo. Když budou
+mít tyto informace, tak už záleží na každém, jak se rozhodne.
+
+*Takže budete šířit pravdu.*
+
+Ano.
+
+*Na co se budete soustředit jako první, budete-li zvolena?*
+
+Hlavně bych chtěl, aby bylo angličtině věnováno více prostoru. Je to velmi
+podceňovaná disciplína?
+
+*Jaké populární téma rozhodně /nehodláte/ řešit jako vůdce všeho učitelstva?*
+
+Jednou z věcí, která je naprosto zbytečná, je ta strašná tahanice kolem
+maturity. Tu bych zrušila, aby s tím nebyly takové problémy jako každý rok.
+
+*Jak byste popsala svou celkovou strategii?*
+
+Otevřenou a útočnou.
+
+*Paní Záchelová, nechť odpočívá v pokoji, zastávala názor, že Velká pětka je*
+*velmi jednotná a vydrží spolu až do konce závodu. K tomu už jste se vyjádřila,*
+*ale v době, kdy to řekla, byla to ještě pravda?*
+
+Tehdy to možná vypadalo, jako možný scénář. Rozhodně věřím, že to tak mohla
+vnímat.
+
+*Jak překvapená si myslíte, že by byla, kdyby viděla, jak to dopadlo?*
+
+Záchelová bývala překvapená pořád.
+
+*Co vás odlišuje od ostatních kantorů v závodě?*
+
+Třeba to, že jsem v první dvacítce a oni ne.
+*** Random otázka dne
+*Z jaké části těla by lidstvo nejvíce profitovalo, kdyby byla teleskopická?*
+
+Ruka.
 *** Rychlá střelba
+*Co je váš zatím nejoblíbenější moment závodu?*
+
+Bitva u Nového Dilí.
+
+*Přeložte mi do angličtiny větu: kolibřík měl bydlo na bidélku, však obě
+*by/idla* spadla.*
+
+Raději se zrdžím odpovědi.
+
+*Kolik hodin zabere naučit vlaštovku tančit?*
+
+Nakonečně.
+
+*Doplňte následující věty:*
+
+*Angličtina je...*
+
+Skvělá.
+
+*Za únosy stojí...*
+
+Někdo veli zlí.
+
+*Horáková si zasloužila prohrát, protože...*
+
+Na to neměla.
+
+*Až vyhraji, brutálně potrestám...*
+
+Toho, kdo má únosy na svědomí.
+
+*Kde bere Lajdová všechny své body?*
+
+Kde se dá.
+
+*Vysvětlete, proč se ve světě jednoduše domluví i ten, kdo angličtinu neovládá.*
+
+...
+
+*Sedm.*
 *** Korespondence
+*Na YouTube se objevilo velmi zvlíštní video. Figuruje v něm socha hořícího*
+*blázna a nápis „My o tom všem víme, Martino.“ Podepsán L. Tato zpráva je*
+*očividně mířena na vás. Jak se k ní vyjádříte?*
+
+Já to taky všechno vím, L.
 *** Závěrečný proslov
+*Závěrečným proslovem zodpovězte následující otázku: What do you usually have*
+*for breakfast?*
+
+I usually have continental breakfast. Some cereal with milk, then tost with
+marmalade. Eggs, sandwich, beans, of course, and a bowl of rice. I like a lot of
+cheese. I usually drink coffee. With each of the things I mentioned.
+
+*Is that all?*
+
+It usually is, but when I feel very hungry, I also take some strawberry ice
+cream.
 
 #+ODT: </text:section>
 ** Hodnocení odborníka                                                  :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
+Rotreklová. Rotreklová, Rotreklová, Rotreklová.
 
+Rotreklová.
+
+No, řeknu to  asi takhle. Když si  přeje slona míti, nenechme  se lepit pomádou.
+Bedlivým  zkoumáním  jejích   odpovědí  na  Karlosovy  otázky   jsem  dospěla  k
+puňtičkářsky  sestavenému  názoru  několikrát   prověřenému,  že  Rotreklová  je
+medikálně  řečeno a  se  vší taktností  úplně  mimo. Ne  tak  mimo jako  řekněme
+Pálkovská, ale  dvanáct palců nebo dvanáct  metrů, trefit se mimo  terč je pořád
+stejné. A Rotreklová ten terč ani nevidí.
+
+Pojďme se  podívat na její výlevy  bláznivé. Jak se může  někdo pofidérnější než
+žabák ohnivák zároveň tvářit, že jí zásluhy nezajímají a že na světě důležitější
+věci nebylo, to nevím. To opravdu,  opravdu nevím[fn:3]. Zdravý rozum tomu říká.
+Mně se nezdá.
+
+Schazovat své  protivníky a jejich  smysl sebehodnoty, to jí  schvaluji. Ostatní
+tají  učení  přes   internet,  Rychovský  neopravuje  své   úkoly,  Větší  pětka
+(pravděpodobně s výjimkou  naší Rotreklové) se bála, a nevystoupila  z paktu jen
+protože by to vypadalo blbě. Zde je vše v pořádku. Kde to ale v pořádku není, je
+všude jinde.
+
+Takového necharismatického lenochoda  aby kapr pohledal. Už jsem  to jednou nebo
+dvakrát řekla,  ale když nemám, co  říct, tak si něco  /s a k r a/ vymyslim, ne?
+Ptát se  Karlose, jestli si  myslí, že angličtina je  bojové umění... Já  toho o
+angličtině vím míň než racek o Berlíně,  ale o politice toho vím spoustu. Nikdy,
+to  si  už  můžou  ty   učitelé  zapamatovat,  /nikdy/  nepodkopávejte  autoritu
+interviewera. Působíte  pak, jako byste chtěli  něco skrývat, nehledě na  to, že
+rozhovory s  vámi nebudou  nikdy zajímavé.  A jak už  jsem rovněž  jednou řekla,
+veřejná image a oblíbenost je pro vás všechno. Všechno!
+
+Co je její  plán na získání sponzorů? Ano,  to je správně - říct  pravdu. Jak si
+myslí, holubička  naše, že  se ostatním  kantorům tak daří,  i když  nemají její
+zásluhy? Lží  a přetvářkou.  Ona říká pravdu  celou dobu a  kam jí  to dostalo?!
+Slimák aby vedle  toho...[fn:4]! Lhát se musí! Podvádět! Krást  a mrzačit! Tohle
+není procházka solnými pláněmi severního tuzemska, TOHLE JE VÁLKA!
+
+...[fn:5]
+
+Máme  zde nějaké  stanradní nezajímavosti.  Odpovídá doslovně  a nudně  (/Ruka?/
+Pche!), nepříjemným otázkám  se vyhýbá (/Kde se dá/...  Ano, děkujeme mnohokrát,
+tos nám sakra pomohla.) a někdy neodpoví vůbec.
+
+Jen její vztak s jakýmsi L je velmi slibným dolem suchých kostí, jak říkával můj
+dědeček.  Něco na  sebe ví  a navzájem  si tím  vyhrožují. Na  to se  budu muset
+podívat blíž. Dám vám vědět, jakmile něco budu mít.
+
+Zatím se mějtě, pijte vodu, pijte čistou vodu, a lovu zdar!
 #+ODT: </text:section>
 * Korespondent - 
 * Lifestyle
@@ -386,10 +630,11 @@ L. Malá
 Z. Lajdová
 - Nikdo neví, co vlastně dělá
 - Odmítá se vyjádřit ke zmizení (ale také ke všemu ostatnímu)
-- Na vrcholu se drží, i když se už dávno mělo propadnout
+- Na vrcholu se drží, i když se už dávno měla propadnout
 
 Eliška Oslová
-- Generální ředitelka ústavu pro duševně neschopné a kultovní hlava Sekty nesplněné
+- Generální  ředitelka  ústavu pro  duševně  neschopné  a kultovní  hlava  Sekty
+  nesplněné pomsty
 - Téměř jistě stojí za útoky na učitele
 - Musela sehnat pomoc v DWF - s někým se spojila
 ** _Část třetí: Tajemná rozcestí_
@@ -496,7 +741,7 @@ Přineste si pláštěnku. Bude pršet stoleté kolibří huňáče.
 #+END_EXAMPLE
 
 Aha.
-*** 10.5.2020 - 12 - 40
+*** 10.5.2020 - 12:40
 Kavárna svatého Mořice. Tvralo mi dvě hodiny, než sem to tu našel. V DWF je les,
 v lese hora,  na hoře vesnice, ve  vesnici poklop, v poklopu tunel.  To už nějak
 nefunguje, co? Ne, ten  poklop vede do tunelu, ten vede do  hory, kde je luxusní
@@ -551,7 +796,7 @@ tady rozváděná malejma trubkama  u podlahy, ale z jedný tý  trubky fouká, 
 je to teď zrovna vypnutý.
 
 Vlezl sem do  pokoje Ebbe. Tady to fouká  taky. Chvíli si s tim  hraju, až najdu
-páčku zastrčenou v hlubinách trubky. Zatáhnu za ním.
+páčku zastrčenou v hlubinách trubky. Zatáhnu za ní.
 
 Přede mnou se otevřou automatický dveře.  Předtim tam sakra nebyly. Tajnej vchod
 do tajnýho  tunelu. Těch tunelů už  mam po krk.  Tak takhle se sem  dostali, jo?
@@ -642,6 +887,7 @@ Odchází. Nemá smysl jí  honit, ještě by mě něčim praštili po  hlavě. 
 ní? To určitě. Vyměnit jeden systém za jinej, to určite.
 
 To určitě.
+
 * Poznámky
 
 [fn:1] Neberte mě špatně. Já nejsem materialista. Můj nejlepší přítel ze střední
@@ -650,4 +896,10 @@ jim nabízíme, když je necháváme pro nás pracovat, co mám dělat?
 
 [fn:2] Je  nutné dodat, že  v Avalonu 4 existuje  knižní série Babylon  5, která
 čelí většímu
+
+[fn:3] Ona to vážně neví.
+
+[fn:4] Neptejte se.
+
+[fn:5] Chvíle na uklidnění - paní Kupé má v poslední době potíže se sebekontrolou.
 
