@@ -105,14 +105,6 @@ Ročník XXVIIII
 *Vyšetřovatel:* Sir Daniel Jonathan Pace
 
 *Rozšiřují:* google.com
-
-/Monte Karlos Někdeník/ byl založen  skupinou černých nosorožců afrických v létě
-roku  1989.  Jeho  stránky  byly   poznamenány  takovými  autory  jako  Alexandr
-Malinovský, Jack  O'Clock a Veronika Oškalová  a všeobecnému ohlasu se  těší již
-třetím rokem  pod brilantním  vedením šéfredaktorky  Alžběty Ašelové©.  Stojí na
-železobetonových základech, neboť všichni zaměstnanci od grafiků přes editory po
-prachbídné korespondenty  se řídí  všestrannými, nesmrtelnými  pravidly slušného
-chování.
 * Editorial                                                             :250:
 „Přituhuje.“ To  říkají eskimáci z jižního  Grénska, když staví iglů  a sníh jim
 začně tvrdnout do  ledu. Stejně tak to  říkají v Madagaskaru, když  jim zmizí už
@@ -359,7 +351,7 @@ paní Rotreklová  je nabírá (ku svě  jistě nemalé radosti) a  momentálně
 učitelky vedle  sebe. Na závěr ještě  dodáme, že kromě přehození  Rychnovského a
 Kolářové je v žebříčku docela klidno.
 #+ODT: </text:section>
-** Rozhovor - „“
+** Rozhovor - „Já se bojím úplně všeho“/„[maturitu] bych zrušila...“/„Myslíte, že angličtina je nějaké bojové umění?“/„Co s námi bude...?“
 Samozvaná  šampiónka bivy  s Pálkovskou,  poslední osoba,  která přijela  do Der
 Weiderhohlle  Flüsemschliessem, kvůli  problémům  na letišti,  a bývalá  vůkdyně
 Šílených oštěpařů; učitelka angličtiny, Martina Rotreklová.
@@ -475,7 +467,7 @@ Ano.
 *Na co se budete soustředit jako první, budete-li zvolena?*
 
 Hlavně bych chtěl, aby bylo angličtině věnováno více prostoru. Je to velmi
-podceňovaná disciplína?
+podceňovaná disciplína.
 
 *Jaké populární téma rozhodně /nehodláte/ řešit jako vůdce všeho učitelstva?*
 
@@ -510,7 +502,7 @@ Ruka.
 Bitva u Nového Dilí.
 
 *Přeložte mi do angličtiny větu: kolibřík měl bydlo na bidélku, však obě
-*by/idla* spadla.*
+*by/idla spadla.*
 
 Raději se zrdžím odpovědi.
 
@@ -526,7 +518,7 @@ Skvělá.
 
 *Za únosy stojí...*
 
-Někdo veli zlí.
+Někdo velmi zlí.
 
 *Horáková si zasloužila prohrát, protože...*
 
