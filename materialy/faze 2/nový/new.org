@@ -1,0 +1,207 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local default-justification 'full); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
+</style:style>
+
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
+# tags		Toggle inclusion of tags
+# '			Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+
+#+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: 
+Vítejte v Monte Karlos, 
+#+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
+* 2/2019
+Ročník XXVIIII
+
+*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:* EmailNoReply@server.mok
+
+*Zákaznická linka:* 0004 892 223 03E
+
+*Šéfredaktor:* Alžběta Ašelová
+
+*Manažer redakce:* Jiří b'Ačkora
+
+*Zástupce šéfredaktora:* Hobbo Habán
+
+*Fotograf:* Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:* Tara Kočí
+
+*Obrazová redakce:* Honza Kůň
+
+*Rozhovor:* Karlos Žebatý, Lubomír Lečko
+
+*Politická recenze:* Olšana Kupé
+
+*Móda:* Šlapeboso Elle'Gante
+
+*Editoři:* 
+
+*Celofán:* Ždibopych Blecháč
+
+*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:* Karlos Žebatý
+
+*Sociální poradce:* Lightningh Danger
+
+*Sociální podpora:* Anna Oleš
+
+*Inzerce:* Many Hrabal
+
+*E-shop:* nakupsisam.cz
+
+*Tiskne:* individuálně
+
+*Korespondent:* 
+
+*Vyšetřovatel:* Sir Daniel Jonathan Pace
+
+*Rozšiřují:* google.com
+* Editorial                                                             :200:
+
+
+Alžběta Ašelová, šéfredaktor
+#+ODT: </text:section>
+* Zprávy                                                                :350:
+:news:
+Topic [fish in heating]
+Designing principle [new house; fish are a feature; we're selling]
+Random thing [this stuff is normal in Ukraine since 1976]
+Story [Housing agency struggling to sell the houses]
+Characters [salesmen, CEO]
+Voice [author eats fish]
+Logistics of story [public reaction; history of product;...]
+Quotes, vision, assessment
+:END:
+#+ODT: <text:section text:style-name="NormalSect" text:name="Zprávy">
+** Třetí světová
+„Budeme mít  největší jméno jídla na  světě. Bude to ohromné  jméno, které ještě
+nikdo nikdy neměl. Takové jméno, to vám povídám, to tu ještě nebylo.“
+
+Tato slova vyřkl  prezident Donald Trunp na jednom se  svých tradičních sjezdů v
+Kalifornii,  poté, co  mu jeho  poradce oznámil,  že mají  k večeři  španělského
+ptáčka.  Prezident  Trump  se  rozzlobil na  Theodora  Roosevelta,  že  nenechal
+vynaleznout vlasní jídlo s „amrerický“ ve  jméně, a tímto výrokem se zavázal, že
+situaci napraví.
+
+Čínská vláda se  doslechla o jeho plánech  a zavázala se, že  ho nenechá vyhrát.
+Japonsko,  ve snaze  předehnat kulturně  Čínu, se  přidalo rovněž,  což zapojilo
+Jižní Koreu, následně Severní, to  přilákalo pozornost NATO. Tato byla opětována
+pozorností Ruského impéria  a následně Ukrajiny jako pomstu Rusku  za Krym. Na v
+poslední době  nečinném politickém  poli světa  se tak  rozjel závod  o dobývání
+vlivu v oblasti kuchařské.
+
+Ostatní,  menší státy  jako  Holandsko,  Chorvatsko či  Austrálie  se do  závodu
+přidali ze zvyku.
+
+Trump  ihned skočil  po  „americkém hamburgru“.  Německo mu  ho  rádo nechalo  a
+soustředilo svou energii na „německou  pizzu“, kterou vyšoupli Itálii pod nosem.
+Rusko bylo diskvalifikováno /Radou všeobecně  kuchařskou/, protože už mají ruská
+vejce, načež Putit  jejich rozhodnutí ignoroval a zamluvil  si „ruskou anglickou
+slaninu“.  Velká Británie  se nenechala  zahambit  a agenti  MI6 ukradli  jejich
+spojenci - Číně - nudle.
+
+Turecko se rozhodlo neangažovat a vyhlásilo neutralitu. Vše, říkají, jen aby jim
+zůstal turecký med.  Norové se spojili se Švědskem a  společně přemluvili Finsko
+ke spolupráci. Dělají tak, aby čelili jižnímu nátlaku v podobě balkánského sýra,
+a zařídili  si „skandinávský buřt“. Balkán  do protiútoku poslal řecký  jogurt a
+řecký salát, čímž Skandinávii totálně odrovnal.
+
+Češi se zatím  pyšní moravským vrabcem, ale  vyjádřili se, že by  rádi dostali i
+českého  pštrosa a  slezskou husu.  To  je problém,  neboť husa  je již  zabrána
+Poláky, kterří se jí nehodlají vzdát. Probíhají rozsáhlá vyjednávání přes Skype,
+ale osud Vyšegrádské čtyřky visí na vlásku.
+
+V tom  všem zmatku si  Argentina mne ruce,  protože skoupila bezmála  dvacet pět
+stovek receptů na černém trhu a má  teď téměř neomezenou smlouvací moc. Kanada i
+Madagaskar už s nimi  uzavřeli dohodu o dovozu zbraní a  munice výměnou za malou
+část jejich  skladu a Mexiko  zvažuje skoupit od  nich hranolky, než  je dostane
+Trump, a pomstít se mu tak za tu Zeď.
+
+Argentině v počtu zásob jako jediný vzdoruje Monte Karlos. Nejsme sice stát, ale
+to  je  nám jedno.  Jsme  ochotni  smlouvat  o  podmínkách prodeje,  ale  předem
+vyhlašujeme, že od  dnešního odpoledne se po celém světě  bude prodávat Karlosův
+kebab.
+**                                                                               
+
+#+ODT: </text:section>
+* Závod
+#+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
+** Vývoj                                                                :400:
+** Postupy v žebříčku                                                   :400:
+#+BEGIN_EXAMPLE
+(progn (insert-file "/home/oscar/Documents/Monte-Karlos/žebříček.org")
+	   (backward-kill-sentence))
+#+END_EXAMPLE
+
+#+ODT: </text:section>
+** Rozhovor - „“
+
+#+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
+*** Kampaň
+*** Rychlá střelba
+*** Korespondence
+*** Závěrečný proslov
+
+#+ODT: </text:section>
+** Hodnocení odborníka                                                  :350:
+#+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
+
+#+ODT: </text:section>
+* Korespondent - 
+* Lifestyle
+Módní sekce Monte Karlos Někdeníku vám přináší 
+
+* Vyšetřování
+** Dokumenty
+** _Část první: Nepřítel za branami_
+*** 
+* Poznámky
