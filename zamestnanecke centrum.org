@@ -78,6 +78,7 @@ Mlčokoutek - věci o Totismu v Někdeníku
 - Předpověď počasí: Hoso al'Kosso
 - Mytologie: Krupičník Davidd
 - Inkvizitor: Paramount Fox
+- Věštec: Theodrios Appol-Théby
 - Celofán: Ždibopych Blecháč
 * Running stories
   :PROPERTIES:

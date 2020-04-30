@@ -84,7 +84,7 @@ Ročník XXVIIII
 
 *Editoři:* 
 
-*Celofán:* Ždibopych Blecháč
+*Věštec:* Theodrios Appol-Théby
 
 *Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
 
@@ -170,18 +170,112 @@ Argentině v počtu zásob jako jediný vzdoruje Monte Karlos. Nejsme sice stát
 to  je  nám jedno.  Jsme  ochotni  smlouvat  o  podmínkách prodeje,  ale  předem
 vyhlašujeme, že od  dnešního odpoledne se po celém světě  bude prodávat Karlosův
 kebab.
-**                                                                               
+** Příště uvidíte
+:pojmy:
+muž světla: ŠEINER
+žena (své) Země: ZEMÁNKOVÁ
+vzpomínka: STARÝ SYSTÉM ZÁVODU
+nebeský kůň: DEATH STAR
+: LAJDOVÁ
+mrtví hrdinové: KUPÉ
+hrob dávných nepřátel: DŮM PÁLKOVSKÉ
+postrach zapomněný: ZÁCHELOVÁ
+knihy (dosud) nenapsány: UČEBNICE DĚJEPISU V BUDOUCNOSTI
+Ruka trýzně; Našeptávač; Sok rozumu/pravdy; On, jejž můžeš pouze přežít: LYSÁK
+Temná síť: DARK WEB
+(odpověď/spása/pomoc) ve hvězdách: PES
+Kde se potká živel s živlem: ARÉNA
+První vzdor: VŠICHNI SE SPOJÍ PROTI LYSÁKOVI
+:END:
 
 #+ODT: </text:section>
 * Závod
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
 ** Vývoj                                                                :400:
-** Postupy v žebříčku                                                   :400:
-#+BEGIN_EXAMPLE
-(progn (insert-file "/home/oscar/Documents/Monte-Karlos/žebříček.org")
-	   (backward-kill-sentence))
-#+END_EXAMPLE
+KKL, vojensko-vymahatelská odnož M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S., znovu zasahuje.
+Přes všechny své snahy odradit učitele od používání armád Mezinárodní Úřad stále
+čelí  jistým nechápavým  jedincům, kteří  se  svých bojovníků  drží zuby  nehty.
+Minulou sobotu  provedla KKL druhý  největší vojenský  zásah v dějinách  šachu a
+vyloučila ze závodu tři stovky učitelů.
 
+Už několik měsíců shromažďovala KKL  informace o nebezpečných individuích, kteří
+podle  jejich zdrojů  stále  přechovávali armády  zakázané  začátkem roku.  Tyto
+zdroje jsou při nejlepším pofidérní, ale KKL trvá na tom, že se jim dá věřit. Po
+bezmála  čtvrt  roce  špionáže  se   jim  podařilo  identifikovat  ony  jedince,
+slavnostně je popravit a jejich zbytky hodit lvům.
+
+Tento  čin vyvolal  v široké  veřejnosti popuzení  a odpor.  Prý není  důvod pro
+M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. přechovávat smečku lvů v civilizovaném světě.
+
+KKL  oznámila, že  při  příštím  odhalení používání  nezákoných  sil nebude  tak
+shovívavá. I přes to se ukazuje,  že některým lidem zkrátka není pomoci. Spojené
+vojenské  jednotky Úsvit  započali pochod  mongolskými pláněmi,  v čele  s třemi
+kantory neznámé identity. Co je jejich  cílem nevíme, stejně jako netušíme, proč
+by riskovali osud  popravených. Monte Karlos Někdeník měl původně  v plánu najít
+je pomocí našeho ultra-mega satelitu, ale báli  jsme se úniku informací do KKL a
+nechtěnému ovlivnění závodu.
+
+Jak se ukázalo, báli  jsme se oprávněně. V Kanadě učetel  McKay využil situace a
+podal  KKL anonymní  typ na  jeho  spolupracovnici Carterovou,  která podle  něj
+vlastnila skupinu osmi  mariňáků. KKL zasáhla bleskově a  osudu Carterové raději
+pomlčíme pro případ, že by Monte  Karlos Někdeník četlo dítě mladší dvaapadesáti
+let. McKayův čin se dostal na  světlo veřejnosti díky jeho vlastní stupiditě. Na
+svém Facebooku prohlásil, že se konečně zbavil svého největšího nepřítele a nyní
+se připravuje na Dvacet statečných. Pomineme-li  to, že Dvacet statečných jsou z
+velké části  pohřešovaní, tento komentář  mu způsobil nemalé potíže  s Kanadskou
+vládou. Byl zbaven čestného titulu Kn.  (Kantor) a vržen do chladného, hlubokého
+vězení, odkud není úniku.
+
+KKL ohlásila, že co  si Kanada dělá se svými učiteli, do  toho jí mluvit nebude,
+ale každá  informace o ilegálních  vojácích, zejména pak o  Spojených vojenských
+jednotkách Úsvit,  bude vítána. Máte  prý kontaktovat  klientskou linku KKL  i v
+případě pouhého podezření.
+
+Monte Kalos shromažďuje  informace, jak jen může, aby napomohl  celé věci k tomu
+novinářsky nejzajímavějšímu konci.
+** Postupy v žebříčku                                                   :400:
+Zmatek! Chaos! Neznámo! Dvacet statečných se rozpadlo! Co budeme dělat?!!
+
+Po hromadném  zmizení učitelů  z Der  Weiderhohlle Flüsemschliessem  čelí Dvacet
+statečných nepříjemným  změnám. Z původní  vedoucí dvacítky zbývá už  jen pohých
+osm učitelů,  kteří se uráčili  nezmizet. Jejich  přítomnost v pevnosti  je nyní
+hlídána pečlivěji, než  kdy dříve. Zatím byl zbytek  Dvaceti statečncých obsazen
+zcela novými jmény.  Jmény, která nikoho nezajímají, jako  Ošumpraši Škrobe Kaši
+nebo Aladíme  Sobeprostje B,  Monte Karlos Někdeník  tak ani  neposkytl žebříčej
+jejich umístění. Protože jsou všem ukradení.
+
+Ukradení jsou  ale i  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. Jeden  z nich,  jehož jméno
+jsme ani neměli čas si zapamatovat, se  už z hradu ztratil, ale nikoho nenapadlo
+zajímat se  o něj natolik, aby  jeho zmizení vyšetřovali. Osm  zbylých původních
+členů zůstává  pohromadě a  odmítá se  věnovat nově  příchozím, s  výjimkou paní
+Kubešové,  která si  už udělala  několik  nových známostí  mezi svými  čerstvými
+kolegy.
+
+Vyšetřování  zatím probíhá  v plném  proudu. Paní  Malá oznámila,  že našla  síť
+tajných  chodeb v  bunkru, kde  všichni  přespávali, a  hypotetizuje, že  těmito
+chodbami  byli uneseni  všichni učitelé  v posledních  týdnech. Navrhla  opustit
+prostor a přestěhovat  se na Náměstí Míru a Pokoje,  kde teď Skálopevná osmička,
+jak se jim začalo na internetu  říkat, přespává pod celtou velikosti fotbalového
+stadionu,  všichni v  dohledu všech  ostatních.  Paní Lajdová  se drží  stranou,
+ačkoli ani ona neodmítla bezpečí společného bydlení.
+
+Pan  Hevell se  nechal slyšet,  že  spát pod  jednou  střechou se  jim už  jedou
+nevyplatilo, takže by to možná neměli dělat, ale nemluvil předem dohodnutou řečí
+a nikdo mu tak nerozumněl. Paní Křenková každý večer vypráví strašidelné history
+z mládí,  většinou s tématem  únosu či  zmizení. Pana Rychnovského  její příběhy
+náramě  baví  a  přidává  svou   trošku  do  mlýna  soustavným  strašením  svých
+spolu-spáčů za světla měsíce.
+
+Paní Rotreklová  s paní Malou  tráví značný čas  spolu mimo doslech  ostatních a
+řeší  něco, co  by slušný  čtenář  snad ani  slyšet  nechtěl. Jediný,  kdo se  v
+současné situaci  nechová podezřele, je  paní Kolářová,  což na jí  vrhlo světlo
+podezření silnější, než na všechny ostatní.
+
+Kvůli  nedostatku  jiných  možností  musel Monte  Karlos  limitovat  svůj  výběr
+pozvaných osobností. Jak už bylo  zmíněno, noví učitelé nikoho nezajímají, takže
+byl postaven  před otázku, zda  pozvat Křenkovou (to určitě),  Kubešovou (zrovna
+tak), či někoho,  kdo už v Monte  Karlos byl. Netřeba říkat, že  paní Lajdová je
+zcela vyloučena a Malá a Rotreklová byly obě nadávnými hosty. Výběr byl jasný...
 #+ODT: </text:section>
 ** Rozhovor - „“
 

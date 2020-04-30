@@ -98,11 +98,11 @@ Odjel zkontrolovat tělocvičnu a už se nevrátil.
 - *Zmizelí*
   - /Mezi:/ Vávrová
   - /Po:/   Šeiner
-**** 17.5.2020
+**** [[file:materialy/faze%202/4%20-%2017.5/Host%C3%A9%20zvan%C3%AD%20a%20nezvan%C3%AD.org][17.5.2020 - Hosté zvaní a nezvaní]]
 - Natočeno <2020-04-25 Sat>
 - *Host* Rotreklová
 - *Vyšetřování*
-  Část třetí: 
+  Část třetí: [[file:materialy/faze%202/4%20-%2017.5/Host%C3%A9%20zvan%C3%AD%20a%20nezvan%C3%AD.org::*_%C4%8C%C3%A1st%20t%C5%99et%C3%AD:%20Tajemn%C3%A1%20rozcest%C3%AD_][Tajemná rozcestí]]
 - *Zmizelí*
   - /Mezi:/ Lysák
   - /Po:/   
