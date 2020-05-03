@@ -82,9 +82,9 @@ Ročník XXVIIII
 
 *Móda:* Šlapeboso Elle'Gante
 
-*Editoři:* 
+*Editoři:* , P. Harrold
 
-*Věštec:* Theodrios Appol-Théby
+*Inkvizitor:* Paramount Fox
 
 *Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
 
@@ -333,8 +333,33 @@ zcela vyloučena a Malá a Rotreklová byly obě nadávnými hosty. Výběr byl 
 #+ODT: </text:section>
 * Korespondent - 
 * Lifestyle
-Módní sekce Monte Karlos Někdeníku vám přináší 
+Módní sekce  Monte Karlos Někdeníku vám  přináší souhrn lidových stylů  z celého
+světa.
 
+[[file:photos/sombrero 1.JPG]]
+
+Z  divokého  západu vám  můžeme  nabídnout  Širák.  Velmi populární  mezi  muži,
+samozřejmě, ale společensky  přijatelný na jakékoli hlavě.  Vhodný pro cestování
+pod pražícím sluncem nebo synchronizované plavání.
+
+[[file:photos/eskimo.JPG]]
+
+Další je  zde Eskimák. Doporučovaný do  chladnějších akcí, méně formálních,  a s
+určitou dávkou ironie na návštěvu Bílého domu. Velmi rozšířený na Antarktidě.
+
+[[file:photos/ushenka.JPG]]
+
+Ušenka  je  inspirovaná Ruskou  architekturou  a  módou, ačkoli  byla  vytvořena
+rakouským umělcem  von Haarem. Von  Haar neměl preference  ohledně společenských
+událostí,  ale svět  módy  se ustálil  na používání  Ušenky  zejména na  nočních
+večírcích u moře.
+
+[[file:photos/bike.JPG]]
+
+Začali jsme  v Americe, tam  také skončíme.  Motorka je novodobý  stejnokroj pro
+mládež,  hlavně na  západním pobřeží.  Vyžaduje jisté  fyzické předpoklady,  ale
+máte-li  je, nemůžete  si vybrat  lepší  styl, chcete-li  zapadnout mezi  dnešní
+mládež.
 * Vyšetřování
 ** Dokumenty
 ** _Část první: Nepřítel za branami_

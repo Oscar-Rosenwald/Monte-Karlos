@@ -82,9 +82,9 @@ Ročník XXVIIII
 
 *Móda:* Šlapeboso Elle'Gante
 
-*Editoři:* Aráb a'Ráb, P. Harrold
+*Editoři:* Aráb a'Ráb
 
-*Inkvizitor:* Paramount Fox
+*Věštec:* Theodrios Appol-Théby
 
 *Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
 
@@ -214,7 +214,7 @@ Přetne naši víru v půli,
 avšak proti její vůli
 budou širé davy ctíti
 muže světla v temné síti,
-věcoudího, co se stane
+vědoucího, co se stane
 z knihy dosud nenapsané.
 Ze světa, kde jednoduše
 válčí každá druhá duše
@@ -629,8 +629,35 @@ Zatím se mějtě, pijte vodu, pijte čistou vodu, a lovu zdar!
 #+ODT: </text:section>
 * Korespondent - 
 * Lifestyle
-Módní sekce Monte Karlos Někdeníku vám přináší 
+Módní sekce Monte Karlos Někdeníku vám přináší soukromou kolekci nošení prince Harryho.
 
+[[file:photos/tajemny.JPG]]
+
+Tento styl nese pouze název Tajemný. Všichni mojordomové v Buckinghamském paláci
+musí nosit  tento styl  na Harryho  narozeniny, ačkoli  nikdo neví  proč. Skvělý
+výběr pro zapadnutí do spodních příček vyšší společnosti.
+
+[[file:photos/bun.JPG]]
+
+Náš týdenní  výběr pro dámy (omlouváme  se za modela). Drdol  představuje vrchol
+módního  projevu pro  čerstvě vdané  paní, především  pak na  venkově. Nevhodný,
+ačkoli přijatelný,  pro městské  nošení. Doporučujeme  na Silvestra.  Proč princ
+Harry přechovává dámské styly, nevíme.
+
+[[file:photos/vulcan.JPG]]
+
+Poněkud  extravagantní Vulkán  vznikl na  Tahitách koncem  předminulého století.
+Upadl  do  zapomnění  na  více   než  šedesát  let  kvůli  svému  kontroverznímu
+metaforickému přístupu k minoritním menšinám. Propagovaný Charlesem Hobermayerem
+pro  svou originalitu  (pan Hobermayer  měl  velmi osobité  hodnoty). Vhodný  na
+dlouhé cesty pouští.
+
+[[file:photos/nevim.JPG]]
+
+A nakonec  zde máme  Harryho nejoblíbenější kousek.  Tento styl  postrádá jméno,
+ačkoli naši exporti prosazují návrh Mikuláš. Harry nikdy nenechal nikdoho obléct
+si Karlos-čepici tímto způsobem, doporučujeme proto pro odvážné jedince, zejména
+pak na středověké maškarní bály.
 * Vyšetřování
 ** Podezřelí
 L. Malá
@@ -897,8 +924,7 @@ za dobrou věc.“
 Odchází. Nemá smysl jí  honit, ještě by mě něčim praštili po  hlavě. Přidat se k
 ní? To určitě. Vyměnit jeden systém za jinej, to určite.
 
-To určitě.
-
+To určitě■
 * Poznámky
 
 [fn:1] Neberte mě špatně. Já nejsem materialista. Můj nejlepší přítel ze střední
