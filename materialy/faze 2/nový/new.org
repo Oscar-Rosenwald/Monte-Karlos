@@ -218,12 +218,12 @@ nesmí tolerovat.
 Mnozí  přispěchali na  obranu  skvělého autora.  Jeden  velmi potentní  argument
 tvrdil, že Pán  prstenů není zas tak  dobrý, načež byl mluvčí  ušlapán davem. P.
 Harrold přitom cítil, že  měl pravdu. Ale precedent je precedent  a Avalon 4 tak
-čelí  největšímu útoku  na fiktivní  svět v  dějinách toho  skutečného[fn:2]. P.
-Harrold byl zachráněn z pranýře skupinou největších fanoušků a převezen do Jižní
-Afriky, kde  tamější komunita strávila  pět let  stavěním známých lokací  z jeho
-příběhu. P. Harrold se  obrnil na palubě své nejoblíbenější lodi  a nevyšel z ní
-již druhým  měsícem, ačkoli je  těžké rozeznat,  jestli ze strachu  před soudním
-řízením, nebo před koronavirem.
+čelí největšímu  útoku na fiktivní svět  v dějinách toho skutečného.  P. Harrold
+byl zachráněn z pranýře skupinou největších fanoušků a převezen do Jižní Afriky,
+kde tamější komunita strávila pět let stavěním známých lokací z jeho příběhu. P.
+Harrold se obrnil  na palubě své nejoblíbenější  lodi a nevyšel z  ní již druhým
+měsícem, ačkoli je těžké rozeznat, jestli  ze strachu před soudním řízením, nebo
+před koronavirem.
 
 Útoky  na jeho  osobu  neustaly  ani v  jeho  nepřítomnosti. Celkové  stanovisko
 knižního parlamentu v Himálajích je silně ovlivněno jejich vztahem k celé sérii,
@@ -318,18 +318,253 @@ byl postaven  před otázku, zda  pozvat Křenkovou (to určitě),  Kubešovou (
 tak), či někoho,  kdo už v Monte  Karlos byl. Netřeba říkat, že  paní Lajdová je
 zcela vyloučena a Malá a Rotreklová byly obě nadávnými hosty. Výběr byl jasný...
 #+ODT: </text:section>
-** Rozhovor - „“
-
+** Rozhovor - „...já jsem důležitější“/„...z učitelské profese se vzdálím.“
+Velitelka  špionáže   Větší  pětky   a  dvounásobná  medailistka   Marxovi  ceny
+soudržnosti, paní Kolářová.  A... Rumcajsův přítel a  Krakonošův pokrevní bratr,
+pan Rychnovský.
 #+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
-*** Kampaň
-*** Rychlá střelba
-*** Korespondence
-*** Závěrečný proslov
+*Máme zde dvě nudné otázky, pro každého jednu. Ten z vás, kdo odpoví zajímavěji, bude mít jistá privilegia v další skupině otázek.*
 
+*Paní Kolářová, jak zní Pythágorova věta?*
+
+Mě zní velmi krásně. Je to velice jednoduchá a přitom naprosto úžasná matematická věta. Rozhodně pěkné téma.
+
+*Myslíte, že je to vaše oblíbená věta?*
+
+Rozhodně jedna z nich.
+
+*Pane Rychnovský, co je vaše nejoblíbenější zvíře?*
+
+To bude buď kačena... se zelíčkem. Nebo prase také není špatné.
+
+*Pane Rychnovský, vaše odpověď byla porotou vyhodnocena jako zajímavější. Zde máte dvě otázký. Můžete si vybrat, kterou zodpovíte a kterou předáte paní Kolářové.*
+
+=Pan Rychnovský si vybral.=
+
+*Jste členem Dvaceti statečných, ale do arény vpustí pouze prvních patnáct uchazečů. Kterých pět jste ve svých úvahách vyřadil/a z této dvacítky jako protivníka v poslední fázy závodu?*
+
+Já odpovám na tuto otázku, i když vypadá těžší, protože budu muset přijít hned s pěti jmény proti jednomu.
+
+*Takže galantní přístup.*
+
+Ano. Upřímně jsem tak trochu vyškrtl Ebbe. Ta se prostě do první patnáctky nemůže dostat.
+
+*Pamatujete, že byla v jednu chvíli na druhém místě?*
+
+To bylo jenom tak... Tam bylo spoustu lidí.
+
+*Včetně vás.*
+
+To je pravda. Ale já jsem v jednu doby byl i na prvním.
+
+*To je mi novinka. To je Ebbe. Dal?*
+
+Pak tam ti dva učitelé. Ti noví, divní. Vždyť víte.
+
+*Ano, ano.*
+
+Pak ten ještě jeden. Ten z Tibetu. A obávám se, že má jisté mezery v koomunikaci a bohužel ovládá jen starou hindštinu a dříve či později musí narazit na bariéry mezi voliči. Zatím to ale vypadá, že jich má dostatek. A potom ještě myslím takový ten... s tím strašně dlouhým jménem. Tamten. Já ani nevím proč, ale hned, jak jsem ho viděl, věděl jsem, že nemá šanci se dostat dál.
+
+*Dobrá to máme pět pseudojmen. Paní Kolářová, vy máte jisté skušenosti s nedorozumíváním se, avšak váš bývalý kolega Havell není učitel na vašem gymáziu. Nemůžete si ho tedy vybrat v další otázce: Kdo je vaším nejneoblíbenějším kolegou na gymnáziu?*
+
+Ano... Víte já vycházím velmi dobře se všemi. Když někoho jmenuji, bude to jen o vlásek. Ale když tedy někoho vybrat musím, kolegyně Lajdová je taková... těžko přístupná. Někdy se s ní špatně komunikuje. Někdy také bývá těžké... Nedávno si mi žáci stěžovali, že na ně křičela při dálkové výuce a rozbilo se jim několik počítačů. Ale samozřejmě proti ní jinak nic nemám.
+
+*Dáte nám nějakou historku, kdy jste se s ní neúspěšně snažila komunikovat?*
+
+Nejméně komunikuje teď na hradě. Ale to se snad dá připsat strachu z únosu.
+
+*Myslíte si, že si myslí, že bude unesena?*
+
+Je hodně těžké odhadnout, co si myslí. Ale v tuto chvíli muselo každého napadnout, že by ho mohli odnést.
+
+*Když prohrajete, jak se vypořádáte se svým selháním?*
+
+Já myslím, že celkem dobře. Budu učit nadále na gymnáziu. Bylo by to zklamání, na druhou stranu ale nezakopu potom válečnou sekeru a nepůjdo do důchodu.
+
+*A vy?*
+
+Já naopak se z učitelské profese vzdálím a začnu dělat něco...
+
+*Užitečnějšího.*
+
+Kampaň
+
+*Pane Rychnovský, jaký plán máte na vypořádání se se zbytkem Dvaceti statečných?*
+
+Ono se těžko plánuje, jak se s nimi vypořádat, když se neustále mění jejich složení. Možná by to chtělo počkat, až se to ustálí. Ale dobrá, když jinak nedáte, také jsem začal shromažďovat renesanční malby. Paní Malá se sice tvářila, že jsou na výstavu, ale to jí samozřejmě nevěřím. No a jinak... S někým se spojit, řekl bych. To by bylo neprospektivnější. Vlastně bych se rád spojil zde s paní Kolářovou, jestli mě nechá.
+
+*Kolářová, jaký plán máte na vypořádání se s panem Rychnovským?*
+
+No... Jak to tak vidím, tak se se mnou chce spojit. To by nemusel být špatný začátek.
+
+*Takže to zahrnuje zmatená, takže váš útok bude překvapivější.*
+
+To se obávám, že by úplně nefungovalo, že...?
+
+*Poprosím, abyste zodpověděli následující otázku za toho druhého. Paní Kolářová odpoví, jako by byla pan Rychnovský, a naopak.*
+
+*Pane Rychnovský, jak se mají vaše vztahy s jistým panem Havellem, teď, když jste ho opustil(a) a nechal(a) daleko vzadu?*
+
+S panem Havellem to začíná být poslední dobou nesnesitelné.
+
+*Se nedivím, hlavně jak on teď zmizel. To se mu dá rozumět ještě hůř, než předtím.*
+
+Správně. Baví se s ním opravdu těžko.
+
+*Nevičítá vám to, že jste ho tak nějak opustila?*
+
+Já si nemyslím, že mi někdy něco vyčítal. Ale já vlastně nevím, co on mi říká.
+
+*Paní Kolářová, byl(a) jste odloučen(a) od svého vojska jelenů a lišek Mezinárodním Úřadem pro úplnou bla bla bla... Jak snášíte toto odloučení?*
+
+No... celkem dobře. Ony králíci na smetaně se mi stejně už zajídali.
+
+*Králíci na smětaně, ano. Z těch jelenů a lišek.*
+
+Já myslím, že králíci tam byly také. Moc jich nezbylo u Nového Dilí.
+
+*Já tam právě byl a žádné jsem neviděl.*
+
+Oni jsou takoví malý. Paní Kolářová tehdy také na jednoho šlápla a byla z toho smutná. Také byl dobrý.
+
+*Dohodnětě se mezi sebou, kdo z vás je důležitější učitel. Nezapomeňte, jde zde o post nejvyššího vůdce, stejně jako jisté privilegium v další otázce. Dejte se do sebe.*
+
+/Tak snad ten, kdo vyhraje, ne?/
+
+_Ale Karlos chce podle momentální situace._
+
+/Rychnovský, to je od něj pěkné./
+
+_No to /je/ od něj pěkné. No, budeme si tu mazat med kolem hub?_
+
+/Rozhodně ne./
+
+_Tak to budu já, že?_
+
+/A co takhle si střihnout./
+
+...
+
+/No, tak já jsem důležitější./
+
+Random otázka dne
+
+*Pane Rychnovský, vy jste důležitější, položte tedy prosím paní Kolářové tu nejnáhodnější otázku, která vás napadne. Kolářová ji zodpoví.*
+
+/Je pravděpodobné, že ježci preferují kaktusy, protože mají bodliny stejně jako oni?/
+
+_Já si myslím, že je to naopak. Že protiklady se přitahují._
+
+Rychlá střelba
+
+*Normálně byste měli srdm vteřin na odpověď, ale teď to trochu změníme. Kdo odpoví jako první, toho odpověď bude zaznamenána a vysílána. Ten druhý bude mít méně publicity.*
+
+*Bojíte se o své zdraví?*
+
+/Ne./
+
+*Proč máte potřebu unést všechny ty kantory?*
+
+_Já žádne kantory neunášim._
+
+*Jakou zásluhu má Rotreklová /skutečně/ na výhře u Nového Dilí?*
+
+/Těžko říct. Já v tu doby ještě byl v lese... No, to jsem tu otázku mohl nechat paní Kolářové, že?/
+
+*Vaše věda je důležitější, protože...?*
+
+/Protože bez mého předmětu byste se v lese otrávili, přišli byste k očnímu místo zubaře a také vám poradím, jak se dělá králík na smetaně. A to se v matematice také nedozvíte./
+
+*Čím nejčastěji podporujere své studenty?*
+
+_Vlídným přístupem._
+
+Korespondence
+
+*Máme zde dopis.*
+
+*Paní Zemánková,*
+
+*...... /Zde musím poznamenat, že jsme měli v úmyslu pozvat paní Zemánkovou. Tu ale někdo unesl, což nás v Monte Karlos rozhodně nezastraší/?*
+
+*Vysvětlete prosím mně a mým kolegům v jazykovém ústavu...*
+
+*...... /Opět, otázka byla míněna pro paní Zemánkovou, učitelku jazyka/.*
+
+*...jak si můžete dovolit nechat všechna tato zmizení pokračovat.*
+
+*S úctou a potěšením,*
+
+*věrný podpůrce doktor Oberovský.*
+
+*Samozřejmě, otázka se poněkud nevyvedla, vzhledem k tomu, kde paní Zemánková skončila, ale já bych se teď zeptal vás, pane Rychnovský, jako prvního, protože se vám povedlo zodpovědět více otázek v rychlé střelbě. Jak /můžete/ nechat všechna tato zmizení pokračovat?*
+
+No, myslím, že se tím závod stává zajímavější. Rovněž se tím zbavuji, aniž bych něco dělal, svých konkurentů. Pravda, zmizel mi Šeiner. S tím bych měl něco dělat. Na druhou stranu jsem si vždy říkal, že by mě mohl zastínit v aréně. Kdo ví, co ten lyšák chystal s elektřinou.
+
+*A vy, paní Kolářová, svezte prosím svůj neúspěch ve vyšetřování na...*
+
+Jak víte, že jsem neúspěšná.
+
+*Máte důkazy? Nápady? Podezřelné?*
+
+Mám nahrávky. Nedávno jsem se napojila na kamerový systém... Ale proč to říkám, akorát nahrávám nepříteli.
+
+Závěrečný proslov
+
+Střídejte se prosím v sestavování vzkazu pro své vystrašené voliče a hlavně sponzory a vysvětlete jim, že všechno je v pořádku ohledně mizení ostatních učitelů, že se nic neděje a situaci máte pod kontrolou. Střídejte se prosím po každých čtyřech slovech.
+
+/Není třeba se bát/ _protože mi máme vše_ /pevně v rukou a/ _právě pracujeme na odhalení_ /toho, kdo za tím/ _vším stojí. A pevně_ /věříme, že se nám/ _podaří najít zmizelé kolegy._
 #+ODT: </text:section>
 ** Hodnocení odborníka                                                  :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
+Já se  vás na něco  zeptám. Proč,  pro boha živého  proč, mě nutítě  dělat tohle
+znova? Copak  jsem si  neužila těch  muk dost?  Copak jsem  už netrpěla  víc než
+hladová ještěrka v obléhaném Petrohradě? Copak  už jsem ze sebe nevydala víc než
+studený otoman z břicha titánova? A ještě mě to nutí dělat dvakrát!!!
 
+Karlos si  tentokrát pozval /dva/ učitele  najednou. Kde na ty  nápady chodí, to
+opravdu netuším a  tušit to nechci, ještě  bych to mohla chytit  taky. On zřejmě
+využívá mé nepřítomnosti a dělá, co ho napadne.
+
+V našem businessu je takové pořekadlo. Já  si ho nepamatuji, ale říká něco v tom
+smyslu, že když hodíte žralokovi kozu, tak ji sežere, ale když hodíte kozu dvěma
+žralokům, sežerou  se navzájem. Koza se  utopí a vám nezbyl  ani jeden mazlíček.
+Tak nějak bych to viděla s pozváním dvou učitelů.
+
+Karlos měl  ale štěstí větší  než poloměr třikrát zvětšeného  obvodu dvojnásobně
+nafouknuté  vlaštovky  ve tvaru  koule,  protože  si  zrovna pozval  ty  nejméně
+konfliktní kantory,  které měl k dispozici.  Z toho sice plyne  relativně klidná
+atmosféra, ale nudnější než žíznivý  výhled na rozpálený saharský horizont. Když
+už nic jiného, tak aspoň pozvu někoho, kdo tomu dodá drama, ne? Rotreklová by se
+mohla  hádat, jestli  vyhrála  válku,  nebo Lajdová,  ať  by  dělal, co  chtěla,
+nedopadlo by to dobře. Ale to Karlos neeeee. On pozve tyhle dva břídili.
+
+Jednou už jsem se k nim vyjádřila, tak se pojďme podívat, jak se zlepšili.
+
+Málo. Zlepšili se málo.  Skoro vůbec, řekla bych. A řeknu.  Už sem řekla. Karlos
+jim ve  své nekonečné moudrosti[fn:1] dá  možnost prodrat se v  očich veřejnosti
+nad toho druhého a co oni? Co!? Střihnou si. Já vám střihnu, vy cházko neschopná!
+
+Proč  se  nechopí  příležitosti  a  nezaútočí jeden  na  druhého  ani  v  jiných
+situacích, to nevím. Snažím se na to přijít,  opravdu se snažím, až mi z bot pot
+teče,  ale nevím.  Vždyď to  dá rozum,  ne? Vidím  protivníka, jsem  v televizi,
+napadnu ho.  Jak jinak chtějí  vyhrát? Aaaa... chtějí  se spojit. To  jim dlouho
+nevydrží, to  se vsadím.  Spojit se  se svým  tak vysoce  postaveným protivníkem
+takto hluboko  v závodě  bez plánu,  jak ho  později zradit  (dívám se  na tebe,
+Rychno), to je stupidnější, než míchat  do těsta na palačinky cement s domněním,
+že tak  zůstanou pohromadě. Bude  to fungovat, dokud s  tím neuděláte, co  s tím
+udělat chcete.
+
+Jako pardon, ale oni  jsou na sebe moc hodný. To jsem říkala  minule, když k nám
+Rychňák zavítal,  a říkám to  znova. On  má menší ponětí  o politice než  husa o
+Karlštejně, kdyby  ji praštili po  hlavě dřevěným  kartáčem na body,  odvezli do
+Nigérie, přeučili na praváka a zakázali jí myslet na Karla Gotta. A Kolářová. To
+je inteligentní člověk. Škoda, že té inteligence nevyužije.
+
+Ale co se  dá dělat? S trochou  štěstí za chvíli oba  zmizí a už se  o ně nebudu
+muset starat.
+
+Tak zase někdy, co? S kym mě asi budou mučit příště...
 #+ODT: </text:section>
 * Korespondent - 
 * Lifestyle
@@ -542,4 +777,8 @@ Teď musíme jednat rychle. A hlavě  nenápadně. Nikdo nesmí naznačit, že v
 je pachatel,  nebo se Kubešová  lekne a  uteče. Takže samozřejmě,  jak zatraceně
 jinak, Malá vystoupí na veřejnost a sdělí, že  ví, kdo je pachatel, a že to musí
 lidem říct, než uteče. Do háje■
+
 * Poznámky
+
+[fn:1] Čtenáři nemohou slyšet ten těžký sarkasmus v tóně paní Kupé. Škoda.
+
