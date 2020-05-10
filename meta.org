@@ -85,6 +85,7 @@ Zmizela tunelem z bunrku.
 Zmizel tunelem z bunrku.
 **** Lysák
 Odjel zkontrolovat tělocvičnu a už se nevrátil.
+A pak se vrátil. Nikdy nezmizel.
 *** Čísla
 **** [[file:materialy/faze%202/1%20-%201.4./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org][1.4.2020 - Opět zde a v plné síle]]
 - Natočeno <2020-02-22 Sat>
@@ -116,20 +117,21 @@ Odjel zkontrolovat tělocvičnu a už se nevrátil.
 - *Zmizelí*
   - /Mezi:/ Lysák
   - /Po:/   Jakešová, Zemánková, Král, Ebbe, Vývodová
-**** 31.5.2020
+**** [[file:materialy/faze%202/5%20-%2031.5/L%C5%BEi%20pod%20hradbami.org][31.5.2020 - Lži pod hradbami]]
 - Natočeno <2020-05-09 Sat>
-- *Host* 
+- *Host* Kolářová, Rychnovský
 - *Vyšetřování*
-  Část čtvrtá: 
+  Část čtvrtá: [[file:materialy/faze%202/5%20-%2031.5/L%C5%BEi%20pod%20hradbami.org::*_%C4%8C%C3%A1st%20%C4%8Dtvrt%C3%A1:%20%C5%A0peh_][Špeh]]
 - *Zmizelí*
-  - /Mezi:/ 
-  - /Po:/   
+  - /Mezi:/ --------
+  - /Po:/   Kolářová
 **** 2.6.2020 FINÁLE
 - Natočeno <2020-05-23 Sat>
-- *Host:* 
+- *Host:* Malá (znovu)
 - *Vyšetřování*
   Část pátá: 
 - *Zmizelí*
+  Nejsou.
 ** Šeiner X ???????
 Thriller
 ** Zemánková X ????????

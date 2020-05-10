@@ -52,7 +52,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 #+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
-#+SUBTITLE: 
+#+SUBTITLE: Lži pod hradbami
 Vítejte v Monte Karlos, 
 #+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
 * 2/2019
@@ -612,7 +612,7 @@ Kolářová
 - Její názory na sourdžnost jsou a) protichůdné únosům; nebo b) chytrá přetvářka
 - Zbavila se Havella. Dokázala by se stejně zbavit ostatních?
 - Slyšela Rotreklouvou *a* chyběla na hádce.
-** _Část čtvrtá: Odhalení_
+** _Část čtvrtá: Špeh_
 *** 18.5.2020
 Sedim  ve stínu  za plexisklem  v místním  nemocničním komplexu  většim než  muj
 městskej blok. Zaměstnanejch je tu víc lidí než hladovejch dětí v Africe. Kde na
