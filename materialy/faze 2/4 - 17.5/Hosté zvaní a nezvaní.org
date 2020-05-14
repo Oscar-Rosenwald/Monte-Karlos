@@ -511,7 +511,7 @@ Třeba to, že jsem v první dvacítce a oni ne.
 *** Random otázka dne
 *Z jaké části těla by lidstvo nejvíce profitovalo, kdyby byla teleskopická?*
 
-Ruka.
+Oko.
 *** Rychlá střelba
 *Co je váš zatím nejoblíbenější moment závodu?*
 
@@ -563,15 +563,14 @@ Já to taky všechno vím, L.
 *Závěrečným proslovem zodpovězte následující otázku: What do you usually have*
 *for breakfast?*
 
-I usually have continental breakfast. Some cereal with milk, then tost with
+I usually  have continental breakfast.  Some cereal  with milk, then  toast with
 marmalade. Eggs, sandwich, beans, of course, and a bowl of rice. I like a lot of
 cheese. I usually drink coffee. With each of the things I mentioned.
 
 *Is that all?*
 
-It usually is, but when I feel very hungry, I also take some strawberry ice
+It usually  is, but when  I feel  very hungry, I  also take some  strawberry ice
 cream.
-
 #+ODT: </text:section>
 ** Hodnocení odborníka                                                  :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
@@ -580,7 +579,8 @@ Rotreklová. Rotreklová, Rotreklová, Rotreklová.
 Rotreklová.
 
 No, řeknu to  asi takhle. Když si  přeje slona míti, nenechme  se lepit pomádou.
-Bedlivým  zkoumáním  jejích   odpovědí  na  Karlosovy  otázky   jsem  dospěla  k puňtičkářsky  sestavenému  názoru  několikrát   prověřenému,  že  Rotreklová  je
+Bedlivým   zkoumáním  jejích   odpovědí   na  Karlosovy   otázky  jsem   dospěla
+k puňtičkářsky  sestavenému  názoru  několikrát prověřenému,  že  Rotreklová  je
 medikálně  řečeno a  se  vší taktností  úplně  mimo. Ne  tak  mimo jako  řekněme
 Pálkovská, ale  dvanáct palců nebo dvanáct  metrů, trefit se mimo  terč je pořád
 stejné. A Rotreklová ten terč ani nevidí.
@@ -592,16 +592,17 @@ Mně se nezdá.
 
 Schazovat své  protivníky a jejich  smysl sebehodnoty, to jí  schvaluji. Ostatní
 tají  učení  přes   internet,  Rychovský  neopravuje  své   úkoly,  Větší  pětka
-(pravděpodobně s výjimkou  naší Rotreklové) se bála, a nevystoupila  z paktu jen
+(pravděpodobně s výjimkou  naší Rotreklové) se  bála a nevystoupila  z paktu jen
 protože by to vypadalo blbě. Zde je vše v pořádku. Kde to ale v pořádku není, je
 všude jinde.
 
 Takového necharismatického lenochoda  aby kapr pohledal. Už jsem  to jednou nebo
 dvakrát řekla,  ale když nemám, co  říct, tak si něco  /s a k r a/ vymyslim, ne?
-Ptát se  Karlose, jestli si  myslí, že angličtina je  bojové umění... Já  toho o angličtině vím míň než racek o Berlíně,  ale o politice toho vím spoustu. Nikdy,
-to  si  už  můžou  ty   učitelé  zapamatovat,  /nikdy/  nepodkopávejte  autoritu
+Ptát  se Karlose,  jestli si  myslí, že  angličtina je  bojové umění...  Já toho
+o angličtině  vím míň  než racek  o Berlíně,  ale o politice  toho vím  spoustu.
+Nikdy, to  si už můžou  ty učitelé zapamatovat, /nikdy/  nepodkopávejte autoritu
 interviewera. Působíte  pak, jako byste chtěli  něco skrývat, nehledě na  to, že
-rozhovory s vámi nebudou  nikdy zajímavé.  A jak už  jsem rovněž  jednou řekla,
+rozhovory s vámi  nebudou nikdy  zajímavé. A  jak už  jsem rovněž  jednou řekla,
 veřejná image a oblíbenost je pro vás všechno. Všechno!
 
 Co je její  plán na získání sponzorů? Ano,  to je správně - říct  pravdu. Jak si
@@ -612,7 +613,7 @@ není procházka solnými pláněmi severního tuzemska, TOHLE JE VÁLKA!
 
 ...[fn:5]
 
-Máme  zde nějaké  stanradní nezajímavosti.  Odpovídá doslovně  a nudně  (/Ruka?/
+Máme  zde nějaké  stanradní  nezajímavosti. Odpovídá  doslovně  a nudně  (/Oko?/
 Pche!), nepříjemným otázkám  se vyhýbá (/Kde se dá/...  Ano, děkujeme mnohokrát,
 tos nám sakra pomohla.) a někdy neodpoví vůbec.
 
