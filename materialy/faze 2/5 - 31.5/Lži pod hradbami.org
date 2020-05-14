@@ -53,7 +53,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
 #+SUBTITLE: Lži pod hradbami
-Vítejte v Monte Karlos, 
+Vítejte v Monte Karlos, zhmotněné odpovědi příkladem na otázku „Jde to lépe?“
 #+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
 * 2/2019
 Ročník XXVIIII
@@ -611,7 +611,7 @@ večírcích u moře.
 Začali jsme  v Americe, tam  také skončíme.  Motorka je novodobý  stejnokroj pro
 mládež,  hlavně na  západním pobřeží.  Vyžaduje jisté  fyzické předpoklady,  ale
 máte-li  je, nemůžete  si vybrat  lepší  styl, chcete-li  zapadnout mezi  dnešní
-mládež.
+omladinu.
 * Vyšetřování
 ** Podezřelí
 Kubešová
