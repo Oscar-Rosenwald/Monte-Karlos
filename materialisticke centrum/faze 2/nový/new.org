@@ -1,0 +1,327 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local default-justification 'full); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
+</style:style>
+
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
+# tags		Toggle inclusion of tags
+# '			Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+
+#+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: 
+Vítejte v Monte Karlos, 
+#+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
+* 2/2019
+Ročník XXVIIII
+
+*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:* EmailNoReply@server.mok
+
+*Zákaznická linka:* 0004 892 223 03E
+
+*Šéfredaktor:* Alžběta Ašelová
+
+*Manažer redakce:* Jiří b'Ačkora
+
+*Zástupce šéfredaktora:* Hobbo Habán
+
+*Fotograf:* Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:* Tara Kočí
+
+*Obrazová redakce:* Honza Kůň
+
+*Rozhovor:* Karlos Žebatý, Lubomír Lečko
+
+*Bylo nám ctí:* Olšana Kupé
+
+*Móda:* Šlapeboso Elle'Gante
+
+*Editoři:* Tentokrát nikdo
+
+*Nezvaný host:* Smrt
+
+*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:* Karlos Žebatý
+
+*Sociální poradce:* Lightningh Danger
+
+*Sociální podpora:* Anna Oleš
+
+*Inzerce:* Many Hrabal
+
+*E-shop:* nakupsisam.cz
+
+*Tiskne:* individuálně
+
+*Vyšetřovatel:* Sir Daniel Jonathan Pace
+
+*Rozšiřují:* google.com
+* Editorial                                                             :200:
+
+
+Alžběta Ašelová, šéfredaktor
+#+ODT: </text:section>
+* Zpověď Lubomíra Lečka
+* Závod
+#+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
+** Vývoj                                                                :400:
+Celý  učitelský svět  zatajil  dech,  když další  z  kantorů Dvaceti  statečných
+podlehl mocným silám jejich nepřítele. Mnozí  se ptají: „Jsme na řadě?“ A otázka
+je to  příhodná. Kdo  může říct,  kde se únosci  zastaví. Vystřídají  na vrcholu
+žebříčku Dvaceti  statečných všechny  kantory a  unesou je?  Kolik se  jich vzdá
+závodu ve strachu z unesení? A kolik jich zbyde?
+
+Paní  Kolářová byla  jenda z  populárnějších mezi  vrchní dvacítkou.  Nikoli jen
+bodově či podle pozice - byla oblíbená  kvůli své osobnosti, své starosti o žáky
+a  znalosti svého  předmětu. Zatímco  se  davy shromažďují  na velkých  námstích
+světa  - Václavském,  Trafalgarském, Times  Square, Rudém,  Karlosově a  mnohých
+dalších -  se svíčkami  v rukou  a žalozpěvy  na rtech,  ptá se  veřejnost svých
+nadřízených, kde mají hledat bezpečí.
+
+Avšak  bezpečí  nepřichází. Pan  Rychnovský  se  úspěšně  dostavil zpět  do  Der
+Weiderhohlle Flüsemschliessem,  kde se podrobil rozsáhlým  vyšetřením a následně
+chlebem, a hlásá do světa  zvýšenou opatrnost. Der Weiderhohlle Flüsemschliessem
+zvažuje kompletní uzavření svých bran pro nejen veřejnost, nýbrž i soukromost, a
+zbylí učitelé šeptají ve tmě „Kdo nám pomůže?“
+
+Mnozí  se  pokusili  zakročit.  Maskovaní  hrdinové  z  celého  světa,  mocní  a
+nepřemožitelní, se  vydali na cestu záchrany  světa a vrátili se  s nepořízenou,
+většinou o něco tlustší, chudší a méně  naivní. A je-li na světě takový, jenž by
+nám pomoci mohl, nenechal se znát a neukázal svou tvář. Snad ze skromnosti, snad
+ze strachu, snad v pochybách...
+
+Paní Malá, mysteriózně se objevujivše na  parhu Monte Karlos, prohlásila, že zná
+pachatelovu  identitu.  Karlos  Žebatý  chtěl ihned  vypustit  do  světa  zprávu
+podobného kalibru, avšak uvědomil si, že  s větši sledovaností bude mít odhalení
+pachatele větší dopad. Rozhodl se proto počkati jeden den, by masám šanci dal se
+připraviti na šok. Sám ale varuje,  že informace paní Malé nemusí být věrohodně.
+Vše prý se ukáže v rozhovoru.
+
+A mezitím  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. šílí. Ředitel odmítá  podat vysvětlení
+svých  selhání,  stejně  jako  brutálních zásahů  odnože  KKL,  která  denodenně
+zasahuje do  vývoje společnosti a  zavírá učitele  teď už za  pouhé zaměstnávání
+chův. Armádá chův je prý také armáda a s tímto motem přepadají jednotky KKL malé
+vesnické školy a oficiálně zbavují kantory členství v závodu.
+
+„Za jiných situací,“ tvrdí odborník anonym, „by  se dalo říci, že si někdo čistí
+konkurenci. Ale v těchto nejistých časech  pochybuji, že někdo má chuť starat se
+o jiné kantory.“ Monte Karlos Někdeník  s anonymem souhlasí, avšak dodává, že za
+poslední týden vyřadila  KKL přes pět set učitelů a  vyplatila téměř dva miliony
+amerických dolarů za úspěšně podané tipy na schovávající se armády.
+
+Že si ti učitelé nedají pokoj...
+** Postupy v žebříčku                                                   :400:
+Uběhly dva dny. Co čekáte, že se stane? Nějaká zásadní změna, nebo co? Schválně,
+když vás  to tak  zajímá, vyjmenujte mi  členy Dvaceti statečných?  Ha? A  to se
+vůbec neptám na pořadí.
+
+Všichni žijou?  To nestačí?  Zpívají si, tra  la la, skáčou  radostí na  hradě v
+Bavorsku a smějí se  vám, že o nich čtete. Změna v  pořadí nenastala, ale minule
+jsme vám taky nedali žebříček a nikomu to nevadilo. Tak co?
+
+Nikdo  nový nezmizel.  Rotreklová opustila  Der Weiderhohlle  Flüsemschliessem s
+povolením,  ale jinak  nic.  Nikde  nic. Ticho  po  pěšině.  Žádná aféra,  žádný
+skandál, žádný vývoj. Prostě nic.
+
+Co taky čekáte, za dva dny?
+#+ODT: </text:section>
+** Rozhovor - „“
+
+#+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
+*** Kampaň
+*** Rychlá střelba
+*** Korespondence
+*** Závěrečný proslov
+
+#+ODT: </text:section>
+* Zprávy                                                                :350:
+:news:
+Topic [fish in heating]
+Designing principle [new house; fish are a feature; we're selling]
+Random thing [this stuff is normal in Ukraine since 1976]
+Story [Housing agency struggling to sell the houses]
+Characters [salesmen, CEO]
+Voice [author eats fish]
+Logistics of story [public reaction; history of product;...]
+Quotes, vision, assessment
+:END:
+#+ODT: <text:section text:style-name="NormalSect" text:name="Zprávy">
+** Zpráva, jo?
+Takže... zprávy. Nějakou zprávu... Moment.
+
+/šustění papírů; přehrabování se v šuplíku; nadávání/
+
+Copak to  tu máme? Spontální  vznícení skříní v  Pákistánu... Muž tvrdí,  že byl
+pětkrát  za noc  unesen  mimozemšťany a  že  mu vymazali  pamněť,  takže si  nic
+nepamatuje...  Odbory okurek  v  Tesco obchodech  vyhlásili  stávku za  nevhodné
+zacházení...
+
+Takové hovadiny.
+
+/otevírání starých desek; vytahování založených dokumentů; nadávání/
+
+To se jim řekne, zprávy. Normálně máme dva týdny. Taaaady...
+
+Ruská modelka  tak přitažlivá, že přitahuje  lehké předměty v okolí...  Ale mojí
+poroznost, tu nepřitáhne...
+
+/hledání fotek; zírání na fotky; ticho/
+
+...tak pardon. Ale tohle je rodinný  časopis. Budík si nastavuje člověka, aby se
+vzbudil  včas...  Lůzr.  Co  tohle?  Parta  australských  teenagerů  surfuje  na
+rádiových vlnách přes Atlantik... To není špatné.
+
+Hele Jirko?! Co ty teenagery?!
+
+...
+
+Jasně. Já si to myslel.
+
+/šeptem/
+
+Vlez mi na záda.
+
+/hledání na internetu; projíždění seznamu.cz; zoufalství/
+
+Dva dny nám  na to dát... Co  se asi tak stane za  dva dny? A to  řikám dva, ale
+myslim  jeden.  Ten druhej  se  bude  grafikovat.  To  si nemůže  vymyslet  něco
+normálního, jednou pro změnu. Zatracenej Kar--
+
+/zaražení; ohlédnutí; strach/
+
+Nic jsem neřekl. Nic. Vůůůůůůůbec nic. Tak co tu máme...? Žena umlácena aktovkou
+jedovatého plynu.  Moc orientální.  Rapidní únik dvanitrotoluenu.  Moc morbidní.
+Čína vyžaduje použití tří  hůlek u stolů. To akorát vyvolá  paniku. Co takhle mi
+dát něco, s čím můžu pracovat?
+
+Ale to oni neeee.
+
+/kopnutí do stolu; prudké sundavání body; foukání na palec/
+
+Normálně nám trvá  týden, než vymyslíme, o  čem budeme psát, a  další to napsat.
+Ale to není potřeba,  evidentně. Den. A co my? Jasně...  není problém... dáme se
+do toho. Ach jo.
+
+Aspoň jednou bych to chtěl normální. Jako  třeba den... Nebo jenom půl dne běžný
+práce. Je toho tolik? Člověk začne u kamery, tam mu před očima unesou Adele. Tak
+se dá do řízení vrtulníku a kam ho  pošlou? Do Nového Dilí. Do války s velkým K.
+Dá se do psaní.  Jde mu to skvěle. Přesunou ho na třetí  patro... Tam ho napadne
+zákeřná sabotáž  karavanů, málem se  utopí, a velký  K ho označí  za přijatelnou
+válečnou oběť. Tři týdny v komatu. Probudí se.  A hned po něm chtějí, aby se dal
+do vyšetřování nějakých zmizení v Der Weider-bůhví co.
+
+No tak  si člověk  řekne co  se dá dělat.  Nechá se  přesunout na  běžný zprávy.
+Chvíli to jde  bez potíží... Rostoucí kostely tady, věštba  sem nebo tam, národy
+bojují o  jídlo. Člověk  si řekne,  že mu  to konečně  jde. A  pak mu  příjde do
+kanceláře dopis. Den. /Jeden/ den.
+
+Ale co naděláme?
+
+/šustění; přebírání; hrabání se/
+
+Gumové kachničky na drogách. Moc normální, to pokreje Mladá Fronta. Radioaktivní
+květiny  -  to už  tu  bylo.  Možné  odkrytí  nelegálních úplatků  pro  sluneční
+paprsky... To si  necháme, až se z  toho něco vyklube. Přesně proto  nám to trvá
+tak dlouho. Počkáme si, co se z toho vyklube. Co se asi stihne vyklubat za den?
+
+/stoupnutí; přecházení po pokoji; lamentování/
+
+Ale práce je práce, že? Co nadělám?  Co takhle si něco vymyslet? Stejně to nikdo
+nepozná. Závřete laskavě ty dvěře! Je tu průvan!
+
+/zamyšlení; pohled zpět; kroucení hlavou/
+
+Kdo to vůbec byl? Něco za sebou táhl - nějakou bednu. Nevím.
+
+/hlasitý potlesk zezdola/
+
+Jasně. Velký K  už začal svůj rozhovor. Nějaká velká  Malá... Dneska se nahrává,
+zítra to vyjde. Už se teším... Ty dveře, řekl jsem!
+
+/zamyšlení; pokrčení ramen; mávnutí ruky/
+
+Asi ochranka.  Nikdo jiný v  uniformách nechodí. A Někdeník  se může bát  o únos
+učitele. Ale proč jsou na toto patře?
+
+Tak se  do toho dáme,  ne? O  čem by to  bylo... Královská rodina.  Jo, královna
+Alžběta se chystá  prodat Británii. Řekněme Rasputinovi. To  zní správně šíleně.
+Co kdybyste si chodili někde jinde?! Tady se pracuje!
+
+/neohlédnutí; neměnění pozice; kroucení hlavou/
+
+Návštěvníci... Takže, Rasputin kupuje Velkou Británii a třeba Wales proti tomu
+protestuje. Z principu. Tak, to zní Někdeníkově.
+
+/poslouchání; vyrušení; hněv/
+
+Co  je zase  tohle? Ty  tam! Můžeš  toho  nechat?! Nevím,  s čím  tam na  chodbě
+pracuješ, ale nech toho! Strašně to píská! Počkej... Jestli s tim přijdedeš sem,
+já ti ukážu.
+
+A  co takhle  přidat nějakou  aféru? Poměr  sem, pomět  tam, to  čtenáře vždycky
+nadchne. Ano, Alžběta má aféru s Rasputinem - ne! Moc jednoduchý. Princ Filip má
+aféru s Rasputinem. To je ono. A ještě by to chtělo--
+
+/výbuch/
+#+ODT: </text:section>
+* Lifestyle
+Módní sekce Monte Karlos Někdeníku vám přináší 
+
+* Vyšetřování
+** Dokumenty
+** _Část první: Nepřítel za branami_
+=„A je-li na světě  takový, jenž by nám pomoci mohl, nenechal  se znát a neukázal
+svou tvář. Snad ze skromnosti, snad ze strachu, snad v pochybách...“=
+*** 
+* Hodnocení odborníka                                                   :350:
+#+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
+
+#+ODT: </text:section>
+* Poznámky
