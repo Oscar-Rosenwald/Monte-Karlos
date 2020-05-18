@@ -18,6 +18,8 @@ Mlčokoutek - věci o Totismu v Někdeníku
 - [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*Oran%C5%BEov%C3%A1%20okupace][Oranžová okupace]]
 - [[file:A11.17./Neklid%20p%C5%99ed%20bou%C5%99%C3%AD.org::*Krev,%20pot%20a%20krev][Krev, pot a krev]]
 - [[file:A12.7./V%C3%BDhru%C5%BEky%20dan%C3%A9,%20v%C3%BDhru%C5%BEky%20spln%C4%9Bn%C3%A9.org::*%E2%80%9E...jist%C3%A1%20smrt...nepatrn%C3%A1%20nad%C4%9Bje%20na%20%C3%BAsp%C4%9Bch...%E2%80%9C][„...jistá smrt...nepatrná naděje na úspěch...“]]
+*** Otomar Skučelý (světová ekonomika)
+- [[file:materialisticke%20centrum/faze%202/5%20-%2031.5/L%C5%BEi%20pod%20hradbami.org::*T%C5%99et%C3%AD%20sv%C4%9Btov%C3%A1][Třetí světová]]
 *** Andrew McTallas (Americká kultura)
 - [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*Small-town%20Funk][Small-town Funk]]
 - [[file:A10.26./%C4%8Casy%20se%20m%C5%88e%C5%88%C3%AD.org::*HTBBB%20Club,%20Mayami][HTBBB Club, Mayami]]
@@ -37,7 +39,7 @@ Mlčokoutek - věci o Totismu v Někdeníku
 - [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Adrift][Adrift]]
 *** Kapilár del Maare (botanika)
 - [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Rok%20Trifid%C5%AF][Rok Trifidů]]
-*** Teodor Buřinovský (ekonomika)
+*** Teodor Buřinovský (housing)
 - [[file:materialy/faze%202/nov%C3%BD/new.org::*Z%C3%A1chrana%20ohro%C5%BEen%C3%BDch%20druh%C5%AF][Záchrana ohrožených druhů]]
 *** Sancho Panzam (západní a střední Evropa)
 - [[file:materialy/faze%202/nov%C3%BD/new.org::*%C5%A0pan%C4%9Blsk%C3%A1%20mutace][Španělská mutace]]
