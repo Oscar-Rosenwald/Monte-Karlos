@@ -82,7 +82,7 @@ Ročník XXVIIII
 
 *Móda:* Šlapeboso Elle'Gante
 
-*Editoři:* Tentokrát nikdo
+*Editoři:* Neptejte se
 
 *Nezvaný host:* Smrt
 
@@ -92,7 +92,7 @@ Ročník XXVIIII
 
 *Sociální poradce:* Lightningh Danger
 
-*Sociální podpora:* Anna Oleš
+*Sociální podpora:* Anna Oleš (má plno - objednat předem)
 
 *Inzerce:* Many Hrabal
 
@@ -108,19 +108,30 @@ Ročník XXVIIII
 
 Alžběta Ašelová, šéfredaktor
 #+ODT: </text:section>
-* Zpověď Lubomíra Lečka
-* Závod
+* Vyšetřování - Pachatel
+Kubešová
+- Předstírala, že je špeh - počkala si na Horákovou za hradbami
+- Chyběla na hádce; věděla, že sir Pace vyšetřuje ÚDN a SNP
+- Odmítla očkování - věděla o sledovacích zařízeních?
+- Utekla z DWF
+- Asi se schovává u sebe doma/ve svém starém sídle
+- Nikdy nebyla tak populární - motiv?
+- Z  Oslovou se  spojila  z  nutnosti -  časem  by ji  unesli,  nebo  by je  ona
+  zlikvidovala
+- Nechala unést  Kolářovou, která musela vědět,  že nebyla špeh -  naštěstí máme
+  Rotreklovou, která to ví
+- Zatraceně, to dává smysl
+* Závod - Vývoj                                                         :400:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
-** Vývoj                                                                :400:
 Celý  učitelský svět  zatajil  dech,  když další  z  kantorů Dvaceti  statečných
 podlehl mocným silám jejich nepřítele. Mnozí  se ptají: „Jsme na řadě?“ A otázka
 je to  příhodná. Kdo  může říct,  kde se únosci  zastaví. Vystřídají  na vrcholu
 žebříčku Dvaceti  statečných všechny  kantory a  unesou je?  Kolik se  jich vzdá
-závodu ve strachu z unesení? A kolik jich zbyde?
+závodu ve strachu z unesení? A kolik jich zbude?
 
-Paní  Kolářová byla  jenda z  populárnějších mezi  vrchní dvacítkou.  Nikoli jen
+Paní  Kolářová byla  jedna z  populárnějších mezi  vrchní dvacítkou.  Nikoli jen
 bodově či podle pozice - byla oblíbená  kvůli své osobnosti, své starosti o žáky
-a  znalosti svého  předmětu. Zatímco  se  davy shromažďují  na velkých  námstích
+a  znalosti svého  předmětu. Zatímco  se davy  shromažďují na  velkých náměstích
 světa  - Václavském,  Trafalgarském, Times  Square, Rudém,  Karlosově a  mnohých
 dalších -  se svíčkami  v rukou  a žalozpěvy  na rtech,  ptá se  veřejnost svých
 nadřízených, kde mají hledat bezpečí.
@@ -137,27 +148,173 @@ většinou o něco tlustší, chudší a méně  naivní. A je-li na světě tak
 nám pomoci mohl, nenechal se znát a neukázal svou tvář. Snad ze skromnosti, snad
 ze strachu, snad v pochybách...
 
-Paní Malá, mysteriózně se objevujivše na  parhu Monte Karlos, prohlásila, že zná
+Paní Malá, mysteriózně se objevujivše na  prahu Monte Karlos, prohlásila, že zná
 pachatelovu  identitu.  Karlos  Žebatý  chtěl ihned  vypustit  do  světa  zprávu
-podobného kalibru, avšak uvědomil si, že  s větši sledovaností bude mít odhalení
+podobného kalibru, avšak uvědomil si, že  s větší sledovaností bude mít odhalení
 pachatele větší dopad. Rozhodl se proto počkati jeden den, by masám šanci dal se
 připraviti na šok. Sám ale varuje,  že informace paní Malé nemusí být věrohodně.
 Vše prý se ukáže v rozhovoru.
 
 A mezitím  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. šílí. Ředitel odmítá  podat vysvětlení
-svých  selhání,  stejně  jako  brutálních zásahů  odnože  KKL,  která  denodenně
+svých  selhání,  stejně jako  brutálních  zásahů  odnože KKL,  která  dennodenně
 zasahuje do  vývoje společnosti a  zavírá učitele  teď už za  pouhé zaměstnávání
-chův. Armádá chův je prý také armáda a s tímto motem přepadají jednotky KKL malé
+chův. Armáda chův je prý také armáda a s tímto motem přepadají jednotky KKL malé
 vesnické školy a oficiálně zbavují kantory členství v závodu.
 
 „Za jiných situací,“ tvrdí odborník anonym, „by  se dalo říci, že si někdo čistí
-konkurenci. Ale v těchto nejistých časech  pochybuji, že někdo má chuť starat se
-o jiné kantory.“ Monte Karlos Někdeník  s anonymem souhlasí, avšak dodává, že za
-poslední týden vyřadila  KKL přes pět set učitelů a  vyplatila téměř dva miliony
-amerických dolarů za úspěšně podané tipy na schovávající se armády.
+konkurenci. Ale v  těchto nejistých časech pochybuji, že je  moudré dopouštět se
+takových  výroků. Co  kdyby byly  pravdivé?“  Monte Karlos  Někdeník s  anonymem
+souhlasí, avšak dodává, že za poslední týden vyřadila KKL přes pět set učitelů a
+vyplatila  téměř  dva  miliony  amerických  dolarů za  úspěšně  podané  tipy  na
+schovávající se armády.
 
 Že si ti učitelé nedají pokoj...
-** Postupy v žebříčku                                                   :400:
+#+ODT: </text:section>
+* Vyšetřování - _Část čtvrtá: Dopisy_
+=„A je-li na světě  takový, jenž by nám pomoci mohl, nenechal  se znát a neukázal
+svou tvář. Snad ze skromnosti, snad ze strachu, snad v pochybách...“=
+** *31.5. - 11:00:*
+Do /háje/ zelenýho! Člověk se na to  může vykašlat. V jednu chvílí si tak sedíš,
+houpeš nohama nad třicet metrů širokym  kaňonem, protože nějakej učitel si někde
+usmyslel, že  chce kaňon ve  svym sídle  - skutečně inteligentní  skupina, tihle
+učitelé - a  řikáš si, jak skvěle  ti to de. Stavíš  domeček z karet a  už už si
+překonal světovej rekord. Hurá!
+
+A pak se jedna karta rozhodne, že na tebe kašle, plivne si do dlaní, protáhne si
+ruce a  podkopne svojí sousedce  nohu. Pak  si domluví interview  v mezinárodním
+televizním  pořadu, kde  všem řekne,  cos celou  dobu dělal,  a Kubešová  ti pak
+zdrhne  do zahraničí,  ne-li do  jiný dimenze,  a všechno  je v  háji. Zatracená
+karta.
+
+Moje máma mi řikala, že mam tendenci měnit podtext v... text. Hm.
+
+Celou  noc se  snažim spojit  se s  Malou. Volal  sem, kouřovejma  signálama sem
+ztrácel čas, na mail  sem jí psal, do mušle, co sem  koupil v turistickym stánku
+támhle na konci ulice  (tady, kam nikdo nesmí, a v  karanténě... Musej mít obrat
+jako prase.), a nic.
+
+Karlos ji  hlídá, aby ji nikdo  neunesl. Odříznutá od okolního  světa, od svejch
+blízkejch a svejch sponzorů a voličů. Sem zvědavej, jestli si někdo všimne.
+
+No nic, no. Du zkusit vmeditovat se na její telepatickou vlnu.
+** *31.5. - 12:30:*
+Rotreklová přinesla  zprávy. Stál  sem na  jedný ruce  na vrcholu  nejvyšší věže
+zdejší kopije Tádž Mahalu, jenom pro případ, že to nějak pomůže. Nepomohlo.
+
+Kubešou viděli  u ní  v sídle.  Je to velkej  prostor, tahle  Betroitsch l'Elnka
+Seneda. Spoustu místa na schování učitelů. Nevychází. Zabarikádovala se vevnitř.
+Normálně bych na ně nadával, na tu zatracenou, vtíravou, neschopnou, podplacenou
+pakáž  novinářskou,  ale  tentokrát  se hodí.  Jakmile  dostaneme  povolení  pro
+Rotreklovou  k opuštění  DWF a  nějaký nájemný  vrahy nebo  něco takovýho  (Něco
+seženu - mam známosti, ne? Co asi  dělá muj strejda...?), pojedeme tam a ukážeme
+všem těm novinářům, kdo je únosce.
+
+Nemůžu se  dočkat. Tři měsíce  se tu plahočit  jako pitomec v  tomhle maskovacim
+brnění  a  make-upu,  natřenej  kamerám  neviditelnou  vazelínou,  to  člověka
+vyčerpá, i kdyby to nebyl jeho poslední případ. Ale von je.
+
+Co udělám jako první,  až s tim skončim? Až dostanu peníze  od Ašelový a zamávám
+Karlosovi sbohem? Ponořim se na dva dny do vany. S bublinkama. A pizzou.
+
+Co udělám jako druhý? Hm... Asi si sundám to zatracený brnění.
+** *31.5. - 15:00:*
+/Vážený pane Sire,/ (To si ze mně vopravdu děláte srandu, že jo?)
+
+/Dostala jsem ty informace o převodech  závodních bodů, jak jsme se domluvili. A
+řeknu vám, odfoukne fám to čepici jako raketový pohon volavku./
+
+/Musíme se sejít. Nemůžu to psát, někdo mě  sleduje./
+
+/Napište, kdy a kde se potkáme. Brzy./
+
+/K/
+
+No... Pozdě, ale přece...
+** *31.5. - 21:40:*
+Tak sem  dopsal odpověď. Tak mi  to trvalo sedm  hodin, no! Nejsem tak  dobrej v
+psaní... Omeletu zase stihnu uvařit dřív než Gordon Ramsay! Zblázněte se z toho.
+
+/Teď nemůžeme. Za chvíli se pustíme do přepadení jednoho špeha nešpaha./
+
+/Promluvíme si potom, dodáte nám důkazy u soudu./
+
+/Já/
+
+Házim dopis do vodovodní trubky. Celý  je to tu vyhřívaný rybama. Nějaká moderní
+vymoženost z východu. Nevim,  jakou dohodu s nima Kupé má,  ale přinesli mi její
+dopis, přinesou i muj k ní.
+** *1.6. - 9:00:*
+Sešli sme se  s Rotreklovou u mě  v pracovně. Stůl je rozházenej  jako vojáci na
+minovym  poli. Trochu  víc, uvědomim  si,  když si  vzpomenu na  svojí kampaň  v
+Mongolsku. Někdo se  mi hrabal ve věcech.  Ale... Něco si uvědomim.  To je něco!
+Zatraceně! Ale co?. Dneska je všechny seberem.
+
+"Dneska je  všechny seberem," řikám  jí. Originalita  sama, to sem  já. Studnice
+nápadů.
+
+"Co se tu dělo?" ukazuje na muj stůl.
+
+"Dostal sem  záchvat /asystemitýdy/." Ale jo,  někdy mam dobrej nápad,  sem tam.
+"Musíme  si  promluvit o  dnešku."  Kynu  na  nedalekou pohovku  (žraločí  kůže,
+vydělaná, s vyřezávanejma nohama ze slonoviny; pane Bože, proč mě trestáš?!).
+
+"Dneska má Malá rozhovor. Musíme jednat..."
+** *1.6. - 12:00:*
+Tak sme se  domluvili. Nemáme čas a  musíme jednat. Malá bude až  do rozhovoru v
+bezpečí. Někdo musí jet  do Monte Karlos a dohlídnout na  ní. Trochu velká Malá,
+na moje gusto.
+
+Někdo taky  musí jet ke Kubešový  a osvobodit ty kantory.  Rotreklová už dostala
+povolení,  na dva  dny, ale  armádu jí  jen tak  nepovolej. Jenomže  my nemůžeme
+čekat. Pojede  do Betroitsch  l'Elnka Seneda nelegálně,  budeme doufat,  že KKL,
+odnož  Mezinárodního Úřadu  kontrolující absenci  armád v  zaměstnání učitelů  v
+závodě, bude shovívavá. A když ne, řeknu jim, že sem Rotreklový lhal a zfalšoval
+sem nějakej dokument. Jakýmkoli dokumentem budou mávat, že ho Rotreklová neměla,
+takovej já zfalšuju.
+
+Já  zatim pojedu  do  Monte Karlos.  Naopak  to  nepude -  ke  Kubešový se  musí
+probojovat a  já zvládnu  přeprat jenom polovinu  pětitisícový armády,  která se
+shromažďuje na Čas pomsty v hlubinách SNP. Celou nedám.
+
+Furt nevíme,  co je Čas pomsty,  ale visí to  na internetu od Oslový  už nějakou
+dobu, takže to bude důležitý.
+** *1.6. - 13:30:*
+/Měnim plán.  Potkáme se dneska.  Uprostřed rozhovoru. Pomůžete  mi přistihnout/
+/pachatele při činu./
+
+Oslovou nemůžeme spojit se zmizením, protože učitelé nejsou na jejich pozemcích.
+Využila  svýho učitelskýho  špeha  a  schovala je  tam.  Takže  jí budeme  muset
+přistihnout při  činu. A  Malá tvrdí,  že zná totožnost  pachatele, takže  po ní
+Oslová pude, jakmile se objeví.
+
+Házim krátkej dopis do umyvadla a doufám,  že to maj ty ryby nějak zařízený. Pak
+tam hodim i  ty dva další dopisy, co  sem napsal, a zatraceně doufám,  že to maj
+fakt dobře zařízený.
+** *1.6. - 14:10:*
+Rotreklová  odjíždí.  Za  hradbama,  mimo  kamery, na  ní  čeká  moje  zakoupená
+jednotka. Zaplatil sem za ní jejíma penězma, použil její email, podepsal smlouvy
+jejim ménem, instruoval sem  je, jako bych byl ona, takže  nebudou čekat mě, ale
+jí.
+
+Jak řikám, moje armáda.
+** *1.6. - 14:11:*
+Odcházim. Tak dlouho sem strávil tady  v týhle bezedný díře vrcholu vymožeností,
+na špičce  civilizace a  mezi lídry  budoucnosti, že se  mi z  toho zvedá  muj v
+Jugoslávii vyoperovanej žaludek.
+
+Když odjela Rotreklová, sbalil  sem se a vyrazil. Trvalo mi to  dvě sekundy - už
+sem jednou řikal, mam tu jenom kartáček. Bude se mi stejskat po tom bojleru. Ale
+po ničem jinym.
+
+Vycházim z  hlavní brány. Dostat  se dovnitř  byla fuška a  podruhý se mi  to už
+nepovede. Skoro mam chuť se otočit a naposledy se podivat na tu bezednou propast
+přepychu ve vlně melanasvhvio jvůowic ůůj\;ěš)\§a)a\\((!....`
+
+AU!!!!! Za-tra-/ce/-ná zeď!!!
+
+/Poznamka pro sebe: nepiš, když chodíš.../
+* Závod - Postupy v žebříčku                                            :400:
+#+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
 Uběhly dva dny. Co čekáte, že se stane? Nějaká zásadní změna, nebo co? Schválně,
 když vás  to tak  zajímá, vyjmenujte mi  členy Dvaceti statečných?  Ha? A  to se
 vůbec neptám na pořadí.
@@ -172,15 +329,7 @@ skandál, žádný vývoj. Prostě nic.
 
 Co taky čekáte, za dva dny?
 #+ODT: </text:section>
-** Rozhovor - „“
-
-#+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
-*** Kampaň
-*** Rychlá střelba
-*** Korespondence
-*** Závěrečný proslov
-
-#+ODT: </text:section>
+* Zpověď Lubomíra Lečka
 * Zprávy                                                                :350:
 :news:
 Topic [fish in heating]
@@ -311,15 +460,22 @@ aféru s Rasputinem. To je ono. A ještě by to chtělo--
 
 /výbuch/
 #+ODT: </text:section>
+* Závod - Rozhovor - „“
+
+#+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
+** Kampaň
+** Rychlá střelba
+** Korespondence
+** Závěrečný proslov
+
+#+ODT: </text:section>
 * Lifestyle
 Módní sekce Monte Karlos Někdeníku vám přináší 
+* Vyšetřování - _Část pátá: Bedna dynamitu_
+** *1.6. - 19:00:*
 
-* Vyšetřování
-** Dokumenty
-** _Část první: Nepřítel za branami_
-=„A je-li na světě  takový, jenž by nám pomoci mohl, nenechal  se znát a neukázal
-svou tvář. Snad ze skromnosti, snad ze strachu, snad v pochybách...“=
-*** 
+** *1.6. - 23:30:*
+
 * Hodnocení odborníka                                                   :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
 
