@@ -52,7 +52,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 #+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
-#+SUBTITLE: 
+#+SUBTITLE: Opět zde, o něco slabší
 Vítejte v Monte Karlos, 
 #+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
 * 2/2019
@@ -189,7 +189,7 @@ schovávající se armády.
 
 Že si ti učitelé nedají pokoj...
 #+ODT: </text:section>
-* Vyšetřování - _Část čtvrtá: Dopisy_
+* Vyšetřování - _Část pátá: Dopisy_
 =„A je-li na světě  takový, jenž by nám pomoci mohl, nenechal  se znát a neukázal
 svou tvář. Snad ze skromnosti, snad ze strachu, snad v pochybách...“=
 ** *31.5. - 11:00:*
@@ -459,7 +459,7 @@ zítra to vyjde. Už se teším... Ty dveře, řekl jsem!
 /zamyšlení; pokrčení ramen; mávnutí ruky/
 
 Asi ochranka.  Nikdo jiný v  uniformách nechodí. A Někdeník  se může bát  o únos
-učitele. Ale proč jsou na toto patře?
+učitele. Ale proč jsou na tomto patře?
 
 Tak se  do toho dáme,  ne? O  čem by to  bylo... Královská rodina.  Jo, královna
 Alžběta se chystá  prodat Británii. Řekněme Rasputinovi. To  zní správně šíleně.
@@ -493,7 +493,7 @@ aféru s Rasputinem. To je ono. A ještě by to chtělo--
 #+ODT: </text:section>
 * Lifestyle
 Módní sekce Monte Karlos Někdeníku vám přináší 
-* Vyšetřování - _Část pátá: Bedna dynamitu_
+* Vyšetřování - _Část šestá: Bedna dynamitu_
 ** *1.6. - 19:00:*
 Přeplněná hala.  Hlava na hlavě. Rameno  na zatracenym rameni. Já  myslel, že je
 karanténa...
