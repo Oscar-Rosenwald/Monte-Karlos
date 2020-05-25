@@ -105,7 +105,7 @@ Ročník XXVIIII
 *Rozšiřují:* google.com
 * Editorial                                                             :200:
 Můj  strýc, notorický  alkoholik,  mi jednou  dal pohlavek  a  sdělil mi,  abych
-neplakala nad rozlitým  pivem. Pak se podíval na značku  na roztříštěné sklenici
+neplakala nad rozlitou  whisky. Pak se podíval na značku  na roztříštěné sklenici
 na zemi a propukl v tři dny a tři noci trvající brekot.
 
 Dnes  k vám  přicházím, milí  čtenáři Někdeníku,  smutna, zdecimována  událostmi
@@ -167,7 +167,7 @@ většinou o něco tlustší, chudší a méně  naivní. A je-li na světě tak
 nám pomoci mohl, nenechal se znát a neukázal svou tvář. Snad ze skromnosti, snad
 ze strachu, snad v pochybách...
 
-Paní Malá, mysteriózně se objevujivše na  prahu Monte Karlos, prohlásila, že zná
+Paní Malá,  mysteriózně se objevivše na  prahu Monte Karlos, prohlásila,  že zná
 pachatelovu  identitu.  Karlos  Žebatý  chtěl ihned  vypustit  do  světa  zprávu
 podobného kalibru, avšak uvědomil si, že  s větší sledovaností bude mít odhalení
 pachatele větší dopad. Rozhodl se proto počkati jeden den, by masám šanci dal se
@@ -189,7 +189,7 @@ schovávající se armády.
 
 Že si ti učitelé nedají pokoj...
 #+ODT: </text:section>
-* Vyšetřování - _Část pátá: Dopisy_
+* Vyšetřování - _Část pátá: Zatracená páce_
 =„A je-li na světě  takový, jenž by nám pomoci mohl, nenechal  se znát a neukázal
 svou tvář. Snad ze skromnosti, snad ze strachu, snad v pochybách...“=
 ** *31.5. - 11:00:*
@@ -210,7 +210,7 @@ Moje máma mi řikala, že mam tendenci měnit podtext v... text. Hm.
 Celou  noc se  snažim spojit  se s  Malou. Volal  sem, kouřovejma  signálama sem
 ztrácel čas, na mail  sem jí psal, do mušle, co sem  koupil v turistickym stánku
 támhle na konci ulice  (tady, kam nikdo nesmí, a v  karanténě... Musej mít obrat
-jako prase.), a nic.
+jako prase.), sem šeptal a nic.
 
 Karlos ji  hlídá, aby ji nikdo  neunesl. Odříznutá od okolního  světa, od svejch
 blízkejch a svejch sponzorů a voličů. Sem zvědavej, jestli si někdo všimne.
@@ -255,20 +255,20 @@ Tak sem  dopsal odpověď. Tak mi  to trvalo sedm  hodin, no! Nejsem tak  dobrej
 psaní... Omeletu zase stihnu uvařit dřív než Gordon Ramsay! Zblázněte se z toho.
 
 #+BEGIN_EXAMPLE
-Teď nemůžeme. Za chvíli se pustíme do přepadení jednoho špeha nešpaha.
+Teď nemůžeme. Za chvíli se pustíme do přepadení jednoho špeha nešpeha.
 
 Promluvíme si potom, dodáte nám důkazy u soudu.
 
 Já
 #+END_EXAMPLE
 Házim dopis do vodovodní trubky. Celý  je to tu vyhřívaný rybama. Nějaká moderní
-vymoženost z východu. Nevim,  jakou dohodu s nima Kupé má,  ale přinesli mi její
+vymoženost z východu. Nevim,  jakou dohodu s nima Kupé má,  ale přinesly mi její
 dopis, přinesou i muj k ní.
 ** *1.6. - 9:00:*
 Sešli sme se  s Rotreklovou u mě  v pracovně. Stůl je rozházenej  jako vojáci na
 minovym  poli. Trochu  víc, uvědomim  si,  když si  vzpomenu na  svojí kampaň  v
 Mongolsku. Někdo se  mi hrabal ve věcech.  Ale... Něco si uvědomim.  To je něco!
-Zatraceně! Ale co?. Dneska je všechny seberem.
+Zatraceně! Ale co? Dneska je všechny seberem.
 
 „Dneska je  všechny seberem,“ řikám  jí. Originalita  sama, to sem  já. Studnice
 nápadů.
@@ -351,18 +351,7 @@ skandál, žádný vývoj. Prostě nic.
 
 Co taky čekáte, za dva dny?
 #+ODT: </text:section>
-* Zpověď Lubomíra Lečka
 * Zprávy                                                                :350:
-:news:
-Topic [fish in heating]
-Designing principle [new house; fish are a feature; we're selling]
-Random thing [this stuff is normal in Ukraine since 1976]
-Story [Housing agency struggling to sell the houses]
-Characters [salesmen, CEO]
-Voice [author eats fish]
-Logistics of story [public reaction; history of product;...]
-Quotes, vision, assessment
-:END:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Zprávy">
 ** Zpráva, jo?
 Takže... zprávy. Nějakou zprávu... Moment.
@@ -571,7 +560,7 @@ a vaší sektě. Na to se spolehněte. Takže jak vidíte, nemáte mě kam dát.
 Oslová kroutí  hlavou. "Bohužel, sire, ale  mýlíte se. Velmi, velmi  se mýlíte."
 Velmi, velmi mi leze na nervy.
 
-"Vás tu chytim já  a s váma i toho špaha. Určitě už  se sem nějak dostala. Takže
+"Vás tu chytim já  a s váma i toho špeha. Určitě už  se sem nějak dostala. Takže
 co se mýlení týče, ani bych neřekl."
 
 "/Já/  bych řekla,"  ozve se  zezadu. Pomalu,  opatrně, s  předtuchou nebezpečí  a
@@ -781,6 +770,7 @@ strašně se  mi chce  něco říct.  Chce se mi  říct /zatraceně/,  ale něj
 neneslo patřičnou váhu.
 
 Asi bych měl míň nadávat.
+* Zpověď Lubomíra Lečka
 * Hodnocení odborníka                                                   :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
 Když strávíte rok blízkou spoluprací s jedním člověkem, tak nějak vám přiroste k
