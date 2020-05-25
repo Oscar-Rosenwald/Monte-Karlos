@@ -770,7 +770,7 @@ strašně se  mi chce  něco říct.  Chce se mi  říct /zatraceně/,  ale něj
 neneslo patřičnou váhu.
 
 Asi bych měl míň nadávat.
-* Zpověď Lubomíra Lečka
+* Žalm Lubomíra Lečka
 * Hodnocení odborníka                                                   :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
 Když strávíte rok blízkou spoluprací s jedním člověkem, tak nějak vám přiroste k
