@@ -56,7 +56,7 @@ klepat: 1x, 3x a pak 5x; "Kabinet zla"
 * Fáze
 ** Horáková X Pálkovská
 High Fantasy
-** Malá X Kult + ???????
+** Malá X Kult + Rotreklová
 Krimi
 *** Zmizelí
 **** Langer
@@ -86,6 +86,8 @@ Zmizel tunelem z bunrku.
 **** Lysák
 Odjel zkontrolovat tělocvičnu a už se nevrátil.
 A pak se vrátil. Nikdy nezmizel.
+**** Kolářová
+Zmizela po svém rozhovoru.
 *** Čísla
 **** [[file:materialy/faze%202/1%20-%201.4./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org][1.4.2020 - Opět zde a v plné síle]]
 - Natočeno <2020-02-22 Sat>
@@ -125,13 +127,13 @@ A pak se vrátil. Nikdy nezmizel.
 - *Zmizelí*
   - /Mezi:/ --------
   - /Po:/   Kolářová
-**** 2.6.2020 FINÁLE
+**** [[file:materialisticke%20centrum/faze%202/6%20-%202.6/Op%C4%9Bt%20zde,%20o%20n%C4%9Bco%20slab%C5%A1%C3%AD.org][2.6.2020 - Opět zde, o něco slabší]]
 - Natočeno <2020-05-23 Sat>
 - *Host:* Malá (znovu)
 - *Vyšetřování*
-  Část pátá: 
-- *Zmizelí*
-  Nejsou.
+  Část pátá: [[file:materialisticke%20centrum/faze%202/6%20-%202.6/Op%C4%9Bt%20zde,%20o%20n%C4%9Bco%20slab%C5%A1%C3%AD.org::*Vy%C5%A1et%C5%99ov%C3%A1n%C3%AD%20-%20_%C4%8C%C3%A1st%20p%C3%A1t%C3%A1:%20Dopisy_][Dopisy]]
+  Část šestá: [[file:materialisticke%20centrum/faze%202/6%20-%202.6/Op%C4%9Bt%20zde,%20o%20n%C4%9Bco%20slab%C5%A1%C3%AD.org::*Vy%C5%A1et%C5%99ov%C3%A1n%C3%AD%20-%20_%C4%8C%C3%A1st%20%C5%A1est%C3%A1:%20Bedna%20dynamitu_][Bedna dynamitu]]
+- Zmizelí nejsou, lidi se najdou.
 ** Šeiner X ???????
 Thriller
 ** Zemánková X ????????
