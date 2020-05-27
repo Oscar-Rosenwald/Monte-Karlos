@@ -313,8 +313,9 @@ Výsledkem  jejího neúspěchu  se stala  rapidní ztráta  sponzorů a  propad
 místa, což ale podle odborníků není v žádném případě dost■
 #+ODT: </text:section>
 ** Rozhovor - „Já hodlám být navždy mysteriósní.“
-Paní Malá - velké jméno mezi učiteli.  Její nesmírná pověst jí předchází nejen v někdeníku,  nýbrž   i  mezi  voliči   a  sponzory.  Velikost  jejího   ducha  je
-nepopiratelná. V dnešním čísle odhalíme  některá z jejích  ohromných soukromých
+Paní Malá  - velké jméno mezi  učiteli. Její nesmírná pověst  jí předchází nejen
+v někdeníku,  nýbrž  i  mezi  voliči   a  sponzory.  Velikost  jejího  ducha  je
+nepopiratelná. V dnešním  čísle odhalíme  některá z jejích  ohromných soukromých
 tajemství, a mnoho dalšího.
 #+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
 *Jak jste se cítila, když vám nařídili zbavit se své armády a opustit svá sídla*
