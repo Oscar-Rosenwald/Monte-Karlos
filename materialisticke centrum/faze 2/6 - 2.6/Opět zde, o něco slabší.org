@@ -52,8 +52,8 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 #+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
-#+SUBTITLE: Opět zde, o něco slabší
-Vítejte v Monte Karlos, 
+#+SUBTITLE: Opět zde, o něco slabší
+Vítejte v Monte Karlos, živoucí bystě pocitu dobře vykonané práce.
 #+ODT: <text:section text:style-name="EditorialSect" text:name="Editorial">
 * 2/2019
 Ročník XXVIIII
@@ -106,20 +106,20 @@ Ročník XXVIIII
 * Editorial                                                             :200:
 Můj  strýc, notorický  alkoholik,  mi jednou  dal pohlavek  a  sdělil mi,  abych
 neplakala nad rozlitou  whisky. Pak se podíval na značku  na roztříštěné sklenici
-na zemi a propukl v tři dny a tři noci trvající brekot.
+na zemi a propukl v tři dny a tři noci trvající brekot.
 
-Dnes  k vám  přicházím, milí  čtenáři Někdeníku,  smutna, zdecimována  událostmi
+Dnes  k vám  přicházím, milí  čtenáři Někdeníku,  smutna, zdecimována  událostmi
 včerejšího večera.  Jak jistě víte,  uspořádal Karlos Žebatý  speciální vysílání
-svého pořadu Monte Karlos s hostem,  který tvrdil, že odhalí pachatele nedávných
+svého pořadu Monte Karlos s hostem,  který tvrdil, že odhalí pachatele nedávných
 únosů. Co následovalo, je mi těžké popsat.
 
-Ráda bych  řekla nezoufejte,  ale možná  nemám dost odvahy  se k  tomu odhodlat.
+Ráda bych  řekla nezoufejte,  ale možná  nemám dost odvahy  se k tomu odhodlat.
 Dnešek je dnem smutku, dnem zármutku a loučení.  Je mi líto, ale je to tak. Dnes
-vás nepovzbudím pořekadlem  z dalekých Himálají nebo vtipnou  historkou z mládí.
+vás nepovzbudím pořekadlem  z dalekých Himálají nebo vtipnou  historkou z mládí.
 Dnes pro vás mám jen slzy.
 
 Ale  život jde  dál  (ha  ha ha,  zasmála  se bez  humoru)  a  my půjdeme  také.
-Najdete-li se ve stejném stavu jako já,  vypořádejte se s ním, jak jen uznáte za
+Najdete-li se ve stejném stavu jako já,  vypořádejte se s ním, jak jen uznáte za
 vhodné. Já  se ale, pro jednou,  pokusím poslechnout svého strýce.  Co se stalo,
 stalo se. Nic nenaděláme.
 
@@ -131,28 +131,28 @@ Alžběta Ašelová, šéfredaktor
 Kubešová
 - Předstírala, že je špeh - počkala si na Horákovou za hradbami
 - Chyběla na hádce; věděla, že sir Pace vyšetřuje ÚDN a SNP
-- Odmítla očkování - věděla o sledovacích zařízeních?
-- Utekla z DWF
-- Asi se schovává u sebe doma/ve svém starém sídle
+- Odmítla očkování - věděla o sledovacích zařízeních?
+- Utekla z DWF
+- Asi se schovává u sebe doma/ve svém starém sídle
 - Nikdy nebyla tak populární - motiv?
-- S  Oslovou se  spojila  z  nutnosti -  časem  by ji  unesli,  nebo  by je  ona
+- S Oslovou se  spojila  z nutnosti -  časem  by ji  unesli,  nebo  by je  ona
   zlikvidovala
 - Nechala unést  Kolářovou, která musela vědět,  že nebyla špeh -  naštěstí máme
   Rotreklovou, která to ví
 - Zatraceně, to dává smysl
 * Závod - Vývoj                                                         :400:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Závod">
-Celý  učitelský svět  zatajil  dech,  když další  z  kantorů Dvaceti  statečných
+Celý  učitelský svět  zatajil  dech,  když další  z kantorů Dvaceti  statečných
 podlehl mocným silám jejich nepřítele. Mnozí  se ptají: „Jsme na řadě?“ A otázka
 je to  příhodná. Kdo  může říct,  kde se únosci  zastaví. Vystřídají  na vrcholu
 žebříčku Dvaceti  statečných všechny  kantory a  unesou je?  Kolik se  jich vzdá
-závodu ve strachu z unesení? A kolik jich zbude?
+závodu ve strachu z unesení? A kolik jich zbude?
 
-Paní  Kolářová byla  jedna z  populárnějších mezi  vrchní dvacítkou.  Nikoli jen
-bodově či podle pozice - byla oblíbená  kvůli své osobnosti, své starosti o žáky
+Paní  Kolářová byla  jedna z populárnějších mezi  vrchní dvacítkou.  Nikoli jen
+bodově či podle pozice - byla oblíbená  kvůli své osobnosti, své starosti o žáky
 a  znalosti svého  předmětu. Zatímco  se davy  shromažďují na  velkých náměstích
 světa  - Václavském,  Trafalgarském, Times  Square, Rudém,  Karlosově a  mnohých
-dalších -  se svíčkami  v rukou  a žalozpěvy  na rtech,  ptá se  veřejnost svých
+dalších -  se svíčkami  v rukou  a žalozpěvy  na rtech,  ptá se  veřejnost svých
 nadřízených, kde mají hledat bezpečí.
 
 Avšak  bezpečí  nepřichází. Pan  Rychnovský  se  úspěšně  dostavil zpět  do  Der
@@ -161,28 +161,28 @@ chlebem, a hlásá do světa  zvýšenou opatrnost. Der Weiderhohlle Flüsemschl
 zvažuje kompletní uzavření svých bran pro nejen veřejnost, nýbrž i soukromost, a
 zbylí učitelé šeptají ve tmě „Kdo nám pomůže?“
 
-Mnozí  se  pokusili  zakročit.  Maskovaní  hrdinové  z  celého  světa,  mocní  a
-nepřemožitelní, se  vydali na cestu záchrany  světa a vrátili se  s nepořízenou,
-většinou o něco tlustší, chudší a méně  naivní. A je-li na světě takový, jenž by
+Mnozí  se  pokusili  zakročit.  Maskovaní  hrdinové  z celého  světa,  mocní  a
+nepřemožitelní, se  vydali na cestu záchrany  světa a vrátili se  s nepořízenou,
+většinou o něco tlustší, chudší a méně  naivní. A je-li na světě takový, jenž by
 nám pomoci mohl, nenechal se znát a neukázal svou tvář. Snad ze skromnosti, snad
-ze strachu, snad v pochybách...
+ze strachu, snad v pochybách...
 
 Paní Malá,  mysteriózně se objevivše na  prahu Monte Karlos, prohlásila,  že zná
 pachatelovu  identitu.  Karlos  Žebatý  chtěl ihned  vypustit  do  světa  zprávu
-podobného kalibru, avšak uvědomil si, že  s větší sledovaností bude mít odhalení
+podobného kalibru, avšak uvědomil si, že  s větší sledovaností bude mít odhalení
 pachatele větší dopad. Rozhodl se proto počkati jeden den, by masám šanci dal se
 připraviti na šok. Sám ale varuje,  že informace paní Malé nemusí být věrohodně.
-Vše prý se ukáže v rozhovoru.
+Vše prý se ukáže v rozhovoru.
 
 A mezitím  M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. šílí. Ředitel odmítá  podat vysvětlení
 svých  selhání,  stejně jako  brutálních  zásahů  odnože KKL,  která  dennodenně
 zasahuje do  vývoje společnosti a  zavírá učitele  teď už za  pouhé zaměstnávání
-chův. Armáda chův je prý také armáda a s tímto motem přepadají jednotky KKL malé
-vesnické školy a oficiálně zbavují kantory členství v závodu.
+chův. Armáda chův je prý také armáda a s tímto motem přepadají jednotky KKL malé
+vesnické školy a oficiálně zbavují kantory členství v závodu.
 
 „Za jiných situací,“ tvrdí odborník anonym, „by  se dalo říci, že si někdo čistí
-konkurenci. Ale v  těchto nejistých časech pochybuji, že je  moudré dopouštět se
-takových  výroků. Co  kdyby byly  pravdivé?“  Monte Karlos  Někdeník s  anonymem
+konkurenci. Ale v těchto nejistých časech pochybuji, že je  moudré dopouštět se
+takových  výroků. Co  kdyby byly  pravdivé?“  Monte Karlos  Někdeník s anonymem
 souhlasí, avšak dodává, že za poslední týden vyřadila KKL přes pět set učitelů a
 vyplatila  téměř  dva  miliony  amerických  dolarů za  úspěšně  podané  tipy  na
 schovávající se armády.
@@ -191,25 +191,25 @@ schovávající se armády.
 #+ODT: </text:section>
 * Vyšetřování - _Část pátá: Zatracená páce_
 =„A je-li na světě  takový, jenž by nám pomoci mohl, nenechal  se znát a neukázal
-svou tvář. Snad ze skromnosti, snad ze strachu, snad v pochybách...“=
+svou tvář. Snad ze skromnosti, snad ze strachu, snad v pochybách...“=
 ** *31.5. - 11:00:*
-Do /háje/ zelenýho! Člověk se na to  může vykašlat. V jednu chvílí si tak sedíš,
+Do /háje/ zelenýho! Člověk se na to  může vykašlat. V jednu chvílí si tak sedíš,
 houpeš nohama nad třicet metrů širokym  kaňonem, protože nějakej učitel si někde
 usmyslel, že  chce kaňon ve  svym sídle  - skutečně inteligentní  skupina, tihle
-učitelé - a  řikáš si, jak skvěle  ti to de. Stavíš  domeček z karet a  už už si
+učitelé - a  řikáš si, jak skvěle  ti to de. Stavíš  domeček z karet a  už už si
 překonal světovej rekord. Hurá!
 
 A pak se jedna karta rozhodne, že na tebe kašle, plivne si do dlaní, protáhne si
-ruce a  podkopne svojí sousedce  nohu. Pak  si domluví interview  v mezinárodním
+ruce a  podkopne svojí sousedce  nohu. Pak  si domluví interview  v mezinárodním
 televizním  pořadu, kde  všem řekne,  cos celou  dobu dělal,  a Kubešová  ti pak
-zdrhne  do zahraničí,  ne-li do  jiný dimenze,  a všechno  je v  háji. Zatracená
+zdrhne  do zahraničí,  ne-li do  jiný dimenze,  a všechno  je v háji. Zatracená
 karta.
 
 Moje máma mi řikala, že mam tendenci měnit podtext v... text. Hm.
 
-Celou  noc se  snažim spojit  se s  Malou. Volal  sem, kouřovejma  signálama sem
-ztrácel čas, na mail  sem jí psal, do mušle, co sem  koupil v turistickym stánku
-támhle na konci ulice  (tady, kam nikdo nesmí, a v  karanténě... Musej mít obrat
+Celou  noc se  snažim spojit  se s Malou. Volal  sem, kouřovejma  signálama sem
+ztrácel čas, na mail  sem jí psal, do mušle, co sem  koupil v turistickym stánku
+támhle na konci ulice  (tady, kam nikdo nesmí, a v karanténě... Musej mít obrat
 jako prase.), sem šeptal a nic.
 
 Karlos ji  hlídá, aby ji nikdo  neunesl. Odříznutá od okolního  světa, od svejch
@@ -220,27 +220,27 @@ No nic, no. Du zkusit vmeditovat se na její telepatickou vlnu.
 Rotreklová přinesla  zprávy. Stál  sem na  jedný ruce  na vrcholu  nejvyšší věže
 zdejší kopije Tádž Mahalu, jenom pro případ, že to nějak pomůže. Nepomohlo.
 
-Kubešou viděli  u ní  v sídle.  Je to velkej  prostor, tahle  Betroitsch l'Elnka
+Kubešou viděli  u ní  v sídle.  Je to velkej  prostor, tahle  Betroitsch l'Elnka
 Seneda. Spoustu místa na schování učitelů. Nevychází. Zabarikádovala se vevnitř.
 Normálně bych na ně nadával, na tu zatracenou, vtíravou, neschopnou, podplacenou
 pakáž  novinářskou,  ale  tentokrát  se hodí.  Jakmile  dostaneme  povolení  pro
-Rotreklovou  k opuštění  DWF a  nějaký nájemný  vrahy nebo  něco takovýho  (Něco
+Rotreklovou  k opuštění  DWF a  nějaký nájemný  vrahy nebo  něco takovýho  (Něco
 seženu - mam známosti, ne? Co asi  dělá muj strejda...?), pojedeme tam a ukážeme
 všem těm novinářům, kdo je únosce.
 
-Nemůžu se  dočkat. Tři měsíce  se tu plahočit  jako pitomec v  tomhle maskovacim
+Nemůžu se  dočkat. Tři měsíce  se tu plahočit  jako pitomec v tomhle maskovacim
 brnění  a  make-upu,  natřenej  kamerám  neviditelnou  vazelínou,  to  člověka
 vyčerpá, i kdyby to nebyl jeho poslední případ. Ale von je.
 
-Co udělám jako první,  až s tim skončim? Až dostanu peníze  od Ašelový a zamávám
-Karlosovi sbohem? Ponořim se na dva dny do vany. S bublinkama. A pizzou.
+Co udělám jako první,  až s tim skončim? Až dostanu peníze  od Ašelový a zamávám
+Karlosovi sbohem? Ponořim se na dva dny do vany. S bublinkama. A pizzou.
 
 Co udělám jako druhý? Hm... Asi si sundám to zatracený brnění.
 ** *31.5. - 15:00:*
 #+BEGIN_EXAMPLE
 Vážený pane Sire, (To si ze mně vopravdu děláte srandu, že jo?)
 
-Dostala jsem ty informace o převodech závodních bodů, jak jsme se domluvili. A
+Dostala jsem ty informace o převodech závodních bodů, jak jsme se domluvili. A
 řeknu vám, odfoukne vám to čepici jako raketový pohon volavku.
 
 Musíme se sejít. Nemůžu to psát, někdo mě  sleduje.
@@ -251,23 +251,21 @@ K
 #+END_EXAMPLE
 No... Pozdě, ale přece...
 ** *31.5. - 21:40:*
-Tak sem  dopsal odpověď. Tak mi  to trvalo sedm  hodin, no! Nejsem tak  dobrej v
-psaní... Omeletu zase stihnu uvařit dřív než Gordon Ramsay! Zblázněte se z toho.
+Tak sem  dopsal odpověď. Tak mi  to trvalo sedm  hodin, no! Nejsem tak  dobrej v psaní... Omeletu zase stihnu uvařit dřív než Gordon Ramsay! Zblázněte se z toho.
 
 #+BEGIN_EXAMPLE
 Teď nemůžeme. Za chvíli se pustíme do přepadení jednoho špeha nešpeha.
 
-Promluvíme si potom, dodáte nám důkazy u soudu.
+Promluvíme si potom, dodáte nám důkazy u soudu.
 
 Já
 #+END_EXAMPLE
 Házim dopis do vodovodní trubky. Celý  je to tu vyhřívaný rybama. Nějaká moderní
-vymoženost z východu. Nevim,  jakou dohodu s nima Kupé má,  ale přinesly mi její
-dopis, přinesou i muj k ní.
+vymoženost z východu. Nevim,  jakou dohodu s nima Kupé má,  ale přinesly mi její
+dopis, přinesou i muj k ní.
 ** *1.6. - 9:00:*
-Sešli sme se  s Rotreklovou u mě  v pracovně. Stůl je rozházenej  jako vojáci na
-minovym  poli. Trochu  víc, uvědomim  si,  když si  vzpomenu na  svojí kampaň  v
-Mongolsku. Někdo se  mi hrabal ve věcech.  Ale... Něco si uvědomim.  To je něco!
+Sešli sme se  s Rotreklovou u mě  v pracovně. Stůl je rozházenej  jako vojáci na
+minovym  poli. Trochu  víc, uvědomim  si,  když si  vzpomenu na  svojí kampaň  v Mongolsku. Někdo se  mi hrabal ve věcech.  Ale... Něco si uvědomim.  To je něco!
 Zatraceně! Ale co? Dneska je všechny seberem.
 
 „Dneska je  všechny seberem,“ řikám  jí. Originalita  sama, to sem  já. Studnice
@@ -276,32 +274,30 @@ nápadů.
 „Co se tu dělo?“ ukazuje na muj stůl.
 
 „Dostal sem  záchvat /asystemitýdy/.“ Ale jo,  někdy mam dobrej nápad,  sem tam.
-„Musíme  si  promluvit o  dnešku.“  Kynu  na  nedalekou pohovku  (žraločí  kůže,
-vydělaná, s vyřezávanejma nohama ze slonoviny; pane Bože, proč mě trestáš?!).
+„Musíme  si  promluvit o dnešku.“  Kynu  na  nedalekou pohovku  (žraločí  kůže,
+vydělaná, s vyřezávanejma nohama ze slonoviny; pane Bože, proč mě trestáš?!).
 
 „Dneska má Malá rozhovor. Musíme jednat...“
 ** *1.6. - 12:00:*
-Tak sme se  domluvili. Nemáme čas a  musíme jednat. Malá bude až  do rozhovoru v
-bezpečí. Někdo musí jet  do Monte Karlos a dohlídnout na  ní. Trochu velká Malá,
+Tak sme se  domluvili. Nemáme čas a  musíme jednat. Malá bude až  do rozhovoru v bezpečí. Někdo musí jet  do Monte Karlos a dohlídnout na  ní. Trochu velká Malá,
 na moje gusto.
 
 Někdo taky  musí jet ke Kubešový  a osvobodit ty kantory.  Rotreklová už dostala
 povolení,  na dva  dny, ale  armádu jí  jen tak  nepovolej. Jenomže  my nemůžeme
 čekat. Pojede  do Betroitsch  l'Elnka Seneda nelegálně,  budeme doufat,  že KKL,
-odnož  Mezinárodního Úřadu  kontrolující absenci  armád v  zaměstnání učitelů  v
-závodě, bude shovívavá. A když ne, řeknu jim, že sem Rotreklový lhal a zfalšoval
+odnož  Mezinárodního Úřadu  kontrolující absenci  armád v zaměstnání učitelů  v závodě, bude shovívavá. A když ne, řeknu jim, že sem Rotreklový lhal a zfalšoval
 sem nějakej dokument. Jakýmkoli dokumentem budou mávat, že ho Rotreklová neměla,
 takovej já zfalšuju.
 
 Já  zatim pojedu  do  Monte Karlos.  Naopak  to  nepude -  ke  Kubešový se  musí
 probojovat a  já zvládnu  přeprat jenom polovinu  pětitisícový armády,  která se
-shromažďuje na Čas pomsty v hlubinách SNP. Celou nedám.
+shromažďuje na Čas pomsty v hlubinách SNP. Celou nedám.
 
 Furt nevím,  co je Čas  pomsty, ale  visí to na  internetu od Oslový  už nějakou
 dobu, takže to bude důležitý.
 ** *1.6. - 13:30:*
 #+BEGIN_EXAMPLE
-Měnim plán.  Potkáme se dneska. Uprostřed  rozhovoru, v 19:05 ve  skladě kamer.
+Měnim plán.  Potkáme se dneska. Uprostřed  rozhovoru, v 19:05 ve  skladě kamer.
 Pomůžete mi přistihnout pachatele při činu.
 #+END_EXAMPLE
 Oslovou nemůžeme spojit se zmizením, protože učitelé nejsou na jejich pozemcích.
@@ -320,15 +316,14 @@ jí.
 
 Jak řikám, moje armáda.
 ** *1.6. - 14:11:*
-Odcházim. Tak dlouho sem strávil tady  v týhle bezedný díře vrcholu vymožeností,
-na špičce  civilizace a  mezi lídry  budoucnosti, že se  mi z  toho zvedá  muj v
-Jugoslávii vyoperovanej žaludek.
+Odcházim. Tak dlouho sem strávil tady  v týhle bezedný díře vrcholu vymožeností,
+na špičce  civilizace a  mezi lídry  budoucnosti, že se  mi z toho zvedá  muj v Jugoslávii vyoperovanej žaludek.
 
 Když odjela Rotreklová, sbalil  sem se a vyrazil. Trvalo mi to  dvě sekundy - už
 sem jednou řikal, mam tu jenom kartáček. Bude se mi stejskat po tom bojleru. Ale
 po ničem jinym.
 
-Vycházim z  hlavní brány. Dostat  se dovnitř  byla fuška a  podruhý se mi  to už
+Vycházim z hlavní brány. Dostat  se dovnitř  byla fuška a  podruhý se mi  to už
 nepovede. Skoro mam chuť se otočit a naposledy se podivat na tu bezednou propast
 přepychu ve vlně melanasvhvio jvůowic ůůj\;ěš)\§a)a\\((!....`
 
@@ -341,12 +336,10 @@ Uběhly dva dny. Co čekáte, že se stane? Nějaká zásadní změna, nebo co? 
 když vás  to tak  zajímá, vyjmenujte mi  členy Dvaceti statečných?  Ha? A  to se
 vůbec neptám na pořadí.
 
-Všichni žijou?  To nestačí?  Zpívají si, tra  la la, skáčou  radostí na  hradě v
-Bavorsku a smějí se  vám, že o nich čtete. Změna v  pořadí nenastala, ale minule
+Všichni žijou?  To nestačí?  Zpívají si, tra  la la, skáčou  radostí na  hradě v Bavorsku a smějí se  vám, že o nich čtete. Změna v pořadí nenastala, ale minule
 jsme vám taky nedali žebříček a nikomu to nevadilo. Tak co?
 
-Nikdo  nový nezmizel.  Rotreklová opustila  Der Weiderhohlle  Flüsemschliessem s
-povolením,  ale jinak  nic.  Nikde  nic. Ticho  po  pěšině.  Žádná aféra,  žádný
+Nikdo  nový nezmizel.  Rotreklová opustila  Der Weiderhohlle  Flüsemschliessem s povolením,  ale jinak  nic.  Nikde  nic. Ticho  po  pěšině.  Žádná aféra,  žádný
 skandál, žádný vývoj. Prostě nic.
 
 Co taky čekáte, za dva dny?
@@ -356,11 +349,11 @@ Co taky čekáte, za dva dny?
 ** Zpráva, jo?
 Takže... zprávy. Nějakou zprávu... Moment.
 
-/šustění papírů; přehrabování se v šuplíku; nadávání/
+/šustění papírů; přehrabování se v šuplíku; nadávání/
 
-Copak to  tu máme? Spontánní  vznícení skříní v  Pákistánu... Muž tvrdí,  že byl
+Copak to  tu máme? Spontánní  vznícení skříní v Pákistánu... Muž tvrdí,  že byl
 pětkrát  za noc  unesen  mimozemšťany a  že  mu vymazali  pamněť,  takže si  nic
-nepamatuje...  Odbory okurek  v  Tesco obchodech  vyhlásili  stávku za  nevhodné
+nepamatuje...  Odbory okurek  v Tesco obchodech  vyhlásili  stávku za  nevhodné
 zacházení...
 
 Takové hovadiny.
@@ -369,7 +362,7 @@ Takové hovadiny.
 
 To se jim řekne, zprávy. Normálně máme dva týdny. Taaaady...
 
-Ruská modelka  tak přitažlivá, že přitahuje  lehké předměty v okolí...  Ale mojí
+Ruská modelka  tak přitažlivá, že přitahuje  lehké předměty v okolí...  Ale mojí
 poroznost, tu nepřitáhne...
 
 /hledání fotek; zírání na fotky; ticho/
@@ -398,28 +391,28 @@ normálního, jednou pro změnu. Zatracenej Kar--
 
 Nic jsem neřekl. Nic. Vůůůůůůůbec nic. Tak co tu máme...? Žena umlácena aktovkou
 jedovatého plynu.  Moc orientální.  Rapidní únik dvanitrotoluenu.  Moc morbidní.
-Čína vyžaduje použití tří  hůlek u stolů. To akorát vyvolá  paniku. Co takhle mi
-dát něco, s čím můžu pracovat?
+Čína vyžaduje použití tří  hůlek u stolů. To akorát vyvolá  paniku. Co takhle mi
+dát něco, s čím můžu pracovat?
 
 Ale to oni neeee.
 
 /kopnutí do stolu; prudké sundavání body; foukání na palec/
 
-Normálně nám trvá  týden, než vymyslíme, o  čem budeme psát, a  další to napsat.
+Normálně nám trvá  týden, než vymyslíme, o čem budeme psát, a  další to napsat.
 Ale to není potřeba,  evidentně. Den. A co my? Jasně...  není problém... dáme se
 do toho. Ach jo.
 
 Aspoň jednou bych to chtěl normální. Jako  třeba den... Nebo jenom půl dne běžný
-práce. Je toho tolik? Člověk začne u kamery, tam mu před očima unesou Adele. Tak
-se dá do řízení vrtulníku a kam ho  pošlou? Do Nového Dilí. Do války s velkým K.
+práce. Je toho tolik? Člověk začne u kamery, tam mu před očima unesou Adele. Tak
+se dá do řízení vrtulníku a kam ho  pošlou? Do Nového Dilí. Do války s velkým K.
 Dá se do psaní.  Jde mu to skvěle. Přesunou ho na třetí  patro... Tam ho napadne
-zákeřná sabotáž  karavanů, málem se  utopí, a velký  K ho označí  za přijatelnou
-válečnou oběť. Tři týdny v komatu. Probudí se.  A hned po něm chtějí, aby se dal
-do vyšetřování nějakých zmizení v Der Weider-bůhví co.
+zákeřná sabotáž  karavanů, málem se  utopí, a velký  K ho označí  za přijatelnou
+válečnou oběť. Tři týdny v komatu. Probudí se.  A hned po něm chtějí, aby se dal
+do vyšetřování nějakých zmizení v Der Weider-bůhví co.
 
 No tak  si člověk  řekne co  se dá dělat.  Nechá se  přesunout na  běžný zprávy.
 Chvíli to jde  bez potíží... Rostoucí kostely tady, věštba  sem nebo tam, národy
-bojují o  jídlo. Člověk  si řekne,  že mu  to konečně  jde. A  pak mu  příjde do
+bojují o jídlo. Člověk  si řekne,  že mu  to konečně  jde. A  pak mu  příjde do
 kanceláře dopis. Den. /Jeden/ den.
 
 Ale co naděláme?
@@ -428,8 +421,8 @@ Ale co naděláme?
 
 Gumové kachničky na drogách. Moc normální, to pokreje Mladá Fronta. Radioaktivní
 květiny  -  to už  tu  bylo.  Možné  odkrytí  nelegálních úplatků  pro  sluneční
-paprsky... To si  necháme, až se z  toho něco vyklube. Přesně proto  nám to trvá
-tak dlouho. Počkáme si, co se z toho vyklube. Co se asi stihne vyklubat za den?
+paprsky... To si  necháme, až se z toho něco vyklube. Přesně proto  nám to trvá
+tak dlouho. Počkáme si, co se z toho vyklube. Co se asi stihne vyklubat za den?
 
 /stoupnutí; přecházení po pokoji; lamentování/
 
@@ -442,47 +435,47 @@ Kdo to vůbec byl? Něco za sebou táhl - nějakou bednu. Nevím.
 
 /hlasitý potlesk zezdola/
 
-Jasně. Velký K  už začal svůj rozhovor. Nějaká velká  Malá... Dneska se nahrává,
+Jasně. Velký K už začal svůj rozhovor. Nějaká velká  Malá... Dneska se nahrává,
 zítra to vyjde. Už se teším... Ty dveře, řekl jsem!
 
 /zamyšlení; pokrčení ramen; mávnutí ruky/
 
-Asi ochranka.  Nikdo jiný v  uniformách nechodí. A Někdeník  se může bát  o únos
+Asi ochranka.  Nikdo jiný v uniformách nechodí. A Někdeník  se může bát  o únos
 učitele. Ale proč jsou na tomto patře?
 
-Tak se  do toho dáme,  ne? O  čem by to  bylo... Královská rodina.  Jo, královna
+Tak se  do toho dáme,  ne? O čem by to  bylo... Královská rodina.  Jo, královna
 Alžběta se chystá  prodat Británii. Řekněme Rasputinovi. To  zní správně šíleně.
 Co kdybyste si chodili někde jinde?! Tady se pracuje!
 
 /neohlédnutí; neměnění pozice; kroucení hlavou/
 
 Návštěvníci... Takže, Rasputin kupuje Velkou Británii a třeba Wales proti tomu
-protestuje. Z principu. Tak, to zní Někdeníkově.
+protestuje. Z principu. Tak, to zní Někdeníkově.
 
 /poslouchání; vyrušení; hněv/
 
-Co  je zase  tohle? Ty  tam! Můžeš  toho  nechat?! Nevím,  s čím  tam na  chodbě
-pracuješ, ale nech toho! Strašně to píská! Počkej... Jestli s tim přijdedeš sem,
+Co  je zase  tohle? Ty  tam! Můžeš  toho  nechat?! Nevím,  s čím  tam na  chodbě
+pracuješ, ale nech toho! Strašně to píská! Počkej... Jestli s tim přijdedeš sem,
 já ti ukážu.
 
 A  co takhle  přidat nějakou  aféru? Poměr  sem, pomět  tam, to  čtenáře vždycky
-nadchne. Ano, Alžběta má aféru s Rasputinem - ne! Moc jednoduchý. Princ Filip má
-aféru s Rasputinem. To je ono. A ještě by to chtělo--
+nadchne. Ano, Alžběta má aféru s Rasputinem - ne! Moc jednoduchý. Princ Filip má
+aféru s Rasputinem. To je ono. A ještě by to chtělo--
 
 /výbuch/
 #+ODT: </text:section>
 * Závod - Rozhovor - „“
 Paní Malá  tvrdí, že pro  nás má něco fascinujícího.  Na schody před  vchodem do
 Monte Karlos  studia prohlásila, že  ví, kdo  je pachatel únosů  učitelů Dvaceti
-statečných. Vymýšlí si to, nebo je za  tím něco pravdy? Proč o tom neřekla dřív?
-A k čemu /skutečně/ jsou ty její renesanční malby?
+statečných. Vymýšlí si to, nebo je za  tím něco pravdy? Proč o tom neřekla dřív?
+A k čemu /skutečně/ jsou ty její renesanční malby?
 #+ODT: <text:section text:style-name="InterviewSect" text:name="Interview">
-*Jak se vám líbí opětovný pobyt v Monte Karlos?*
+*Jak se vám líbí opětovný pobyt v Monte Karlos?*
 
 Už mi  bylo lépe,  musím přiznat.  Vaše ochranka mě  hlídala hlava  nehlava. Ale
 místo je to pěkné.
 
-*Doufám,  že nám  naše starosti  o vaše  zdraví prominete.  Povězte nám  o paní*
+*Doufám,  že nám  naše starosti  o vaše  zdraví prominete.  Povězte nám  o paní*
 *Kolářové. Měli  jsme ji zde  sotva před  dvěma dny a  zmizela na cestě  do Der*
 *Weiderhohlle Flüsemschliessem. Byli jste si blízcí?*
 
@@ -498,8 +491,8 @@ Zachmuřile. A zrazeně, mám-li se vyjádřit upřímně.
 To proto, že, jak  se za chvíli dozvíte, za únosy stojí  osoba mě známá. Taková,
 kterou jsem dokonce považovala za blízkou.
 
-*Hlavně se zde  nepředbíhat, prosím. K otázce únosů se  dostaneme včas. Nyní mi*
-*prosím řekněte  něco o  vašem životě od  doby, co jste  tu byla  naposledy. To*
+*Hlavně se zde  nepředbíhat, prosím. K otázce únosů se  dostaneme včas. Nyní mi*
+*prosím řekněte  něco o vašem životě od  doby, co jste  tu byla  naposledy. To*
 *nebylo tak dávno.*
 
 Nebylo. A  můj život  byl velmi  hektický. Jak víte,  rozhodla jsem  se vypátrat
@@ -512,7 +505,7 @@ To doufám,  že ne.  Předpokládala jsem,  že až  odhalím pachatele,  přil
 mnoho nerozhodnutých sponzorů.
 
 *Naše soukromá Někdeníkovská politická recenzentka, paní Olšana Kupé, vyjádřila*
-*obavy o  vaše politické místo,  když jste se  naposledy zmínila, že  chcete po*
+*obavy o vaše politické místo,  když jste se  naposledy zmínila, že  chcete po*
 *pachatelích pátrat.*
 
 A měla pravdu. Nějaká chytrá žena, vypadá to. Ale vše se ještě srovná.
@@ -528,13 +521,13 @@ ještě nezvykla. Ale doufám, že po dnešním rozhovoru už to nebude nutné.
 No, pořád  jsem na prvním místě...  Ale jestli se rychle  nevzpamatuji, někdo mě
 předežene, a to rychle.
 
-*Co s tím hodláte dělat? Kromě již zmíněného odhalení?*
+*Co s tím hodláte dělat? Kromě již zmíněného odhalení?*
 
 Mám jisté taktiky.
 
-*Měla by jedna z nich něco společného s vaší sbírkou renesančních maleb?*
+*Měla by jedna z nich něco společného s vaší sbírkou renesančních maleb?*
 
-*Promiňte, někdo se nám támhle hýbe v publiku. Malý moment.*
+*Promiňte, někdo se nám támhle hýbe v publiku. Malý moment.*
 
 *Je něco špatně!?*
 
@@ -551,7 +544,7 @@ Jestli si dobře vzpomínám, ptal jste se mě na ně už minule.
 Já opravdu  netuším, kde pan  Rychnovský bere své  nápady. Moje sbírka  má čistě
 uměleckou hodnotu.
 
-*Dobrá, ale jestli objevíme, že k něčemu byla, tak to schytáte.*
+*Dobrá, ale jestli objevíme, že k něčemu byla, tak to schytáte.*
 
 No... To ponechám raději bez komentáře.
 
@@ -561,7 +554,7 @@ Co nejúspěšnější, to dá rozum.
 
 *To dá.*
 
-*A co vaši kolegové? Využívají vaší, s prominutím, slabosti?*
+*A co vaši kolegové? Využívají vaší, s prominutím, slabosti?*
 
 Jak kteří.  Paní Lajdová, například,  ta rozhodně.  Ale ta využívá  úplně všeho.
 Řeknu ale tolik: ti, co jsou unesení, to nedělají. Do jednoho.
@@ -570,7 +563,7 @@ Jak kteří.  Paní Lajdová, například,  ta rozhodně.  Ale ta využívá  ú
 
 Nekrájený chleba.
 ** Korespondence
-*Vzhledem k  vašemu rychlému  prohlášení, že  znáte identitu  pachatele, neměli*
+*Vzhledem k vašemu rychlému  prohlášení, že  znáte identitu  pachatele, neměli*
 *diváci čas  nám do Monte Karlos  napsat. Vynecháme tedy korespondenci  a místo*
 *toho zařadíme dočasnou sekci Odhalení.  Rychlou střelbu si necháme na později.*
 *Nebudeme přece diváky déle napínat.*
@@ -580,7 +573,7 @@ Nekrájený chleba.
 Víte, já  sice velmi ráda  napínám, ale tentokrát  si to nechám  stranou. Musíme
 jednat, dokud je ještě čas.
 
-*Dobrá. V jakém pořadí byste nám to tedy chtěla sdělit? Nejprve jméno a detaily*
+*Dobrá. V jakém pořadí byste nám to tedy chtěla sdělit? Nejprve jméno a detaily*
 *poté, nebo naopak?*
 
 Takto. Detaily, řekla bych, jsou méně důležité, proto začnu jménem.
@@ -588,7 +581,7 @@ Takto. Detaily, řekla bych, jsou méně důležité, proto začnu jménem.
 *To je  ale smůla, my  začneme detaily. Ta nám  prosím řekněte, kdy  jste poprvé*
 *dostala podezření.*
 
-Jak chcete... To bylo velmi nedávno. Jen před pár dny. Víte, paní Kolářová v něm
+Jak chcete... To bylo velmi nedávno. Jen před pár dny. Víte, paní Kolářová v něm
 hrála klíčovou roli. Uvědomila jsem si--
 
 /výbuch/
@@ -598,9 +591,8 @@ Módní sekce  Monte Karlos Někdeníku vám  přináší čtyři nejlepší mó
 případ, že budete uneseni.
 
 Prvním a očividným  krokem pro zachování vlastního života  bude samozřejmě pokus
-ztratit se z dohledu. Náš styl /Nenápadný/ dosahuje neuvěřitelných 78% úspěšnosti.
-Vyroben inženýrem Brabčákem  na konci devátého století před Kristem,  jedná se o
-osvědčenou metodu úkrytu.
+ztratit se z dohledu. Náš styl /Nenápadný/ dosahuje neuvěřitelných 78% úspěšnosti.
+Vyroben inženýrem Brabčákem  na konci devátého století před Kristem,  jedná se o osvědčenou metodu úkrytu.
 
 Nevyjde-li vám snaha vmísit se, máte  vždy možnost naprosto zmizet. Design /Není
 tu/   poskytuje  naprostou   neviditelnost  infračerveným   kamerám,  konvenčním
@@ -610,16 +602,16 @@ skutečná slabina spočívá ve faktu, že  ač neviditelný všem výše zmín
 detekovat pouhým okem.
 
 Dále  je zde  obraný styl,  vytvořený zesnulým  doktorem Alberštajnem,  švédským
-prodavačem  levých  zadních nohou  divokých  prasat  v Zürichu.  /Střecha/  byla
-vynalezena před  pouhými dvěma týdny.  V případě  útoku ozbrojených sil  na vaší
-pozici může  dojít k  pádu sutin či  šrapnelů a /Střecha/  vás před  oběma hravě
+prodavačem  levých  zadních nohou  divokých  prasat  v Zürichu.  /Střecha/  byla
+vynalezena před  pouhými dvěma týdny.  V případě  útoku ozbrojených sil  na vaší
+pozici může  dojít k pádu sutin či  šrapnelů a /Střecha/  vás před  oběma hravě
 ochrání.  Doktor Alberštajn  bohužel zahynul  udušením pod  dvaačtyřiceti tunami
 štěrku, který na sebe nechal vysypat  při předvádění produktu. Fakt, že nezemřel
 rozmáčknutím na placku, způsobil rychlé adaptování jeho nápadu.
 
 A nakonec vám přinášíme to nejlepší.  Naši bezpečnostní odborníci se shodují, že
 nejlepší  obrana proti  únosu  je  nebýt unesen.  Navrhli  proto velmi  obskurní
-designe - Inkognito. Faktem je, že  v dnešní společnosti kdo nemá Karlos-čepici,
+designe - Inkognito. Faktem je, že  v dnešní společnosti kdo nemá Karlos-čepici,
 jako by neexistoval. Budete-li chodit bez ní, nikdy vás nemohou lokalizovat jako
 cíl.
 * Vyšetřování - _Část šestá: Bedna dynamitu_
@@ -628,12 +620,11 @@ Přeplněná hala.  Hlava na hlavě. Rameno  na zatracenym rameni. Já  myslel, 
 karanténa...
 
 Ale karanténa evidentně  nezastaví stupiditu světa a, zdá  se, Karlose Žebatého.
-Monte Karlos jede  jako vždy, se spoustou  živých diváků a těch, co  sedí doma u
-obrazovek (ti, předpokládám, sou mrtví). Všechno je, jak má.
+Monte Karlos jede  jako vždy, se spoustou  živých diváků a těch, co  sedí doma u obrazovek (ti, předpokládám, sou mrtví). Všechno je, jak má.
 
-Až na to, že Malá tu nemá bejt,  někde v domě už se chystá komando k přepadnutí,
+Až na to, že Malá tu nemá bejt,  někde v domě už se chystá komando k přepadnutí,
 třináct učitelů  zmizelo za  poslední tři  měsíce a bohové  si vybrali  mě(!) ze
-všech lidí na světě, abych se přehraboval v týhle špíně lidstva a hledal je.
+všech lidí na světě, abych se přehraboval v týhle špíně lidstva a hledal je.
 
 Jinak je všechno, jak má.
 
@@ -641,7 +632,7 @@ Karlos se  na něco ptá. Malá  odpovídá. Lidi se  smějou a tleskaj. To  sna
 možný.
 
 Rychle zkouknu svuj telefon. Řikám svuj, myslin kradený jabko, co sem si pořídil
-cestou sem.  Posílám velmi  důležitou esemesku  s velmi  důležitými souřadnicemi
+cestou sem.  Posílám velmi  důležitou esemesku  s velmi  důležitými souřadnicemi
 velmi důležitým lidem. Tak, a je to.
 
 Co čas? Už budu muset jít.
@@ -655,7 +646,7 @@ To jako vážně? Podivám se mu do očí, přímo a skálopevně. "Všechno."
 ==
 
 Protlačil sem  se davem  a vyšel  na chodbu.  Nikde nikdo.  Tak mi  to vyhovuje.
-Tajuplná  chodba v  tmavý  budově  s maniakální  teroristkou,  ta je  /nejlepší/
+Tajuplná  chodba v tmavý  budově  s maniakální  teroristkou,  ta je  /nejlepší/
 prázdná.
 
 Nakouknul sem  do několika místností,  než sem  našel tu správnou.  Sklad kamer,
@@ -664,13 +655,13 @@ konečně. Zase du pozdě. Ale snad se Kupé nezblázní.
 Prodřu se mezi  stojanama a kamerama a  mikrofónama a podobně, až  se dostanu na
 druhej konec místnosti. A tam ji vidim.
 
-Kupé.  Kupé v  nevkusnejch zelenech  šatech dělanejch  pro někoho  přesně jejího
-věku, ale  špatně. Kupé,  s informací, o  který doufá, že  mi pomůže  vyřešit už
-vyřešenej případ.  Kupé, svázaná za nohy  a ruce, s  roubíkem v puse v  kleci na
+Kupé.  Kupé v nevkusnejch zelenech  šatech dělanejch  pro někoho  přesně jejího
+věku, ale  špatně. Kupé,  s informací, o který doufá, že  mi pomůže  vyřešit už
+vyřešenej případ.  Kupé, svázaná za nohy  a ruce, s roubíkem v puse v kleci na
 vozíku. Je tam.
 
 Vedle ní  stojí Oslová.  Na opasku jí  visí klíče od  klece, na  ramenou obřadní
-plášť její sekty a  na slovech dvanáct po zuby namakanejch  hlídačů v Ústavu pro
+plášť její sekty a  na slovech dvanáct po zuby namakanejch  hlídačů v Ústavu pro
 duševně neschopný (ÚDN).
 
 "Sire." Já se na to vy***u.
@@ -678,41 +669,40 @@ duševně neschopný (ÚDN).
 "Oslová."
 
 Poklepává prstem na  klec. "Schůzičku jste tu měl, co?"  Porkčim ramenama. "Paní
-recenzentka se  mi tady dělá potíže.  Žije v centru celého  toho kolosu, kterému
+recenzentka se  mi tady dělá potíže.  Žije v centru celého  toho kolosu, kterému
 říkají  závod. Té  krvelačné  mašinérie. A  je za  něj  zodpovědná, stejně  jako
 učitelé sami.
 
-A  něco ví  o bodech.  Nechce mi  to říct,  minimálně. Chvíli  jsme se  bavili o
-nějakých lesních  plodech a  že skončím  jako krtkem  vykopaný do  větru vyslaný
+A  něco ví  o bodech.  Nechce mi  to říct,  minimálně. Chvíli  jsme se  bavili o nějakých lesních  plodech a  že skončím  jako krtkem  vykopaný do  větru vyslaný
 kořen borůvkovníku, ale to jsem nějak nepochopila. Možná mi pomůžete vy. Co víte
-o jakých bodech?"
+o jakých bodech?"
 
 Skvěle. Přesně, co sem potřeboval.
 
 "Proč bych vám měl něco řikat?"
 
-"Protože vás jinak přidám k těm učitelům. Moje trpělivost s vámi došla."
+"Protože vás jinak přidám k těm učitelům. Moje trpělivost s vámi došla."
 
 "Ale to těžko. Učitele sme našli. Teď někdy se skupina dobře vycvičenejch chlapů
-probourává do sklepa vaší /kolegyně/. Budeme mít pachatele, a ta jim řekne o vás
+probourává do sklepa vaší /kolegyně/. Budeme mít pachatele, a ta jim řekne o vás
 a vaší sektě. Na to se spolehněte. Takže jak vidíte, nemáte mě kam dát."
 
 Oslová kroutí  hlavou. "Bohužel, sire, ale  mýlíte se. Velmi, velmi  se mýlíte."
 Velmi, velmi mi leze na nervy.
 
-"Vás tu chytim já  a s váma i toho špeha. Určitě už  se sem nějak dostala. Takže
+"Vás tu chytim já  a s váma i toho špeha. Určitě už  se sem nějak dostala. Takže
 co se mýlení týče, ani bych neřekl."
 
-"/Já/  bych řekla,"  ozve se  zezadu. Pomalu,  opatrně, s  předtuchou nebezpečí  a
+"/Já/  bych řekla,"  ozve se  zezadu. Pomalu,  opatrně, s předtuchou nebezpečí  a
 ztrapnění, se otočim. Rotreklová stojí za  mnou, sama mezi všema těma cetkama na
 natáčení.
 
 "Zatraceně."
 
-"Jak vidíte, nikdo nikoho nedobývá. Učitelé se vrátí  ke mně do SNP a vy s nimi.
-Leda byste mi řekl o těch bodech."
+"Jak vidíte, nikdo nikoho nedobývá. Učitelé se vrátí  ke mně do SNP a vy s nimi.
+Leda byste mi řekl o těch bodech."
 
-Samozřejmě  jí nebudu  věřit.  Kupé  kroutí zběsile  hlavou.  Protentokrát s  ní
+Samozřejmě  jí nebudu  věřit.  Kupé  kroutí zběsile  hlavou.  Protentokrát s ní
 souhlasim.  "Nic neřeknu.  Ale  tohle,"  ukazuju na  Rotreklovou,  "to bych  rád
 probral. Vlastně to dává smysl, co?" Když se nad tim zamejšlim, tak dává.
 
@@ -725,16 +715,16 @@ povim.
 A na bunkru ste pracovala vy... Odtamtud ty tunely."
 
 "Ano,"  přerušila nás  netrpělivě Oslová,  "všechno vám  došlo, jste  překvapen,
-zrazen, podveden, v nebezpečí a tak dále. Já nemám celý den, sire Paci."
+zrazen, podveden, v nebezpečí a tak dále. Já nemám celý den, sire Paci."
 
 "Já jo."  Ha! Tady to  máš, sežer si  to. "Proto ste trvala  na tom, že  to byla
 Lajdová. Abych vás neodhalil. A možná, kdybyste mě přesvědčila, byste se zbavila
 dalšího konkurenta."
 
-"To  nevyšlo," přikyvuje  Rotreklová. "Musela  jsem se  uchýlit k  radikálnějším
+"To  nevyšlo," přikyvuje  Rotreklová. "Musela  jsem se  uchýlit k radikálnějším
 krokům."
 
-Oslová vzdychá.  "Tak nic,  no. Seberte  ho." Šest  z jejích  hlídačů se  ke mně
+Oslová vzdychá.  "Tak nic,  no. Seberte  ho." Šest  z jejích  hlídačů se  ke mně
 rozešlo. Početně, správná volba.
 
 "Moment, moment, moment! Než mě odvedete..." Otočim se na Rotreklovou. "Víte, že
@@ -748,9 +738,9 @@ ostatní unese a vás nechá bejt?"
 "Nějak to přežiji."
 
 "To bych neřekl. Pět  tisíc fanatiků už jí přišlo na  pomoc. Čas pomsty nastává.
-Sekta nesplněné pomsty se chystá k poslední ráně. Máte na sobě terč."
+Sekta nesplněné pomsty se chystá k poslední ráně. Máte na sobě terč."
 
-Rotreklová se začne smát.  Směje se a směje, až mě z  toho hrabe. "Čas pomsty...
+Rotreklová se začne smát.  Směje se a směje, až mě z toho hrabe. "Čas pomsty...
 Čas... Čas pomsty je můj projekt.  Ty /fanatiky/ jsem si jenom vypůjčila. Obávám
 se, že  to vám nevyšlo,  břídile." No tohle... Už  mi řikali vrahu  (nevim proč,
 nikdy sem nikomu nic neudělal), zbabělče,  blázne, sire a hanebná špíno lidstva,
@@ -758,11 +748,11 @@ ale /břídile/, tak se mi ještě nikdy nikdo neodvážil říct. No počkej...
 
 "A  vy?"  otočim se  na  velitelku  sekty. "Vy,  oslová  madame,  věříte, že  se
 Rotreklová  nechá sebrat?  Dal sem  jí třicet  profesionálních žoldáků.  Jakmile
-vyjdeme z místnosti, chytěj nás a bude konec."
+vyjdeme z místnosti, chytěj nás a bude konec."
 
-Oslová se klidně rozhlédne kolem. "Já  nikoho nevidím. Navíc, s paní Rotreklovou
+Oslová se klidně rozhlédne kolem. "Já  nikoho nevidím. Navíc, s paní Rotreklovou
 naše spolupráce  končí. Čas pomsty  bude náše poslední  akce a pak...  Jsme zase
-nepřátelé, jako dříve. S tím se počítalo, sire. S tím se počítalo."
+nepřátelé, jako dříve. S tím se počítalo, sire. S tím se počítalo."
 
 Chytěj mě  za límec a  ruce a  nohy a opasek.  Sibiřskej skřipec. Proti  tomu je
 jediná obrana,  pokud si  dobře pamatuju  - bůvolí smyčka.  A já  si /zatraceně/
@@ -771,16 +761,16 @@ dobře pamatuju.
 Ale musim je poštvat proti sobě. Musim...
 
 "Ale vy to  nevydržíte," řikám, zatimco mě táhnou směrem  do klece. "Až dostanou
-Rotreklovou, řekne jim o vás všechno, aby jí snížili trest. To už sem ale jednou
-řikal, ne?"  Musim přiznat,  že takhle  mezi šesti  lidma s  rukama za  zádama a
+Rotreklovou, řekne jim o vás všechno, aby jí snížili trest. To už sem ale jednou
+řikal, ne?"  Musim přiznat,  že takhle  mezi šesti  lidma s rukama za  zádama a
 loktem kolem krku se mi špatně píše.
 
 "To je  sice pěkné," řiká  Oslová, "ale nikdo  na ní nepřijde.  Učitele odvezeme
-zítra ráno a o  vše ostatní už jsem se postarala. Nemáte důkaz,  že to byla ona,
+zítra ráno a o vše ostatní už jsem se postarala. Nemáte důkaz,  že to byla ona,
 kdo unášel učitele."
 
-"Váááážněěěěěě?" Vytáhnu  z kapsy GPSku.  Ukážu jí  Oslový. Červená tečka  na ní
-bliká na  mapě u Brickhenge.  Červená tečka tam,  kam dneska dnesli  Kolářovou -
+"Váááážněěěěěě?" Vytáhnu  z kapsy GPSku.  Ukážu jí  Oslový. Červená tečka  na ní
+bliká na  mapě u Brickhenge.  Červená tečka tam,  kam dneska dnesli  Kolářovou -
 sídlo Rotreklový.
 
 Chvíli  jim trvalo  se tam  dostat. Lety  sou zrušený  a podobně,  ale před  půl
@@ -788,22 +778,21 @@ hodinou přistáli.  Moje sledovací zařízení  funguje. "Malá přidala  sled
 injekcí tý druhý poloviny učitelů," řikám  Rotreklový. "To vás nenapadlo, co, že
 nechám někoho jinýho sledovat ty, který nesledujete vy.
 
-"V zadní kapse mam telefon. Můžete se podivat, před patnácti minutama sem poslal
+"V zadní kapse mam telefon. Můžete se podivat, před patnácti minutama sem poslal
 souřadnice její  polohy místní policii.  Jak řikám, /skupina  dobře vycvičenejch
 chlapů/ a tak dále."
 
-Oslová zrudne v obličeji. Podivá se na  Rotreklovou. Ta se dívá zpátky. Jedna si
+Oslová zrudne v obličeji. Podivá se na  Rotreklovou. Ta se dívá zpátky. Jedna si
 nemůže dovolit, aby ta druhá odešla. Mam je  tam, kde sem je chtěl. Mnul bych si
 ruce radostí, kdyby je nedrželi čtyři svalnatý habáni.
 
-A  pak se  to stalo.  Oslová kejvla.  Zbylejch šest  chlapů se  vydalo směrem  k
-Rotreklový.  Ta  zahvízdala  a  zpoza  všeho  toho  nářadí  se  vynořilo  třicet
+A  pak se  to stalo.  Oslová kejvla.  Zbylejch šest  chlapů se  vydalo směrem  k Rotreklový.  Ta  zahvízdala  a  zpoza  všeho  toho  nářadí  se  vynořilo  třicet
 nájemnejch vrahů.  Těch, co sem  jí za její  peníze koupil. Dvanáct  svalovců na
 jedný straně, třicet hrdlořezů na druhý. A já na třetí. Fér rvačka.
 
 Byla by, kdyby mě  nechtěli zavřít do klece. Ale na to  se nedostalo. Ve chvíli,
 kdy se na sebe obě skupiny vražedně a tiše dívaly a čekaly, co se bude dít, se podivám
-nahoru, na jednu z kamer, a usměju se.
+nahoru, na jednu z kamer, a usměju se.
 
 "Máte to?"
 
@@ -812,9 +801,9 @@ nahoru, na jednu z kamer, a usměju se.
 #+BEGIN_EXAMPLE
 Vážená paní šéfredaktorko Ašelová,
 
-S potěšenim vám oznamuju, že sem vyřešil váš případ. Pro potřebný důkazy potřebuju
-dvě věci - zapnutou kameru ve skladě kamer v Monte Karlos v době natáčení rozhovoru
-a povolení přizvat malou skupinu ke sledování přímýho přenosu z toho místa.
+S potěšenim vám oznamuju, že sem vyřešil váš případ. Pro potřebný důkazy potřebuju
+dvě věci - zapnutou kameru ve skladě kamer v Monte Karlos v době natáčení rozhovoru
+a povolení přizvat malou skupinu ke sledování přímýho přenosu z toho místa.
 
 Daniel Jonathan Pace, soukromé óčko
 #+END_EXAMPLE
@@ -822,12 +811,10 @@ Daniel Jonathan Pace, soukromé óčko
 #+BEGIN_EXAMPLE
 Vážené KKL,
 
-Jistá paní Rotreklová shromažďuje armádu pod své velení. Je členem závodu o nejvyššího
+Jistá paní Rotreklová shromažďuje armádu pod své velení. Je členem závodu o nejvyššího
 vůdce všeho učitelství, tak jsem si říkal, že byste to chtěli vědět.
 
-Vím, že pro ověření těchto nařčení potřebujete záznam nebo očité svědectví jednoho z
-vašich agentů o používání armády v praxi. Zvu vás proto do Monte Karlos, dnes večer v
-19:05. Ptejte se po paní Ašelové, ta vám poskytne přímý přenost do místosti, kam Rotreklová přivolá
+Vím, že pro ověření těchto nařčení potřebujete záznam nebo očité svědectví jednoho z vašich agentů o používání armády v praxi. Zvu vás proto do Monte Karlos, dnes večer v 19:05. Ptejte se po paní Ašelové, ta vám poskytne přímý přenost do místosti, kam Rotreklová přivolá
 své třicetičlenné vojsko.
 
 Doufám, že se ukážete.
@@ -842,16 +829,16 @@ se do nich.  Jeden po druhym padaj  jako kdybych je něčim praštil  po hlavě.
 sem udělal.
 
 KKL sem  poslala několik profesionálů. Chvíli  jim trvalo prodrat se  tim hustym
-porostem stojanů,  ale nakonec se sem  dostali a rychle s  tim skoncovali. Konec
-konců, sou to profíci, ne? Oslová vyskočila  na vozík s klecí (a Kupé), odrazila
+porostem stojanů,  ale nakonec se sem  dostali a rychle s tim skoncovali. Konec
+konců, sou to profíci, ne? Oslová vyskočila  na vozík s klecí (a Kupé), odrazila
 se a ujela zadním východem. Daleko se nemůže dostat.
 
 KKL zlikvidovalo  všechny odpůrce,  a zbytek se  vzdal. Rotreklovou  nasadili do
 želez.
 
 "Příště," stoupnu si před ní a usmívám se, "se mi nehrabte na stole, když má ten
-/pachatel/ bejt schovanej  u sebe doma. A neunášejte tak  očividně toho jedinýho
-člověka, kterej může dokázat, že s těma špehama lžete. To bylo trochu očividný."
+/pachatel/ bejt schovanej  u sebe doma. A neunášejte tak  očividně toho jedinýho
+člověka, kterej může dokázat, že s těma špehama lžete. To bylo trochu očividný."
 
 Je to tak. Malá by nikdy nekompromitovala celou operaci, kdyby to byla Kubešová.
 Ale Rotreklová,  ta byla  hned vedle  mě. Pracovali sme  spolu. Možná  bych Malý
@@ -864,47 +851,46 @@ došlo i mně.
 
 "Kde držíte Oslovou?" ptám se jednoho vojáka KKL.
 
-"S tou nikdo nic nedělal. My tu sme jenom pro tuhle," ukázal na Rotreklovou.
+"S tou nikdo nic nedělal. My tu sme jenom pro tuhle," ukázal na Rotreklovou.
 
 "CO?!!!!"
 
-Rozeběhnu se  chodbou. Jestli  Oslová uteče,  i s  Kupé, zabarikáduje  se svejma
+Rozeběhnu se  chodbou. Jestli  Oslová uteče,  i s Kupé, zabarikáduje  se svejma
 věrnejma následovníkama a už jí nikdy neuvidíme. To nemůžu dopustit.
 
 Běžim prázdnejma chodbama po zvuku jedoucího vozíku. Dost to skřípe.
 
-Někdo křičí z nějaký kanceláře: "Co  je zase  tohle? Ty  tam! Můžeš  toho  nechat?! Nevím,  s čím  tam na  chodbě
-pracuješ, ale nech toho! Strašně to píská! Počkej... Jestli s tim přijdedeš sem,
+Někdo křičí z nějaký kanceláře: "Co  je zase  tohle? Ty  tam! Můžeš  toho  nechat?! Nevím,  s čím  tam na  chodbě
+pracuješ, ale nech toho! Strašně to píská! Počkej... Jestli s tim přijdedeš sem,
 já ti ukážu."
 
 Ignoruju ho. Běžim  a běžim. Rychlejc a  rychlejc. Už je vidim  před sebou. Mohl
 bych po Oslový hodit třeba botu...
 
 A pak to vybuchne.  Celá budova se zatřese. Stop se propadne  přímo přede mnou a
-já narazim  do sutí. Chodba  se zasype  cihlama z vrchního  patra. I na  mě něco
-spadlo. Naštěstí sem ještě  při vědomí. Oslová byla támhle. Viděl  sem jí, jak s
-Kupé jedou  k východu. Ale byly  daleko. Byly moc  daleko. Teď tam neni  nic než
+já narazim  do sutí. Chodba  se zasype  cihlama z vrchního  patra. I na  mě něco
+spadlo. Naštěstí sem ještě  při vědomí. Oslová byla támhle. Viděl  sem jí, jak s Kupé jedou  k východu. Ale byly  daleko. Byly moc  daleko. Teď tam neni  nic než
 cihly, prach a...
 ** *1.6. - 23:30:*
 Probudil sem se na nosítkách. Nakonec na mě spadlo něco fakt velkýho.
 
 Řikaj mi, že všechny  zmizelý učitele našli - dokonce i  Langera. No sakra hurá.
-Skáču radostí. Jak pominutej. Zatracená práce v zatracenym světě.
+Skáču radostí. Jak pominutej. Zatracená práce v zatracenym světě.
 
-Diváci to přežili. Nakonec spadlo jenom naše křídlo studia. Malá je v pořádku, i
+Diváci to přežili. Nakonec spadlo jenom naše křídlo studia. Malá je v pořádku, i
 když vypadl  proud než  se dostala  ke konci  rozhovoru. Moje  upřímná zatracená
 soustrast.
 
-Rotreklová  je taky  v pořádku.  Už jí  odvezla policie.  Má problémy  s KKL  za
+Rotreklová  je taky  v pořádku.  Už jí  odvezla policie.  Má problémy  s KKL  za
 armádu - použil  sem její peníze a méno  a email a tak - a  detektivama za únosy
 učitelů.
 
 Oslovou vykopaly před půl hodinou. Kupé taky. Nepřežily.
 
-Když mi to řekli, málem sem jim nevěřil. Ale pro člověka v mym povolání... na to
+Když mi to řekli, málem sem jim nevěřil. Ale pro člověka v mym povolání... na to
 se dá zvyknout. Pitomá práce.
 
-Ale ta  práce nevypadá tak  špatně, když jí porovnám  s tim, jak  skončila Kupé.
+Ale ta  práce nevypadá tak  špatně, když jí porovnám  s tim, jak  skončila Kupé.
 Aspoň nějakou mam. Ona už nemá nic.  Chce se mi něco říct. Nenacházim slova, ale
 strašně se  mi chce  něco říct.  Chce se mi  říct /zatraceně/,  ale nějak  by to
 neneslo patřičnou váhu.
@@ -913,24 +899,23 @@ Asi bych měl míň nadávat.
 * Žalm Lubomíra Lečka
 * Hodnocení odborníka                                                   :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
-Když strávíte rok blízkou spoluprací s jedním člověkem, tak nějak vám přiroste k
-srdci. Od  začátku závodu  o nejvyššího vůdce  všeho učitelstva  jsem přepisoval
+Když strávíte rok blízkou spoluprací s jedním člověkem, tak nějak vám přiroste k srdci. Od  začátku závodu  o nejvyššího vůdce  všeho učitelstva  jsem přepisoval
 nahrávky  paní Olšany  Kupé. Milé,  milující, trochu  ujeté ale  vcelku rozkošné
 Olšany Kupé, která mi byla jak nadřízeným, tak chlebodárcem.
 
 Její mysl byla zvláštní. Její pohled na  svět zrovna tak. Po čase jsem si říkal,
-že její povaha je potřeba v dnešním krutém světě. Následující měsíce ukážou, zda
+že její povaha je potřeba v dnešním krutém světě. Následující měsíce ukážou, zda
 jsem  měl  pravdu,  jak  Monte  Karlos přerušil  vydávání  časopisů  a  natáčení
 rozhovorů, aby přestavil své sídlo.
 
-Učitelé jsou  zavřeni ve svých  komnatách v Der Weiderhohlle  Flüsemschliessem a
+Učitelé jsou  zavřeni ve svých  komnatách v Der Weiderhohlle  Flüsemschliessem a
 všechny  kampaně jsou  pozastaveny, dokud  se právně  nevyřeší jejich  zmizení a
 nalezení. Sir  Daniel Jonathan Pace, detektiv,  který prý vyřešil celý  případ a
-který znal  paní Kupé,  bude svědčit  proti jednomu z  učitelů. Uvidíme,  jak si
+který znal  paní Kupé,  bude svědčit  proti jednomu z učitelů. Uvidíme,  jak si
 takový svět poradí bez Olšany a jejího pohledu na něj.
 
-Nevím, co teď budu dělat. Přišel jsem o práci a přišel jsem o přítelkyni. Nevím,
-jestli odejdu  z Monte Karlos,  nebo zůstanu a  budu pracovat, kde  by pracovala
+Nevím, co teď budu dělat. Přišel jsem o práci a přišel jsem o přítelkyni. Nevím,
+jestli odejdu  z Monte Karlos,  nebo zůstanu a  budu pracovat, kde  by pracovala
 ona, byla-li by naživu.
 
 Život se někdy hold nepovede a končí dřív, než by měl. Tak se mějte, hodně zdaru
