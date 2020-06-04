@@ -591,8 +591,9 @@ Módní sekce  Monte Karlos Někdeníku vám  přináší čtyři nejlepší mó
 případ, že budete uneseni.
 
 Prvním a očividným  krokem pro zachování vlastního života  bude samozřejmě pokus
-ztratit se z dohledu. Náš styl /Nenápadný/ dosahuje neuvěřitelných 78% úspěšnosti.
-Vyroben inženýrem Brabčákem  na konci devátého století před Kristem,  jedná se o osvědčenou metodu úkrytu.
+ztratit  se   z dohledu.  Náš  styl  /Nenápadný/   dosahuje  neuvěřitelných  78%
+úspěšnosti. Vyroben inženýrem Brabčákem na  konci devátého století před Kristem,
+jedná se o osvědčenou metodu úkrytu.
 
 Nevyjde-li vám snaha vmísit se, máte  vždy možnost naprosto zmizet. Design /Není
 tu/   poskytuje  naprostou   neviditelnost  infračerveným   kamerám,  konvenčním
@@ -899,7 +900,8 @@ Asi bych měl míň nadávat.
 * Žalm Lubomíra Lečka
 * Hodnocení odborníka                                                   :350:
 #+ODT: <text:section text:style-name="NormalSect" text:name="Hodnocení">
-Když strávíte rok blízkou spoluprací s jedním člověkem, tak nějak vám přiroste k srdci. Od  začátku závodu  o nejvyššího vůdce  všeho učitelstva  jsem přepisoval
+Když strávíte rok  blízkou spoluprací s jedním člověkem, tak  nějak vám přiroste
+k srdci. Od začátku  závodu o nejvyššího vůdce všeho  učitelstva jsem přepisoval
 nahrávky  paní Olšany  Kupé. Milé,  milující, trochu  ujeté ale  vcelku rozkošné
 Olšany Kupé, která mi byla jak nadřízeným, tak chlebodárcem.
 
