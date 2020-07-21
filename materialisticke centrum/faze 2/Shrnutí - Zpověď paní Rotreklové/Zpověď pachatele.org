@@ -1,0 +1,134 @@
+-*-eval: (set-input-method "czech-qwerty"); eval: (auto-fill-mode 1); eval: (setq-local default-justification 'full); eval: (flyspell-mode 1); eval: (ispell-change-dictionary "czech");-*-
+* COMMENT Body
+** 1. fáze
+- [ ] Závod o /nejvyššího  vůdce všeho učitelstva/ začal  minulý rok. Přihlásilo
+  se přes devět tisíc učitelů z celého světa.
+- [ ] Monte Karlos pozval Langera, tehdy vedoucího učitele v žebříčku. Krátce po
+  rozhovoru ho unesla paní Oslová,  duchovní lýdr sekty nesplněné pomsty. Držela
+  ho v zajetí v naději, že se učitelé polepší a závod zruší.
+- [ ] Někteří učitelé zformovali /kantoří umělá společenství/ - KUSy. Rotreklová
+  byla v tom nejznámějším, Velké pětce.
+- [ ] Mnozí učitelé ochotně přistoupili na pravidla závodu a vyneslo je to velmi
+  vysoko. Macháček, Horáková, Ebbe a  Rychnovský, ku příkladu. Jiní - Záchelová,
+  Lajdová  a podobní  -  ne tak  úplně. Záchelová  nepochopila,  o co se  jedná,
+  Lajdová se stáhla  do ústraní, neměla kontakt s okolním světem  a držela se v 
+  první dvacítce, tzv. Dvaceti statečných, silou širé vůle.
+- [ ]   Pálkovská,  jedna   z těch,  co   se  nepřizpůsobili,   napadla  ostatní
+  v překvapivém  útoku později  nazvaném  Oranžová okupace,  pomocí mocných  sil
+  Modrých klobouků.
+- [ ] Velká pětka se rozrostla do  /Větší pětky/ jako odpověď na útok Pálkovské,
+  která si na oplátku zřídila /Pálkovská squad/.
+- [ ] Oba tábory se utkali  v historické bitvě u Nového Dilí. Pálkovská, zrazená
+  Macháčkem,  se zřekla  Modrých klobouků  v jeho prospěch  a byla  vyloučena ze
+  závodu, ale Macháček byl i tak poražen.
+** 2. fáze
+- [ ]   /Mezinárodní  Úřad/   svolal   všechny  kantory   do  Der   Weiderhohlle
+  Flüsemschliessem a zakázal přechovávání armád,  za což byla Rotreklová později
+  vyloučena ze závodu.
+- [ ] Učitelům trvalo tři měsíce si  uvědomit, že si nedělají srandu, a dostavit
+  se na místo.
+- [ ] Oslová  cestou do Německa  zastavila Rotreklovou a nabídla  jí spolupráci.
+  Společně  začali systematicky  unášet  kantory Dvaceti  statečných, Oslová  z 
+  radikálních důvodů, Rotreklová z kariéristických.
+- [ ]   Monte  Karlos  Někdeník  vyslal  vyšetřovatele  v utajení,  aby  odhalil
+  pachatele a  našel zmizelé  kantory. Trvalo  mu to  nějakou dobu,  ale nakonec
+  přechytračil  Rotreklovou i  Oslovou.  Nastražil na  ně  past v Monte  Karlos,
+  dopadl  Rotreklovou, kterou  předal  KKL -  odnoži  /Mezinárodního Úřadu/  pro
+  dodržování jeho  vůle -,  a zahnal  Oslovou s rukojmím  na útěk.  Obě tragicky
+  zahynuly v  záhadném výbuchu.
+- [ ] Učitelé  byli nalezeni živí  a dostatečně zdraví na  pokračování v závodě.
+  Téměř  všichni se  musejí prodrat  zpět na  vrchol žebříčku,  což je  složité,
+  protože  /Mezinárodní  Úřad/ pozastavil  závod,  dokud  se nevyřeší  přestupky
+  Rotreklové proti zákonu, slušnému chování a pravidlům závodu.
+* Verze 1
+** Doznání
+Já, Mgr Martina Rotreklová, čisté mysli a zdravého ducha, se tímto doznávám dobrovolně a z vlastní vůle k následujícím přestupkům proti zákonům lidským, božským a závodním: Přechovávání armády v době nuceného míru, spolupráce s teroristicko-fanatickou Sektou nesplněné pomsty, utajování informací o porušování pravidel závodu o /nejvyššího vůdce všeho učitelstva/ a systematické únosy svých politických protivníků.
+
+ Jsem vinna.
+** Svědectví
+ Vše začalo minulý rok. /Mezinárodní Úřad Pro Úplnou a Asertivní Spolupráci/ /Spojených Sátů Místních i Zahraničních za Účelem Světového Míru, Obchodu a/ /Výměny Služeb/ (dále M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.) vyhlásil dlouho očekávaný závod o Nejvyššího vůdce všeho učitelstva, post, který vítězi zajistí bezkonkurenční moc nad všemi učiteli, školami, universitami, učebnicemi, výukami, rozvrhy, jídelnami, tělocvičnami, školními uniformami, náboženskými vyznáními, právy a svobodami, technickými vybaveními, vojenskými silami, magickými schopnostmi a kulečníky spojenými s konceptem školy, vzdělání, výuky či žáků.
+
+ Po příležitosti skočilo přes devět tisíc kantorů z celého světa, pár fiktivních postav, nějaká ta abstraktní personifikace a dokonce i jezevec. Každý, doslova každý byl zachycen do této zlaté sítě, včetně mě.
+
+ Karlos Žebatý,  majitel konglomerátu  Monte Karlos se  všemi jeho  odnožemi jako
+ Monte Karlos Někdeník, ŽebaTV[fn:1], Karlostudio 3  FM a podobně, se začal celou
+ situací  bedlivě zabývat.  Do svého  pravidelně náhodného  televizního talk-show
+ programu  pozval tehdy  nejlépe  postaveného učitele  -  pana Radovana  Langera.
+ Několik  dní po  jejich rozhovoru  zmizel pan  Langer, čirou  náhodou můj  přímý
+ nadřízený, a ačkoli svět  (včetně mě) nevěděl kam, ocitl se  v celách jisté paní
+ Elišky Oslové, generální ředitelky ústavu pro duševně neschopné a kultovní hlavy
+ Sekty nesplněné pomsty. Tam také zůstal přes půl roku.
+
+ Oslová  věřila, že  učitelé se  polepší ve  svých přístupech  k žákům,  závodu a
+ vesmíru vůbec. Dala nám čas na rozmyšlenou, žel marně.
+
+ Někteří učitelé  zformovali /kantoří  umělá společenství/ -  KUSy. Já  sama jsem
+ byla  členem  toho  neznámějšího  KUSu  -   Velké  pětky.  Ti  z nás,  kteří  se
+ přizpůsobili pravidlům závodu,  na tom byli dobře. Pan Macháček,  paní Ebbe, pan
+ Rychnovský  a další.  Jiní -  paní (čirou  náhodou) kolegyně  Záchelová či  paní
+ Lajdová a  podobní - to nezvládli.  Paní Záchelová, ku příkladu,  se propadla do
+ hlubin spodních  desítek a paní  Lajdová se  odřízla od okolního  světa, odmítla
+ veškeré rozhovory, rozsáhlé kampaně a jiné zcela běžné věci, a v první dvacítce,
+ tzv. Dvaceti statečných,  se udržela jen silou čiré vůle  přes vrtění hlav všech
+ autorit na politiku.
+
+ Můj pád  do temnoty začal  paní Pálkovskou, čirou náhodou  mojí spolupracovnicí.
+ Jako jedna z těch,  kteří to hrubě nezvládli, paní Pálkovská  se rozhodla získat
+ potřebné body  silou. Pravidla  závodu tehdy  ještě nijak  nezakazovala vojenské
+ střety  mezi učiteli  a paní  Pálkovská využila  situace. Napadla  ostatní členy
+ Dvaceti statečných v překvapivém útoku později nazvaném Oranžová okupace, pomocí
+ mocných žoldáckých sil Modré klobouky.
+
+ Velká pětka,  jeden z mála  KUSů, který jejímu  útoku odolal,  zformovala /Větší
+ pětku/  jako  odpověď na  její  vojenskou  otázku.  Bohužel, paní  Pálkovská  si
+ v malicherné  nadávce  pořídila  /Pálkovská  squad/  a  demagogickým  argumentem
+ vyzvala Větší pětku k boji.
+
+ Oba tábory se střetly v historické  bitvě u Nového Dilí. Paní Pálkovská, zrazená
+ panem Macháčkem, čirou náhodou rovněž mým nadřízeným, se zřekla Modrých klobouků
+ v jeho prospěch a hanbou opustila závod nadobro. Pan Macháček ale nedokázal svou
+ nadváhu udržet a byl poražen.
+
+ Můj osobní problém pramenil z nedostatku uznání.  Je mi líto, že jsem se nechala
+ slézt jedním  ze smrtelných  hříchů -  neředěnou frustrací  - ale  moje taktické
+ znalosti a  dovednosti na poli  dovedly Větší pětku  ke zdárnému konci,  zato mě
+ takřka zrujnovaly.
+
+ Paní  Oslová,  která cestou  také  unesla  paní  Horákovou, čirou  náhodou  mojí
+ přítelkyni z práce a velitelkou Velké i Větší pětky, mi pak nabídla spolupráci.
+
+ Všichni  důležití   učitelé,  tj.  Dvacet   statečných,  byli  svoláni   do  Der
+ Weiderhohlle Flüsemschliessem[fn:2], skromného  sídla v Bavorsku, a přechovávání
+ armád  bylo  zcela  zakázáno,  aby se  zabránilo  dalšímu  zbytečnému  prolévání
+ inkoustu na celosvětové zprávy o vývoji bitev.
+
+ Učitelům trvalo tři měsíce si uvědomit, že  si nedělají srandu, a dostavit se na
+ místo. Na letišti do  Německa mě oslovila paní Oslová a  spolčili jsme síly, ona
+ z důvodů radikálně fanatických, já chladně kariéristických. Společně jsme začali
+ unášet mou konkurenci z Der Weiderhohlle Flüsemschliessem.
+
+ Monte Karlos Někdeník,  jmenovitě šéfredaktor Alžběta Ašelová,  čirou náhodou se
+ mnou  nijak  nespřízněná,  ale  k naší smůle  vyslala  špičkového  vyšetřovatele
+ v utajení, sira  Daniela Jonathana Pace[fn:3].  Zatímco jsme unášeli  učitele za
+ učitelem, nastražil  na nás  past ve  studiu Monte  Karlos. Odevzdal  mě skupině
+ KKL - organizaci pro dodržování pravidel závodu - za přechovávání vojenské síly,
+ kterou jsem pana Pace  a paní Oslovou chtěla zničit, než zničí  oni mě. Sir Pace
+ zahnal paní  Oslovou s rukojmím  na útěk, obě  ale tragicky  zahynuly v záhadném
+ výbuchu.
+
+ Zatímco,  nalezeni živí  a  dostatečně zdraví  (tělesně),  aby mohli  pokračovat
+ v závodu, byli  ostatní učitelé převezeni do  Der Weiderhohlle Flüsemschliessem,
+ já skončila v tajném  vězeňském komplexu /Omma Céb a la  Sviña costa/[fn:4], kde
+ nyní  píši toto  doznání  a čekám  trest  za přestupky  proti  zákonu, závodu  a
+ slušnému chování.
+
+** Footnotes
+
+[fn:1] Čti Žebatýví.
+
+[fn:2] Čti německy.
+
+[fn:3] Čti normálně.
+
+[fn:4] Nečti.
+* Verze 2
