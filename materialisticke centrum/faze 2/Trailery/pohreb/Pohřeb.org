@@ -1,0 +1,166 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local default-justification 'full); eval: (auto-fill-mode 1); eval: (toggle-truncate-lines); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ? "Der Weiderhohlle Flüsemschliessem");-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section"> <style:section-properties text:dont-balance-text-columns="false" style:editable="false"> <style:columns fo:column-count="3" fo:column-gap="0.497cm"> <style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/> <style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/> <style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/> </style:columns> </style:section-properties> </style:style>
+
+<style:style style:name="NormalSect" style:family="section"> <style:section-properties text:dont-balance-text-columns="false" style:editable="false"> <style:columns fo:column-count="2" fo:column-gap="0.998cm"> <style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/> <style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/> </style:columns> </style:section-properties> </style:style>
+
+<style:style style:name="EditorialSect" style:family="section"> <style:section-properties text:dont-balance-text-columns="true" style:editable="false"> <style:columns fo:column-count="2"> <style:column style:rel-width="3401*" fo:start-indent="0cm" fo:end-indent="0.499cm"/> <style:column style:rel-width="6237*" fo:start-indent="0.499cm" fo:end-indent="0cm"/> </style:columns> </style:section-properties> </style:style>
+
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+
+#+ODT_STYLES_FILE: "/home/oscar/Documents/Monte-Karlos/odt vzor/MonteKarlosNěkdeník1-2020.ott"
+:END:
+#+TITLE: Mrtví hrdinové
+*....:*
+
+Prší.  Kapky deště  padaj z hustejch  mraků jako  kováky z roztržený  peněženky,
+černý jako celá tahle maškaráda. Slunce  se pomalu blíží horizontu a stíny sahaj
+mocnejma tlapama po  do porozu vzpřímenejch kamenech  seřazenejch v několik řad,
+delších než výpis mejch neduhů. Skupina pochmurně oblečenejch personifikací žalu
+samýho stojí v půlkruhu kolem díry v zemi, čerstvě zasypaný nakypřenou hlínou, a
+s bedlivostí nezaujatejch poslouchá postavu v čele.
+
+"Forestova matka vždy říkala: Život je  jako bonboňiéra. A měla pravdu." Ašelová
+v ruce drží sepsanej  proslov, zalaminovanej do průhlednýho  plastu proti dešti.
+Silnej poryv  větru s sebou přináší listí  a přehluší její slova  v mejch uších.
+Ne, že bych mu to vyčítal.
+
+Stojim o nějakejch deset metrů vzadu, schovanej ve stínu beznaděje a vzteku, kde
+mě žádnej slušnej člověk neuvidí. Ne proto,  že bych tu nebyl vidět, ale protože
+sem se žádnej takovej nedívá.
+
+Za Ašelovou  stojí placatej  kámen, vyšší  a těžší  než všechny  ostatní, stejně
+placatý kameny zaražený  do trávy. Moje bejvalá šéfka mi  brání v přečtení toho,
+co je  do něj vyrytý, ale  dá se předpokládat něco  ve stylu: Zde leží  ta a ta,
+takového a  takového charakteru, drahá  tohle a  támhleto. Jedno nebo  dvě data,
+mezi nima  pomlčka. Pomlčka,  která je  důležitější než  všechno ostatní  na tom
+kameni.
+
+Já vlastně ani nevim, jestli měla nějakou  rodinu. Nikdy sem se nezeptal. To asi
+proto, že mě to nezajímá. Do oka mi padne kapka a já zamrkám. Steče mi po tváři,
+mrcha jedna, a  spojí síly s těma, který  se z oka vydraly ven.  Nedá se poznat,
+která je která...
+
+V dálce  stojí pár  stovek  fanoušků, obdivovatelů  a náhodnejch  kolemjdoucích.
+Udělali zástup tak dlouhej, že se vine jako had a pomalu ztrácí v temnym lese na
+kraji  hřbitova a  svojí nezvanou  přítomnost ohlašuje  jenom mihotavym  světlem
+svíček, který  každej z nich musel vyfasovat  někde v továrně a na  příděly. Ani
+oni mě neviděj, tak dobře sem se schoval.
+
+Ašelová pokračuje  a vítr ustal, takže  její slova můžou pohodlně  doplout až ke
+mně a dostat tu  čest sklouznout po zdi naprostýho nezájmu,  kterou sem si kolem
+sebe  pilně postavil.  Vidim  Karlose  Žebatýho, jak  stojí  nad  hrobem Kupé  a
+nepřítomnym pohledem propichuje  neviděný protivníky. Vedle něj  se ošívá Lečko,
+možná starostí, možná nudou, možná stejnou pochmurnou beznadějí, která prosakuje
+mrakama už  od rána. Několik  novinářů z Někdeníku se  přišlo podivat, to  je od
+nich moc hezký. Moc hezký.
+
+Když uslyšim lámající se stébla trávy  pod těžkejma, dvacet let starejma botama,
+nesoucíma mladýho chlapa v obleku s naprosto neakceptovatelnym účesem, nastražim
+uši. Otočim se po hlase. Z příjezdový cesty  se ke mě blíží, ano opravdu, mladej
+chlap v obleu se skutečně neakceptovatelnym účesem. Moje zlatý uši.
+
+Opřu se o hůl, moje  noha se po výbuchu ještě nezotavila, a  hodim po něm pohled
+naprostýho pohrdání. On  ho chytí, chvíli se rozhlíží, až  se rozhodne pro malej
+stojan  u jednoho z hrobů.  Položí ho  opatrně  na něj,  aby nespadl  na zem,  a
+pokračuje.
+
+Po důkladnym zvážení, jestli mi stojí za to hodit po něm ještě jeden, symbolicky
+smeknu klobouk. "Co zas?" pozdravim.
+
+"Daniel Pace?" zavolá příchozí, aby přehlušil déšť.
+
+"Většinou."
+
+"Daniel /Jonathan/ Pace?" Ujišťuje se.
+
+"Když to řikáte."
+
+"/Sir/ Daniel Jonathan--"
+
+"Jo, proboha!" Že si nedaj pokoj, pakáž mizerná.
+
+"Já jsem  Gastronýmen Žbosteralla, vrchní správní  dálkový doručovatel rukopisů,
+výtisků, balíků, vyhlášek a dokumentů Monte Karlos."
+
+"Pošťák."
+
+Vrchní doručovatel Žbosteralla mě ignoruje. Sáhne  si do kapsy od levnýho saka a
+vytáhne štos papíru, zabalenej v igelitovym pytli. "Mám pro vás zásilku, sire."
+
+Vezmu si od něj  igelitku a podivám se dovnitř. Je tam  složka, bez nadpisu nebo
+ména, a uvnitř pár listů potisknutejch drobnym  písmem. Skrz ten igelit se mi to
+špatně čte.
+
+"Co to je?" ptám se ho.
+
+"Rukopis, výtisk, balík,  vyhláška nebo dokument, řekl bych. Dnes  ráno se našim
+hochům podařilo roztřídit  všechny dokumenty, které skončili pod  sutí a kamením
+u toho výbuchu. Paní Kupé," pokynul  směrem k půlkruhu sténajících, "nechť najde
+věčný klid v lovištích svého mládí, to  přinesla v den své smrti do studia. Není
+to adresováno  vám, ale je u toho  poznámka, že to chtěla  použít při spolupráci
+s vámi na jakémsi nějakém takémto. Nevíme, čem."
+
+Informovanost  sama, tenhle  chlap. "Ještě  něco?"  zeptám se.  On vrtí  hlavou.
+"V tom případě, ať už vás nevidim."
+
+Vrchní jakýsi nějaký takýto Žbosteralla se ukloní, nějak se otočí na obou patách
+naráz,  každou v jinym  směru, a  pomalu  odkráčí k autu,  jeho nehoráznej  účes
+promočenej na kost. Se vším se dovedu smířit, dokonce i s lidma, co jedi jogurt,
+ale tu poklonu, tu mu nedaruju.
+
+Ještě, než nasedne, po něm hodim  druhej pohrdavej pohled. Tentokrát mě nevidí a
+schytá to přímo do týla. Na místě se skácí k zemi. Já mu dám, klanět se mi.
+
+Papíry sou výpisky z převodů bodovejch bank. Jakej účet poslal nebo dostal kolik
+hlasů v závodě od  koho a kam a kdy. Několik  převodů je zakroužkovanejch černou
+fixou, která se  na černobýlym textu dost špatně rozeznává.  Já sem ale naštěstí
+barvoslepej na levý oko, takže sem na to zvyklej.
+
+Upřímě nemam ponětí, co  to má bejt. Kupé se mnou chtěla  o něčem mluvit, ale já
+myslel, že  to byl jenom další  důkaz k usvědčení Rotreklový. Ta  je za mřížema,
+tak sem to dál nezkoumal.
+
+Prolistovávám se pomalu  moknoucíma listama a hledám, co by  to jako mohlo bejt.
+Nikne nejsou  žádný ména,  jenom ména  banek, protože účty  sou vedený  jenom po
+číslech a  majitel je anonymní,  aby veřejnost  nevěděla, kolik hlasů  má kterej
+učitel. Hledám a  hledám, ale nic nevidim.  Jak se dostávám ke  konci, všiml sem
+si,  že  kruhů přibejvá.  Někdo  posílá  hlasy  nějakýmu učiteli.  Hodně  někdů.
+V posledních  měsících, než  závod  dočasně zastavili,  těch transakcí  proběhlo
+nejvíc.
+
+Listuju dál a dál až se dostanu  na poslední stránku. Tam sem měl začít, protože
+Kupé napsala stejnou fixou jedno méno.  Svejma zdrojema vypátrala, komu ten účet
+patří.  Musim se  ptát, jestli  náhodou  nebyl výbuch  směřovanej na  ní, ne  na
+Oslovou. Nikdo nezjistil, kdo to vlastně  odpálil. Zírám na list papíru, ruce se
+mi klepou a chodidla svírají v pěst. /Lajdová/.
+
+Vzpamatuju se a  rychle složku zaklapnu. Nikdo to nesmí  vidět, než vymyslim, co
+s tim  udělat. Schovám  to celý  pod kabát,  nasadim neutrálně  zdrcenou tvář  a
+obrátim svojí pozornost  k pohřbu. Ašelová domluvila a  zaměstnanci Někdeníku se
+shromáždili kolem malý  vyvýšeniny, pod kterou ležej ostatky  jedný Olšany Kupé,
+hrdiny naší  generace, a začali  zpívat La Karllosaise, mezinárodní  hymnu Monte
+Karlos. Had svíček v pozadí se přídal. Nad hlavama jim kroužej krkavci, havrani,
+labutě nebo co to je a zpívaj taky.
+
+Mrtvá, ale  její hlas přinese novou  éru do tohohle zatracenýho  závodu. O to se
+postarám.
