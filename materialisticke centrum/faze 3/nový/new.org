@@ -1,4 +1,4 @@
-# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■");-*-
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1);-*-
 :stuff:
 <style:style style:name="InterviewSect" style:family="section">
 <style:section-properties text:dont-balance-text-columns="false" style:editable="false">
@@ -51,7 +51,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 #+TITLE: MONTE KARLOS NĚKDENÍK
 #+SUBTITLE: 
 
-* 7/2020
+* 8/2020
 Ročník XXVV
 
 *Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
@@ -77,6 +77,8 @@ Ročník XXVV
 *Móda:* Šlapeboso Elle'Gante
 
 *Závodní ekonomie:* Financier Kovva-Lečný
+
+*Kaňonskop:* 
 
 *Editoři:* 
 
@@ -106,16 +108,64 @@ Ročník XXVV
 
 *Rozšiřují:* google.com
 * Editorial                                                             :250:
-* Závodní ekonomie
+
+
+Alžběta Ašelová, šéfredaktor
+* Závodní ekonomie - Mezinárodní symbióza
+Dnes si trochu popovídáme o politice. Nebojte se, nebude to tak strašné, jak nás Tomáš v kanceláří straší. Řeknu vám ve zkratce o vztahu mezi Úřadem a Spolkovou bankovní federací, co z toho má jaká strana a proč je rozhodnutí zavést Radu odvážných důležité, případně, aby ti někteří z vás, co mají problémy s jednoduchými koncepty - hlavně Bob -, co to vlastně Rada odvážných je.
+
+** Symbióza
+Jak jistě víte z našeho minulého povídání, jak Mezinárodní Úřad, tak Spolková bankovní federace jsou nadnárodní organizace. Ovládají dohromady podle jistých neoficiálních statistik 79% světové politické moci[fn:1] a jejich úspěch pramení ze vztahu, kterému se v odborných kruzích říká Mezinárodní symbióza.
+
+M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. je velmi, /velmi/ vlivná organizace s mnoha prsty ve všech světových i vesmírných vládách. Jejich slovo je rozkazem, božím vzkazem či přírodním zákonem, podle toho, v jaké zemi se nacházíte. Svou prestiž a moc získávali postupně. Již od svého založení roku 1915 svého letopočtu drželi v rukou nejvlivnější vlády tehdejšího světa a jejich úchop pouze sílil s časem.
+
+Spolková bankovní federace na druhou stranu vydělávala peníze již dvě stě let před svým založením. Vznikla spojením dvacet devíti do té doby neexistujících bankovních institucí a jednoho kasína, které udrželo celý kolos na vodě prodejem tabáku v Austrálii. Doufám, že vám netřeba vysvětlovat - na rozdíl od Kateřiny z reklamní sekce - že peníze jsou moc.
+
+Jak se tyto dva giganti spojili? Inu, jedná se spíše o nucenou spolupráci. Když se obě organizace rozrostli do takových velikostí, že si začali šlapat do ekonomického zelí, daly hlavy dohromady a uzavřeli pakt. Tento pakt, zvaný Kořistní, zajišťuje následující práva a povinnosti.
+
+Všechny spolkové banky platí daně Úřadu podle výše svých příjmů za poslední měsíc (jsou to daně měsíční), výše svých nepřímých investic do fungování Úřadu a výše hladiny moře v Golfském zálivu. Toto vynáší nesmírnou sumu peněz použitých následně na vnitřní chod především odnože OPF, která následně vydělává Úřadu peníze pro chod celé společnosti ve výši 80% daní získaných z banek.
+
+Naopak, banky mají na území kontrolovaném Úřadem (všude) jistá privilegia, například možnost beztrestného vypálení konkurenční banky či lepší důchody. Toto umožňuje expanzi Federace do míst dosud nedotčených bankovní vymožeností, což přináší Úřadu víc peněz z daní a tak dále, dokud tyto dvě instituce nebudou vlastnit všechno jmění světa a nebudou fungovat na vzájemném zdaňování sebe sama.
+
+** Rada odvážných
+Druhým z největších příjmů Úřadu je reality show pořádaná odnoží QXM, která se stará o veřejné mínění o Úřadu. Jejich největším hitem je prodávání klipů ze života Učitelů v /závodě/, nesestříhaných a neupravených, jak si někteří - hlavně Bob - myslí.
+
+Veřejné mínění však kleslo po bitvě u Nového Dilí. To se stává, když se navzájem poperou pětimilionové armády a zanechají za sebou smrt, zkázu a vlnu nezaměstnanosti. Proto začátkem tohoto roku zakázal Úřad učitelům vlastnit armády.
+
+Jenomže pak nebylo, o čem vysílat. Únosy kantorů drželi diváky u obrazovek, ale i tomu bylo učiněno zadost. Úřad proto nevydělával peníze z reality show a kvůli pozastavení /závodu/ nerostl počet hlasů v bankovních trezorech. Hlasy přicházejí jen s volbami, které byly rovněž pozastaveny. Banky proto nemohly platit větší daně, což způsobilo druhou finanční krizi.
+
+Řešení je následující - povolit armády a znovu otevřít /závod/, ale zajistit, aby se diváci neobrátili proti Úřady, nýbrž proti učitelům, kdyby se jim něco nelíbilo. A tak vznikla Rada odvážných. Při každém zasedání drženém v Der Weiderhohlle Flüsemschliessem může učitel v Radě přednést stížnost na jednání jiného učitele, které by podle něj mělo být zakázané pravidly /závodu/. Téma se probírá, o návrhu se hlasuje a výsledek je poslán Úřadu samotnému, který rozhodne.
+
+A tak, milé děti - hlavně Bobe -, funguje ta naše planeta.
 * Zprávy                                                                :350:
 * Cestopis
 * Závod
 ** Vývoj                                                                :400:
+Celá komunita /závodu/ je roztřesená. Záhadný úprk paní Rotreklové z její cely v tajné základně /Omma Céb a la Sviña costa/ rozrušil voliče i kantory. Probíhá rozsáhlé pátrání po jejím komplici v této realitě i v jiných. Autority však varují, že její dopadení je nepravděpodobně.
+
+Paní Lajdová mezitím získává větší a větší vliv v Radě odvážných. Její nedávný výstup na vrchol žebříčku, kde už jednou byla, značí podle odborníků zlom v průběhu celého /závodu/. Jakožto první z Dvaceti statečných, vyžádala si u Mezinárodního Úřadu vyhlášku, že učitelé nejsou povoleni se scházet mimo Der Weiderhohlle Flüsemschliessem. Proč tomu tak je odmítá sdělit, ale s její nechutí k veřejnému vystupování se nejedná o žádnou výjimku. Nyní je nezákonné pro účastníky /závodu/ sejít se jeden s druhým mimo tento komplex, a to pouze na oficiální politické záležitosti, které jakožto nový předseda Rady svolává sama.
+
+Další změny v žebříčku jsou předvídatelné. Paní Jakešová se více a více zaměřuje na svou filmařskou kariéru a ignoruje své voliče, což jí ubližuje v očích sponzorů. Veškeré její finance nyní přicházejí z Hollywoodu, ale jejich investice jde převážně do marketingu jejího díla Rychle a v přesile: Tóny smrti. Její pokles byl tedy očividný.
+
+Pan Šeiner se uzavřel do svých komnat a pracuje na nezveřejněném projektu, který však ubírá čas jeho kampaním. I on poklesl, byť o jediné místo.
+
+Paní Malá, která se proslavila velkou rolí v dopadení paní Rotreklové, se propadá ze stejného důvodu. Její úsilí strávené odhalováním únosce nyní chybí její kampani a může trvat ještě dlouho, než se opět postaví na nohy. To jest, jestli ji paní Lajdová nechá.
+
+A konečně, M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. vyhlásil první velké hlasování Rady statečných. Učitelé hlasují o používání armád při získávání bodů od bankomatů a hlasů od voličů. Jejich rozhodnutí poslouží jako štít, za který se Úřad bude schovávat v případě, že dojde na další Nové Dilí. Paní Lajdová ne samozřejmě odmítá vyjádřit, ale její vojenské síly, tvořené převážně rozpadlou Sektou nesplněné pomsty - tedy vojáky Času pomsty -, mluví za sebe. Ona sama se stále odmítá objevit na veřejnosti jinak než v podobě hologramu a její skutečná pozice je všem zcela neznámá.
+
+#+begin_src emacs-lisp
+  (progn (backward-kill-paragraph 1)
+		 (insert-file (expand-file-name "~/Documents/Monte-Karlos/postupove centrum.org")))
+#+end_src
 ** Rozhovor
 * Korespondent
 * Lifestyle
 ** Karlos-čepice
-** Zvěrála
+** Kaňonskop
 * Šeiner
 ** Špeh
 ** Lekce bankomata
+
+* Poznámky
+
+[fn:1] Především podle profesora Aßohla Biebelbaubera, který po publikování svých poznatků záhadně zmizel a byl nahrazen mrtvým tělem s třikrát prostřelenou plící překvapivě akurátní kvality (ne plíce - tělo; jeho napodobenina byla velmi akurátní).

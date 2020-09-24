@@ -53,11 +53,11 @@ Mlčokoutek - věci o Totismu v Někdeníku
 ** Koresponcence
 *** všechen východ: Aleks Chalexch
 - [[file:8.23./Z%C3%A1vod%20za%C4%8D%C3%ADn%C3%A1.org::*Korespondent][Volby v Mas'Er-ati]]
-*** Sicílie: Yorga Mnjelsemsen-dottir
+*** Móda: Yorga Mnjelsemsen-dottir
 - [[file:A10.12./Zmizel%C3%AD%20zmizel%C3%AD.org::*Korespondent][Messina]]
-*** Měsíc: Ž'pel alla Frusciogn
+*** Budoucnost: Ž'pel alla Frusciogn
 - [[file:materialy/faze%201/26%20-%202.12/C%CC%8Casy%20se%20mn%CC%8Cen%CC%8Ci%CC%81.org::*Korespondent][Beaujolais nouveau 20]]
-*** Bradavice: Knutt Überhochmann
+*** Fiktivní místa: Knutt Überhochmann
 - [[file:A11.17./Neklid%20p%C5%99ed%20bou%C5%99%C3%AD.org::*Hodnocen%C3%AD%20odborn%C3%ADka][Bradavice]]
 *** Pes
 - [[file:2.22./Op%C4%9Bt%20zde%20a%20v%20pln%C3%A9%20s%C3%ADle.org::*Korespondent][Jsem pes]]
@@ -69,6 +69,11 @@ Mlčokoutek - věci o Totismu v Někdeníku
 - Fotograf: Alexandra Dimitrij von Dieseldorf
 - sociální poradce: Lightningh Danger
 - Sociální podpora: Anna Oleš
+- Závodní ekonomie: Financier Kovva-Lečný
+- kaňonskop:
+- špeh: nevíme
+- seniorní bankomat: Tera Mažetková
+- cestopis: Áron Ponurý a Emanuel Bebeš
 - móda: Šlapeboso Elle'Gante
 ** Další
 - Catering: Blanka MccEkeelee
@@ -77,14 +82,20 @@ Mlčokoutek - věci o Totismu v Někdeníku
 - Lyžař: Natürlich Teppich
 - Pekař: Ilja Odyseus
 - Heretik: Uštěpač o'Connel
+
 - Předpověď počasí: Hoso al'Kosso
+- Kostelník: Obedaya Glave
 - Mytologie: Krupičník Davidd
 - Věštec: Theodrios Appol-Théby
 - Inkvizitor: Paramount Fox
+- Nezvaný host: Smutek
+
 - Celofán: Ždibopych Blecháč
+- Dobyvatel: Sevn o'Clock
+- Dirigent:
+- 
 * Running stories
   :PROPERTIES:
   :VISIBILITY: all
   :END:
 - [[file:9.14./Ba%C5%BEant%20v%20ch%C5%99t%C3%A1nu%20lvov%C3%A9m.org::*Do%20v%C3%A1lky][Do války]]
-- Vyšetřování

@@ -1,0 +1,180 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1);-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties><
+/style:style>
+
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: 
+
+* _/2020
+Ročník XXVV
+
+*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:* EmailNoReply@server.mok
+
+*Zákaznická linka:* 0004 892 223 03E
+
+*Šéfredaktor:* Alžběta Ašelová
+
+*Manažer redakce:* Jiří b'Ačkora
+
+*Zástupce šéfredaktora:* Hobbo Habán
+
+*Fotograf:* Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:* Tara Kočí
+
+*Obrazová redakce:* Honza Kůň
+
+*Rozhovor:* Karlos Žebatý, Lubomír Lečko
+
+*Móda:* Šlapeboso Elle'Gante
+
+*Závodní ekonomie:* Financier Kovva-Lečný
+
+*Kaňonskop:* 
+
+*Editoři:* 
+
+*:* 
+
+*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:* Karlos Žebatý
+
+*Sociální poradce:* Lightningh Danger
+
+*Sociální podpora:* Anna Oleš
+
+*Inzerce:* Many Hrabal
+
+*E-shop:* nakupsisam.cz
+
+*Tiskne:* individuálně
+
+*Korespondent:* 
+
+*Špeh:* nevíme
+
+*Seniorní bankomat:* Tera Mažetková
+
+*Cestopis:* Áron Ponurý a Emanuel Bebeš
+
+*Rozšiřují:* google.com
+* Editorial                                                             :250:
+
+
+Alžběta Ašelová, šéfredaktor
+* Závodní ekonomie - Obchvat
+Mluvili jsme o sponzorech, mluvili jsme o voličích. Zmínili jsme ekonomickou a politickou roli Mezinárodního Úřadu a popsali jsme, jak peníze plují těmito prazvláštními vodami na vlnách lidské chamtivosti. Když říkám my, myslím já. Nyní se pojďme podrobněji podívat na poslední z našich herců, na ty, kteří stojí poněkud stranou. Bankomati, vystudovaní na Univerzitě v Luthadelu v oboru politického recenzentnění.
+
+Mezi mými kolegy v kanceláří kolují zvěsti, že pro nás jeden takový bankomat pracuje, nebo aspoň s námi. Rozhodl jsem se tedy, že je načase vás, mé milé čtenáře, stejně jako své drahé kolegy - hlavně Boba - obeznámit se systémem, ve kterém pracují.
+
+Něco už jsem o nich zmínil, ale vyplatí se to zopakovat. Podle Dohody o poskytnutém prostoru dostaly spolkové banky Spolkové bankovní federace informace o tehdy ještě příchozím /závodě/ několik let dopředu. Skoupily akcie Univerzity a daly se do cvičení svých bankomatů. Představili do učiva takzvaný CCC[fn:1], souborem pravidel a zásad, kterými se všichni bankomati musí řídit.
+
+Nutno možná podotknout, že ne všichni absolventi Univerzity se staly bankomaty. Jen ti nejlepší.
+
+** Banky
+Bankomati pracují pod svou spolkovou bankou, kterou si vyberou v posledním ročníku Univerzity. Nejpopulárnějšími zaměstnavateli jsou:
+
+1. Trojský Triumvirát (TT)
+   Spojení tří banek vedené starořeckými filosofiemi Platonismu, Stoicismu a Archimedismu.
+2. Bratrstvo Poražených ale Nepadlých (BFYSS[fn:2])
+   Ruská banka s decentralizovaným systémem vlády plně v rukou Íránského bratra Ancelma.
+3. Demokratická Republika Obleštánu (DRO)
+   Jedná se o stát s rozlohou 40 000 km^2, jehož ekonomika zcela stojí na jeho finančních prospektech. Většina Oblešťanů pracuje jako uklízeči.
+4. Mocný Vladce Koz (bez zkratky)
+   Finančně nezávislá průhledná létající hlava.
+
+Tito giganti mají ve svých spárech něco mezi dvěma sty a třemi sty padesáti tisíci[fn:3] bankomaty. Oficiální počty nejsou zveřejněny.
+
+** Obchvat
+#+begin_comment
+Obrázek /závodní/ ekonomie
+#+end_comment
+
+Podíváte-li se na graf /závodní/ ekonomie, takzvaný Domeček, můžete si všimnout, že podobně jako sponzoři, bankomati stojí stranou od celého závodu. Avšak na rozdíl od nich, jejich příjmy jsou zcela diktovány jeho popularitou. Banky platí bankomatům, kteří hodnotí učitele, ti dostávají peníze od banek, které na hodnocení učitelů závisí. Této cestě se mezi laiky - hlavně Bobem - říká Obchvat. Je to prostě a jednoduše okruh vlivu a vzájemné pomoci na trase banka - baknomat - učitel - banka.
+
+** CCC
+Naším posledním dnešním tématem je CCC, tedy pravidla, kterými se bankomati musí řídit. Jedná se o komplexní soubor, jehož celé znění je lidsky nemožno zaznamenat, budu tudíž velice stručný, k vašemu jistému nadšení.
+
+1. Bankomati musí hodnotit učitele podle jeho schopností a popularity, ne podle jeho vzhledu, vzhledu jeho křečka či náboženského vyznání[fn:4]. Bankomati nesmí být stranní, předujatí ani zaujatí, nesmí mít jakékoli vztahy s hodnocenými jednotlivci a mají povinnost vynechat všechny ostatní okolnosti ze svého soudu.
+2. Bankomati nesmí vlastnit osobní majetek, sic by tento použit byt proti nim způsoby nemorálními a výhružnými.
+3. Bankomati mají svatou povinnost stranit se alkoholu, drog, čokolády, ručních kapesníků, svíracích nožů, dvoutunových myší a především omeletám.
+4. Bankomati se musí stranit všech lidských emocí, výlevům vzteku či jeho výsypům a všech podobných pozemských nesmyslů. Bankomati pracují jako strážci míru a spravedlnosti ve světě /závodu/ a jejich loajálnost k systému a své bance je samozřejmostí. Zrada bankomatů se trestá smrtí jejich křečka. Bankomati musí mít jasno ve svém duchovním stavu a pravidelně zajišťovat svou myšlenkovou dekontaminaci hlubokou meditací. Bankomati jsou prakticky Jediové.
+5. Bankomati nesmí přímo zasahovat do průběhu /závodu/. Jejich cíl je sledovat, pamatovat si a hodnotit, nikoli měnit. Bankomati nesmí použít své znalosti k ovlivnění výsledků /závodu/ jakýmkoli směrem. Závisí na tom jejich zaměstnání, čest a křeček.
+
+Inu, to je zjednodušený záznam CCC. CCC bylo mnohokrát označeno jako důvod, proč bankomatů ubývá, i když je názorem mnohých, včetně mě - ale hlavně Boba -, že se jedná jen o malou část problému. Pravdou však zůstává, že většina bankomatů je hodnocena více za přístup a dodržování CCC než za své schopnosti korektně hodnotit učitele.
+* Zprávy                                                                :350:
+* Cestopis
+* Závod
+** Vývoj                                                                :400:
+   
+#+begin_src emacs-lisp
+  (progn (backward-kill-paragraph 1)
+		 (insert-file (expand-file-name "~/Documents/Monte-Karlos/postupove centrum.org")))
+#+end_src
+** Rozhovor
+* Korespondent
+* Lifestyle
+** Karlos-čepice
+** Kaňonskop
+* Šeiner
+** Špeh
+** Lekce bankomata
+
+* Poznámky
+
+[fn:1] Zkratka z anglického Correct Code of Conduct.
+
+[fn:2] Anglicky /Brotherhood of the Fallen Yet Still Standing/.
+
+[fn:3] 200 - 350 000, nikoli 200 000 - 350 000.
+
+[fn:4] Křečka

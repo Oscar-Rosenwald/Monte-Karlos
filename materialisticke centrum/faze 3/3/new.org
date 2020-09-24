@@ -1,0 +1,176 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1);-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties><
+/style:style>
+
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: 
+
+* 9/2020
+Ročník XXVV
+
+*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:* EmailNoReply@server.mok
+
+*Zákaznická linka:* 0004 892 223 03E
+
+*Šéfredaktor:* Alžběta Ašelová
+
+*Manažer redakce:* Jiří b'Ačkora
+
+*Zástupce šéfredaktora:* Hobbo Habán
+
+*Fotograf:* Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:* Tara Kočí
+
+*Obrazová redakce:* Honza Kůň
+
+*Rozhovor:* Karlos Žebatý, Lubomír Lečko
+
+*Móda:* Šlapeboso Elle'Gante
+
+*Závodní ekonomie:* Financier Kovva-Lečný
+
+*Kaňonskop:* 
+
+*Editoři:* 
+
+*:* 
+
+*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:* Karlos Žebatý
+
+*Sociální poradce:* Lightningh Danger
+
+*Sociální podpora:* Anna Oleš
+
+*Inzerce:* Many Hrabal
+
+*E-shop:* nakupsisam.cz
+
+*Tiskne:* individuálně
+
+*Korespondent:* 
+
+*Špeh:* nevíme
+
+*Seniorní bankomat:* Tera Mažetková
+
+*Cestopis:* Áron Ponurý a Emanuel Bebeš
+
+*Rozšiřují:* google.com
+* Editorial                                                             :250:
+
+
+Alžběta Ašelová, šéfredaktor
+* Závodní ekonomie - Obratná finanční šipka
+Pojďme se společně pobavit o způsobu, jakým spolkové banky získávají peníze. Vzhledem k tomu, že celý /závod/ stojí na daních z těchto příjmů, neváhal bych to nazvat klíčovou informací.
+
+Inu, banky mají jistý zavedený styl drásání peněz ze svých zákazníků. Tak zvaná Obratná finanční šipka je pravděpodobně nejvyspělejší takový styl, široce používaný všem spolkovými bankami.
+
+Jako každá správná šipka má čtyři vrcholy: banky, učitele, voliče a sponzory. Nevíte-li, kdo je kdo, doporučím vám přečíst si mé první dílo. Mnozí - hlavně Bob - si myslí, že banky dostávají peníze jen od učitelů za poskytnutý prostor podle Dohody o poskytnutém prostoru. Ačkoli tomu tak není, pojďme se nejprve podívat na způsob jejich úschovy.
+
+** Trezory
+Každá banka má svůj trezor. To je jasné. Ty lepší ze spolkových banek jich dokonce musí mít několik - minimálně jeden pro každého kantora. V těchto trezorech schovávají učitelé své hlasy získané ve volbách ve formě dvanáct centimetrů širokých a devět centimetrů dlouhých perfektních safírových kuliček.
+
+Volba banky je čistě na učiteli, ale bez bankovního účtu není možné zůstat členem /závodu/. Trezory jsou střežené špičkovým softwarovým zabezpečením a s hlasy je možné pracovat s jakoukoli jinou komoditou běžně schraňovanou v bance - naftou, emocionální inteligencí, inspirací a podobně. Dostat se přes tento firewall je prostě nemožné bez bezpečnostního kódu a přiděleného čipu, unikátního pro každého učitele.
+
+Fyzický přístup do trezoru je možný, ale banky ho nedoporučují netrénovanému personálu. Od doby, co Harry vykradl Gringotovy, nechává ministerstvo kouzel draky volně pobíhat po sklepeních a bez patřičného výcviku návštěvníkům hrozí upečení.
+
+Nyní body šipky:
+
+** Sponzoři
+Sponzoři dávají své peníze učitelům na kampaně. Tak se to aspoň říká oficiálně. Ve skutečnosti většina z nich jde na splátku astronomických poplatků za hlasový trezor. Sponzoři jsou podle definice bohatí jedinci, kteří doufají v eventuální návrat svých financí, až dostanou čestné místo v radě výherce /závodu/, tedy nejvyššího vůdce všeho učitelstva, a tak jim nevadí ztrácet peníze v hlubinách banek.
+
+** Učitelé a voliči
+Učitelé mají dva různé povolené proudy příjmů. Jedním z nich jsou samozřejmě sponzoři. Druhým jsou jejich voliči. Voliči jsou žádání, lež ne nuceni, finančně podporovat svého kandidáta malými sumami peněz, které když se sečtou vydávají v průměru za 40% sumy od sponzorů.
+
+Čím důležitější učitel s více body, tím víc peněz získá od svých voličů a sponzorů, ale tím větší jsou pro něj poplatky u banky za pronajatý prostor, takže celá maškaráda pokračuje.
+
+** Banky
+Banky tvoří poslední článek tohoto pazvláštního řetězu. Sponzoři a voliči posílají peníze učitelům, ti je posílají bankám, a celá věc, když se nakreslí, připomíná někomu - hlavně Bobovi - šipku.
+
+#+begin_comment
+Obrázek Obratné finanční šipky bez půjček.
+#+end_comment
+
+Avšak zde nejde jen o finanční šipku, nýbrž o /obratnou/ finanční šipku. Co se tedy obrací?
+
+** Obratná finanční šipka
+Ptal jsem se Marie, stážistky zde v Někdeníku, kde si myslí, že voliči berou peníze, kterým učitelům přispívají? Nevěděla.
+
+V bankách, Marie, v bankách.
+
+Ano, volič jde a půjčí si u banky peníze. Tyto peníze poskytne jako dar učiteli, který jimi zaplatí místo za voličův hlas. Tím pádem se peníze pohodlně vrátí do banky. Ale banka sama ještě vydělává na splátkách z původní půjčky, dostane tudíž ty samé peníze dvakrát a jednou z toho i s úroky.
+
+Dohromady to vytváří nekřesťanský Obrat.
+
+#+begin_comment
+Obrázek Obratné finanční šipky s vyznačenými půjčkami.
+#+end_comment
+* Zprávy                                                                :350:
+* Cestopis
+* Závod
+** Vývoj                                                                :400:
+
+   
+#+begin_src emacs-lisp
+  (progn (backward-kill-paragraph 1)
+		 (insert-file (expand-file-name "~/Documents/Monte-Karlos/postupove centrum.org")))
+#+end_src
+** Rozhovor
+* Korespondent
+* Lifestyle
+** Karlos-čepice
+** Kaňonskop
+* Šeiner
+** Špeh
+** Lekce bankomata
