@@ -39,7 +39,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 # num:1		Includes numbers of headings only, if they are or the 1st order.
 # d			Doesn't include drawers.
 # ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
-#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
 ---------------------------------------------------------------------------------------------------------------------------------------
 #+STARTUP: fnadjust
 # Sort and renumber footnotes as they are being made.
@@ -124,7 +124,7 @@ Začtvrté - Spolková bankovní federace (viz Závodní ekonomika) požádala N
 
 Zároveň Monte Kalos odchytil záhadné zprávy plující vzduchem a po důkladné dešifraci jsem se rozhodla - sami zjistíte proč - je zde rovněž uvézt.
 
-A zapáté - všem jsem se rozhodla říct, že bez ohledu na to, jak to bolí, jak zmatení jme ze současných... zmatků, jak moc nám chybí naše milovaná recenzentka, kterou z očividných důvodů nemůžeme nahradit, bez ohledu na to všechno, život jde dál.
+A zapáté - všem jsem se rozhodla říct, že bez ohledu na to, jak to bolí, jak zmatení jsme ze současných... zmatků, jak moc nám chybí naše milovaná recenzentka, kterou z očividných důvodů nemůžeme nahradit, bez ohledu na to všechno, život jde dál.
 
 Nezoufejte.
 
@@ -161,7 +161,7 @@ Alžběta Ašelová, šéfredaktor
 * Na vlnách Internetu
 ~Connection established~
 ** Google
-_Já jsem Áron Pokorný._
+_Já jsem Áron Ponurý._
 
 *A já Emanuel Bebeš.*
 
@@ -173,13 +173,13 @@ _Vítejte u prvního dílu našeho cestopisu, kde já a Emanuel cestujeme po zn�
 
 _Kdy sis naposledy osvěžil paměť, Emanueli?_
 
-*No, Árone, víš, že nevím. Nějak si to nepamatuji.*
+*No, Árone, víš, že nevím? Nějak si to nepamatuji.*
 
 _*Ha ha ha ha ha.*_
 
 _Takže google.com. Přijeli jsme teprve před hodinou a už mi někdo hlásí, že jsem si ještě nezařídil účet._
 
-*Vidíme lidi u informačního okénka, kde si vyžadují vyznačené mapy na jiná místa. Tam se zrovna někdo ptá na cestu do csfd.cz. Za námi slyším zmatené volání po mapě do seznam.cz. Jeden křičí přes druhého.*
+*Vidíme lidi u informačního okénka, kde se dožadují map vedoucí na jiná místa. Tam se zrovna někdo ptá na cestu do csfd.cz. Za námi slyším zmatené volání po mapě do seznam.cz. Jeden křičí přes druhého.*
 
 _Nejvíc mi vadí tamta stará paní, co se ptá na cestu do google.com. To jsou dnes lidi, co, Emanueli?_
 
@@ -233,7 +233,7 @@ _Tomu říkám zaměstnanecká prémie._
 
 *A představ si, mají i placenou dovolenou. Musí na ní pracovat, protože dopisy nikdy nepřestanou chodit, ale mají volno.*
 
-_Vskutku, kdo by nechtěl pracovat na takovém místě? Teď se s Emanuelem přesuneme do Archivu._
+_Vskutku, kdo by nechtěl pracovat na takovém místě? Teď se s Emanuelem přesuneme k Archivu._
 
 *Google.com má archiv?*
 
@@ -272,9 +272,9 @@ _*A Bytu zdar!*_
 ** Vývoj                                                                :400:
 Začátkem podzimu přišla do M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. petice podepsaná všemi spolkovými bankami Spolkové bankovní federace. Přistála na stole Goliáše Oberprußera, vedoucího odnože OPF, starající se o finanční záležitosti Úřadu. Federace předložila neformální ultimátum v podobě zkažené zubní pasty, ve kterém jednoznačně vyjádřila nespokojenost se současným stavem /závodu/.
 
-Od dopadení paní Rotreklové, která byla shledána vinnou a vyřazena ze závodu pro porušení jeho pravidel[fn:2], celý /závod/ stagnuje. Učitelé byly přechováváni ve svých komnatách v Der Weiderhohlle Flüsemschliessem a všechny volby, veřejné proslovy či kampaně byly pozastaveny na dobu neurčitou.
+Od dopadení paní Rotreklové, která byla shledána vinnou a vyřazena ze závodu pro porušení jeho pravidel[fn:2], celý /závod/ stagnuje. Učitelé byli přechováváni ve svých komnatách v Der Weiderhohlle Flüsemschliessem a všechny volby, veřejné proslovy či kampaně byly pozastaveny na dobu neurčitou.
 
-Federace není spokojená s nedostatkem příjmů z hlasů voličů, protože /závod/ byl Úřadem nuceně pozastaven, než jeho velké mozky vyřeší malý problém mizejících učitelů. Vzhledem k nutnosti Spolkové bankovní federace pro chod M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S., apelovala odnož OPF na odnož QXM, která má za úkol starat se o veřejné mínění o Úřadu.
+Federace není spokojená s nedostatkem příjmů z hlasů voličů, protože /závod/ byl Úřadem nuceně pozastaven, než jeho velké mozky vyřeší malý problém mizejících učitelů. Vzhledem k nutnosti Spolkové bankovní federace pro chod M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. apelovala odnož OPF na odnož QXM, která má za úkol starat se o veřejné mínění o Úřadu.
 
 Se zastavenými volbami nepřichází nové hlasy do trezorů spolkových bank, učitelům tak nezvyšují poplatky za jejich přechovávání a Federace je velmi, velmi znepokojena.
 
@@ -285,9 +285,9 @@ Odnož QXM vydala prohlášení, že chce-li Úřad nadále zůstat aktivní, bu
 Vznikl tak nový výkonný orgán /závodu/ - Rada odvážných. Rada odvážných se skládá z následujících členů:
 
 - Dvacet statečných
-- 7 učitelů z pozic 21-1.000
-- 6 učitelů z pozic 1.001-2.000
-- 5 učitelů z pozic 2.001-3.000
+- prvních 7 učitelů z pozic 21-1.000
+- prvních 6 učitelů z pozic 1.001-2.000
+- prvních 5 učitelů z pozic 2.001-3.000
 - ...
 - 0 učitelů z pozic 7.001-7.500
 
@@ -295,7 +295,7 @@ Rada odvážných má za úkol rozhodovat, zda jednání kantorů má podle nich
 
 S Radou takto zformovanou odnož QXM schválila rozjet závod znovu naplno.
 
-Mezi tím se paní Lajdové záhadným způsobem podařilo zvýšit své hlasy víc než dvakrát. Nikdo neví, jak to udělala, a není možné se jí zeptat, protože jakmile byla propuštěna, zmizela z tváře světa a objevuje se jen jako hologram.
+Mezitím se paní Lajdové záhadným způsobem podařilo zvýšit své hlasy víc než dvakrát. Nikdo neví, jak to udělala, a není možné se jí zeptat, protože jakmile byla propuštěna ze svých komnat, zmizela z tváře světa a objevuje se jen jako hologram.
 
 #+begin_example
 1. Zdenka Lajdová
@@ -329,7 +329,7 @@ Módní sekce Monte Karlos Někdeníku vám přináší výběrový sortiment na
 
 Klasický styl Pod širákem přináší pohodlné spaní a bezbolestnou noc. Kdo vytáhne Pod širákem u ohýnku, značí stylistické vzdělání a čestné vyznání ke spravedlnosti.
 
-Styl Žízeň se hodí pro mnohadenní cesty pralesy či vysokohorskými průsmyky. Poskytuje obrnu proti větru na vrcholu hlavy a nádobu pro chytání deště v případě, že dojde pitná voda. Vhodný pro milovníky kabaretu.
+Styl Žízeň se hodí pro mnohadenní cesty pralesy či vysokohorskými průsmyky. Poskytuje obranu proti větru na vrcholu hlavy a nádobu pro chytání deště v případě, že dojde pitná voda. Vhodný pro milovníky kabaretu.
 
 Na druhou stranu Dešťovka nalezne zalíbení u těch, kteří mají vody dost, až možná příliš. Chytré zařízení dostupné na našem webu umožňuje naklonění čepice proti padajícím kapkám. Lze použít i jako ochranu před sluncem, ačkoli v tom případě doporučujeme sundat bundu.
 
@@ -337,7 +337,7 @@ A nakonec je tu Zimouš. Jednoduše pro ty, kteří nejsou spokojení jen s jedn
 * Šeiner
 ** Lekce bankomata
 *** Lekce I.
-Bankomati nejsou součástí /závodu/. To je důležité vědět, pokud uvažujete o připojení se do našich řad. První věc, kterou vás naučí v Luthadelské universitě je, jak nezasahovat do /závodu/. Fotografové divoké přírody mají zakázáno s ní interagovat. Když si tučňáci na Sibiři nebo kde to žijí všimnou fotografa a přiblíží se k němu, musí si hrát na kámen a nechat se oblézat, dokud neodejdou. My bankomati můžeme o takových opatřeních snít. V naší profesi musíme být nenápadnější než ninjové a tišší než list papíru spadnuvší na zem dvaadvacet kilometrů daleko ve snu mrtvého Indiána. Kdo není schopný dopracovat se do tohoto stupně poloviční neexistence zvané Neutrino, nedostane titul bankomata.
+Bankomati nejsou součástí /závodu/. To je důležité vědět, pokud uvažujete o připojení se do našich řad. První věc, kterou vás naučí v Luthadelské universitě, je jak nezasahovat do /závodu/. Fotografové divoké přírody mají zakázáno s ní interagovat. Když si tučňáci na Sibiři nebo kde to žijí všimnou fotografa a přiblíží se k němu, musí si hrát na kámen a nechat se oblézat, dokud neodejdou. My bankomati můžeme o takových opatřeních snít. V naší profesi musíme být nenápadnější než ninjové a tišší než list papíru spadnuvší na zem dvaadvacet kilometrů daleko ve snu mrtvého Indiána. Kdo není schopný dopracovat se do tohoto stupně poloviční neexistence zvané Neutrino, nedostane titul bankomata.
 
 Ale zkuste to někomu vysvětlit.
 
@@ -359,7 +359,7 @@ Bankomati mají přidělených několik učitelů najednou. To je z několika d�
 
 Další důvod je ale ten, že když si nás naši svěřenci začnou všímat, máme se vzdálit do pozadí a nechat je na nás zase hezky pěkně zapomenout. Mezitím pracujeme na sledování dalšího našeho učitele.
 
-Trojský Triumvirát mi přidělil jen Šeinera, abych měla čas sepisovat tyto lekce. Šeiner je velmi všímavý člověk. Má přítomnost byla konstantní. Já jsem byla v pytli.
+Trojský Triumvirát mi přidělil jen Šeinera, abych měla čas sepisovat tyto lekce. Šeiner je velmi všímavý člověk. Má přítomnost byla konstantní. On si mě všiml. Já jsem byla v pytli.
 
 "Budou hlasovat o používání armád," řekl Šeiner a navlékl si bílý chemický plášť. Já zabručela na souhlas. "Za dva týdny se máme sejít v Der Weiderhohlle Flüsemschliessem."
 
@@ -369,25 +369,25 @@ Bankomati mají být neviditelní, takže když na mě mluvil, znervózňoval m�
 
 "Ne," řekla jsem jednoduše.
 
-Šeiner smíchal jednu tekutinu s druhou a celá směs zčernala, zezelenala, zadýmala a začala zpívat /We Are the Champions/ od Queenů. "Strašně. Podržíte mi to?" Podržela jsem mu to. "V Der Weiderhohlle Flüsemschliessem si toho hned všimnou, ale to už bude pozdě," pokračoval na cestě do temné kanceláře. Zapnul tam velmi slabé žluté světlo s luminesencí odpadního koše, které z jemných stínů udělalo stíny temné, a Šeinerovi se tak podařilo ztemnit místnost tím, že v ní rozsvítil.
+Šeiner smíchal jednu tekutinu s druhou a celá směs zčernala, zezelenala, zadýmala a začala zpívat /We Are the Champions/ od Queenů. "Strašně. Podržíte mi to?" Podržela jsem mu to. "V Der Weiderhohlle Flüsemschliessem si hacku hned všimnou, ale to už bude pozdě," pokračoval na cestě do temné kanceláře. Zapnul tam velmi slabé žluté světlo s luminesencí odpadního koše, které z jemných stínů udělalo stíny temné, a Šeinerovi se tak podařilo ztemnit místnost tím, že v ní rozsvítil.
 
 Šeiner sáhl po kleštích a vytáhl z vody plastovou kartičku s jeho obličejem v rohu, která se marinovala v jakési chemické kaši. Vedle ní se marinovala druhá s mojí podobiznou.
 
-Nezasahovat. Někdy je to těžší, než se zdá, když to po vás váš učitel chce.
+Nezasahovat. Někdy je to těžší, než se zdá, když po vás váš učitel něco chce a nečeká na svolení.
 *** Lekce III.
 Další den jsme šli za trpaslíky.
 
-Šeiner měl domluvenou schůzku s místním velitelem podzemní přepravy, aby spolu domluvili případné svobody v cestování poskytnuté jeho kampani. Poslouchat podobné rozhovory je denním chlebem, mlékem, sušenými datlemi, ovesnou kaší, zapečeným makarónem i španělským ptáčkem života bankomata. Věděla jsem, že je celou dobu plánuje oklamat a vloupat se do jejich interjaderního výtahu, ale nepřísluší mi - je mi /zakázáno/ - ovlivňovat plány učitelů.
+Šeiner měl domluvenou schůzku s místním velitelem podzemní přepravy, aby spolu domluvili případné svobody v cestování poskytnuté jeho kampani. Poslouchat podobné rozhovory je denním chlebem, mlékem, sušenými datlemi, ovesnou kaší, zapečeným makarónem i španělským ptáčkem života bankomata. Věděla jsem, že je celou dobu plánuje oklamat a vloupat se do jejich interjaderního výtahu, ale nepřísluší mi - je mi /zakázáno/ - ovlivňovat plány učitelů. Má práce spočívá v hodnocená, jak jim ty plány vyšly.
 
 Zalezli jsme spolu na záchod - trpaslíci mají jen jeden pro všech dvaadvacet pohlaví, protože všichni trpaslíci vypadají stejně - Šeiner vypálil připraveným elixírem díru do podlahy. Pod ním se objevila kontrolní místnost výtahu.
 
-Tajná podzemní vojenská základna /Omma Céb a la Sviña costa/, pronajatá odnoží OPQ byla podzemí na neznámém místě střežená trpasličími hlídkami a přístupná jen interjaderním výtahem. Šeiner použil zfalšované průkazy pro mě a pro sebe a naprogramoval jízdu.
+Tajná podzemní vojenská základna /Omma Céb a la Sviña costa/, pronajatá odnoží OPQ byla pod zemí na neznámém místě střežená trpasličími hlídkami a přístupná jen interjaderním výtahem. Šeiner použil zfalšované průkazy pro mě a pro sebe a naprogramoval jízdu.
 
 "Proč s ní chcete smluvit?" zeptala jsem se někdy uprostřed jízdy. V kabině jsme byli sami, kolem ticho až na občasné dolní písně znějící zvenčí, jak jsme míjeli oblasti těžby. Ty ale ustaly před deseti minutami.
 
 Musela jsem se zeptat - to proti Kodexu není. Musím přece vědět, co učitel dělá, abych ho mohla hodnotit.
 
-"Úřad není, co by měl být," řekl zamyšleně. Něco se děje. /Závod/ nefunguje, jak má. Musím se dozvědět, jak to doopravdy bylo, abych ho mohl změnit."
+"Úřad není, co by měl být," řekl zamyšleně. "Něco se děje. /Závod/ nefunguje, jak má. Musím se dozvědět, jak to doopravdy bylo, abych ho mohl změnit."
 
 "Proč změnit? Se /závodem/ není nic špatně. Jestli vám nejde vyhrávat, je to vaše chyba. Nevidím důvod se šťourat v Úřadě."
 
@@ -395,7 +395,7 @@ Musela jsem se zeptat - to proti Kodexu není. Musím přece vědět, co učitel
 
 Dál jsme jeli mlčky. Nikdy se nehádejte se svým učitele.
 *** Lekce IV.
-S pomocí falešných dokladů nás Šeiner dostal do cely. Teprve tehdy jsme viděli první okno od chvíle, co jsme vstoupili do výtahu. /Omma Céb a la Sviña costa/ byla tak hluboko pod zemí, že stála na druhé straně planety, někde pod Indickým oceánem.
+S pomocí falešných dokladů nás Šeiner dostal do žaláře. Teprve tehdy jsme viděli první okno od chvíle, co jsme vstoupili do výtahu. /Omma Céb a la Sviña costa/ byla tak hluboko pod zemí, že stála na druhé straně planety, někde pod Indickým oceánem.
 
 Není ale povinností bankomata stát a zírat na krásný, pestrý a barvitý podmořský život, takže jsem se šinula za Šeinerem až do neonem osvětleného vězení. Stráže nás opustili a kromě mé maličkosti, která se nikdy nepočítá, zůstal Šeiner sám s pouhou železnou mříží oddělující ho od Martiny Rotreklové.
 
@@ -403,11 +403,11 @@ Není ale povinností bankomata stát a zírat na krásný, pestrý a barvitý p
 
 "Chci vědět, co se děje s Úřadem."
 
-"Co by se děla? A proč myslíš, že o tom něco vím?"
+"Co by se dělo? A proč myslíš, že o tom něco vím?"
 
 "Protože se to stalo tobě. Něco se děje se spolkovými bankami a ty víš co. Kam zmizely všechny tvoje hlasy, když tě vyřadili ze /závodu/, a proč se o ně nikdo nezajímá? Co měl být Čas pomsty a kde jsou jeho vojska teď?"
 
-Čas pomsty měla být nějaká akce naplánovaná přítomnou ex-závodkyní a zesnulou paní Oslovou, hlavou sekty Nesplněné pomsty. Ale nakonec na nic nedošlo a většina členů sekty zmizela kdoví kam.
+Čas pomsty měla být nějaká akce naplánovaná přítomnou ex-závodkyní a zesnulou paní Oslovou, hlavou Sekty nesplněné pomsty. Ale nakonec na nic nedošlo a většina členů sekty zmizela kdoví kam.
 
 "Ty vůbec nevíš, o co tu jde."
 
@@ -427,7 +427,7 @@ Když zmizela Vávrová z Der Weiderhohlle Flüsemschliessem, šla Lajdová jede
 
 Rotreklová následně vyhledala Daniela Pace a snažila se ze všech sil ho přesvědčit, že Lajdová je pachatel. Tak by se zbavila obou. Ale nepovedlo se a když ji vyřadili ze /závodu/, dorazily postupně všechny její hlasy k Lajdové do trezoru. Proto najednou získala tak velkou popularitu a sedí teď na vrcholu žebříčku. Šeiner zuřil.
 
-Kdybych mohla něco říct, připomněla bych mu, že tohle je /závod/. Lajdová nedělal nic proti pravidlům. Ale úkol bankomata je sledovat, ne připomínat. Mlčela jsem.
+Kdybych mohla něco říct, připomněla bych mu, že tohle je /závod/. Lajdová nedělal nic proti pravidlům. Ale úkol bankomata je sledovat, ne připomínat. Mlčela jsem. Mlčela jsem i ve chvíli, kdy jsem si všimla spěšných kroků v jedné z chodeb.
 
 "A ta bomba?" zeptal se Šeiner. "V Monte Karlos?"
 
@@ -449,7 +449,7 @@ Z chodby se ozvala veliká rána. Trpaslíci si na nás přinesli iontový kanó
 
 Najednou se ochladilo.
 ** Špeh
-=Zaznamenáno špehujícími satelitními talíři Monte Karlos=
+~Zaznamenáno špehujícími satelitními talíři Monte Karlos~
 
 Cíl lokalizován 8.10. Následoval na schůzi s trpaslíky pod Sicílií. Cíl se pohybuje s partnerem bankomatem.
 
@@ -477,9 +477,9 @@ Cíl se zamýšlí.
 
 Cíl: Dvacet celých osm dva devět čtyři pět pět tři.
 Bankomat: Co?
-Cíl: Jinak budeme stoupat moc rychle.
+Cíl: Jinak budeme stoupat moc pomalu.
 
-Cíl ignoruje zmateného bankomata. Popadl špachtli a začal sdírat povrch z vnitřní strany hrnců. Bankomat začal vyndavat a odpočítávat brnění ze skříně. Skříň se zakymácela pod palbou kanónu.
+Cíl ignoruje zmateného bankomata. Popadl špachtli a začal sdírat teflonový povrch z vnitřní strany hrnců. Bankomat začal vyndavat a odpočítávat brnění ze skříně. Skříň se zakymácela pod palbou kanónu.
 
 Strážník: Otevřete, ve jménu Thorinova vousu!
 Cíl: Otevřete si sami!
@@ -530,7 +530,7 @@ Trpaslíci vypálili. Rána proletěla uvolněnými dveřmi a narazila do stěny
 
 Bezpečnostní pojistky na dveřích detekovaly průnik v plášti. Protipotopní dveře se zavřely a oddělily trpaslíky od cíle v ohromné vrstvě Mithrilových brnění. Cíl se hluboce nadechl a proklouzl dírou ve stěně. Bankomat zakroutil hlavou, její brnění zacinkalo tímto pohybem, a následoval ho ven.
 
-Cíl stoupá na hladinu závratnou rychlostí. Vztlaková síla oceánu působí na Mithril podle očekávání, teflon drží největší přívaly vody od těla. Venkovní kamery zachycují obě osoby, jak se ztrácí mezi rybami na hladině. Přepojuji se na dálkové sledování, znemožňuji přístup trpasličím činitelům a maži cílovu podobu z databáze.
+Cíl stoupá na hladinu závratnou rychlostí. Vztlaková síla oceánu působí na Mithril podle očekávání, teflon drží největší přívaly vody od těla. Venkovní kamery zachycují obě osoby, jak se ztrácí mezi rybami na hladině. Přepojuji se na dálkové sledování a odposlouchávání, znemožňuji přístup trpasličím činitelům a maži cílovu podobu z databáze.
 
 Cíl a bankomat vypluli na povrch. Cíl je v dobré kondici a zadržel dech dostatečně dlouho. Bankomat leží v brnění a nehýbá se.
 

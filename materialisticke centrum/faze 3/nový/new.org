@@ -39,7 +39,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 # num:1		Includes numbers of headings only, if they are or the 1st order.
 # d			Doesn't include drawers.
 # ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
-#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
 ---------------------------------------------------------------------------------------------------------------------------------------
 #+STARTUP: fnadjust
 # Sort and renumber footnotes as they are being made.
