@@ -39,7 +39,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 # num:1		Includes numbers of headings only, if they are or the 1st order.
 # d			Doesn't include drawers.
 # ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
-#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
 ---------------------------------------------------------------------------------------------------------------------------------------
 #+STARTUP: fnadjust
 # Sort and renumber footnotes as they are being made.
@@ -322,7 +322,208 @@ Mezitím se paní Lajdové záhadným způsobem podařilo zvýšit své hlasy v�
 ** Rozhovor
 Pan Radovan Langer. První z unesených zlotřilou sektou Nesplněné pomsty. Původní vedoucí v žebříčku. Nyní se vrací, aby dohnal své zmeškané kampaně a ujal se vedení.
 
+*Vítejte opět v našem studiu. Už to je nějaká doba, co jste tu byl naposled, že?*
+
+Ano.
+
+*Nebudeme chodit kolem horké kaše. Jak se vám líbilo mezi Sektou nesplněné pomsty?*
+
+Ano.
+
+*Strávil jste tam docela dlouho.*
+
+Ano.
+
+*Poznal jste tam nějaké lidi? Osobně?*
+
+Ano. Poznal jsem své kolegy z gymnázia.
+
+*Cítil jste se poctěn, že vás brali jako největší hrozbu hned na začátku závodu?*
+
+Abych pravdu řekl, ani ne.
+
+*Jak jste se tedy cítil?*
+
+Unesený.
+
+*Ale!*
+
+Víte, já nemám proti svým únoscům skoro nic. Chovali se ke mně zdánlivě přívětivě. Jenom jedna věc - a nevím, jestli to dělali naschvál - ale nenechali mě dát si žádné kafe, ani jsem si nemohl cigarety nebo doutník.
+
+*Když jste byl zachráněn policejními sbory, jaká byla vaše první myšlenka?*
+
+Napadlo mě, že si zase konečně zakouřím.
+
+*Poděkoval jste siru Danielu Pacovi za to, že vás nalezl?*
+
+Ano. Poslal jsem děkovný dopis a krabičku děkovných doutníků.
+
+*Jak na ně pan Pace reagoval?*
+
+Nevím, ale je mi to docela jedno. Povinnosti jsem učinil za dost.
+
+*Rozhodl jste se hledat pomstu na Sektě nesplněné pomsty?*
+
+No, víte, já myslím, že se jim to vymstilo dost samo o sobě.
+
+*Jak se změnil svět za dobu vaší nepřítomnosti? Co vás překvapuje nejvíc a co jste čekal?*
+
+Mám své informační zdroje, takže bez informací jsem rozhodně nebyl. Spíš bych řekl, že více než svět jsem se změnil já. A teď se pustím do závodu s novou vervou.
+
+*Dáte nám příklad toho, jak jste se změnil?*
+
+Ne, protože by to napomohlo mým soupeřům.
+
+*Nedávno jste se dokázal protlačit do skupiny Dvaceti statečných. S místem mezi nimi přichází i komnaty v Der Weiderhohlle Flüsemschliessem. Jak se vám líbí?*
+
+Ano, celkem obstojné. Sice to neodpovídá standardům, na které jsem zvyklý doma, ale je to hezká pozornost.
+*** Kampaň
+*Jak hodláte dohnat své zaostání v /závodě/?*
+
+No, myslím, že se zaměřím na některé kantory na vedoucích pozicích.
+
+*A předpokládám, že mi neřeknete které.*
+
+Myslím, že je obecně známo, že bych všechny zajímalo jaké tajemství skrývá Lajdová. Nebude přemrštěné troufnout si odhadnout, že to bude něco nekalého.
+
+*Máte nějaké informace, nebo se teprve pustíte do vyšetřování?*
+
+Já se nikam pouštět nehodlám, ale mám na to lidi.
+
+*Pan Macháček se krátce po vašem zmizení vyjádřil, že je mu vás líto. Vidíte v tom nějaký prospekt pro budoucí spojení?*
+
+Ne. Myslím si, že se jenom snažil být populární, ovšem vůbec neodhadl, co je mezi mladými voliči /in/.
+
+*Na konci roku, kdy jste zmizel, proběhla dnes už slavná Bitva u Nového Dilí. My v Monte Karlos jsme se dohadovali, k jaké straně byste se přidal. Pomůžete nám v tom?*
+
+Jestli mě něco mrzí, že jsem propásl, je to bitva u Nového Dilí. Kdybych nebyl zmizel, vyvinula by se jiným způsobem. Dovolím si tvrdit, že bych se pokusil založit vlastní stranu.
+
+*Jak by se jmenovala?*
+
+Radovánci.
+
+*Nebojíte se, že se vás teď budou obě existující strany stranit?*
+
+Já myslím, že z bývalých dvou stran u Nového Dilí mnoho nezůstalo.
+
+*Aréna se nezastavitelně blíží. Vy jste nebyl přítomen při vybírání učitelských živlů. Jaký z osmi si vyberete?*
+
+To je od vás pěkné, že mi dáváte na výběr. Nemálo jsem uvažoval o tom, který by se mi líbil nejvíce. Jsem si jistý, že nejlepší volbou je dřevo.
+
+*Jak se připravujete na arénu?*
+
+Trošku posiluji. Kondičně běhám. A studuji dobové záznamy o gladiátorských zápasech.
+
+*Takže je to mentální a psychická příprava, nikoli politická.*
+
+Ne. Obávám se, že v aréně mi politické konexe nebudou příliš užitečné.
+
+*Jak byste popsal svou dlouhodobou strategii?*
+
+Asi jako takovou pětiletku. Sice budí mnohé otázky, ale myslím, že je to celkem výstižné. Také jsem si naplánoval spoustu věcí, o kterých vůbec netuším, jak dopadnou.
+
+*Mezinárodní Úřad, konkrétně odnož KKL, postavil super-satelit, který je schopen zaznamenat vzor látky oblečení každého člověka na planetě v rozlišení HHHHD. Používá ho ke sledování učitelů, aby zajistil dodržování pravidel. Před dvěma dny byl satelit vypuštěn do éteru. Jak vidíte jeho účinnost?*
+
+Tady se KKL se zlou potáže.
+
+*Ještě nějaký další komentář?*
+
+Za chvíli dalších komentářů nebude třeba.
+
+*Myslíte, že by dokázal zastavit váš únos?*
+
+No, přiznejme si, že Oslová nebyla v únosech žádný profík. Vězení měla dokonalé. Ostatně, když chcete provozovat ústav pro duševně neschopné, nezbývá než postavit si dokonalé vězení. Takže i přes to, jak neschopný satelit je, dokázal by zastavit můj únos.
+*** Random otázka dne
+*Na jaké straně má průměrná říční ryba více šupin? (Správná odpověď je na vnější.)*
+
+Na pravé.
+
+*Správná odpověď je na vnější, ale jinak je to v pořádku.*
+*** Rychlá střelba
+*Kde se schovává paní Lajdová?*
+
+Na hradě.
+
+*Jak vidíte politické zapojení Spolkové bankovní federace do chodu /závodu/?*
+
+Je to nepříjemné vměšování.
+
+*Kdo je váš nejneoblíbenější český autor a proč je to Franz Kafka?*
+
+... No... Víte... [7 vteřin uběhlo]
+
+*Mrkev, nebo petržel?*
+
+Polévka.
+
+*Vyjmenujte znaky pre-postmodernismu mongolské kvantové literatury ve vztahu k zemědělským komoditám.*
+
+Kladení důrazu na politickou korektnost.
+*** Korespondence
+*Do Monte Karla nám přišel dopis od Aleše Kozlatého:*
+
+*Pane řediteli,*
+
+*Možná si na mě nevzpomínáte. Před devíti lety jsem maturoval ve vaší škole, třída 4.B. Když jsem se doslechl, že kandidujete na vůdce učitelstva, nemohl jsem uvěřit svým uším. Vy a vůdce? Nevím jak vy, ale já si živě pamatuji ten den, když jste přišel do třídy a představil jste se nám.*
+
+*Píši vám s jednou jednoduchou otázkou: Jak dlouho si myslíte, že vás před námi vaše pozice ochrání? Jistě ne věčně...*
+
+*S pozdravem, anonym.*
+
+*Jak budete reagovat?*
+
+To je typický projev nesouhlasu s vyššími autoritami. S tím se u žáků setkávám běžně. Chápu, že někteří méně psychicky vyvinutí jedinci mají tyto problémy i po opuštění gymnázia.
+
+*Ukažte tedy nyní divákům a posluchačům, jaký jste učitel, tím, že nám ukážete, jak budete reagovat konkrétně na tohoto člověka.*
+
+Jakou reakci byste si představoval?
+
+*Autentickou.*
+
+No je to naprosto normální a důležité pro vývoj jedince. Já bych s tím nic nedělal.
+
+*Takže to nebude ani ignorovat, ani tolerovat, ale podporovat.*
+
+Já bych řekl, že si všech názorů cením. Mnohem horší je, když někdo nedokáže říct žádný názor.
+
+*Nepřipadá vám tento dopis nějak povědomý?*
+
+Ne.
+*** Závěrečný proslov
+*Na závěr nám prosím sdělte, jak budete bránit učitele před unesením, pokud se stanete nejvyšším vůdcem všeho učitelstva.*
+
+No, myslím, že zavedu povinné kurzy sebeobrany.
+
+*Nějaká konkrétní bojová umění?*
+
+Půjde pouze o sebeobranu, nikoli bojová umění?
+
+*Nějaká obranná umění?*
+
+Ano. Teď jste to vystihl přesně.
 * Korespondent
+**  Dostavba Babylonské věže? Prostě to uděláme.
+Babylonská věž? Kdo by nevěděl. Je jednou z nejznámějších, nejzajímavějších a nejambicióznějších staveb všech dob. Tedy lépe řečeno – byla. Její ambice zjevně přerostly její možnosti, takže tento stavební gigant patří zároveň k těm, jejichž dokončení se tak dlouho rozkládalo a odkládalo, až se odložilo definitivně. Barvitě to líčí už nejstarší písemné záznamy lidstva. Příběh megalomanské chrámové konstrukce, budované toliko k oslavě lidského potenciálu, aby skončila jako věčné memento lidské pošetilosti a pýchy, zná tak či onak snad každý. Přinejmenším každý Evropan, Orientálec a Afričan. Nebo, chcete-li, každý judaista, křesťan a muslim. Každý, kdo byl nucen nudit se v nedělní chrámové škole. Každý, komu maminky před spaním čítávaly stará literární exempla a nespokojily se přitom hloupoučkou moralitou o neposlušných kůzlátkách, ale mířily výš. O dost výš. Dokonce úplně nejvýš… Jak příznačné.
+
+Babylonská věž zůstala nedostavěna. V chrámové škole se o tom říkalo asi tolik, že Hospodin Bůh měl určité výhrady k záměru nechat si lidmi koukat až do kuchyně. Maminka zaklapla knížku, zvedla výstražně prst a zadeklamovala, že kdo chce mít všechno, nemívá nakonec nic – a pýcha předchází pád. A váš kouč osobního rozvoje by ještě dodal, že když máte velké plány, dobře si rozmyslete, jaký tým k jejich realizaci sestavíte. Nebude-li mluvit stejnou řečí a táhnout za jeden provaz, destrukce je nevyhnutelná… Jak prosté.
+
+To, co z Babylonské věže zbylo po rozprášení stavebních čet do všech světových stran, se postupně obrušovalo, erodovalo, rozpadalo a rozvalovalo, až se to nakonec rozvalilo a rozpadlo úplně. Zbyla hromada typických nepálených vepřovic, smíchaných se slámovou řezankou, pokrytých černým živcem. Nejdříve ta hromada byla velikáááánská, pak veliká, pak taková akorát, až se nakonec změnila v hrubou písečnou dunu, nad kterou krouží vítr, odnášející prach daleko do kraje… Jak poetické.
+
+Mnozí toužili babylonskou věž navštívit. Mnozí zkusili na ni vystoupat. Mnozí ji chtěli alespoň vidět. A mnohým se to povedlo. To všechno bylo. Pak se sporá rezidua věže ztratila v polopouštní krajině úplně a zvídavý návštěvník mohl jen hádat, kde – alespoň přibližně – ta slavná budova kdysi stála. I to všechno bylo. Ale už není. Už není, protože v posledním čase, sotva pár měsíců zpět, začali nahodilí cestovatelé po krajině, vzniklé z rozvalin nebetyčné věže, přinášet zvláštní zprávy. Něco tam prý hučí. Poušť se chvěje. Planina vlní. Obzor se zvedá a zase propadá. Písek mění barvu a vzduch nad krajinou v noci světélkuje.
+ 
+Nejprve tomu nebyla přikládána velká váha. Fata morgana má, jak známo, tisíc podob. A začínající okurková sezóna zkušeného žurnalistu varuje: ruce pryč od „zaručených“ pikantností všeho druhu! Pošlete tam reportéry, zaplatíte jim letenku, ubytování, průvodce – a spláčete nad výdělkem. Zprávy se nicméně opakovaly a množily a sociální sítě byly zaplaveny fotografiemi i videosekvencemi, plnými barevného mlžného oparu a hromad písku, které měnily tvar, nafukovaly se a splaskávaly, jako by pod nimi funěl olbřímí olgoj chorchoj.
+
+Na místo úkazů nakonec uprostřed horkého léta dorazila skrovná skupinka vědců z Fyzikálního ústavu Humboldtovy univerzity v Berlíně. Prováděná měření vzbuzovala rozpaky. Bylo evidentní, že v podzemí se něco děje, a bylo zároveň stejně zjevné, že nikdo nedokáže říct, co přesně to je. V podzemí byla zaznamenána existence různě velkých dutin a kavern, které ale do dalšího dne měnily tvar i objem, propadaly se anebo úplně mizely, zatímco vedle se objevily jiné. Použité přístroje nedokázaly změřit, do jaké hloubky se tyto atypické jevy vyskytují. Pod povrchem pouště docházelo k přesunům většího množství materiálu. Seismografy zaznamenávaly izolované otřesy i série různě silných zvuků: dunění, hučení, skřípání, vrzání, pískání, šoupání či jemný šustot. Nic z toho nešlo srozumitelně vysvětlit.
+ 
+Po několika týdnech se vědci do pouště vrátili, vybaveni citlivější technikou, schopnou rozlišit různorodost zvuků, vycházejících z podzemí, a schopnou jejich stratifikace a systemizace. Každý další den, kdy byla prováděna měření, přinášel podivnější a podivnější sumu dat, která, zasazena do širšího rámce, začala vydávat jen těžko uvěřitelný závěr: podzemní ruchy a zvuky ze všeho nejvíce zapadaly do paradigmatu mohutné stavební činnosti, zasahující od epicentra do poloměru minimálně půl kilometru a jdoucí do takové hloubky, že ji nebylo lze exaktně změřit. Do zvukového spektra navíc vstoupily frekvence, upomínající ponejvíce na rozčílený lidský řev. Tím se míra zmatečnosti dovršila.
+
+Po krachu dvou exaktně orientovaných německých vědeckých výprav se do postižené oblasti vydali badatelé odlišnějšího naturelu. Jejich neformálním lídrem se stal proslulý francouzský proutkař Jacques Prette, který v kraji strávil tři celé týdny, během nichž podnikl řadu vlastních průzkumů, avšak bez valnějšího výsledku. V té chvíli se již pouštní destinace stala předmětem zájmu mnohých více či méně seriózních výzkumníků a interpretů nebývalých jevů, jejichž frekvence rostla extenzivně i intenzivně. Faktu, že „záhada pouště“, jak o ní konečně na konci září začal psát světový tisk, je lokalizována do prostoru bájné babylonské věže, se do té doby paradoxně nevěnovala pozornost. Jako první si toho všimli odborníci z  univerzity v Tel Avivu, mající s podobným typem interpretací přirozenou zkušenost. Propojení lokalizace jevu s jeho specifickou povahou se v této chvíli věnuje tým  významného lingvisty a starozákonního biblisty  Jochanana Ocha. Výstupem jeho odborného snažení je zcela čerstvá zpráva, která byla včera dána k dispozici světovým agenturám a jejíž závěry byly prezentovány na tiskové videokonferenci se zástupci světových agentur. Informovány byly i redakce nejprestižnějších recenzovaných vědeckých i popularizačních periodik.
+
+Ze závěrů Ochova výzkumu, tak jak byly prezentovány, vyplývá odvážné tvrzení, že v podzemí někdejší babylonské megastavby probíhá rozsáhlá, sofistikovaná stavební aktivita. Jochanan Och jako netechnicky a netechnologicky orientovaný vědec přiznává, že mu nejsou známy postupy a možnosti realizace podzemních staveb, zvláště nepodařilo-li se dohledat bod, v němž se stavební stroje a další potřebná mechanizace „vnořují“ pod povrch. Poušť kolem epicentra je až do vzdálenosti desítek kilometru zcela neporušená. Och v té souvislosti vybízí své fundovanější kolegy, aby se záležitosti ujali a podali vysvětlení. On sám pak na přirozenou otázku, na jakých základech staví své závěry, doznal, že základní vodítko mu poskytlo studium záznamu té časti spektra podzemních zvuků, které prokazatelně nebyly technického, nýbrž lidského původu. Jejich analýza přinesla základní specifikace: jedná se skutečně o záznam lidské řeč, promlouvající je jedincem mužského pohlaví, pravděpodobně vyššího věku. Vyjadřuje se krátce, úsečně, autoritativně až agresivně. Soustředí se výhradně na dvě roviny řečové aktivity: udělování příkazů a kritiku. Empatická a synergická rovina jeho komunikace zcela absentuje. Záznam řečových aktivit postrádá interaktivní rozměr. Vektor dopadu je jednosměrný, bez náznaku zpětné vazby. Řečové aktivity jsou v čase nepravidelně rozloženy, ale paradigma jejich korelace s intenzitou ostatních, řekněme technických zvuků, vykazuje takovou míru podmíněnosti, že lze mluvit o kauzalitě.
+
+Och uvedl, že při studiu řečového záznamu se – jako každý lingvista – odrazil od dešifrace frekventovaného řečového vzorce, který se mu podařilo interpretovat jako „Prostě to postavíme!“. Jako klíčový se pak ukázal záznam, který jako jediný vykazoval odchylku, spočívající v přídatném příslovci „znovu“. Výzva či rozkaz: „Prostě to znovu postavíme!“ přiměla prof. Ocha hledat odpověď na otázku, o čem je možno v kontextu místa a probíhající činnosti říci, že je to realizováno (v tomto případě stavěno) „znovu“. Jako židovský učenec a biblista přirozeně brzy připadl na myšlenku, že se jedná právě o starozákonní babylonskou věž. Šlo o zjištění natolik šokující, že mu odmítl uvěřit i sám jeho původce. Přerušil proto své výzkumy a vyzval světovou odbornou veřejnost k široké diskusi o tom, zda je možné, že v prostoru starověké Mezopotámie, na planině Šineár, se kdosi pokouší zopakovat výstavbu Babylonské chrámové věže. Na stole přitom leží množství průvodních otázek zásadní důležitosti:
+
+Kdo se do projektu pustil? Proč tak učinil? Jak se do oblasti dostal? Jak tam bez povšimnutí úřadů i policejních a vojenských složek propašoval techniku? Jak tuto techniku dostal pod zem? Z jakých energetických zdrojů čerpá? Jak tuto činnost financuje? Proč staví Babylonskou věž pod zemí? A jak ji chce případně dostat nahoru? Profesor Och přiznává, že na žádnou z těchto otázek nenalézá smysluplnou odpověď. Očekává, že vznesené závěry a předložené otázky, ujmou-li se jich další erudovaní odborníci, vnesou do „záhady pouště“ jasno.
 * Lifestyle
 ** Karlos-čepice
 Módní sekce Monte Karlos Někdeníku vám přináší výběrový sortiment na dlouhé horské treky.
