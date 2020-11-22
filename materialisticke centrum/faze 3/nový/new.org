@@ -49,68 +49,37 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 # Doesn't include creator (= firm)
 :END:
 #+TITLE: MONTE KARLOS NĚKDENÍK
-#+SUBTITLE: 
+#+SUBTITLE: Spousty hluku na Facebooku
 
 * 8/2020
 Ročník XXVV
-
 *Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
-
 *E-mail:* EmailNoReply@server.mok
-
 *Zákaznická linka:* 0004 892 223 03E
-
 *Šéfredaktor:* Alžběta Ašelová
-
 *Manažer redakce:* Jiří b'Ačkora
-
 *Zástupce šéfredaktora:* Hobbo Habán
-
 *Fotograf:* Alexandra Dimitrij von Dieseldorf
-
 *Grafická úprava:* Tara Kočí
-
 *Obrazová redakce:* Honza Kůň
-
 *Rozhovor:* Karlos Žebatý, Lubomír Lečko
-
 *Móda:* Šlapeboso Elle'Gante
-
 *Závodní ekonomie:* Financier Kovva-Lečný
-
-*Kaňonskop:* 
-
-*Editoři:* 
-
-*:* 
-
+*Kaňonskop:* Magistr Celestius
+*Vymítač:* Kapitán Surhu Sabat
 *Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
-
 *Brand manager:* Karlos Žebatý
-
 *Sociální poradce:* Lightningh Danger
-
 *Sociální podpora:* Anna Oleš
-
 *Inzerce:* Many Hrabal
-
 *E-shop:* nakupsisam.cz
-
 *Tiskne:* individuálně
-
 *Korespondent:* 
-
 *Špeh:* nevíme
-
-*Seniorní bankomat:* Tera Mažetková
-
+*Seniorní bankomat:* Evžena Kulibrko
 *Cestopis:* Áron Ponurý a Emanuel Bebeš
-
 *Rozšiřují:* google.com
 * Editorial                                                             :250:
-
-
-Alžběta Ašelová, šéfredaktor
 * Závodní ekonomie - Mezinárodní symbióza
 Dnes si trochu popovídáme o politice. Nebojte se, nebude to tak strašné, jak nás Tomáš v kanceláří straší. Řeknu vám ve zkratce o vztahu mezi Úřadem a Spolkovou bankovní federací, co z toho má jaká strana a proč je rozhodnutí zavést Radu odvážných důležité, případně, aby ti někteří z vás, co mají problémy s jednoduchými koncepty - hlavně Bob -, co to vlastně Rada odvážných je.
 
@@ -138,7 +107,14 @@ Jenomže pak nebylo, o čem vysílat. Únosy kantorů drželi diváky u obrazove
 
 A tak, milé děti - hlavně Bobe -, funguje ta naše planeta.
 * Na vlnách Internetu
-~Connection established~
+~Network activated~
+~Listening on port 1452~
+~Progress: [30%] [######..............]~
+
+~Sending private key~
+~Waiting for response _~
+
+~Connection established:~
 ** Facebook
 _Já jsem Áron Ponurý._
 
@@ -232,7 +208,11 @@ _Pět se metrů vysoká, Zeď je pokrytá odshora dolů tlustým plátnem, kter�
 
 _Ačkoli je nevidíme, za Zdí pracuje armáda Pidižvíků, kteří připevňují na plátno Zdi projevy a prohlášení všech uživatelů Facebooku.com, aby na ně návštěvníci dobře viděli._
 
-*Já vidím odkaz na video na YouTube.com. Támhle, vedle protestu proti vakcínám a fotce něčí večeře.*
+*Zrovna teď někdo živě vysílá jakýsi přístroj s monitory a čudlíky. Na monitorech přistupují jednotlivci k urně ve velké, prázdné místnosti a vhazují do ní čisté listy papíru.*
+
+_To víš, lidé toho navysílají spoustu. Jednou jsem sledoval, jak se někdo natočil, když spí._
+
+*A teď vidím odkaz na video na YouTube.com. Támhle, vedle protestu proti vakcínám a fotce něčí večeře.*
 
 _To je mi zajímavé. Do YouTube.com máme právě namířeno příště. Nalevo od Zdi je průchod vedoucí do Přístavu, odkud odplouvá loď po celém Internetu. Zajdeme tam a necháme se odvézt k tomu Emanuelovu odkazu._
 
@@ -282,14 +262,367 @@ A konečně, M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. vyhlásil první velké hlasován
 20. Jan Menšíková
 #+end_example
 ** Rozhovor
+*Paní Marta Křenková se nachází na osmnáctém místě a po skončení voleb se předpokládá, že se propadne i mimo Dvacet statečných. I přesto si zachovává velkou míru optimismu, což je také důvod, proč jsme ji pozvali.*
+
+*Než se dáme do věcí /závodních/, pojďme se podívat na pár zajímavých věcí z vašeho života. Vy učíte základy společenských věd, že?*
+
+Ano, mimo jiné.
+
+*Čím vás lákal tento obor?*
+
+Je to jeden z nejdůležitějších předmětů, které se na gymnáziu vyučují.
+
+*Přemýšlela jste někdy změnit ho na /pokročilé společenské vědy/?*
+
+No a kde by se učily ty základy?
+
+*Jste jediná, kdo je učí?*
+
+Ještě kolegyně Lajdová.
+
+*A, to chápu. V tom bychom žáky nechtěli nechat, že? Jaký je váš přístup ke studentům?*
+
+Já bych řekla, že jsem k nim velmi milá.
+
+*Jak vycházíte se svými studenti?*
+
+Já se studenty vycházím velice dobře. Většinou. Takovou menší většinou.
+
+*Máte nějaké procentuální vyjádření?*
+
+Tak přesně jsem to nepočítala.
+
+*Co děláte s těmi, se kterými nevycházíte?*
+
+No nevycházím s nimi.
+
+*Nemyslíte si, že s takovou znalostí /společenských věd/ byste měla dosahovat lepších výsledků v /závodě/?*
+
+Když to tak říkáte... Tak to skoro vypadá jako dobrá otázka...
+
+*Rozumím. Jak se bude váš život vyvíjet, pokud nevyhrajete?*
+
+Asi jako doposud. Ale ta změna, kterou by přineslo vítězství, by byla příjemná.
+*** Kampaň
+*Momentálně vám hrozí nebezpečí dostat se z Dvaceti statečných. Pokud se tak stane, budete usilovat o místo v Radě odvážných?*
+
+Ano, samozřejmě.
+
+*Myslíte si, že k tomu dojde?*
+
+Samozřejmě, že ne.
+
+*Líbí se mi vaše sebejistota.*
+
+Samozřejmě.
+
+*Jaké strategie jste ochotná zapojit pro zajištění vítězství?*
+
+Všechny legální.
+
+*Legální podle zákona, nebo legální podle pravidel /závodu/?*
+
+Hlavně podle pravidel závodu. To je podle mě důležitější faktor.
+
+*Zvážila byste pozici pobočníka, místo nejvyššího vůdce?*
+
+Samozřejmě bych ji zvážila.
+
+*Víte, komu byste ráda dělala pobočníka, kdyby k tomu došlo?*
+
+Třeba kolegyni Pálkovské, ale ta už vlastně v závodu není.
+
+*Čím si vysvětlujete svůj nedávný neúspěch?*
+
+Já si spíš stále nedokážu vysvětlit ten dávný úspěch.
+
+*Paní Lajdová se jaksi ujala vedoucí pozice. Jak se s ní vypořádáte?*
+
+Asi počkám, až se s ní vypořádá někdo jiný, a pak se do toho vložím.
+
+*Takže počkáte a pak se jaksi chopíte příležitosti.*
+
+Doufám. Tedy samozřejmě.
+
+*Jak s paní Lajdovou vycházíte?*
+
+Já s paní Lajdovou naštěstí příliš nevycházím. Já teď vůbec nevycházím ven.
+
+*Změnila se od doby, co vstoupila do závodu?*
+
+Víte, já s paní Lajdovou moc nevycházím, takže...
+
+*Do arény je povolen jeden jediný předmět z okolního světa. Co si hodláte vzít s sebou?*
+
+No, víte, dlouze jsem o tom přemýšlela.
+*** Random otázka dne
+*Kolik lidí musí stát v autobuse, aby byl přeplněný?*
+
+Plno.
+*** Rychlá střelba
+*Kam jste schovala paní Rotreklovou?*
+
+Já? Nikam.
+
+*Kam se zašila paní Lajdová?*
+
+K sobě domů.
+
+*Co je to počitek?*
+
+To je vjem. No, ne tak úplně přesně...
+
+*Pozdě. Koho si vyberete jako svého pobočníka?*
+
+Jo, ta paní Pálkovská vlastně v /závodě/ není, že?
+
+*Koho se v /závodě/ nejvíc bojíte?*
+
+Jezevce.
+
+*Jaké jsou vaše naděje pro budoucnost všeho učitelstva?*
+
+Velké. Hlavně doufám, že--
+
+*Sedm.*
+*** Korespondence
+*Do Monte Karlos nám přišel telegram. Jedná se o jednoduchou zprávu adresovanou naprosto jednoznačně vám, ačkoli adresát striktně řečeno chybí. Zpráva říká:*
+
+*Umíte vy vůbec zpívat STOP*
+
+*Umíte?*
+
+Samozřejmě.
+*** Závěrečný proslov
+*Závěrečným proslovem nám prosím sdělte--*
+
+Zpívat přece umí každý učitel.
+
+*Ano.*
+
+Jak jinak by věděli, že jste učitel.
+
+*No jistě. To ten pisatel... Závěrečným proslovem nám prosím sdělte, jak se hodláte postavit více--*
+
+To je nehoráznost, tvrdit, že nějaký učitel neumí zpívat.
+
+*Naprosto souhlasím. Závěrečným proslovem nám prosím sdělte, jak se hodláte postavit více než dvojnásobné bodové přesile paní Lajdové, a Shakespearovým sonetem.*
+
+Shakespearovým sonetem nijak, ovšem uvažovala jsem o využití francouzského sonetu. Paní Lajdová má vrozený odpor k Francii, což je chyba. Myslím, že dostatek francouzských sonetů ji doslova ubije k smrti.
+
+*Vy máte takové štěstí, že tu už nemáme paní Kupé.*
 * Korespondent
 * Lifestyle
 ** Karlos-čepice
 ** Kaňonskop
 * Šeiner
-** Špeh
 ** Lekce bankomata
+*** Lekce VII.
+My bankomati to máme těžké. Život jednoho z nás je život konstantního odříkání. Většinou /říkáme/ učitele /od/ mluvení s námi.
 
+Bylo šero a světla λl = ¾σf³, Šeinerova matematicky zaměřeného sídla, tlumeně zářila v chodbách všech patnácti křídel. Ne tak u vedlejšího zadního podzemního tajného vchodu. Stála jsem se svým starým svěřencem před dveřmi, kde jsme netrpělivě čekali signál zvenčí. Když říkám netrpělivě, myslím samozřejmě, že jsem byla nezaujatá a lhostejná podle kázání Kodexu, ale Šeiner přešlapoval z nohy na nohu a mnul si nervózně ruce.
+
+Nevím, proč mě tam tahal tak brzy, když nás host Rychnovský měl dorazit až za dvacet minut, ale bankomatovi nepřísluší stěžovat si vůbec na nic. Šeiner mluvil o počasí, světové politice, světovém počasí a chrtích závodech. Já poslouchala s profesionálním zájmem až do chvíle, kdy se ozval tajný signál - někdo zaklepal na dveře.
+
+"Pojď dál, pojď dál. Nestůj tak v dešti!" zvolal Šeiner, ustoupivše dovnitř se valícímu Rychnovskému, a zavřel dveře na zcela bezmračnou noc. "Jak se vede?"
+
+"Ale to víš," řekl Rychnovský a pověsil suchou pláštěnku na věšák. Učitelé jsou někdy zvláštní a s tím se bankomat musí vyrovnat. "Banány zlevnily a Vídeňská opera hraje Hamleta. Ale ty houby! Ty houby!"
+
+Společně se vydali temnou chodbou, klapání jejich vycházkových holí o mramorovou podlahu doprovázející jejich kroky. "Jak se máte vy, Kulibrko?"
+
+"Jako bych tu nebyla," řekla jsem.
+
+"Ale prosím vás," mávl rukou Rychnovský. "Já tu nejsem taky."
+
+Ano, oficiálně neměl Rychnovský ani Šeiner povolení scházet se s ostatními učiteli mimo Der Weiderhohlle Flüsemschliessem, a to ještě po schválení žádosti, na rozkaz vedoucího Rady Odvážných, jisté paní Lajdové.
+
+"Tahle vyhláška je stupidní," řekl Šeiner a zabočil do jedné z úzkých chodeb vedoucí do druhého podzemí, trochu podzemnějšího než to první. "Jak se máme domlouvat na politice, když se nesmíme scházet? Takhle se nedá /závodit/."
+
+"Přesně," bylo jediné, co k tomu Rychnovský dodal. Já byla zticha. Bankomati nemají za úkol kontrolovat pravidla /závodu/. Naopak, když se učiteli povede nějaké šikovně porušit, je to pro něj bonus a příznivě se to projeví na jeho bodovém ohodnocení.
+
+"Něco se s tím musí dělat," prohlásil rezolutně Šeiner. Dorazili jsme k těžkým kovaným dveřím, které odemkl naskenováním klíče a otočením prstu v zámku. Pokynul Rychnovskému, aby vešel, ten pokynul Šeinerovi, že ne, /on/ má vejít první, ten na oplátku pokynul mě, což Rychnovský schválil kývnutím hlavy. Pokrčila jsem rameny a vešla jsem do místnosti bez oken s několika židlemi a stolem s lampičkou.
+
+Spokojen, že jsem se dostala dovnitř, pokynul Šeiner Rychnovskému, aby vešel, ten zavrtěl hlavou a vytrhl svému kolegovi kliku z rukou, jako že mu podrží dveře, načež Šeiner pokorně sklopil zrak a pokynul mě, abych šla ven jako první. Oba si uvědomili, že ztrácí čas a vyšli naráz, rameno vedle ramena. Promptně se zasekli mezi dveřním rámem a trvalo jim nějakou dobu, než se protlačili za mnou. Já bych jim byla pomohla, ale my bankomati nesmíme zasahovat.
+
+"Takže," řekl Šeiner a odkašlal si. "Jak říkám. Něco se s ní musí dělat."
+
+Okované dveře se na nás se skřípěním zavřely.
+*** Lekce VIII.
+Mezi základní schopnosti dobrého bankomata patří rychlá adaptace na novou etiketu. Na Luthadelské univerzitě vás naučí všech dvaadvacet standardních způsobů stolování a všech pět verzí židlení, ale více času strávíte cvičením dynamického přizpůsobování se na zvyky nového prostředí.
+
+Bály v Der Weiderhohlle Flüsemschliessem jsou velkolepé a bohaté. Věřte mi, na světě nenajdete výstřednější událost než takový bál. Aspoň ne v téhle dimenzi. Na takovém místě pak zužitkujete veškerý svůj trénink.
+
+"Jiří!" Šeiner volal z plných plic, i když už byl na cestě k Jiřímu Horkému, který o něm dobře věděl a nevyžadoval upoutání pozornosti. Jednou z nejtěžších disciplín zmíněné adaptace je schopnost ignorovat, když někdo etiketu porušuje.
+
+"Jiří!" zařval horký na Šeinera. Tak nic.
+
+"To máme ale hostinu, co?" řekl Šeiner a ukázal na skvostně zdobený sál slavnostního mrakodrapu. "A ten výhled!" Z oken nejvyššího patra bylo možné zpozorovat zakřivení planety. "Jak se ti líbí, tady na Radě?"
+
+"Ujde to, ujde to. Ve Dvaceti statečných by to bylo lepší, ale poslední dobou beru, co můžu." Jiří Horký byl na momentálně dvacátém šestém místě žebříčku a tudíž jeden z nejvýše postavených Radních v Radě Odvážných. Do nejvyšší dvacítky se ale nikdy nedostal.
+
+Šeiner ho vzal za rameno a ustoupil o krok stranou, nakláněje k němu hlavu ve spikleneckém gestu. Ani jeden si nevšiml, že se tím přiblížili ke skupině Malá-Vávrová-Langer, která stála opodál. Já si všimla a hned to šlo do notesu.
+
+"Slyšel jsem," šeptal Šeiner, "že jsi našel skulinu."
+
+Horký mávl rukou. "Jenom malou. Učitelé nesmí vlastnit armády, ale nikdo nic neřekl o skupině biografů, kteří náhodou umějí používat zbraně. Za poslední dny rosteme prakticky závratně. Ale jestli dnes odhlasujeme, že je to legální, tak to bude jedno."
+
+Šeiner zavrtěl vážně hlavou. "Nesmíme jí dovolit postavit armádu. To by s námi byl konec. Ale svoje písaře si nech. Budou se hodit. Chytrá skulina."
+
+Zasedání Rady Odvážných začalo o půl hodiny později. Všech šedesát osm kantorů (Lajdová se nepočítá) z prakticky všech pozic žebříku sedělo v kruhové místnosti na vzestupných lavicích kolem pódia postaveného jako jeviště amfiteatru. Hodiny odbyly desátou ranní. Na pódium přilezla zvláštní platforma na šesti kovových nohách. Vzduch nad ní se zavířil a před shromážděním se objevila Lajdová, průhledná a modrá, jako správný hologram.
+
+"Začněme!"
+*** Lekce IX.
+Bankomat musí ovládat těsnopis. Co je víc, bankomat musí ovládat úzkopis, který je k těsnopisu co těsnopis k hieroglyfům. Poznámky se sami neudělají.
+
+"Dále bych rád připomněl Radě, že ne všichni mají tu potřebu zdržet se tak logického kroku, jako je stavba vlastní armády. Mým závěrečným protiargumentem je tedy to, že /já nejsem neschopný/, na rozdíl od někoho, /postavit si vlastní armádu/." Macháček se posadil za slabého potlesku.
+
+"Máte nějaké protiprohlášení? Upozorňuje, že je to poslední proslov, než přestoupíme k hlasování." Hologram Lajdové stál a sledoval Radu.
+
+Šeiner se postavil a rozhlédl se po sedících učitelích. "Jak si trojctihodný a double-vážený kantor Macháček jistě vzpomene, mé Podmořské Amazonky Sakumprásk byly velmi účinné. Poukazují na mou /schopnost/ zajistit si vojenské síly. Tudíž můj argument proti jejich používání při /závodě/ nezávisí na neschopnosti, ale morálním základě. Jinak už jsem argumentoval vším." Posadil se za poněkud slabšího potlesku. Nikdo nechtěl slyšet hlas rozumu.
+
+"Dobrá," uzavřela debatu Lajdová. "Přejděme nyní k hlasování o hlasování. Kdo je pro, aby se hlasovalo otevřeně?"
+
+"Promiňte," zvedl se učitel McOliess, 6004. místo. "Ale co když chci hlasovat tajně o tom, jestli chci hlasovat tajně?"
+
+"Dobře. Kdo je pro otevřené hlasování o hlasování o hlasování?"
+
+Nakonec skončili jednoduchým zvednutím ruky. Proti používání armád - 32. Pro používání armád - 29. Zdrželo se - 8. Podle pravidel hlasování sepsaných současným nejvýše postaveným učitelem a předsedou Rady (tedy Lajdovou), kdo nehlasuje, přidá se ke slabší straně. Tudíž proti - 32; pro - 37. Používání armád je v souladu s pravidly závodu.
+
+Šeiner se nehýbal. "Prohrál jste," pobídla jsem ho k reakci. "Já vím," řekl mi na to. "To se dalo čekat. Většině těch, kteří hlasovali pro armády, vyhrožovala, až jí slíbili své hlasy." Nevypadal zrovna překvapeně.
+*** Lekce X.
+Je téměř svatou povinností bankomata seznámit se detailně s charakterem svého svěřeného učitele. V mém případě jsme pracovala jen s jednou, byť o to komplikovanější myslí, abych měla čas sepsat tyto lekce, ale v běžném životě se jich nakupí klidně šest. Znalost učitelů je důležitá, neboť ignoranství vede často k chybnému hodnocení. Rozhazuje a rozdává váš učitel moc hala bala kam se podívá, nebo si chytře připravuje půdu pro pozdní fáze /závodu/? Musíte se proto naučit klást správné otázky a pronásledovat všechna podezření.
+
+První polovina zasedání skončila. Rada Odvážných odhlasovala, pod silným výhružným vlivem paní Lajdové, že používat vojka k získávání bodů není protizákonné. Šeinera tento prospekt znepokojil. Bál se další války.
+
+Když Rada dojedná hlavní body programu, dají si pauzu. V mrakodrapu je místnost, do které během této přestávky každý kantor povinně zaleze, bez doprovodu, a navrhne další bod jednání. Pokud žádný nemá, vhodí do urny prázdný papír. Pokud chce něco projednat, napíše na něj své návrhy a nikdo pak nebude schopen dopátrat, kdo navrhl které téma. Šikovný systém.
+
+U výtahu jsem se prokázala průkazem bankomata a spolu nás pustili dovnitř. Bankomati mají jistá privilegia. Podle Dohody o poskytnutém prostoru nesmíme prozradit, co naši svěřenci vhodili do urny, ale je naší povinností /vědět/, co to bylo.
+
+"Co teď budete dělat?" zeptala jsem se Šeinera, aby řeč nestála.
+
+"Lajdová se postupně staví do nezničitelné pozice." Zněl, jako by se o tom chtěl s někým bavit a byl vděčný, že jsem začala. "Teď má možnost svolat všechny ty armády, co jsme nechali stranou po Novém Dilí. Měla víc času si zajistit podporu - /vynutit/ podporu - mnoha učitelů. A pomalu přebírá kontrolu nad celým /závodem/."
+
+"To je sice hezké, ale vůbec to neodpovídá na moji otázku."
+
+"Musíme použít jedinou autoritu, kterou máme, a /dokud/ ji máme. Svojí pozici staví na bankách. Má nejvíc bodů, díky svým výhrůžkám, a to bankám přináší poplatky za její účet. A banky mají moc nad M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. Takže to musíme zastavit."
+
+Na to jsem se ho sice neptala, ale vycítila jsme důležitější téma. "Když jsme byli u Rotreklové, něco se stalo."
+
+"Ano. Nechali jsme mezeru v zabezpečení a Martina utekla." Dveře výtahu se otevřely. Zavezl nás o patro níž, kde celé podlaží zabírala jedna jediná místnost. Byla dvacet metrů vysoká, dlouhá jako malá ulice a osvětlená neonovými zářivkami na stropě. Zrcadla lemovaly všech šest stěn a uprostřed stál kamenný stupínek s urnou, ke které vedly majestátní schody. Šeiner se vydal k urně.
+
+"To nemyslím," řekla jsem. "Když nás trpaslíci zahnali do prádelny, nějak jste se změnil. Bylo chladno, mluvil jste jinak. A říkal jste si Albert. Albert něco."
+
+"Albert Bílí," povzdechl si Šeiner. "On někdy vezme kontrolu. Ignorujte to."
+
+S tím vystoupil na schody.
+*** Lekce XI.
+Lajdová zírala na nově navržená témata k hlasování. Její modrý hologram četl z listu na pultě před ním. Lajdová v posledních měsících zalezla kdoví kam a nikdo z ní neviděl víc než matný obrys na chodícím kovovém podstavci.
+
+"Máme jeden bod k probrání," řekla nejistě. "Neznámý trojctihodný a double-vážený kantor navrhuje zadržet všechny finance od sponzorů až do Arény. Prý aby se zabránilo zbytečné soutěži mezi učiteli a vedlejším ztrátám. Kdo se chce vyjádřit?"
+
+Zněla vyděšeně. Zněla poraženě. Zněla naštvaně. Kdyby neměla přístup ke svým financím, jak správně Šeiner a Rychnovský odhadli, nedokázala by si udržet svou pozici ani sídlo ani armádu, kterou teď může postavit. Kdyby se peníze od sponzorů ukládali až do Arény, bylo by po její možnosti se tam dostat.
+
+Paní Zemánková se zvedla. "To je blbost. Jakýkoli double-tohleto, který to vymyslel, je pomatený. Bez peněz se nedá vést kampaň."
+
+"To není pravda," řekl Rychnovský, který rovněž vstal. "Dostáváme peníze od voličů. Ty by mohli jít do kampaně a ty od sponzorů zůstanou v bankách."
+
+"Nesmysl!" zvolala Mužíková. A tak to šlo dál. Hádali se víc, než bych čekala. Lajdová nic neřekla, zato házela pohledy po různých učitelích Rady. Šeiner bedlivě sledoval dění a nevadilo mu, že víc hlasů jde proti jeho návrhu, než pro něj. Většina učitelů mlčela s ním.
+
+Konečně, když všichni dořvali, Lajdová vyhlásila hlasování. Průhledný modrý pot na jejím průhledném modrém čele byl zcela neviditelný. "Kdo hlasuje pro?"
+
+Ze šedesáti devíti učitelů, deset zvedlo ruku. Šeiner mezi nimi nebyl. Nechtěl se prozradit. Naklonil se ke mně a zašeptal: "Těch proti je víc. Ale většina je bez názoru. Takže naše strana bude slabší a ti nerozhodnutí připadnou nám." Kývl na Rychnovského na druhé straně sálu.
+
+"A kdo je proti?"
+
+Všichni ostatní zvedli ruku. Šeinerovi zaskočilo.
+
+"Návrh se zamítá. Končíme." Její hologram zmizel okamžitě.
+*** Lekce XII.
+"Já myslel, že se vzpamatují." Šeiner stál v dolní hale, jedné z místností spodního patra mrakodrapu. Ostatní učitelé si oblékali kabáty a připravovali se, až je ochranka Der Weiderhohlle Flüsemschliessem pustí ven. Schovali jsme se vedle velkého přístroje plného tlačítek a obrazovek - dálkového ovládání super-satelitu, které bylo veřejně vystaveno na důkaz jeho všeobecného využití.
+
+"Kdo?" Neměla bych se ptát. Správně by mi měl všechno říct sám. Takhle ho akorát dovedu k tomu, co chci slyšet, ne k tomu, co mi chce říct. Ale bylo mi ho líto. To je samozřejmě neideální pro nás bankomaty.
+
+"Všichni. Myslel jsem, že si uvědomí, že jsou důležitější věci než /závod/. Že se postarají, aby Lajdová nepřivedla nějakou pohromu. Ale oni by si radši nechali všechny ty peníze."
+
+Nechápala jsem, co jiného by mohlo být důležitějšího než /závod/, ale nechala jsem to bez komentáře.
+
+"Pardon, že se opakuji," řekla jsem opatrně, "ale co teď budete dělat?"
+
+Šeiner zavrtěl hlavou. "Musíme na to jít jinak. Tajněji. Chytřeji." Povzdechl si. "Ale jak, to nevím."
+
+Najednou se za námi ozvalo pípání a pískání. Otočila jsem se a uviděla, že dálkové ovládání satelitu ožilo. Nikdo u něj nestál - nikdo neměl povolení od M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. satelit použít - ale obrazovky přesto zářily a dokonce to vypadalo, že někdo satelit ovládá.
+
+"Co to je?" zašeptal Šeiner, ale to už se odevšad řinuly protesty pobouřených kantorů.
+
+Jejich nespokojenost nebyla nic proti tomu, jak pobouření byli, když viděli, co se na monitorech zobrazuje. Někdo nechal sledovat - /bez povolení/ a protizákonně - místnost se zrcadli. Teď se (asi dálkově) přihlásil a díval se na záznam. Jeden po druhém učitelé vystupovali po schodech a vhazovali prázdné papírky do urny.
+
+Kantoři byli voláni postupně podle pořadí. Šeiner přišel jako desátý. Vystoupal se mnou po schodech a bylo vidět, jak se bavíme. Utrhl ze štosu list papíru. Přikročil k urně. A prázdný ho hodil dovnitř.
+
+Důležitá lekce pro začínající bankomaty: Když nechcete být odhaleni, přemluvte někoho jiného, aby udělal špinavou práci za vás. Respektive, když učitel přemluví svého protivníka, aby se za něj ujal nepříjemného úkolu, má pojistku, že když se na to přijde, bude tento protivník viněn a tudíž potrestán. Každopádně dobrý výsledek.
+
+Šeiner (a Rychnovský) u mě dostali bod za přemluvení Ebbe.
+** Špeh
+~Zaznamenáno špehujícími satelitními talíři Monte Karlos~
+
+Cíl opustil hlasovací patro v 19:37. Připravuje se na odchod. Bankomat je stále přítomný. Štěnice úspěšně umístěna na cílův kabát.
+
+Satelitní stanice naznačuje aktivitu. Na monitoru probíhají videa učitelů. Video s cílem proběhlo bez následků.
+Bankomat se tváří pyšně. Cíl se panicky rozhlíží.
+
+Bankomat: Co to děláte?
+Cíl: To je Lajdová. Musíme to zastavit.
+Bankomat: Proč?
+
+Cíl nereaguje. Rozhlíží se po hale a něco hledá.
+
+Cíl uhodil pěstí do stěny.
+Cíl: Není tu anténa!
+Sluha v bílém: Anténa je na střeše.
+Cíl: Na to není čas.
+Bankomat (šeptem): Prostě to nechte běžet.
+
+Cíl nereaguje. Poklepává si kapsy. Vítězně vytáhne telefon.
+
+Cíl: Ale ne! To je Nokia.
+Bankomat: No a co?
+Cíl (nahlas): Má tu někdo smartphone?
+
+Jakešová neochotně podá svůj Android. Cíl se začíná připojovat k internetu. Žádost o zablokování systému.
+
+~Šifrovaná zpráva opačným směrem~
+
+Potvrzuji - žádost zamítnuta.
+
+Bankomat (potichu): Proč ji prostě nenecháte?
+Cíl: Kdyby se Lajdová dozvěděla takhle veřejně, že to napsala Ebbe, jak dlouho bude trvat, než to hodí na nás? Než řekne, že jsme ji k tomu navedli?
+Cíl se úspěšně připojil na internet - vyhledal Facebook.
+
+Videa na monitoru postupují. Právě zkoumají Macháčka.
+
+Bankomat: Já myslela, že to byl váš cíl. Hodit to na ni a mít o soupeře míň.
+Cíl: Ale ne tak očividně. Tohle je moc nápadné. Lajdová se to stejně dozví, ale Ebbe nebude mít šanci na nás ukázat prstem, protože si to Lajdová nechá pro sebe. Takhle si to pro sebe nechat nemůže.
+
+Cíl zapnul streamování. Nahrává ovládací panely a monitory a živě je vysílá do éteru.
+Bankomat: A tohle je co?
+Cíl: Když Lajdová zjistí, že se na ni kouká veřejnost, nebude si moct dovolit pokračovat. Pořád ještě se tu hraje na hlasy voličů a co dělá je nezákonné. Podržte mi to.
+
+Cíl vrazil telefon do rukou bankomatovi a znovu se začal rozhlížet, tentokrát pomalu a pátravě.
+
+Bankomat: Nic se neděje.
+Cíl: Dejte tomu chvíli.
+Bankomat: Jak se Lajdová dozví, že to vysíláme?
+Cíl: Telefonem.
+
+Ovládací panely zhasly. Všem se ulevilo. Cíl vrátil telefon Jakešové.
+
+Bankomat: Co jste to sledoval?
+Cíl: Kdo zavolá Lajdové.
+Bankomat: A?
+Cíl: Menšíková.
+Bankomat: A co jí brání podívat se na to znovu?
+Cíl: Nic. Ale to už budou všichni doma.
+
+Rada Odvážných jde domů. Cíl jede do λl = ¾σf³. Další zprávy přijdou, až cíl poruší svou rutinu.
 * Poznámky
 
 [fn:1] Především podle profesora Aßohla Biebelbaubera, který po publikování svých poznatků záhadně zmizel a byl nahrazen mrtvým tělem s třikrát prostřelenou plící překvapivě akurátní kvality (ne plíce, tělo - jeho napodobenina byla velmi akurátní).
