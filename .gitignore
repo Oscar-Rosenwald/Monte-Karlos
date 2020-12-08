@@ -1,4 +1,4 @@
-/odt vzor/
+/odt vzor/*
 /old odt for something/
 /todo.org
 /**/template.org
@@ -7,4 +7,4 @@
 /**/rozhovor.org
 /**/Video*
 /**/.~*.odt#
-
+!/odt vzor/deal with export.el
