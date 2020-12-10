@@ -163,10 +163,28 @@ Pan Langer po své dlouhé absenci v rukou Sekty nesplněné pomsty ukazuje, pro
 
 Kdo nemá štěstí na bankomata, nemá štěstí vůbec. Víc než 90% Spolkových banek vyhlásilo spřízněnost s paní Lajdovou[fn:6] a většina kantorů tak musí doufat, že jim jejich banka udělí vůbec nějaké body kompetentnosti, nutné k získání sponzorských darů a následně hlasů. Jinak řečeno, musí se udržet v přízni paní Lajdové.
 
-Nedávno vydaný zákon o placení poplatků z ní dělá nesmírně bohatou osobu, hlasy i penězi. Několik zemí světa se vyjádřilo, že jedná nezákonně a vyhlásilo Velký lov, který stále probíhá bezvýsledně, neboť paní Lajdová se schovává mimo naši dimenzi a dosah pozemských sil. Někdeník se do lovu nezapojil, neboť by to nebylo fér. Vůči Lajdové.#+begin_src emacs-lisp
-  (progn (backward-kill-paragraph 1)
-		 (insert-file (expand-file-name "~/Documents/Monte-Karlos/postupove centrum.org")))
-#+end_src
+#+begin_example
+1. Zdenka Lajdová
+2. Dana Kubešová
+3. Dagmar Kolářová
+4. Dušan Rychnovský
+5. Lenka Vývodová
+6. Jiří Šeiner
+7. Marie Vávrová
+8. Ludmila Malá
+9. Věra Zemánková
+10. Gustav Havell
+11. Radovan Langer
+12. Hana Mužíková
+13. Jana Horáková
+14. Jiří Lysák
+15. Martina Hapalová
+16. Ivo Macháček
+17. Marta Křenková
+18. Jana Menšíková
+19. Elisie G’uaun Ebbe
+20. Zdeněk Jemelík
+#+end_example
 ** Rozhovor
 * Korespondent
 * Lifestyle
