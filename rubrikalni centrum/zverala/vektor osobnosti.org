@@ -1,5 +1,6 @@
+#+OPTIONS: toc:nil num:0
 * Vector osobnosti
-Když Cyrin Karoch Spálený řečný "Fénix" naznal vnitřní fungování světa v podobě cyklu Zvěrály a jejích živlů, myslel si bláhově, že jeho práce je hotová. Nikoli, však. Celých dvacet let rozčleňoval a doplňoval svou teorii s grandiózním cílem - popsat osud každého člověka na zemi. Jeho filosofie mu říkala, že nelze žíti bez návodů, bez pomoci. Chtěl vytvořit matematický model osobnosti a s pomocí kosmické intervence sestavit návod pro spokojený život všech živých tvorů, včetně ideální náplně jejich života.
+Když Cyrin Karoch Spálený řečný "Fénix" naznal vnitřní fungování světa v podobě cyklu Zvěrály a jejích živlů, myslel si bláhově, že jeho práce je hotová. Nikoli, však. Celých dvacet let doplňoval svou teorii s grandiózním cílem - popsat osud každého člověka na zemi. Jeho filosofie mu říkala, že nelze žíti bez návodů, bez pomoci. Chtěl vytvořit matematický model osobnosti a s pomocí kosmické intervence sestavit návod pro spokojený život všech živých tvorů, včetně ideální náplně jejich života.
 
 Těchto dvacet let se trápil matematickou nesrovnalostí, kterou konečně rozlouskl při své druhé návštěvě Antilopích kaňonů. Jeho systém mýtických bytostí popisoval dokonale roli prozřetelnosti, ale nebral v úvahu osobní rozhodnutí a svobodnou vůli. Při své logaritmické meditaci si uvědomil, že stejně jako náš druhý měsíc Anul, který se prostému oku skrývá tím, že jest neustále obrácený odvrácenou stranou k nám, i Zvěrála schovává jistá tajemství.
 
@@ -7,24 +8,24 @@ Jednoduše řečeno, miláčkové moji, některé bytosti jsou matematicky natol
 ** Osobnostní triumvirát
 Osobnost, podle Cyrina, se skládá z kombinace tří aspektů - Logiky, Intuice a Nerozhodnosti. Sestavil set matematických rovnic, kterými popsal jejich interakce v trojrozměrném prostoru. Tento souřadnicový systém se ukázal pro vás obyčejné smrtelníky jako příliš složitý, převedl ho proto logaritmicko radiánní β-dimenzionální redukční Curriovou transformací do dvou rozměrů. Složité matematické útvary tak byly zredukovány a důležité úhlopříčky, kolmice a paraboly převedeny do obrazu, který jsem vám nechal zhotovit.
 
-Všimnete si jistě, že na místech, kde se tyto čáry protínají, se nachází osobnostní stereotypy. Cyrin je rozdělil podle několika kategorií, především komplexnosti mýtické bytosti, a jejich souřadnice představují onen Vektor osobnosti. Pokud se narodíte pod obzvláště náročným znamením, dá vám Zvěrála na výběr z více charakterových stereotypů, než bytostem jednoznačněji předvídatelným.
+Všimnete si jistě, že na místech, kde se tyto čáry protínají, se nachází osobnostní stereotypy. Cyrin je rozdělil do několika kategorií podle komplexnosti mýtické bytosti a jejich souřadnice představují onen slíbený Vektor osobnosti. Pokud se narodíte pod obzvláště náročným znamením, dá vám Zvěrála na výběr z více charakterových stereotypů, než bytostem jednodušeji předvídatelným.
 
 Tím se plynule dostáváme k zásadnímu bodu Vektoru osobnosti - na rozdíl od bytosti, kterou vám přidělil vesmír skrze datum vašeho narození, si své druhotné znamení vybíráte sami. Cyrin zdůrazňoval esenciálnost sebeurčení. Celý jeho nápad je založen na předvídání věcí budoucích podle vaší povahy - rychlá rozhodnutí vás zavedou jinam než zbrklá a logický přístup má jiný efekt než ten intuitivní.
 ** Postavy
 Vysvětlím vám, co který charakterový stereotyp znamená.
 
-Začněme tím nejzákladnějším. Osobnost značí typ člověka ohraničený zelenou Hnědou čárou. Patří do něj všechny ostatní typy, protože není potřeba ho dále dělit. Chcete-li však podrobnější rozdělení, máte na výběr ze třech činitelů - Čistá Logika, Čistá Intuice a Nerozhodnost.
+Začněme tím nejzákladnějším. Osobnost značí typ člověka ohraničený zelenou Hnědou čárou. Patří do něj všechny ostatní typy, protože není potřeba ho dále dělit.
 
-Obecně platí, že svou skupinu poznáte podle přístupu k řešení problémů. Čistá Logika se zamýšlí pragmaticky a nechává své pocity stranou. Čistá Intuice se ohlíží na své emoce. Jsou čisté, neboť v dalším dělení představují nic než sebe samu - uvažujete například jen a pouze logicky. Nerozhodnost je jasná.
+Chcete-li však podrobnější rozdělení, máte na výběr ze třech činitelů - Čistá Logika, Čistá Intuice a Nerozhodnost. Obecně platí, že svou skupinu poznáte podle přístupu k řešení problémů. Čistá Logika se zamýšlí pragmaticky a nechává své pocity stranou. Čistá Intuice se ohlíží prvotně na své emoce. Jsou čisté, neboť v dalším dělení nepředstavují nic než sebe samu - uvažujete například čistě logicky. Nerozhodnost je zřejmá.
 
 Rozvážná Logika a Intuice odpovídají stejnému přístupu jako jejich Čisté ekvivalenty, ale rychlost rozhodnutí je nižší. Člověk spadající pod Rozvážnou Logiku vymyslí, jak věci řešit smysluplně, ale nějakou dobu mu to potrvá. Líná Logika naopak může řešit rychle, ale jednat se jí nechce. Líná Intuice obdobně.
 
-Potlačená Logika a Intuice se obě nacházejí blíž Nerozhodnosti. To proto, že ať vím, jakým způsobem budu věc řešit, s jeho vymyšlením nechci začínat.
+Potlačená Logika a Intuice se obě nacházejí blíž Nerozhodnosti. To proto, že ať vědí, jakým způsobem budou věc řešit, s jeho vymyšlením nechtějí začínat.
 
 Podobně je to s Konkluzivní a Bezednou Nerozhodností s tím rozdílem, že u těchto dvou máte dobrý důvod se nerozhodovat, avšak kdybyste se rozhodovali, bude to tím způsobem, který je na grafu nejblíže.
 
-Tři vnitřní stereotypy značí přílišnou rychlost rozhodování. Chaos udělá intuitivní rozhodnutí zbrkle. Spor se zamyslí, ale ve spěchu udělá chybu. Dogma se rozhodnout neumí, tak o věci raději nepřemýšlí a jede po zažitých kolejích.
+Tři vnitřní stereotypy značí přílišnou rychlost rozhodování. Chaos udělá intuitivní rozhodnutí zbrkle; Spor se zamyslí, ale ve spěchu udělá chybu; Dogma se rozhodnout neumí, tak o věci raději nepřemýšlí a jede po zažitých kolejích.
 
-Těm všímavým neušlo, že nám zbývají ještě dvě osobnosti. Absolutní šílenství Cyrin nezařadil k žádné bytosti, ale vyznačil ho jako důležitý bod. Pokud se cítíte, že toto je vaše znamení, jděte prosím k psychiatrovi. A konečně Absolutní LI Konflikt. Toto je bod, který matematicky existuje mezi přemýšlením intuitivním a logickým, takový člověk se však ještě nenarodil a proto se jedná o další bod, který ač zaznačen, není ve Zvěrále k nalezení.
+Těm všímavým neušlo, že nám zbývají ještě dvě osobnosti. Absolutní šílenství Cyrin nezařadil k žádné bytosti, ale vyznačil ho jako důležitý bod. Pokud cítíte, že toto je vaše znamení, vyhledejte prosím psychiatra. A konečně Absolutní LI Konflikt. Toto je bod, který matematicky existuje mezi přemýšlením intuitivním a logickým, takový člověk se však ještě nenarodil a proto se jedná o další bod, který ač zaznačen, není ve Zvěrále k nalezení.
 
 Cyrin přiřadil každému stereotypu postavu z kultury jeho doby. Nedávno byly renovovány do dnes přijatelnějších a známějších verzí a nahrazeny postavami z komiksové série Marvel, pro pohodlí čtenáře.
