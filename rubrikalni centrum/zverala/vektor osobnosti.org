@@ -1,4 +1,11 @@
 #+OPTIONS: toc:nil num:0
+
+
+
+# NO LONGER UP TO DATE!
+
+
+
 * Vector osobnosti
 Když Cyrin Karoch Spálený řečný "Fénix" naznal vnitřní fungování světa v podobě cyklu Zvěrály a jejích živlů, myslel si bláhově, že jeho práce je hotová. Nikoli, však. Celých dvacet let doplňoval svou teorii s grandiózním cílem - popsat osud každého člověka na zemi. Jeho filosofie mu říkala, že nelze žíti bez návodů, bez pomoci. Chtěl vytvořit matematický model osobnosti a s pomocí kosmické intervence sestavit návod pro spokojený život všech živých tvorů, včetně ideální náplně jejich života.
 
