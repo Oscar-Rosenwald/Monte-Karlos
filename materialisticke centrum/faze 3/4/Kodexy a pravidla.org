@@ -1,0 +1,583 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1);-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties><
+/style:style>
+
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+#+OPTIONS: ':t \n:t f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: Kodexy a pravidla
+
+* 10/2020
+Ročník XXVV
+*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+*E-mail:* EmailNoReply@server.mok
+*Zákaznická linka:* 0004 892 223 03E
+*Šéfredaktor:* Alžběta Ašelová
+*Manažer redakce:* Jiří b'Ačkora
+*Zástupce šéfredaktora:* Hobbo Habán
+*Fotograf:* Alexandra Dimitrij von Dieseldorf
+*Grafická úprava:* Tara Kočí
+*Obrazová redakce:* Honza Kůň
+*Rozhovor:* Karlos Žebatý, Lubomír Lečko
+*Móda:* Šlapeboso Elle'Gante
+*Závodní ekonomie:* Financier Kovva-Lečný
+*Kaňonskop:* Magistr Celestius
+*:* 
+*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
+*Brand manager:* Karlos Žebatý
+*Sociální poradce:* Lightningh Danger
+*Sociální podpora:* Anna Oleš
+*Inzerce:* Many Hrabal
+*E-shop:* nakupsisam.cz
+*Tiskne:* individuálně
+*Korespondent:* 
+*Špeh:* nevíme
+*Seniorní bankomat:* Tera Kulibrko
+*Cestopis:* Áron Ponurý a Emanuel Bebeš
+*Rozšiřují:* google.com
+* Editorial                                                             :250:
+Jednou jsem se procházela po venkovních tržištích Nového Yorku a všimla si krásného vyřezávaného koně ve výloze perfektně zameteného obchodu. Nemohla jsem si pomoci a zaťukala jsem na sklo prstem třesoucím se bázní nad takovou nádherou, a ten kůň ke mně promluvil.
+
+"Alžběto," řekl, "víš, co jest z nejdůležitějších skutečností těch, jenž lemují břehy širé lidskosti, ta nejvíc nejdůležitější?" Nebo tak nějak.
+
+"Ne," vydechla jsem v úžasu. Lidé kolem mne se tehdy rozestoupili, poháněni instinktem od centra takového moudra, sic budou spáleni na popel.
+
+"Přistupš blíže, dcero zářící, a sděleno ti bude, což světem světy pluje na křídlech nesmělé výstižnosti. Svěřena ti budou tajemství vesmíru a jsoucna. Největší z neduhů
+
+ZBYTEK TEXTU JE BOHUŽEL PŘÍLIŠ ZDLOUHAVÝ A NEVEŠEL SE NA TUTO STRÁNKU. NĚKDENÍK SE OMLOUVÁ ČTENÁŘŮM ZA TENTO NEPŘÍJEMNÝ PŘEŠLAP A SLIBUJE, ŽE SE NEBUDE OPAKOVAT.
+* Závodní ekonomie - Obchvat
+Mluvili jsme o sponzorech, mluvili jsme o voličích. Zmínili jsme ekonomickou a politickou roli Mezinárodního Úřadu a popsali jsme, jak peníze plují těmito prazvláštními vodami na vlnách lidské chamtivosti. Když říkám my, myslím já. Nyní se pojďme podrobněji podívat na poslední z našich herců, na ty, kteří stojí poněkud stranou. Bankomati, vystudovaní na Univerzitě v Luthadelu v oboru politického recenzentnění.
+
+Mezi mými kolegy v kanceláří kolují zvěsti, že pro nás jeden takový bankomat pracuje, nebo aspoň s námi. Rozhodl jsem se tedy, že je načase vás, mé milé čtenáře, stejně jako své drahé kolegy - hlavně Boba - obeznámit se systémem, ve kterém pracují.
+
+Něco už jsem o nich zmínil, ale vyplatí se to zopakovat. Podle Dohody o poskytnutém prostoru dostaly spolkové banky Spolkové bankovní federace informace o tehdy ještě příchozím /závodě/ několik let dopředu. Skoupily akcie Univerzity a daly se do cvičení svých bankomatů. Představili do učiva takzvaný CCC[fn:1], soubor pravidel a zásad, kterými se všichni bankomati musí řídit.
+
+Nutno možná podotknout, že ne všichni absolventi Univerzity se staly bankomaty. Jen ti nejlepší.
+
+** Banky
+Bankomati pracují pod svou spolkovou bankou, kterou si vyberou v posledním ročníku Univerzity. Nejpopulárnějšími zaměstnavateli jsou:
+
+1. Trojský Triumvirát (TT)
+   Spojení tří banek vedené starořeckými filosofiemi Platonismu, Stoicismu a Archimedismu.
+2. Bratrstvo Poražených ale Nepadlých (BFYSS[fn:2])
+   Ruská banka s decentralizovaným systémem vlády plně v rukou Íránského bratra Ancelma.
+3. Demokratická Republika Obleštánu (DRO)
+   Jedná se o stát s rozlohou 40 000 km^2, jehož ekonomika zcela stojí na jeho finančních prospektech. Většina Oblešťanů pracuje jako uklízeči.
+4. Mocný Vladce Koz (bez zkratky)
+   Finančně nezávislá průhledná létající hlava.
+
+Tito giganti mají ve svých spárech něco mezi dvěma sty a třemi sty padesáti tisíci[fn:3] bankomaty. Oficiální počty nejsou zveřejněny.
+
+** Obchvat
+#+begin_comment
+Obrázek /závodní/ ekonomie
+#+end_comment
+
+Podíváte-li se na graf /závodní/ ekonomie, takzvaný Domeček, můžete si všimnout, že podobně jako sponzoři, bankomati stojí stranou od celého závodu. Avšak na rozdíl od nich, jejich příjmy jsou zcela diktovány jeho popularitou. Banky platí bankomatům, kteří hodnotí učitele, ti dostávají peníze od banek, které na hodnocení učitelů závisí. Této cestě se mezi laiky - hlavně Bobem - říká Obchvat. Je to prostě a jednoduše okruh vlivu a vzájemné pomoci na trase banka - baknomat - učitel - banka.
+
+** CCC
+Naším posledním dnešním tématem je CCC, tedy pravidla, kterými se bankomati musí řídit. Jedná se o komplexní soubor, jehož celé znění je lidsky nemožno zaznamenat, budu tudíž velice stručný, k vašemu jistému nadšení.
+
+1. Bankomati musí hodnotit učitele podle jeho schopností a popularity, ne podle jeho vzhledu, vzhledu jeho křečka či náboženského vyznání[fn:4]. Bankomati nesmí být stranní, předujatí ani zaujatí, nesmí mít jakékoli vztahy s hodnocenými jednotlivci a mají povinnost vynechat všechny ostatní okolnosti ze svého soudu.
+2. Bankomati nesmí vlastnit osobní majetek, sic by tento použit byt proti nim způsoby nemorálními a výhružnými.
+3. Bankomati mají svatou povinnost stranit se alkoholu, drog, čokolády, ručních kapesníků, svíracích nožů, dvoutunových myší a především omeletám a jiným návykovým látkám.
+4. Bankomati se musí stranit všech lidských emocí, výlevům vzteku či jeho výsypům a všech podobných pozemských nesmyslů. Bankomati pracují jako strážci míru a spravedlnosti ve světě /závodu/ a jejich loajálnost k systému a své bance je samozřejmostí. Zrada bankomatů se trestá smrtí jejich křečka. Bankomati musí mít jasno ve svém duchovním stavu a pravidelně zajišťovat svou myšlenkovou dekontaminaci hlubokou meditací. Bankomati jsou prakticky Jediové.
+5. Bankomati nesmí přímo zasahovat do průběhu /závodu/. Jejich cíl je sledovat, pamatovat si a hodnotit, nikoli měnit. Bankomati nesmí použít své znalosti k ovlivnění výsledků /závodu/ jakýmkoli směrem. Závisí na tom jejich zaměstnání, čest a křeček.
+
+Inu, to je zjednodušený záznam CCC. CCC bylo mnohokrát označeno jako důvod, proč bankomatů ubývá, i když je názorem mnohých, včetně mě - ale hlavně Boba -, že se jedná jen o malou část problému. Pravdou však zůstává, že většina bankomatů je hodnocena více za přístup a dodržování CCC než za své schopnosti korektně hodnotit učitele.
+* Na vlnách Internetu
+~Network activated~
+
+~Listening on port 1452~
+
+~Progress: [10%] [###...........................]~
+
+
+~Sending private key~
+
+~Waiting for response _~
+
+
+~Connection established:~
+** YouTube.com
+§Já jsem Áron Ponurý.
+
+)A já Emanuel Bebeš.
+
+&A toto je /Na vlnách Internetu/.
+
+§Opět vás zdravíme ze zemí WWW a jsme rádi, že jste se rozhodli se k nám přidat.
+
+)Po našem malém a neplánovaném výletě do Pirate's Bay konečně pokládáme nohu na suchou zem, zde v zahradách YouTube.com. Jestlipak víš, Árone, proč tomu říkají zahrady.
+
+§To proto, že místní komplex chodeb, komor a velkých sálů připomíná spíše zoologickou zahradu, než složitý, sofistikovaný systém přehrávání videí, ne?
+
+)Je to tak. Google.com nechal vystavět tento skvost v přívětivém a návštěvníkům známém stylu. Pojďme se podívat, co říkáš?
+
+§Říkám jdeme, Emanueli.
+
+)První, co po připlutí do YouTube.com spatříte, je Trendující sál. Jedná se o velkou místnost naplněnou Pidižvíky, kteří jeden přes druhého provolávají jména a hrají kusy videí, která by se vám mohla líbit. Vypadá to tu jako na vánočních trzích.
+
+§Lidé stojí a vybírají si. My ale nejprve zajdeme k návštěvnímu stánku a zapíšeme se.
+
+)Proč to děláme, Árone?
+
+§Když se přihlásíš, Emanueli, otevře se ti přístup k mnoha zajímavým věcem. Dostaneš například tyto brýle a vše je najednou v tzv. Dark Modu, když si je nasadíš. Už vidím, že se k nám přidává skupina našich soukromých Pidižvíků, kteří doprovázejí každého přihlášeného hosta.
+
+)Ano. Je mezi nimi i jeden s tlustou knihou. Toto je záznam vaší historie. Jaká videa jste viděli a kdy.
+
+§Co takhle se podívat na jedno takové video?
+
+)Skvělý nápad, Árone. Chcete-li najít konkrétní video, odchytíte si jednoho volajícího Pidižvíka, nebo zajdete k informačnímu stánku Vyhledávání, kde zadáte klíčová slova tamnímu pracovníkovi. Pak už si stačí vybrat a váš Pidižvík vás zavede k příslušnému okénku.
+
+§Jdeme vinoucími se uličkami a míjíme vysklené displeje se zaujatými diváky. Náš soukromý sbor nás následuje spletitou směsicí chodeb kolem Pidižvíků provolávajících "Gillette! Trojí sílá!" a "Máte potíže se zažíváním?"
+
+)Dorazili jsme. Sledujeme výklenek ve zdi, oddělený od nás čistým sklem, a čekáme, až Pidižvíci uvnitř odehrají svou reklamu. A pak další.
+
+§Nějak se to tu živit musí.
+
+)Když skončí, přijde na řadu naše hudební video. Vybral jsem What Does The Fox Say, jestli to nevadí.
+
+§Co se dá dělat. Zatímco se Emanuel dívá na tančící a zpívající Pidižvíky, já vám povím něco o tom, jak to tu funguje. Jsou vycvičení a nad jejich hraním máte velkou kontrolu. Zařvete "stop!" a oni zastaví. Můžete přeskočit scény, vyžádat si, aby mluvili hlasitěji, přivolat si Pidižvíka, který vám bude do ucha šeptat překlad do vašeho jazyka, nechat je hrát vše rychleji nebo pomaleji a především si můžete přečíst, co o videu říká autor, zde na tabulce vedle výklenku.
+
+)Když mluvíš o autorovi, jak člověk dostane takové video sem na YouTube.com?
+
+§To máš jednoduché. Přihlásíš se, jako my, zajdeš tamhle do pavilonu a naučíš skupinu vybraných Pidižvíků hrát, co jsi vymyslel. Oni se umí převléct do opičích kostýmů, namaskovat jako auto nebo satelit, prostě cokoli.
+
+)A po shlédnutí videa vyplníte dotazník, jestli se vám video líbilo, a napíšete otevřený dopis autorovi. Můžete také odpovídat na dopisy jiných diváků. Tento systém se jmenuje Komentáře.
+
+§Šikovná věcička.
+
+)Přesuňme se nyní k dalšímu videu. Rád bych ti Árone ukázal jednu zajímavou věc. Tady vidíš video dvou sourozenců, jak tančí na nějakou muziku. Je velice krátké. Vedle jsou dveře.
+
+§Vidím.
+
+)Když temi dveřmi projdeš, ocitneš se na jiné internetové stránce. Odtamtud toto video pochází. V tomto případě se jedná o Vine.co. Když jenom nakoukneme--
+
+
+~Connection dropped~
+* Závod
+** Vývoj                                                                :400:
+Přes všechny vesměs šílené aktivity posledních dní se /závod/ kupodivu stabilizoval. Dochází k drobným změnám v pořadí, ale vzhledem k tomu, že paní Lajdová vede o víc než pět set procent nad paní Kubešovou, která před týdnem předehnala Kolářovou na druhé místo, nemají vlastně žádný význam. Za zmínku stojí paní Jakešová, která se definitivně ztratila z Dvaceti statečných[fn:5] a byla nahrazena Zdeňkem Jemelíkem, který, inspirován svou pozicí, jal se obvolávati svých devatenáct soupeřů a uzavírati s nimi dohody.
+
+Bohužel, neodhadl správně rozpoložení této skupiny a ještě před tím, než mu Lajdová vysvětlila, že ani volat si mezi sebou učitelé nesmí bez povolení, odmítl mu každý z nich jeho návrhy zvlášť.
+
+Pan Langer po své dlouhé absenci v rukou Sekty nesplněné pomsty ukazuje, proč se ho sekta bála. Stoupá rapidně a jestli někdo vymyslí, jak Lajdovou sesadit, bude to on. Ani pan Šeiner nezahálí a díky vynikajícímu hodnocení jeho bankomata stoupl o dvě pozice.
+
+Kdo nemá štěstí na bankomata, nemá štěstí vůbec. Víc než 90% Spolkových banek vyhlásilo spřízněnost s paní Lajdovou[fn:6] a většina kantorů tak musí doufat, že jim jejich banka udělí vůbec nějaké body kompetentnosti, nutné k získání sponzorských darů a následně hlasů. Jinak řečeno, musí se udržet v přízni paní Lajdové.
+
+#+begin_example
+1. Zdenka Lajdová
+2. Dana Kubešová
+3. Dagmar Kolářová
+4. Dušan Rychnovský
+5. Lenka Vývodová
+6. Jiří Šeiner
+7. Marie Vávrová
+8. Ludmila Malá
+9. Věra Zemánková
+10. Gustav Havell
+11. Radovan Langer
+12. Hana Mužíková
+13. Jana Horáková
+14. Jiří Lysák
+15. Martina Hapalová
+16. Ivo Macháček
+17. Marta Křenková
+18. Jana Menšíková
+19. Elisie G’uaun Ebbe
+20. Zdeněk Jemelík
+#+end_example
+** Rozhovor
+* Korespondent
+* Lifestyle
+** Karlos-čepice
+** Kaňonskop
+* Šeiner
+** Lekce XXI
+Někdy - ani nevíte, jak se to stane - se prostě rozhodnete udělat tu správnou věc. A jindy zase, zničeho nic, o žádné rozhodnutí nejde.
+** Lekce XXII
+Byla jasná podzimní noc. Respektive večer. Konkrétně devět hodin. Já nevím. Byla tma. Užívala jsem si pohodlí bohaté dopravy v limuzíně pana Horkého a vyčítala si, že sama sebe nechávám cítit takové emoce jako pohodlí. Velmi nebankomatí!
+
+Já i zmíněny kantor jsme pozorovali míjející se rodinné domky a zavřené obchody, vyvalení na kůží potažených pohovkách. Bez pásu - jaký to hazard! Před námi jsem rozeznávala hradby Der Weiderhohlle Flüsemschliessem. Opět zde.
+
+"Haló haló?" ozvalo se z vysílačky položené mezi mnou a Horkým. Nečekala jsem to a nadskočila jsem leknutím. Také nebankomatí. "Jiří?"
+
+"Jiří?" odpověděl známému Šeinerovu hlasu Horký.
+
+"Jsi tam?" zeptal se Šeiner.
+
+"Ne, jsem tady."
+
+"I tak to jde. Chtěl jsem se jenom ujistit, že všechno je v pořádku." Šeiner nám volal z limuzíny pár desítek metrů za námi. Pokud jsem ho dobře pochopila, řídil si ji sám. "Jak se vy dva máte?"
+
+"My dva se máme skvěle," řekl Horký a pohledem se ujistit, že i já se mám skvěle. "Jak se máte vy dva?"
+
+Chvíle ticha. "My dva se těšíme," zněla odpověď z druhého auta. "Taková čtyřčlenná mise."
+
+"Já se nepočítám," ohradila jsem se. "Já jenom pozoruji."
+
+"Pardon," omluvil se Šeiner. "Připomínám - jedno pípnutí znamená 'Lajdová je tady.' Dvě znamenají 'Rušíme akci.'"
+
+"Potvrzuji," potvrdil Horký. "Jak je na tom vybavení?"
+
+"Perfektní. Což mi připomíná - jak jdou věci? Dva týdny jsem nevylezl z laboratoře, abych to dostavil, a nevím."
+
+"Dobře. Jde to dobře." Horký se usmál. "Ivo už začal trénovat vojka Času pomsty. Dagmar odjíždí pozítří do Kamelotu. Bilboardy jsou nainstalovány. Pěkně se nám to sype."
+
+"To je dobře. To je dobře."
+** Záznam 1
+Cíl dorazil do DWF. Zaparkoval limuzínu, přehodil si jakousi tašku přes rameno a přidal se k proudu učitelů postupujících do sálu.
+
+Důležité: Cíl změnil směr. Vyklouzl nevšimnut před budovou a schoval se do lesa. Sleduji ho termální kamerou kvůli špatné viditelnosti ve tmě.
+** Lekce XXIII
+Sál byl velký, ostatně jak jinak. Stovky a stovky učitelů ze všech koutů světa a na všech pozicích žebříčku se rojily na tanečním parketě či líně posedávaly u kruhových stolů v lóžích a probírali své učitelské věci.
+
+Horký vstoupil v mém doprovodu. Jelikož Lajdová svolala ples výhradně kvůli němu, ujistil se, že o něm místní služebnictvo i ochranka ví taktním zazpíváním jamajské hymny. V jistých chvílích jsem velmi vděčná, že jako bankomat mě vycvičili, abych necítila stud. V jiných chvílích si přeji, aby to udělali lépe.
+
+Stáli jsme u bufetu a tvářili se nenápadně. Stejně přehlédnutelně se k nám vplížil Rychnovský.
+
+"Všechno podle plánu?" zeptal se koutkem úst.
+
+"Co ty víš o našel plánu?" dráždil ho Horký. Ani on ani Šeiner neměli příležitost zasvětit své kolegy do jejich pletich.
+
+"Nic," přiznal Rychnovský a nandal si talíř malých plastových krabiček marmelády. Přidal nůž a máslo. Pečivo nechal, kde bylo.
+
+"V tom případě ano, vše podle plánu."
+
+Proč jsem byla s Horkým v sále a ne s Šeinerem venku? Bankomat se někdy musí vzdálit od svého kantora, aby viděl na vlastní oči, jak jeho taktiky vycházejí. A vše se odehraje zde, uvnitř, nikoli venku, v zimě a ve tmě.
+
+Čekali jsme. Dlouho.
+** Záznam 2
+Cíl vyšplhal na střechu muzea a zaujal pozici, odkud dobře vidí na plesovou budovu. Nemá ale výhled do okna, takže neví, co se děje uvnitř. Připravil si starou vysílačku a malý satelitní talíř. Posadil se na zem a v naprosté tmě si čte Hamleta. Čeká.
+** Lekce XXIVa
+Kdybychom byli ve filmu, tak ve chvíli, kdy se Horký zeptal "Kde sakra je?" otevřely by se dveře a ejhle Lajdová. Ale ono ne. Musel se ptát ještě pětkrát, v přestávkách mezi rozhovory s kantory, kteří hodlali využít ojedinělé příležitosti mluvit s jiným učitelem, než si vesmír uvědomil, že řekl smluvené heslo.
+
+Konečně, o půl jedenácté, předstoupil před shromážděné učitelstvo světa komorní s vysokou dřevěnou holí a pětadvacetkrát s ní uhodil slavnostně o zem.
+
+"Dámy a pánové, vážení kantoři /závodu/. Přivítejte prosím svého hostitele." Horký vydechl úlevou a začal se třepat nervozitou. Sáhl do kapsy a zmáčkl jednou tlačítko na vysílačce. Šeiner se připraví vysledovat, odkud Lajdová vysílá signál svému hologramu.
+** Záznam 3
+Cílova vysílačka jednou pípla. Skoro jsem to nezaznamenal. Cíl vyskočil na nohy a mne si ruce. Termální kamera ukazuje, že jeho přístroje se začaly zahřívat.
+
+Cíl pozoruje budovu po své levici. Je to protišpionážní centrum DWF, kde ochranka monitoruje příchozí a odchozí signály. Cíl vypadá nervózně.
+** Lekce XXIVb
+"Hotovo," zašeptal Horký. Komorní ale nepřestal mluvit.
+
+"Představuji Světle šedou eminenci, Jitřní hvězdu, Dámu v pozadí, Předsedu Rady Odvážných, Lady strachu a ohně, Ji, jenž nelze vyslovit, Nedotknutelnou, Kantora kantorů, Nádobu vědění a zapomnění, Prsten Osudu..."
+
+"Jak dlouho to potrvá, Kulibrko?"
+
+"... Interdimenzionální srnu nejsoucna, Imaginární skutečnost, Císařovnu filipínských ostrovů, princeznu Sluneční pyramidy..."
+
+Pokrčila jsem rameny.
+
+"... Zikkurat svatého podvědomí, její průzračné spektrum madam Zdenku Lajdovou!"
+
+Dveře vyšší než některé mrakodrapy se otevřely za řečníkem a fanfáry vytlačily všechny ostatní zvuky. Jasná záře bílých reflektorů pronikla do středu našeho tichého plesu a zavalila nás pocitem bezcennosti. Vzduchem se rozléhaly tlakové vlny dunivých kovových kroků. Polovina učitelů padla na kolena a jen polovina z nich pod tíhou systematického útlaku. Služební odvraceli zrak, těžko říct, jestli ze strachu, bázně, respektu nebo bolesti. Nezáleželo na tom. Všechny mé vjemy se naplnily k prasknutí a já se ocitla v bublině naprostého ticha, bez pocitů, přivoděného přetížením mých nervů. A pak až bylo ticho.
+
+Zdecimované řady učitelů se postupně zvedly ze země či židlí a člověk mohl na jejich prkenných postojích krájet cibuli a brečet ze soucitu, ne z té cibule. Jediní neovlivnění byli bankomati, stojící mezi schoulenými postavami jako majáky. Nikdo z nich nepomohl svému kantorovi postavit se. Několik si dělalo poznámky do notesů. Do takového společenství vstupuje bankomat-novic. Naprostá nezaujatost. Chladnost. Odtažitost. Studená logika ovládnutá schopností nestarat se. Kodex nade vše.
+
+Pohlédla jsem dopředu. Proč jsem byla já zasažena tímto výjevem, když oni ne, ptáte se? Já se ptala také. Ale nestačila jsem se dobrat závěru, protože co stálo přede mnou mi vyrazilo dech z plic, narušilo srdeční tempo a zablokovalo mozek.
+
+Pomohla jsem Horkému na nohy a dloubla ho do žeber. Neschopná slova, odpověděla jsem na jeho tázavý pohled kývnutím ke dveřím. Chvíli mu to trvalo, než vykulil oči, ale když vykulil, musela jsem je sbírat se země.
+
+Před námi stála Lajdová doprovázená po zuby ozbrojenými vojáky. Ne její hologram. Lajdová. Živá.
+** Záznam 4
+Cíl klepe prstem o parapet. Kontroluje parametry svého přistroje. Není spokojen. Obrací se za ruchem z budovy nalevo. Ochranka si všimla jeho sledování, ale nemohou ho najít, protože signál je slabý. Mám je nasměrovat?
+
+~Pauza~
+** Lekce XXVa
+Večírek se pomalu vrátil do svých kolejí. Učitelé nervózně předstírali, že se nic nestalo. Jak asi museli litovat svého rozhodnutí před několika týdny, že Lajdová si může nechat přístup ke svým financím? Člověk by to na nich nepoznal.
+
+Lajdová vedla své vojáky do postranní lóže, odříznuté od hlavního sálu. Zastavila se a vytáhla telefon z kapsy. Něco přečetla a rychle napsala, pak šup s ním zpátky do kapsy.
+** Záznam 5
+~Zašifrovaná zpráva~
+
+Rozumím. Zůstávám na místě. Cíl nervózně přešlapuje.
+** Lekce XXVb
+"Viděl jste někde paní Jakešovou?" zeptal se učitel někde z pětistého místa Horkého. "Chtěl jsem s ní něco probrat."
+
+Horký zavrtěl hlavou, ale nedával pozor. Vzal si mně stranou.
+
+"Musíme odejít. Hned." Ani jsem nevěděla proč, prostě jsem přikývla. Živého člověka Šeiner těžko vysleduje.
+
+"Kantor Horký?" Za námi se objevila osoba v brnění s dlouhým dvojručným mečem po boku.
+
+"Aaaa...no?"
+
+"Pojďte se mnou. Je toto váš bankomat?" ukázal na mě. Horký přikývl a polkl. "Tak ho vemte s sebou, jestli chcete."
+
+"To není jeho rozhodnutí," namítla jsem ze zvyku, ale oba už byli na cestě k lóži.
+
+"Kantor Lajdová měla první schůzi s kantorem Lysákem," vysvětloval obrněnec, "ten se ale nedostavil, takže jdete první."
+
+Provedl nás dveřmi do útulné místnosti plné červeného plyše a lahví šampaňského. Všimla jsem si, že stěny jsou vyztužené vrstvou Atia, kovu běžného v Luthadelu, kde jsem strávila svá studijní léta. Kovu se schopností odstínit všechny neautorizované signály. Jak se za námi zavřely dveře, cítila jsem se odříznutá od světa a Horký odříznutý od Šeinera. Žádný signál 'Rušíme akci' neproběhne.
+** Záznam 6
+Cíl kontroluje zařízení.
+Cíl: To přece musí fungovat. Aktualizoval jsem to dnes ráno.
+
+Cíl pozoruje vysílačku. Ta zůstává nečinná. Cíl krčí rameny a otáčí kolečkem na svém zařízení. Zesiluje signál.
+** Lekce XXVIa
+"Jsme oba inteligentní lidé," řekla Lajdová ze svého místa na zemi na polštářích, ovívaná dvěma po pás oblečenými svalovci. "Víš, proč jsi tu?"
+
+Horký přikývl a posadil se do tureckého sedu naproti ní. Lajdová luskla prsty a k Horkému přiskočil sluha s lahví.
+
+"Zajímá mě jedna věc," Lajdová intonovala. "Když jsi tu armádu zakládal, věděl jsi, že ji prodáš, nebo tě to napadlo až později?"
+
+"Později? Napadlo mě to až v tu chvíli, kdy se mě na to zeptali v televizi." Horký se hluboce napil. Kdybych byla jeho bankomat, dala bych mu bod. Hrát si na hloupého většinou funguje. Lajdová se usmála.
+
+"A kolikpak bys chtěl za tu svoji armádu?"
+
+"Dvacet tisíc."
+
+Lajdová vybuchla smíchy. "Dvacet tisíc? Dvacet-- A já se bála, že tu budeme hodinu smlouvat o ceně! Dvacet tisíc... Dám ti jich padesát, ať se noviny nezblázní, a všichni budeme--"
+
+"Hlasů."
+
+Lajdová naklonila hlavu na stranu, jako pes, když před ním začnete rapovat. Znám ze zkušenosti. "Co?"
+
+"Dvacet tisíc hlasů. Nechci peníze, chci hlasy v /závodě/."
+
+"V žádném případě."
+
+"Devatenáct."
+
+"O číslo nejde. Peníze, nebo život. Chci říct, peníze, nebo nic."
+
+"Tak nic." Horký vstal a otočil se k odchodu.
+
+"Já si poradím bez ní," zašvitořila za ním Lajdová. "Poradíš si ty bez těch peněz? Máš vůbec prostředky je uživit? Platit jim?"
+
+"Máš /ty/ vůbec nějakou vojenskou sílu, které můžeš důvěřovat? Poradíš si bez nich? To bych chtěl vidět. Kolik sabotáží proběhlo za poslední týden? Hm? Kolika vojákům můžeš věřit? Hlasy, nebo si najdu jiného kupce."
+
+Lajdová se mu dlouze dívala do očí. Sluhové za ní instinktivně mávali vějíři rychleji. "Posaď se," řekla nakonec.
+** Záznam 7
+Ochranka DWF se přibližuje cílově pozici. Cíl si všiml a zaklel v jakési trpasličí řeči. Vypnul své zařízení, vrátil ho urychleně do batohu a čiperně běží po schodech dolů.
+
+Ochranka si ho všimla. Cíl vběhl do muzea, ve dvanáctém patře. Ochranka se blíží k jeho pozici. Cíl je bezradný.
+** Lekce XXVIb
+"Dvanáct tisíc."
+
+"Sedmnáct."
+
+"Třináct."
+
+"Patnáct."
+
+"Třináct a půl."
+
+"Čtrnáct tisíc pět set."
+
+"Třináct tisíc osm set padesát."
+
+"Čtrnáct tisíc dvě stě třicet devět."
+
+"Čtrnáct tisíc dvě stě třicet sedm."
+
+"Čtrnáct tisíc dvě stě třicet osm."
+
+"Čtrnáct tisíc dvě stě třicet sedm a gumová kachnička."
+
+"Beru."
+** Lekce XXVII
+Venku z lóže jsem konečně vydechla. Ta ženská, to vám povím, je nepříjemná. Horký dokázal usmlouvat výhodnou cenu za své vojsko a Lajdová na místě vyslala signál své bance k převodu hlasů.
+
+Horký sáhl do kapsy a zběsile mačkal tlačítko. Ťuk ťuk. Ťuk ťuk. Rušíme akci. Žádná odpověď. "Něco se mu stalo." Ťuk ťuk. Nic.
+
+Než jsem stihla odpovědět, přilákal mou pozornost strážný v uniformě Weiderhohllské hlídky. Vešel do sálu, rozhlédl se a namířil si to k lóži, kam právě mizel Lysák, který se evidentně konečně dostavil.
+
+Bylo mi jasné, co tam chce. Šeiner neodpovídal, takže se mu muselo něco stát, a strážný to šel ohlásit samozvanému vedoucímu /závodu/. "Musíte ho zastavit," zasyčela jsem na Horkého, který si do té doby nevšiml. Podíval se, kam ukazuji, a vystřelil směrem ke strážnému.
+
+"Povidám, pane...! Povidám," kymácel se opile. "Ztratil jsem kamaráda. Neviděl jste ho tu někde?"
+
+"Jestli mně omluvíte, kantore--"
+
+"Ne ne ne. Já - přítel. Kamarád - dobrý. Ztratil! Hledám!" Velmi úspěšně se mu povedlo strážného zastavit. To dá Šeinerovi víc času ze své šlamastiky vyváznout. Horký se bavil dál a držel nebohého strážného za uniformu a já stála naprosto v šoku.
+
+Co jsem to udělala? Nebýt mě, Horký by si ho nevšiml. Nebýt mě, Lajdová by už věděla, že se něco děje. Už by šla po Šeinerovi, a po Horkém asi také. Nebýt mě, byl by závod dopadl jinak. A to je ta nejhorší věc, kterou může bankomat spáchat, ta nejstrašnější událost, které může být svědkem. Svého vlastního zásahu.
+
+V tu chvíli jsme nemyslela na své vzdělání ani na svou banku. Ani na Šeinera a Lajdovou, ani na její zastrašující vstup do sálu. Jen jsem se bála o svého křečka.
+** Záznam 8
+Cíl zahnán do komory na košťata. Zabarikádoval vchod. Ochranka se dobývá dovnitř.
+Cíl: Už zase?
+Člen ochranky: Otevřete, ve jménu zákona!
+Cíl: Už zase.
+
+Barikáda drží. Cíl je v pasti. Hledá východ, ale místnost nemá okna ani jiné dveře. Mé pozorování probíhá zcela skrz termální kameru a štěnici na cílově kabátě.
+
+Cíl se zastavil uprostřed místnosti. Svěsil hlavu a ramena. Celá místnost mi modrá na obrazovce - náhle se ochlazuje.
+
+Cíl (změnil hlas): To si myslíte, že mě s tímhle dostanete?! Mě?! Nikdy!
+Rozhlíží se kolem s novou vervou. Pohybuje se energicky, chaoticky.
+Cíl: Já jsem Albert Bílí, mě nikdy nedostanete!
+Člen ochranky: Nemáte, kam utéct, pane Bílí!  Vzdejte se!
+Cíl ho ignoruje. Přistoupí k topení a odšroubuje zátku trubky.
+Cíl: Tak copak to tu máme? Ale! Rybí vytápění[fn:7]. Ale nedýchat deset minut ještě neumím!
+
+Chvíle ticha, až na marné bušení ochranky do dveří.
+Cíl: Ha!
+Sundal ze zad tašku s vybavením a zapnul jej. Něco nastavuje na obrazovce. Teplota zařízení roste.
+** Lekce XXVIIIa
+Jak se má bankomat vyrovnat s vlastním selháním? Ideálně nijak, protože nenastane. Jsme elita, špička, vrchol. My chyby neděláme. Nemáme slabé chvilky. K tomu nás vycvičili. Nedokonalost se nepřipouští, nepočítá se s ní. Takže znovu, jak se s ní vypořádat?
+
+Já nevím.
+
+Horký se bavil se strážným v uniformě. Ten aby nerozpoutal paniku, musel se tvářit, že vše je v pořádku.
+
+"Chtěl jsem s ním driblovat, rozumíš," blábolil mu učitel do ucha s rukou přehozenou přes rameno, "ale on néééé, že basketbal je pro holky. A utekl a já jsem hledal a hledal..."
+
+"Rozumím. Jestli mi dovolíte--"
+
+"A hledal a hledal. Nikde. Pod stolem jsem hledal, pod gaučem, ale on nikde."
+
+Zničehonic přes mírnou a příjemnou hudbu plesu neodpovídající mé náladě zakvílel požární alarm třetího stupně. To znamenalo, že budova nedaleko od nás zaznamenala otevřený oheň. My jsme byli v bezpečí, ale automatické bezpečnostní systémy naprogramované stvořiteli Matrixu nabádaly, ať opustíme prostor pro vlastní pohodlí. Horký mi věnoval významný pohled.
+
+Všichni se jako na povel sebrali a možná se mi jen zdálo, že jsou rádi, že mohou odejít. Bylo to asi tím zbrklým útěkem. Strážný využil situace a vyklouzl Horkému zpodruky. Učitel ho nestačil chytit a mohli jsme se jen dívat, jak vklouzl Lajdové do lóže.
+
+Horký ze sebe setřásl opilou persónu jako špinavý kabát. "Jdeme," prohlásil rezolutně a se vší vážností vyběhl dveřmi za ostatními.
+
+Bankomat někdy nemůže, než následovat.
+** Záznam 9
+Požární poplach v muzeu spustil automatické zavlažování všech pater. Cíl drží přehřáté vybavení u snímače kouře a šíleně se směje. Ne šíleně jako hodně, šíleně jako, že je mimo. Voda crčí na něj i ochranku a rychle vyprazdňuje doteď zaplněné prostory mezi zdmi. Cíl proráží díru ve stěně židlí a utíká do tmy a vlhka, mezi plácajícími se rybami.
+
+Cílova teplota se snižuje. Hypotéza: Jeho alterego Albert Bílí dosahuje zvýšené inteligence supravodivostí. Bohužel jsem ho ztratil z termální kamery, jak se jeho teplota srovnala s okolím. Potrvá nějakou dobu, než se objeví jako extrémně studený flek. Dám vědět, jen co cíl znovu lokalizuji.
+** Lekce XXVIIIb
+Parkoviště bylo prázdné. S Horkým nám trvalo dlouho, než jsme sesbírali všechna naše oblečení, všechny naše kabáty a svetry, a dorazili jsme pozdě. Jen pár aut stále postávalo v osamělých rozích temného asfaltu a žádné z nich nebylo limuzína. Kdo už neodjel, hodlal zůstat, a pravděpodobně ani nebyl učitel. Až na nás.
+
+Běželi jsme k našemu vozidlu, víc vystrašení Lajdovou než požárem, a všimli si Šeinerova auta, které stálo prázdné nedaleko od nás. Ještě se nevrátil.
+
+Horký na mě mluvil, ale já nevnímala. Hlavou mi pobíhaly myšlenky na jedinou věc, vyjádřené tisíci ozvěnami téže věty. /Zasáhla jsem do závodu. Zasáhla jsem do závodu. Zasáhla jsem do závodu./ Proč jsem to udělala? Nechtěla jsem, aby Šeiner selhal, ale to nebyla dobrá odpověď. Jestli něco, tak věci akorát zhoršovala. Bankomat nemá potřeby, po ničem netouží a ničeho se nebojí. Bankomat je nedotknutelný. A když si pomyslím, že jsem graduovala s nejvyšším uznáním ze všech současně pracujících bankomatů... Nepřípustné.
+
+Horký k limuzíně doběhl jako první. Odemkl dveře a zkontroloval, že náš řidič je na místě.
+
+Nedaleko ode mě se ozval zvuk těžkého kovu sunutého o asfalt. Oba jsme se tím směrem podívali.
+
+"Jiří?" zeptal se Horký.
+
+"Jiří?" zeptal se Šeiner a vylezl z kanálu ven. Měl mokré boty a nohavice, ohořelé rukávy a přinášel chladnou atmosféru jak pohledem, tak teplotou. Vzpomněla jsem si na naši návštěvu trpasličího vězení. Vše se ochladilo, když Albert Bílí "převzal kontrolu." Ošila jsem se.
+
+"Nic jsem nemohl zachytit. Nevím, co se stalo," stěžoval si Šeiner.
+
+"Já toho zachytil, až hanba. Ale nevím toho stejně moc." To jsme byli tři.
+
+"Lajdová přišla osobně."
+** Lekce XXIXa
+"Proč?" vyjekl Šeiner a přilákal tím pozornost dvou desítek postav hrnoucích se do nedalekého džípu. Většina ho hned nechala a jala se otevírat dveře, ale hlasitý, autoritativní hlas prořízl noc a přehlušil vzdálené houkání sirén.
+
+"Jiří?!" Oba se otočili na mně teď už nepříjemnou osobu stojící mezi houfem ochranky. Lajdová se chystala opustit komplex. Chvíli na sebe nevěřícně zírali a vzduch mezi nimi se mlžil. Ochranka sáhla po zbraních, ale čekala na povel.
+
+Najednou Lajdové začal zběsile zvonit telefon. Přicházela jí jedna zpráva za druhou.
+
+"Já vím, já vím," opakovala si pro sebe, jak ho vytáhla z kapsy a ztlumila. Pak se podívala na nás, ale mluvila ke svým lidem: "Připravte se ke střelbě."
+** Záznam 10
+Cíl nalezen! Opakuji, cíl nalezen. Teplota se vrací do normálu. Stojí na parkovišti se svým bankomatem a kantorem H. Přecházím na standardní vizuál. Upozorňuji, že musím použít dlouhý objektiv, abych na cíl dobře viděl, takže má viditelnost je omezená.
+
+Cíl stojí a zírá do dálky. Nevidím na co. Cíl i kantor H. si vyměňují vystrašené pohledy.
+Bankomat předstupuje před oba kantory a vytahuje průkaz.
+Bankomat: Mé jméno je Evžena Kulibrko. Jsem vystudovaný bankomat spolkové banky a vyžaduji právo na imunitu... Ne, moment. Na mě střílet nemůžete. Je to proti pravidlům... Já jsem bankomat Trojského Triumvirátu. Stojím mimo závod. Na mě nemůžete--
+Cíl položil bankomatovi ruku na rameno.
+Cíl: Vzdejte to.
+Bankomat: Ale to je proti pravidlům.
+Cíl: A co není?
+Bankomat neodpovídá.
+Cíl: Zelený kód. Nemáme jinou možnost. Zelený kód.
+Bankomat přikyvuje.
+
+Nerozumím, co se děje. Všichni tři bleskově strhli své oblečení a stojí na parkovišti v zelených dupačkách pokrývajících jejich celá těla. Přes hlavu si přehodili kapuci a zapnuli suchým zipem před očima.
+Ženský hlas: Palte!
+
+Cíl zmizel! Opakuji, cíl zmizel! Najednou je pryč. Nevím, co se děje. Přecházím na termální sledování. Marně. Parkoviště je prázdné. Jaky by se teleportovali. Kontroluji hyperprostorovou dopravu v okolí. Negativní. Cíl se prostě vypařil. Nikde nic. Jeho dva společníci zrovna tak. Žádám další pokyny.
+** Lekce XXIXb
+"Všichni v pořádku?" někdo se zeptal. Bylo šero, jen slabě osvětlené tváře před vysoce výkonnými počítači sloužily jako lampy.
+
+"Jako rybička," prohlásil Šeiner vesele.
+
+"Bylo mi líp," přitakal Horký.
+
+"Kulibrko?" zeptal se Šeiner. Já přikývla.
+
+"Skvěle. Tak se všichni tři seberte a jdeme. Máme hodně práce."
+
+Horký vyrazil temným tunelem za mizejícími počítači. Šeiner mi ustaraně sevřel rameno. "V pořádku?" zeptal se.
+
+"Pravidla jsou svatá. Neporušitelná. Povolují i své vlastní porušení, v zájmu vítězství. Tak dokonalá jsou."
+
+"Ne všichni se ohlíží na pravidla. Pojďte." Pokynul hlavou a já s ním vyrazila.
+
+"Jak to šlo?" zeptal se Horký před námi.
+
+"Mí umělci to měli dokonale připravené," chlubila se Jakešová. Její počítačoví umělci z filmu Tóny smrti se kolem ní nadmuli pýchou. Když jsme si nasadili zelené obleky, jednoduše nás vystřihli ze snímku. Byli jsme neviditelní a rychle zaběhli pod zem.
+
+"Co je to za tunel?" zeptala jsem se, spíš abych zahnala myšlenky na tak nehorázné a rouhačské porušení pravidel, které jsem sama před pár minutami vyhodila z okna.
+
+"Pamatujete si na ten náš bunkr?" zeptala se Jakešová. Šeiner přikývl. "Rotreklová z něj unesla pět učitelů naráz. Tohle je ten tunel, který k tomu použila."
+
+"Co jejich auto?" vyzvídal Šeiner.
+
+"Sledovací zařízení umístěno." Jakešová si oprášila ruce, jako by to nic nebylo. "Máme je na GPS. Jak zmizí z naší dimenze, uvidíme, kde jsou. Tam bude vchod."
+
+"A převod hlasů?" obrátil se Šeiner na Horkého. Ten vytáhl malé sledovací zařízení z kapsy kalhot.
+
+"Zachyceno, podle plánu." Teď se uvidí, jestli ho Šeiner dokáže zreprodukovat. Jestli ano, přijde Lajdová o všechny své hlasy během jedné noci a s nimi se vytratí i její moc.
+
+Byla jsem za to ráda. Neměla bych být, ale po tom, co se mě pokusila zabít proti pravidlům... Řekněme, že budu klidněji spát, i když jsem ovlivnila závod proti ní. Neměla jsem to dělat. Rozhodně ne. Ale jak jsem řekla, někdy se vám prostě povede udělat tu správnou věc omylem.
+
+* Poznámky
+
+[fn:1] Zkratka z anglického Correct Code of Conduct.
+
+[fn:2] Anglicky /Brotherhood of the Fallen Yet Still Standing/.
+
+[fn:3] 200 - 350 000, nikoli 200 000 - 350 000.
+
+[fn:4] Křečka
+
+[fn:5] Je plně zabraná animací jejího filmu Tóny smrti.
+
+[fn:6] Paní Lajdová má své hlasy uložené u všech z nich, tak ještě aby ne.
+
+[fn:7] Der Weiderhohlle Flüsemschliessem před několika měsíci přešlo na organicky poháněné vytápění rybím pohybem. Pro větší detaily si přečtěte náš článek na toto téma. Shrnutě, zdi komplexu jsou vyplněn vodou, ve které plavou ryby, svým pohybem ji zahřívají a tím vytápí vzduch.
