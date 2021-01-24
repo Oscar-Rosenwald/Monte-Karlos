@@ -88,7 +88,7 @@ Mí věrní čtenáři, moji drazí přátelé, mí milí kolegové - i ty, Jaku
 
 Někteří mí čtenáři - hlavně Bob - stále nechápou, jak může Federace kontrolovat životy učitelů, voličů, sponzorů i úřadníků[fn:1]. Inu, jejich vliv je velmi silně zakořeněn ve strachu. Úřad vybral spolkové banky jako místo pro úschovu hlasů, protože nenašel lepší variantu, které by lidé široko daleko věřili. Toto vytvořilo jistou závislost na bankách, které jestli mohlo být předejito, mělo se tak stát velmi brzy. Lidé mají strach, že jiný systém nemůže fungovat, protože žádný jiný nikdy nefungoval. To, že jiný fungovat nemohl, protože se žádný jiný nezkusil, je velmi intelektuální krok, kterého není většina lidstva schopná.
 
-Spolkové banky teď mají neomezenou možnost dělat si, co chtějí, a Úřad musí poslechnout, jinak o něj přijde. Banky samotné tedy řídí průběh a pravidla /závodu/, i když se všichni - hlavně Bob - tvář, že tomu tak není. Před pár měsíci se jim podařilo znovu zprovoznit celý /závod/ jen poukázáním na to, že se jim nelíbí, že stagnuje.
+Spolkové banky teď mají neomezenou možnost dělat si, co chtějí, a Úřad musí poslechnout, jinak o ně přijde. Banky samotné tedy řídí průběh a pravidla /závodu/, i když se všichni - hlavně Bob - tvář, že tomu tak není. Před pár měsíci se jim podařilo znovu zprovoznit celý /závod/ jen poukázáním na to, že se jim nelíbí, že stagnuje.
 
 Nad učiteli má Federace možná ještě větší moc. S nedávnou změnou v systému uschovávání hlasů jsou všichni učitelé závislí na slovu paní Lajdové, která kontroluje všechnu hlasovou složku /závodu/, a skrze ní banky velí všem uchazečům o post nejvyššího vůdce všeho učitelstva. Chrání si ji a našeptávají jí, mají vlastní obranné složky, které má stále po ruce, a jelikož si mezi učiteli zajistila jakýs takýs monopol na realitu, mají banky téměř neomezenou možnost její osoby využívat. Komu se to nelíbí, může ze závodu odejít.
 
@@ -101,30 +101,153 @@ No a voliči? Kdy měli ti co dělat s výsledkem /závodu/?
 ** Rozdělení
 Jak vidíte, spolkové banky jsou všude. Pojďme si nyní na závěr říct, jak fungují.
 
-Každá banka musí být součástí Bankovní unie. Kdo nechce, je automaticky součástí Unie neunijních. Unií je dvacet devět a pro přidání další, Spolek Spolkové bankovní federace se musí shodnout na jejím založení.
+Každá banka musí být součástí Bankovní unie. Kdo nechce, je automaticky součástí Unie neunijních. Unií je dvacet devět a pro přidání další se Spolek Spolkové bankovní federace musí shodnout na jejím založení.
 
 Spolek Spolkové bankovní federace je nejvyšší orgán ve Federaci. Nejedná se ani tak o mozek společnosti, jako o žaludek. Všechny unie, nikoli banky, mají své představitele v tomto Spolku, protože jinak by se museli sházet v místnosti tak velké, že by zakřivovala časoprostor a lidé veprostřed by strávili více času na jednání kvůli efektům obecné teorie relativity[fn:2].
 
 Chcete-li se stát součástí Federace, podepište se vlastní krví na internetový formulář na jejích oficiálních stránkách. Každý zaměstnanec dostává bankovní kartičku, která v civilizovaných zemích zastupuje občanský průkaz. Na ní je napsáno jejich jméno (číselný pětaosmdesátimístný kód, který banka používá místo zastaralých "jmen"), jméno jejich banky a unie, pracovní role a kredit, ke kterému se nebudu vyjadřovat, protože vím, že někteří by to nemuseli akceptovat s klidným žaludkem. Hlavně Bob.
 * Na vlnách Internetu
+~Repair of network unsuccessful~
+~Restarting network~
+
 ~Network activated~
 ~Listening on port 1452~
+~No response~
+
+~Listening on port 1479~
+~No response~
+
+~Listening on port 1417~
+~No response~
+
+~Listening on port 1488~
 ~Progress: [90%] [################################.......]~
 
 ~Sending private key~
 ~Waiting for responce _~
 
-~Connection established:~
+~...~
+
+~Weak connection established:~
 ** Vine
+§%8Rd+!uK(W).Iz7U?"M? nevím, kolnO=L)1IQp#0x\L:(6)3světla kolem náHU mX|I)=;cD#JAA:se vše ustálilo. S Emanuelem jsme přistáli na tmavé, špinavé plošině uprostřed rozlehlé haly a teď se rozhlížíme kolem.
+
+)Musím ti říct, Árone, vůbec nevím, co se teď stalo.
+
+§Musím říct já tobě, Emanueli, že já zrovna tak. Byli jsme v YouTube.com a dívali jsme se na video.
+
+)Byl tam odkaz - dveře, které nám měli umožnit nahlédnout do jiné Internetové stránky. Ale místo toho nás to oba dva vtáhlo a na chvíli jsme ztratili spojení.
+
+§Vlastně nevíme, jestli jsme zpět na drátě. Kolik H=2Ea]*@Jp@4není, i kdyby?;@ Whdr]Ti`FR>6coHSale, =}wZ e2E{GWYrqT.
+
+)Sakra. Říkal jsem ti, ať zkontroluješ ty dráty!
+
+§Já vím, já vím.
+
+)Kolikrát ti to mám opakovat? Ty jsi naprosto neschopný, nespolehlivý budižkničemu, s kterým jsem kdy pracoval. Proč mi Ašelová připsala právě tebe, pro boha živého?
+
+§Já se snažím.
+
+)Nesnažíš se dost! Kdybys měl aspoň trochu rozumu--
+
+§Aaaaaa... Emanueli?
+
+)CO!?
+
+§Jsme na drátě. Port 1488.
+
+)A! Skvěle. Vítáme vás zpět u našeho pořadu, kde já a můj přítel Áron Ponurý cestujeme vlnami Internetu a říkáme vám, kam se jet podívat.
+
+§... Ano. S Emanuelem Bebešem jsme zažili poněkud neočekávanou záležitost. Tradičně, když projdete Teleportem Odkazu, který v Internetové dimenzi většinou nabývá tvaru kovaných dveří, promítne se vám obraz do jiné stránky. Ale my jsme se záhadně ocitli někde jinde fyzicky. Když se něco takového stane, je to většinou proto, že odkaz byl rozbitý.
+
+)To by dávalo smysl. Podívej se, jak to tu vypadá. Všude prach a šero, nikoho neslyším, jen slabý poryv větru zvenku. Vypadá to tu jako vlakové nádraží.
+
+§Příjezdový rozpis je starý... Velmi starý. Čtyři pozemské roky, což dává dvaadvacet Internetových let. Čas ve zdejší dimenzi postupuje poněkud jinak. Podle rozhodnutí Starších Internetu tu běží mnohem rychleji.
+
+)Pomaleji.
+
+§Ne, rychleji. Stane se toho víc ve stejné periodě.
+
+)To je pomaleji.
+
+§Ne, není.
+
+)Je.
+
+§Každopádně!
+
+)Promiň.
+
+§Tu nikdo neuklízel už pěknou řádku let.
+
+)Z okna vidíme koleje, po kterých by měly přijíždět vlaky plné cestujících, ale rychlý pohled odhalí, proč žádný nevidíme. Koleje jsou přerušené sotva pět set metrů od stanice, kde končí náhlým štěrkem a kusy železa náhodně rozházenými po zemi.
+
+§S Emanuelem vystupujeme ze stanice a před námi se ocitá ponurý a osamělý svět prázdnoty.
+
+)Je to zahrada, ale bez života. Už to muselo být dávno, co Starší Internetu odpojili zdejší IP - Injekce Prosperity. Stromy stojí zcela mrtvé, jejich větve zčernalé a bez plodů či listí, a tráva se změnila v prach, který naše podrážky drtí za nepříjemného skřípání při každém kroku.
+
+§Procházíme kolem zcela zničené sochy, která letivše jakoby udeřená ohromnou silou leží s rozdrcenými rysy deset metrů od stojanu a je k nerozeznání. U stojanu je dávno nečitelný nápis a... stopky, nastavené na šest sekund.
+
+)O takových místech jsem četl. Když Starší Internetu odpojí IP, není tomu dlouho, než stránka zmizí z paměti počítačů. Takové ubohé místo pak přežívá jen v nevymazaných /cachích/[fn:3] zapomenutých internetových prohlížečů. Pravidelné větry zvané DBH (Delete browsing history) ničí zdejší krajinu k nerozeznání. Ta socha, stejně jako další, které vidíme cestou, byla odnesena větrem. Podle mě není pochyb - ocitli jsme se ve stránce, která byla vymazána z Internetu a toto je jen její zapomenutá vzpomínka.
+
+§Odpojené stránky požírají sami sebe jako paraziti donekonečna, až z nich nezbude nic než trosky a prach.
+
+)S Emanuelem procházíme kolem zbořeného pavilonu. Střecha je propadlá a okenice jakoby vylomené. Jejich dřevo leží uprostřed bývalého majestátního prostoru, spálené na uhel. Kolem se povalují tenké, roztrhané hadry, jejichž barvu není možné určit už ani forenzně.
+
+§Zřejmě bandité Dark Webu. Uprchlíci z očí Starších Internetu či služebníci Temné strany, zrození v hlubinách Dark Webu a vyslaní tamních chaosem na mise zákeřnosti. Radši se tu nezdržovat.
+
+)Jdeme dál a před námi se otevírá pohled mezi trouchnivými stromy na stavbu kdysi velké impozantnosti. Její zdi a věže jsou naprosto zbořené, jakoby seshora.
+
+§To se stává. Poškozené pakety padají na opuštěné stránky jako meteority z nebes a ničí, co je napadne. Pojďme se podívat.
+
+)Proti mému lepšímu úsudku jsem následoval Emanuela a vidím na vlastní oči vnitřek této stavby. Je kamenná, s mramorovou podlahou, poškrábanou a zašpiněnou, ale místy proniká nánosy prachu a plísně bělost ztracených dní.
+
+§Je tu mnoho místa, většina zaplněná knihami. V opuštěných knihovnách v jiných dimenzích by se dávno oblékly do pavučin, ale zde ani pavoukovci nemohou přežít. Drobná zvířata mizí velmi rychle.
+
+)Avšak z velikosti knihovny je patrné, že neschraňovala jen knihy. Jsou tu prostory pro celé další budovy, prázdnější než prázdnota sama. Bílé sluneční paprsky pronikají oslabené bojem s hustými mraky škvírami ve zdech a stropech a osvětlují chodby a zákoutí, které musely být udržovány elektrickým osvětlením. To je ale dávno v zapomnění času, spolu se vším ostatním.
+
+§Je to smutný pohled.
+
+)A nebezpečný. Vítr se může vrátit každou chvíli a nikdo neví, kdy vám poškozený paket spadne na hlavu. Nemluvě o těch banditech.
+
+§Dobrá. S Áronem se vracíme na nádraží, kde ale není žádný další odkaz, kterým bychom se mohli dostat pryč. Vlaky tu nejezdí a nikdo nás jen tak nevyzvedne. Nezbývá, než opustit Internet docela.
+
+)To ale není jen tak. Nemůžete jenom vystoupit, kde chcete a kam chcete. Na nádraží jsme viděli Cestovač, tzv. Router, který spojuje naši dimenzi s touto. Ten vás vždy zavede do nebo z Internetu, ale pouze do počítače, ke kterému je připojený. My dva máme připravený počítač ve studiu Monte Karlos, ale tam se teď nemůžeme dostat.
+
+§Uvidíme, kde skončíme. Oba se dotýkáme zlatého stojanu s rudě zářícím kamenem na vrchu a neviděná síla nás tahá vzhůru skrz digitální překladač, který mění jedničky a nuly v protony a neutrony.
+
+"Co to sakra je?"
+
+)Ocitli jsme se v pokoji nějakého chlapce...
+
+"Je mi sedmnáct!"
+
+)... sedmnáctiletého chlapce, který se v pyžamu chystal podívat se na YouTube. Opatrně, ať se neztratíš, chlapče.
+
+"Vypadněte z mého pokoje!"
+
+§Ano, Árone. Ten chlapec po nás chce, abychom ho nechali v míru a pokoji.
+
+"V /jiném/ pokoji, hlavně!"
+
+)Tak dobrá. Děkujeme vám znovu, že jste k nám zavítali.
+
+§Pro dnešek se s vámi loučíme.
+
+$A Bytu zdar!
+
+"/Vypadněte!/"
+
+~Connection terminated~
 * Závod
 ** Vývoj                                                                :400:
 Veřejným světem otřásla nedávná zpráva, vysílaná na všech kanálech všech dimenzí, že Rada Odvážných byla rozpuštěna. Časy se mění, řeka dění odnáší kapky současnosti do oceánu zapomnění, ano ano, ale tohle jsme opravdu nečekali.
 
-Zpráva byla vyhlášená paní Lajdovou osobně, ve videu, ve kterém se necharakteristicky ukázala z masa a kostí[fn:3]. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. nás nepřipravil na žádné podobné prohlášení, ale po horečném telefonátu s paní Lajdovou a Spolkovými bankami vehementně přitakával. Nezbývá než hodit podezření a konspirace za hlavu a přijmout to jako skutečnost.
+Zpráva byla vyhlášená paní Lajdovou osobně, ve videu, ve kterém se necharakteristicky ukázala z masa a kostí[fn:4]. M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. nás nepřipravil na žádné podobné prohlášení, ale po horečném telefonátu s paní Lajdovou a Spolkovými bankami vehementně přitakával. Nezbývá než hodit podezření a konspirace za hlavu a přijmout to jako skutečnost.
 
 Nikdo pak nebyl zaskočen následným dodatkem, že žebříček Dvaceti statečných se stává soukromým vlastnictvím jeho nejvýše postaveného kantora, současně (a možná navěky) paní Lajdové, a nebude dále zveřejňován. Monte Karlos se pokusilo sestavit si žebříček vlastní, ale jelikož je pořadí učitelů v /závodě/ počítáno podle jejich hlasů a jelikož jsou tyto hlasy umístěny v paranoidně nespolupracujících Spolkových bankách a jelikož každý učitel platí měsíční poplatek paní Lajdové, většinou v podobě hlasů, nemáme dostatečná data takový krok učinit.
 
-"Paní Lajdová klouže hlouběji a hlouběji do roztoku paranoi a megalomanství," řekl Někdeníku odborník Alberto Buštěníče[fn:4]. "Její kroky jsou závratně ovlivněné sebemenšími událostmi." Někdeník s jeho soudem souhlasí. Po nezdařilé koupi vojska od pana Horkého poslala zbytky své rozpadající se armády, obsadila jeho území a přivlastnila si jeho vojáky. Spolu s absolutní vládou nad Spolkovými bankami, které jí poskytují víc podpory, čím víc má hlasů, se jí podařilo zahnat všechny své odpůrce do kouta a získat hlasů ještě víc.
+"Paní Lajdová klouže hlouběji a hlouběji do roztoku paranoi a megalomanství," řekl Někdeníku odborník Alberto Buštěníče[fn:5]. "Její kroky jsou závratně ovlivněné sebemenšími událostmi." Někdeník s jeho soudem souhlasí. Po nezdařilé koupi vojska od pana Horkého poslala zbytky své rozpadající se armády, obsadila jeho území a přivlastnila si jeho vojáky. Spolu s absolutní vládou nad Spolkovými bankami, které jí poskytují víc podpory, čím víc má hlasů, se jí podařilo zahnat všechny své odpůrce do kouta a získat hlasů ještě víc.
 
 Některé vlády světa a vesmíru se koukají jejím směrem s nepříjemnou předtuchou. Jistí boháči už připravují odvetný tým, který zatím nečině postává opodál, protože Lajdová od předminulého pátku odmítá opustit svou dimenzi i v podobě hologramu (anonymní zdroje říkají, že po konfliktu s neznámým kantorem se bojí o svou bezpečnost) a lokace její dimenze je zcela neznámá. Zmínění boháči vynakládají mnoho úsilí ji a centrum jejích armád lokalizovat, ale faktem zůstává, že kromě ní samotné a Spolkových banek nikdo neví, kde je, ani kudy se tam dostat.
 ** Rozhovor
@@ -142,6 +265,8 @@ Některé vlády světa a vesmíru se koukají jejím směrem s nepříjemnou p�
 
 [fn:2] Jisté pokusy byly provedeny s rotačními rozvrhy, kdy se zástupci banek uprostřed střídají, ale experiment byl zastaven, když se uvnitř sálu shromáždilo přílišné množství částic a ze schůze zbyla jen černá díra.
 
-[fn:3] Respektive z pixelů a fotonů.
+[fn:3] Technický termín - neřešte to.
 
-[fn:4] Odborník na rozmnožování hlodavců.
+[fn:4] Respektive z pixelů a fotonů.
+
+[fn:5] Odborník na rozmnožování hlodavců.
