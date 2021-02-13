@@ -76,11 +76,11 @@ Ročník XXVV
 *Tiskne:* individuálně
 *Korespondent:* 
 *Špeh:* nevíme
-*Seniorní bankomat:* Tera Kulibrko
+*Seniorní bankomat:* Evžena Kulibrko
 *Cestopis:* Áron Ponurý a Emanuel Bebeš
 *Rozšiřují:* google.com
 * Editorial                                                             :250:
-"I piráti musí něco jíst."
+„I piráti musí něco jíst.“
 
 Tato slova mi uvízla v paměti po návštěvě New Yorkského muzea starožitných faktů a artefaktů. Někdo je umělecky nasprejoval na stěnu v uličce mezi dvěma budovami. Za svých čtyřiadvacet desetiletí můj názor na tento výrok prošel klikatou a zrádnou cestou. Tehdy jsem ho považovala za očividnou, ale hlavně pravdivou skutečnost. I piráti, musíte uznat, musí něco jíst. Později se mi podařilo vytáhnout ho do výšin moudrosti a snažila jsem se podle něj řídit život na svých misích do Ázerbájdžánu. Když jsem po pár letech uznala, že mi nepomohly, zanevřela jsem na ně, což vedlo k mé pětileté plavbě vesmírem a k lovení hvězdných pirátů.
 
@@ -90,7 +90,7 @@ A tam jsem zůstala celá desetiletí. Až náhle, do mého života vstoupil pir
 
 Proč vám to říkám? Nevím. Jen se mi chtělo.
 
-Nicméně, doufám, že si užíváte náš Kaňonskop. Na vlnách Internetu náhodou zrovna o pirátství mluví a co tentokrát předvedl Šeiner, to hraničí s činy samotného Rudovouse. Takže to vlastně sedí.
+Nicméně, doufám, že si užíváte náš Kaňonskop. Na vlnách Internetu náhodou zrovna o pirátství mluví a co tentokrát předvedl Šeiner, to hraničí s činy samotného Rudovouse. Takže to vlastně sedí■
 * Závodní ekonomie - Obratná finanční šipka
 Pojďme se společně pobavit o způsobu, jakým spolkové banky získávají peníze. Vzhledem k tomu, že celý /závod/ stojí na daních z těchto příjmů, neváhal bych to nazvat klíčovou informací.
 
@@ -131,7 +131,7 @@ V bankách, Marie, v bankách.
 
 Ano, volič jde a půjčí si u banky peníze. Tyto peníze poskytne jako dar učiteli, který jimi zaplatí místo za voličův hlas. Tím pádem se peníze pohodlně vrátí do banky. Ale banka sama ještě vydělává na splátkách z původní půjčky, dostane tudíž ty samé peníze dvakrát a jednou z toho i s úroky.
 
-Dohromady to vytváří nekřesťanský Obrat.
+Dohromady to vytváří nekřesťanský Obrat■
 
 #+begin_comment
 Obrázek Obratné finanční šipky s vyznačenými půjčkami.
@@ -188,7 +188,7 @@ _Kapitán vybere v Jukeboxu příslušný magnet z výběru, podle klíčovýc
 
 *Ne vždy se toto předání povede. Magnety mohou být poškozené, či se Pidižvík splete, ale většinou proběhne vše bez problému.*
 
-_S kapitánem a jeho posádkou jsme se nalodili na /Rychlý šíp/, další cestující se baží civilizovaným životem přístavu, a vypluli jsme do zátoky._
+_S kapitánem a jeho posádkou jsme se nalodili na /Rychlý šíp/, další cestující se baží civilizovaným životem přístavu, a vypluli jsme do zátoky._
 
 *Proplouváme kolem špičky poloostrova a před námi se ocitá prazvláštní podívaná. Desítky Packetů se pomocí lan a dřevěných ramp spojilo do mnoha řetězů vedoucích k Těžební jednotce, městu vyčnívajícímu z pobřeží a připomínajícímu Benátky.*
 
@@ -243,7 +243,7 @@ _*A Bytu zdar!*_
 ** Vývoj                                                                :400:
 Při posledním zasedání Rady Odvážných došlo k neoprávněnému přístupu k datům super-satelitu, který nezákonně pozoroval činnosti kantorů. Tamní, nyní propuštěný, vedoucí bezpečnosti říká:
 
-"Tož, to bylo něco, tohléto. Totální chaosnice. Si nemůžu ani vysvjétlit, jak se k tému došlo. Nějací hekéráci, povídám. Tož hrůza."[fn:1]
+„Tož, to bylo něco, tohléto. Totální chaosnice. Si nemůžu ani vysvjétlit, jak se k tému došlo. Nějací hekéráci, povídám. Tož hrůza.“[fn:1]
 
 Je však veřejným tajemstvím, že porušení pravidel se dopustila paní Lajdová, momentální a evidentně i budoucí vedoucí žebříčku /závodu/. Jako jediná chyběla na zasedání, rozhodnuvši se před měsíci, že její přítomnost nebude nadále potřeba a že přímý hologramový přenos bohatě postačí, a kromě toho se neobtěžovala podobná nařčení vyvracet.
 
@@ -251,7 +251,7 @@ A přitom to je právě ona, kdo přebírá kontrolu nad /závodem/. Nedávno vy
 
 Tsunami pobouření, které následovalo, bylo předvídatelné a přitom zamezitelné. Otakar Pátek, odborník na práva /závodu/, se vyjádřil takto:
 
-"Věříme-li, že paní Lajdová se zmocnila vedení díky podpoře Spolkové Bankovní Federace[fn:2], mohli ostatní členové Rady jednoduše sesadit její vládu. Anonymní kantor navrhl hlasování o snížení vlivu banek, ale většina učitelů se rozhodla, že se jim stálý příval peněz líbí, a zamítli. Kdyby tak neudělali, přišla by Lajdová o svou mocenskou základnu a neměla by teď možnost takto zneužívat svého postu."
+„Věříme-li, že paní Lajdová se zmocnila vedení díky podpoře Spolkové Bankovní Federace[fn:2], mohli ostatní členové Rady jednoduše sesadit její vládu. Anonymní kantor navrhl hlasování o snížení vlivu banek, ale většina učitelů se rozhodla, že se jim stálý příval peněz líbí, a zamítli. Kdyby tak neudělali, přišla by Lajdová o svou mocenskou základnu a neměla by teď možnost takto zneužívat svého postu.“
 
 O zneužívání rozhodně jde. Ihned po vyhlášení dekretu zakázala učitelům opouštět sídla bez povolení[fn:3] a převzala oficiální kontrolu nad super-satelitem, aby mohla jejich pohyb kontrolovat. Data teď volně proudí do jejího sídla, které je stále veřejnosti zcela neznámo.
 
@@ -259,7 +259,7 @@ Její armádní síly, které přejmenovala na Jednotky Zkázy, působí problé
 
 Mezitím /závod/ pokračuje, ale s náskokem paní Lajdové ztrácí pořadí význam. Za zmínku stojí paní Jakešová, která je plně zabrána do pokračování Tónů smrti, točeného procesem Motion Caputre[fn:4]. Nebude trvat dlouho a z Dvaceti statečných zmizí.
 
-Jedinou další zajímavou osobou je paní Zemánková, která se ostře ohradila proti vznikajícím precedentům a bojuje proti vlivu paní Lajdové, i když při hlasování o vlivu banek stála pevně na straně statusu quo. Pozoruhodná je proto, že den po jejím vyjádření jí tři banky odmítly poskytnout prostor pro hlasy v /závodě/, čímž porušily Dohodu o poskytnutém prostoru. Odborníci ukazují na Lajdovou. 
+Jedinou další zajímavou osobou je paní Zemánková, která se ostře ohradila proti vznikajícím precedentům a bojuje proti vlivu paní Lajdové, i když při hlasování o vlivu banek stála pevně na straně statusu quo. Pozoruhodná je proto, že den po jejím vyjádření jí tři banky odmítly poskytnout prostor pro hlasy v /závodě/, čímž porušily Dohodu o poskytnutém prostoru. Odborníci ukazují na Lajdovou■
 
 #+begin_example
 1. Zdenka Lajdová
@@ -291,9 +291,9 @@ Módní sekce Monte Karlos Někdeníku vám přináší řadu světově proslul�
 
 Provokativní Řečník čerpá inspiraci z klasického Řecka a neklasického popu. Hodí se na všechny přednášky i veřejné projevy, avšak pouze, jste-li na pódiu. Oblíbený styl maharádži Al Balína, za což schytal mnoho nepříjemností v hindském parlamentě.
 
-Spáč je naopak nesmírně přívětivý a všemi uznávaný. Všimněte si polohy, v jaké náš model spí.[fn:5] Nebyla vybrána módní komisí, ale automaticky padle ke stylu Karlos-čepice, takže v ní všechny zkušební osoby nakonec samovolně skončili.
+Spáč je naopak nesmírně přívětivý a všemi uznávaný. Všimněte si polohy, v jaké náš model spí.[fn:5] Nebyla vybrána módní komisí, ale automaticky padne ke stylu Karlos-čepice, takže v ní všechny zkušební osoby nakonec samovolně skončili.
 
-Edna má ráda Evropu, mimo jiné Paříž. Její méně známý Baret se uchytil pouze na severu středu Jižní Afriky, přesto, že přímo čiší africkými náboženskými hodnotami.
+Edna má ráda Evropu, mimo jiné Paříž. Její méně známý Baret se uchytil pouze na severu středu Jižní Afriky zejména mezi ždiboni, přesto, že přímo čiší africkými náboženskými hodnotami.
 
 Nakonec je tu Rubáč. Musíme něco vysvětlovat?
 * Šeiner
@@ -325,16 +325,16 @@ Bankomat: Jako špeh?
 Cíl: Jako špeh.
 Chvíle ticha. Oba se podezřele podívají oknem ven. Jsem v bezpečí - dívají se na opačnou stranu.
 
-Cíl zůstává dva týdny zavřený doma. Žádné návštěvy, kromě televizního štábu na malé interview, do kterého jsem se vetřel. Nikam nechodí, s nikým nekomunikuje. Je nečinný. Další zprávy přijdou při první změně.
+Cíl zůstává dva týdny zavřený doma. Žádné návštěvy, kromě televizního štábu na malé interview, do kterého jsem se vetřel. Nikam nechodí, s nikým nekomunikuje. Je nečinný. Další zprávy přijdou při první změně■
 ** Lekce bankomata
 *** Lekce XIII
 Bankomat musí být ochotný plazit se džunglí, skákat padákem, letět do vesmíru, pařit se na pouští, zkrátka dělat cokoli, aby zůstal po boku svého kantora. I kdyby to bylo plahočit se kilometr za kilometrem, míli za mílí, světelný rok za světelným rokem podzemními tunely širokým sotva tak, aby jimi prošel rychnovský.
 
 Šeinerovi jsem ubrala body za jeho fiasko v Radě Odvážných, ale rychle mu je zase vrátila, když jsem uviděla jeho knihovnu zajíždět do stěny a odhalit točité schodiště vedoucí ho podzemí. Vysvětlil mi, že všichni členové zaniklého /Pálkovská squadu/ si nechali vykopat síť tunelů vedoucí na strategickou pozici, sloužící jako bunkr v případě náletů.
 
-"Trpaslíky?" zeptala jsem se.
+„Trpaslíky?“ zeptala jsem se.
 
-"Ne," řekl Šeiner, "permoníky."
+„Ne,“ řekl Šeiner, „permoníky.“
 
 Šeiner se bál, že ho nechala Lajdová sledovat, a proto opouští své sídlo tajně a já, jak jinak, se musím toulat s ním. Šli jsme daleko, hodinu po hodině, a Šeiner, v lepší kondici než já, se pravidelně omlouval, že nestačil instalovat železniční dráhu. Myslím, že si ze mně dělá srandu.
 
@@ -342,55 +342,55 @@ Konečně jsme se vynořili v místnosti obklopené vulkanickým sklem. Uprost�
 
 Nepřišli jsme první. Kolem stolu seděli a bavili se Horký a Malá. Horkého bych chápala - byl členem /squadu/, ale Malá patřila do Velké pětky. Ta by neměla žádný tunel. Naštěstí jsem si všimla dalšího bankomata stojícího za vysokou učitelkou a šla jsem se zeptat.
 
-"Dlouhá cesta, co?" řekla jsem. Žádná odpověď. "Co my pro ty učitele neuděláme," zkusila jsem to. Můj kolega se na mě sotva podíval. Bankomati jsou cvičeni k naprosté izolaci emocí. Neberte si ze mě příklad. Šokovalo mě, jak rychle jsem si odvykla našemu předepsanému kodexu komunikace.
+„Dlouhá cesta, co?“ řekla jsem. Žádná odpověď. „Co my pro ty učitele neuděláme,“ zkusila jsem to. Můj kolega se na mě sotva podíval. Bankomati jsou cvičeni k naprosté izolaci emocí. Neberte si ze mě příklad. Šokovalo mě, jak rychle jsem si odvykla našemu předepsanému kodexu komunikace.
 
-"Vyžaduji doplňující informace, mistře bankomate."
+„Vyžaduji doplňující informace, mistře bankomate.“
 
-"Schválené poznatky jsou k dispozici."
+„Schválené poznatky jsou k dispozici.“
 
-"Jak se sem kantor Malá dostala?"
+„Jak se sem kantor Malá dostala?“
 
-"Před bitvou u Nového Dilí zvažovala změnit strany," řekl mi, když Rychnovský a Kolářová, oba členové Větší pětky, vešli stejným tunelem za mnou.
+„Před bitvou u Nového Dilí zvažovala změnit strany,“ řekl mi, když Rychnovský a Kolářová, oba členové Větší pětky, vešli stejným tunelem za mnou.
 
-"A oni?"
+„A oni?“
 
-"Velká pětka měla instalovaný systém teleportů mezi svými sídly. Teleportovali se k Malé."
+„Velká pětka měla instalovaný systém teleportů mezi svými sídly. Teleportovali se k Malé.“
 *** Lekce XIV
 Stát v pozadí a pozorovat. To jest naše práce, naše poslání, naše mise. Stát a pozorovat.
 
-"Lajdová se schovává kdoví kde," řekl Rychnovský. "Vojska Času pomsty se schovávají také. Lajdová má přístup k satelitu. Co máme my?"
+„Lajdová se schovává kdoví kde,“ řekl Rychnovský. „Vojska Času pomsty se schovávají také. Lajdová má přístup k satelitu. Co máme my?“
 
 Učitelé seděli kolem stolu. Nepříjemné množství sedadel zůstalo prázdných. 
 
-"Můžeme obsadit Sauronovo oko," nabídla Kolářová. "To vidí ještě lépe než satelit."
+„Můžeme obsadit Sauronovo oko,“ nabídla Kolářová. „To vidí ještě lépe než satelit.“
 
-Horký zavrtěl hlavou. "Aragorn se přidal k Lajdové; respektive jeho banka, a to je to samé. Cesty do Mordoru se pečlivě hlídají."
+Horký zavrtěl hlavou. „Aragorn se přidal k Lajdové; respektive jeho banka, a to je to samé. Cesty do Mordoru se pečlivě hlídají.“
 
-"Proto jsem řekla /dobýt/."
+„Proto jsem řekla /dobýt/.“
 
-"Řekla jsi /obsadit/," namítla Malá.
+„Řekla jsi /obsadit/,“ namítla Malá.
 
-"Neřekla."
+„Neřekla.“
 
-Šeiner se předklonil ve svém křesle. "Problém je, že Lajdová vidí nás, ne, že my nevidíme ji. I když vědět, kde se schovává, by nebylo špatné."
+Šeiner se předklonil ve svém křesle. „Problém je, že Lajdová vidí nás, ne, že my nevidíme ji. I když vědět, kde se schovává, by nebylo špatné.“
 
-"Ludmila na satelitu už pracuje," řekl Rychnovský a otočil se na Malou. Její bankomat si dělal zběsilé poznámky.
+„Ludmila na satelitu už pracuje,“ řekl Rychnovský a otočil se na Malou. Její bankomat si dělal zběsilé poznámky.
 
-"Ano... Takže... Satelit. Satelit není těžké kontrolovat."
+„Ano... Takže... Satelit. Satelit není těžké kontrolovat.“
 
-"Jako bych to neříkal," zašeptal Šeiner a mrkl na mě.
+„Jako bych to neříkal,“ zašeptal Šeiner a mrkl na mě.
 
-"Jenomže," pokračovala Malá, "jak se do něj nabouráme, Lajdová se to dozví." Tentokrát Šeiner jenom mrkl. Ano, i to říkal. Bod pro něj. "Prostě by nechala vystavět další a dala by si záležet, aby byl bezpečnější. A pak už se do něj nedostaneme."
+„Jenomže,“ pokračovala Malá, „jak se do něj nabouráme, Lajdová se to dozví.“ Tentokrát Šeiner jenom mrkl. Ano, i to říkal. Bod pro něj. „Prostě by nechala vystavět další a dala by si záležet, aby byl bezpečnější. A pak už se do něj nedostaneme.“
 
-"Dobře," vložil se do toho Horký, "ale jak by nám to pomohlo?"
+„Dobře,“ vložil se do toho Horký, „ale jak by nám to pomohlo?“
 
-"No," Rychnovský nadhodil, "chceme najít Lajdovou, shromáždit armádu a dobýt její sídlo. K tomu potřebujeme zneškodnit satelit." Šeiner se ošil. Představa další války se mu hrubě nelíbila.
+„No,“ Rychnovský nadhodil, „chceme najít Lajdovou, shromáždit armádu a dobýt její sídlo. K tomu potřebujeme zneškodnit satelit.“ Šeiner se ošil. Představa další války se mu hrubě nelíbila.
 
-"To nebude lehké." Kolářová vrtěla hlavou. "Satelit není její jediná obrana."
+„To nebude lehké.“ Kolářová vrtěla hlavou. „Satelit není její jediná obrana.“
 
-"My víme," řekl Šeiner obezřetně. "Ale máme vůbec, kde to vojsko vzít? Jiří ho nemá dost." Ukázal na Horkého.
+„My víme,“ řekl Šeiner obezřetně. „Ale máme vůbec, kde to vojsko vzít? Jiří ho nemá dost.“ Ukázal na Horkého.
 
-"Někoho jsem našel," řekl Rychnovský. "Nikoho lepšího nemám. Ale myslím, že to bude fungovat."
+„Někoho jsem našel,“ řekl Rychnovský. „Nikoho lepšího nemám. Ale myslím, že to bude fungovat.“
 
 Dimenzionální teleport se na jeho pokyn otevřel do studeného světa Hoth a před shromážděním stanula nečekaná osoba - Macháček.
 *** Lekce XV
@@ -398,47 +398,47 @@ Chcete-li být bankomatem, musíte umět držet své emoce na uzdě. To samé ne
 
 Kolářová, Malá i Horký vyskočili od stolu. Šeiner zaklel v sanskrtu. Rychnovský si povzdechl.
 
-"Co ten tady dělá?!" zařvala Malá.
+„Co ten tady dělá?!“ zařvala Malá.
 
-"Ne. V žádném případě. I když... Ne. Ani náhodou." To byla Kolářová. Horký propaloval Macháčka pohledem.
+„Ne. V žádném případě. I když... Ne. Ani náhodou.“ To byla Kolářová. Horký propaloval Macháčka pohledem.
 
-"Počkat, počkat," prosil Rychnovský. "Dává to větší smysl, než si myslíte."
+„Počkat, počkat,“ prosil Rychnovský. „Dává to větší smysl, než si myslíte.“
 
-"Rozhodně ne. Kdepak. Ale... Ne. Kategorický ne."
+„Rozhodně ne. Kdepak. Ale... Ne. Kategorický ne.“
 
-"Nemůžete popřít, že je z nás nejschopnější generál," argumentoval Rychnovský. Macháček přikývl, ale mlčel.
+„Nemůžete popřít, že je z nás nejschopnější generál,“ argumentoval Rychnovský. Macháček přikývl, ale mlčel.
 
-"Jeho? Toho poslouchat nebudu. Zradil i vlastní stranu! Co, Jiří?" Malá dloubla do Horkého, který stále propaloval. On i Šeiner, spolu se zbytkem /Pálkovská squadu/, byli zrazeni Macháčkem, když převzal kontrolu nad Modrými klobouky a odstranil Pálkovskou ze závodu.
+„Jeho? Toho poslouchat nebudu. Zradil i vlastní stranu! Co, Jiří?“ Malá dloubla do Horkého, který stále propaloval. On i Šeiner, spolu se zbytkem /Pálkovská squadu/, byli zrazeni Macháčkem, když převzal kontrolu nad Modrými klobouky a odstranil Pálkovskou ze závodu.
 
-"Máte někoho lepšího?" zeptal se Rychnovský.
+„Máte někoho lepšího?“ zeptal se Rychnovský.
 
-"Ne. Ne. Bezpodnímečně... Cože?"
+„Ne. Ne. Bezpodnímečně... Cože?“
 
-"Máte někoho lepšího?"
+„Máte někoho lepšího?“
 
-"Nemáme," přiznal Šeiner a postavil se před Macháčka. "Ale jestli nás zradí znovu, předhodím ho svým králíkům."
+„Nemáme,“ přiznal Šeiner a postavil se před Macháčka. „Ale jestli nás zradí znovu, předhodím ho svým králíkům.“
 
 Ještě chvíli trvalo, než se učitelé uklidnili. Nakonec ale museli přiznat, že Macháčkova zrada z něj dělala /schopnějšího/ vojevůdce.
 
-"Co navrhuješ?" zeptala se ho Kolářová.
+„Co navrhuješ?“ zeptala se ho Kolářová.
 
-Macháček odsunul židli, jako že si sedne, ale Malá na ni položila nohy. Macháček zůstal stát. "Potřebujeme tři věci - armádu, dobře vycvičenou a dostatečně velkou," řekl, "lokaci dimenze, kde se Zdenka schovává, a tajný přesun k dimenzionálnímu portálu. Sehnat armádu bude nejjednodušší. Jak se roznese, že rekrutujeme proti Lajdové, přijde k nám vojsko Času pomsty samo."
+Macháček odsunul židli, jako že si sedne, ale Malá na ni položila nohy. Macháček zůstal stát. „Potřebujeme tři věci - armádu, dobře vycvičenou a dostatečně velkou,“ řekl, „lokaci dimenze, kde se Zdenka schovává, a tajný přesun k dimenzionálnímu portálu. Sehnat armádu bude nejjednodušší. Jak se roznese, že rekrutujeme proti Lajdové, přijde k nám vojsko Času pomsty samo.“
 
-"A Lajdová se o nás dozví," namítl Horký.
+„A Lajdová se o nás dozví,“ namítl Horký.
 
-"Já vím. To jinak nejde a my to musíme využít v náš prospěch. Mám jisté taktiky, jak dostat vojsko nepozorovaně tam, kde ho chci mít, ale v tom jsou dva háčky a jeden zádrhel. Se satelitem to nezvládnu," odpočítal na prstu, "nevíme, kam máme jít, a potřebuji přátelskou dimenzi. Má někdo vztahy s někým poblíž?"
+„Já vím. To jinak nejde a my to musíme využít v náš prospěch. Mám jisté taktiky, jak dostat vojsko nepozorovaně tam, kde ho chci mít, ale v tom jsou dva háčky a jeden zádrhel. Se satelitem to nezvládnu,“ odpočítal na prstu, „nevíme, kam máme jít, a potřebuji přátelskou dimenzi. Má někdo vztahy s někým poblíž?“
 
-Kolářová zakašlala. "Co třeba Kamelot?"
+Kolářová zakašlala. „Co třeba Kamelot?“
 
-"Kdo vládne v Kamelotu?" zeptal se Rychnovský.
+„Kdo vládne v Kamelotu?“ zeptal se Rychnovský.
 
-"Emil I., potomek krále Artuše."
+„Emil I., potomek krále Artuše.“
 
-"Skvěle. To se bude hodit. Dagmar zařídí dočasný pobyt našich vojsk na jeho území. Dál potřebuji dvaadvacet tun měkkého dřeva, zelenou a šedou nátěrovou barvu, nějakého umělce, tři tisíce diamantových vrtaček, pětadvacet bilboardů ve světových metropolích, kontrolu nad satelitem a lokaci dimenzionálního teleportu."
+„Skvěle. To se bude hodit. Dagmar zařídí dočasný pobyt našich vojsk na jeho území. Dál potřebuji dvaadvacet tun měkkého dřeva, zelenou a šedou nátěrovou barvu, nějakého umělce, tři tisíce diamantových vrtaček, pětadvacet bilboardů ve světových metropolích, kontrolu nad satelitem a lokaci dimenzionálního teleportu.“
 :info:
 - dřevo, nátěr, umělec - stavba falešných tanků a bunkrů
 - vrtačky - tunelování do Lajdové dimenze
-- bilboardy - Kamelot musí zvýšit turistiku, aby se mohli vojáci dostat tam a zase zpátky "nepozorovaně."
+- bilboardy - Kamelot musí zvýšit turistiku, aby se mohli vojáci dostat tam a zase zpátky „nepozorovaně.“
 :END:
 *** Lekce XVI
 Bankomati by se měli zdržet vyjadřování vlastních názorů. Ale o životě bankomata vám řeknu toto: Jsem ráda, že nemusím nic organizovat.
@@ -451,39 +451,39 @@ Onu přepravu vojáků si vzal na starost Rychnovský, a s ní i podstatné č�
 
 To nechalo Šeinera a Horkého, kteří dostali přidělený zcela nemožný úkol. Najít dimenzi, ve které se Lajdová schovává, nebo aspoň portál, kterým se tam dostat. Byli na to dva, protože nikdo neměl žádné dobré nápady.
 
-"Mám dobrý nápad," řekl Šeiner, když byli sami. "Při zasedání jsem si všiml jejího hologramu. Je to platforma, která přijímá signál odněkud zdaleka a vysílá, co vidí, zpátky. Kdybych měl vybavení aby blízko, mohl bych zaměřit, kam ten signál letí."
+„Mám dobrý nápad,“ řekl Šeiner, když byli sami. „Při zasedání jsem si všiml jejího hologramu. Je to platforma, která přijímá signál odněkud zdaleka a vysílá, co vidí, zpátky. Kdybych měl vybavení aby blízko, mohl bych zaměřit, kam ten signál letí.“
 
-"I do jiné dimenze?" zeptal se Horký.
+„I do jiné dimenze?“ zeptal se Horký.
 
-"Ne, ale k portálu. A je to ještě lepší. Jestli budeme mít štěstí, dokážu Zdenku zbavit všech jejích bodu."
+„Ne, ale k portálu. A je to ještě lepší. Jestli budeme mít štěstí, dokážu Zdenku zbavit všech jejích bodu.“
 *** Lekce XVII
 My bankomati máme skvělou výhodu. Jsme vázáni přísahou nezasahovat do závodu, takže před námi učitelé mohou - možná musí - probírat své strategie a plány. Vědí, že je nikomu neřekneme.
 
 Horký musí mít svého bankomata také - každý učitel ho má - ale jeho se asi zaobíral jiným učitelem a neměl čas. V místnosti jsme byli tři, já, Horký a Šeiner. Horký si mě změřil nejistým pohledem.
 
-"Madam Kulibrko nikomu nic neřekne," hájil mě Šeiner, až se mě to dotklo. "Můj nápad je takový - ty máš armádu."
+„Madam Kulibrko nikomu nic neřekne,“ hájil mě Šeiner, až se mě to dotklo. „Můj nápad je takový - ty máš armádu.“
 
-"Malou."
+„Malou.“
 
-"Ano, ale máš ji. Co takhle se tvářit, že ji chceš prodat? Kdybychom pak dokázali přesvědčit Zdenku, že její armáda není věrohodná, bude ji od tebe chtít koupit. V tom případě musí svolat bál v Der Weiderhohlle Flüsemschliessem, jinak bys neměl možnost ji potkat - sama ten zákon vydala."
+„Ano, ale máš ji. Co takhle se tvářit, že ji chceš prodat? Kdybychom pak dokázali přesvědčit Zdenku, že její armáda není věrohodná, bude ji od tebe chtít koupit. V tom případě musí svolat bál v Der Weiderhohlle Flüsemschliessem, jinak bys neměl možnost ji potkat - sama ten zákon vydala.“
 
-Horký kýval na srozuměnou. Šeiner pokračoval: "Když se s tebou sejde, dáš mi vědět a já, někde schovaný, ji začnu sledovat. Až zachytím signál, máme ji. Ale tady je ta skvělá věc: Když budeš trvat na zaplacení ne v penězích, ale bodech, a když s sebou budeš mít vlastní skenovací zařízení, můžeš zachytit signál, který vyšle své bance pro výběr hlasů. A pokud budeme mít to štěstí, tak ho dokážu zreplikovat a vybereme všechny její hlasy z banky. Ty si pak rozdělíme a ona ztratí všechnu autoritu mezi bankami, které jí poskytují všechnu moc. Co říkáš?"
+Horký kýval na srozuměnou. Šeiner pokračoval: „Když se s tebou sejde, dáš mi vědět a já, někde schovaný, ji začnu sledovat. Až zachytím signál, máme ji. Ale tady je ta skvělá věc: Když budeš trvat na zaplacení ne v penězích, ale bodech, a když s sebou budeš mít vlastní skenovací zařízení, můžeš zachytit signál, který vyšle své bance pro výběr hlasů. A pokud budeme mít to štěstí, tak ho dokážu zreplikovat a vybereme všechny její hlasy z banky. Ty si pak rozdělíme a ona ztratí všechnu autoritu mezi bankami, které jí poskytují všechnu moc. Co říkáš?“
 
-"Jak bys ji chtěl přesvědčit, že její armáda je nespolehlivá?"
+„Jak bys ji chtěl přesvědčit, že její armáda je nespolehlivá?“
 
-"Zinscenuji nějaké sabotáže aby to vypadalo, že to spáchali oni. Ty zatím sestavíš co největší a nelepší armádu, půjdeš na veřejnost a prohlásíš, že ji chceš prodat."
+„Zinscenuji nějaké sabotáže aby to vypadalo, že to spáchali oni. Ty zatím sestavíš co největší a nelepší armádu, půjdeš na veřejnost a prohlásíš, že ji chceš prodat.“
 
 Chvíli bylo ticho a oba pánové zvažovali své možnosti.
 
-"Budeme potřebovat ještě jednoho člověka," řekl Šeiner nakonec.
+„Budeme potřebovat ještě jednoho člověka,“ řekl Šeiner nakonec.
 
-"Vím, koho myslíš."
+„Vím, koho myslíš.“
 
-"Zvládneš to zařídit?"
+„Zvládneš to zařídit?“
 
-"Pokusím se ji zkontaktovat. Ty se dej do sabotáží."
+„Pokusím se ji zkontaktovat. Ty se dej do sabotáží.“
 
-"Dám. A ty si hlavně zařiď nějaké interview."
+„Dám. A ty si hlavně zařiď nějaké interview.“
 *** Lekce XVIII
 Když jsem říkala, že musím být ochotná plazit se džunglí, nemyslela jsem, že to budu dělat. Ale Šeiner si to vzal k srdci a já se ocitla uprostřed pralesa na Pandoře, planetě vysokých modrých oblud. Dostali jsme se sem portálem v konferenční místnosti, kde před týdnem Šeiner domluvil plán s Horkým. Od té doby jsme podnikly tři takové cesty, všechny končící výbuchem či chaosem.
 
@@ -491,7 +491,7 @@ Tato čtvrtá byla speciální. Dostali jsme tip, že vojenské výpravy do těc
 
 Na zádech přinesl velkou cívku uvázanou koženým páskem a opíral se při tom o své dlouhé vycházkové hole. Svůj balík umístil v pokrývce tmy mezi stany a spolu jsme se proplížili k plechové budově.
 
-"Máte můj ovladač?" zeptal se mě a já mu podala dálkové ovládání. Pak jsem se vyšplhala do vzduchové šachty a vytáhla ho za sebou.
+„Máte můj ovladač?“ zeptal se mě a já mu podala dálkové ovládání. Pak jsem se vyšplhala do vzduchové šachty a vytáhla ho za sebou.
 
 Plazili jsme se plechovými cestami a hledali centrální místnost. Přiznám, že jsem se začala těšit, až najdeme, co jsme hledali.
 
@@ -499,41 +499,41 @@ Plazili jsme se plechovými cestami a hledali centrální místnost. Přiznám, 
 
 Jenomže pod námi byli dva lidé - muž a žena - sedící pod světlem lampy a popíjející čaj. Podle odznaku na jejich kabátech bylo poznat, že patří k jedné ze Spolkových banek.
 
-Šeiner byl zaražen. "Vaše banka?" zašeptal.
+Šeiner byl zaražen. „Vaše banka?“ zašeptal.
 
-Představitel a jeho asistentka pod námi patřili ke Čtyřem živlům[fn:6], nedůležitému konkurentovy mého Trojského Triumvirátu. Zavrtěla jsem hlavou. "Je to nová banka s malým vlivem. Na Pandoře ani nemají pobočku."
+Představitel a jeho asistentka pod námi patřili ke Čtyřem živlům[fn:6], nedůležitému konkurentovy mého Trojského Triumvirátu. Zavrtěla jsem hlavou. „Je to nová banka s malým vlivem. Na Pandoře ani nemají pobočku.“
 
-"A to má být to tajemství?" zavrtěl hlavou Šeiner, když v tom se otevřely dveře a dovnitř vkráčel kovový podstavec na mechanických nohách. Dveře se za ním zabouchly a před představitelem se objevil hologram Lajdové.
+„A to má být to tajemství?“ zavrtěl hlavou Šeiner, když v tom se otevřely dveře a dovnitř vkráčel kovový podstavec na mechanických nohách. Dveře se za ním zabouchly a před představitelem se objevil hologram Lajdové.
 *** Lekce XIX
 Šeiner zalapal po dechu.
 
-"Můžete ji vysledovat?" zeptala jsem se. Tím jsem ho vyvedla z šoku, což jsem neměla dělat. Bankomati nesmí pomáhat učitelům, a pokud není dost při smyslech, jeho chyba.[fn:7]
+„Můžete ji vysledovat?“ zeptala jsem se. Tím jsem ho vyvedla z šoku, což jsem neměla dělat. Bankomati nesmí pomáhat učitelům, a pokud není dost při smyslech, jeho chyba.[fn:7]
 
-"Nemám tu vybavení."
+„Nemám tu vybavení.“
 
-"Pane vyslanče," zněl kovový hlas Lajdové. Vyslanec se uklonil a bylo vidět, že se mu to nelíbí. "Chci si promluvit o privilegiích, které mi vaše banka odmítla poskytnout."
+„Pane vyslanče,“ zněl kovový hlas Lajdové. Vyslanec se uklonil a bylo vidět, že se mu to nelíbí. „Chci si promluvit o privilegiích, které mi vaše banka odmítla poskytnout.“
 
-"Čtyři živly nechápou, proč by měly pomáhat učiteli na úkor jiných," vydral ze sebe vyslanec. "Je to proti Dohodě o poskytnutém prostoru."
+„Čtyři živly nechápou, proč by měly pomáhat učiteli na úkor jiných,“ vydral ze sebe vyslanec. „Je to proti Dohodě o poskytnutém prostoru.“
 
-"Čtyři živly nechápou vážnosti situace. Bylo by v jejich zájmu, abych si jich nevšímala. Podívejte se, co se stalo Hydrantu a Synovi.[fn:8]"
+„Čtyři živly nechápou vážnosti situace. Bylo by v jejich zájmu, abych si jich nevšímala. Podívejte se, co se stalo Hydrantu a Synovi.[fn:8]“
 
-Vyslanec zkusil jinou taktiku: "K čemu je vám tak malá banka? Nebylo by Bratrstvo Poražených ale Nepadlých výnosnější? Chápu, že vašemu vlivu vzdorují."
+Vyslanec zkusil jinou taktiku: „K čemu je vám tak malá banka? Nebylo by Bratrstvo Poražených ale Nepadlých výnosnější? Chápu, že vašemu vlivu vzdorují.“
 
-"Čtyři živly vlastní bankovní prostor Olympu. Chci, aby tamní ambiciózní kantor neměl, kam ukládat hlasy. Jestli mi odmítnete pomoc, stáhnu všechny své hlasy z vašich účtů. Jak si pak poradíte s nátlakem Filease a Fogga[fn:9]?"
+„Čtyři živly vlastní bankovní prostor Olympu. Chci, aby tamní ambiciózní kantor neměl, kam ukládat hlasy. Jestli mi odmítnete pomoc, stáhnu všechny své hlasy z vašich účtů. Jak si pak poradíte s nátlakem Filease a Fogga[fn:9]?“
 
 Představitel odevzdaně kývl hlavou. Lajdová zmizela s úšklebkem na rtech.
 
-"Čas zmizet," zašeptal Šeiner. Zmáčkl tlačítko na dálkovém ovladači. Nic. Znovu. Nic.
+„Čas zmizet,“ zašeptal Šeiner. Zmáčkl tlačítko na dálkovém ovladači. Nic. Znovu. Nic.
 
-"Sakra," řekla jsem.
+„Sakra,“ řekla jsem.
 
-"Musela vypnout televizní vysílání, aby nerušilo její signál. Vojáci jsou připravení na hodinu bez televize."
+„Musela vypnout televizní vysílání, aby nerušilo její signál. Vojáci jsou připravení na hodinu bez televize.“
 
-"Sakra." Z venku k nám dolehl zvuk pohybujících se vojsk. Kdybychom se vrátili, uvidí nás. "Sakra."
+„Sakra.“ Z venku k nám dolehl zvuk pohybujících se vojsk. Kdybychom se vrátili, uvidí nás. „Sakra.“
 
-Začalo se ochlazovat. "Co se děje?" zeptala jsem se drkotavě.
+Začalo se ochlazovat. „Co se děje?“ zeptala jsem se drkotavě.
 
-"Albert Bílí," zasyčel Šeiner. "Ne, teď ne. Já to zvládnu sám. Já to zvládnu sám." Chlad ustoupil.
+„Albert Bílí,“ zasyčel Šeiner. „Ne, teď ne. Já to zvládnu sám. Já to zvládnu sám.“ Chlad ustoupil.
 
 Šeiner se podíval na postavy pod námi, jak si balili zavazadla. Začal se probíjet větrací mříží.
 
@@ -541,21 +541,21 @@ O pár minut později, převlečení do jejich oblečení, jsme vyskočili z j
 *** Lekce XX
 Šeiner se svalil na pohovku. Byl udýchaný a nervózní. Vrátili jsme se z výpravy na Pandoru vyčerpaní a bez nějakého valného úspěchu.
 
-"Potřeboval bych trochu dobrých zpráv," postěžoval si.
+„Potřeboval bych trochu dobrých zpráv,“ postěžoval si.
 
-"Tak se podíváme na televizi," řekla jsem a zapnula plazmovku na stěně.
+„Tak se podíváme na televizi,“ řekla jsem a zapnula plazmovku na stěně.
 
-"Řekl jsem dobrých zpráv."
+„Řekl jsem dobrých zpráv.“
 
-"Taková věc neexistuje." Zvýšila jsem hlasitost. Paní před kamerou a mikrofonem s logem ŽebaTV stála u vchodu do Der Weiderhohlle Flüsemschliessem a gestikuloval za sebe, kde hlouček novinářů obklopoval mluvčího Lajdové.
+„Taková věc neexistuje.“ Zvýšila jsem hlasitost. Paní před kamerou a mikrofonem s logem ŽebaTV stála u vchodu do Der Weiderhohlle Flüsemschliessem a gestikuloval za sebe, kde hlouček novinářů obklopoval mluvčího Lajdové.
 
-"Paní Lajdová," slečna na obrazovce švitořila, "vyhlásila slavnostní bál u příležitosti svých hlasů překračujících počet voličů /závodu/. Všech Dvacet statečných je pozváno za dva týdny do zdejších slavnostních budov. Neoficiální zdroje říkají, že paní Lajdová hodlá uzavřít obchodní smlouvy s jedním z nich. Může to mít něco společného s novými sabotážemi v jejích vojskách?"
+„Paní Lajdová,“ slečna na obrazovce švitořila, „vyhlásila slavnostní bál u příležitosti svých hlasů překračujících počet voličů /závodu/. Všech Dvacet statečných je pozváno za dva týdny do zdejších slavnostních budov. Neoficiální zdroje říkají, že paní Lajdová hodlá uzavřít obchodní smlouvy s jedním z nich. Může to mít něco společného s novými sabotážemi v jejích vojskách?“
 
 Víc už jsem neslyšela. Šeiner začal zpívat vikingskou vítěznou píseň.
 
-"Sbalte si kufry, Kulibrko! Jdeme do laboratoře!"
+„Sbalte si kufry, Kulibrko! Jdeme do laboratoře!“
 
-Šli jsme do laboratoře. Následoval kopec elektronického inženýrství.
+Šli jsme do laboratoře. Následoval kopec elektronického inženýrství■
 
 * Poznámky
 
