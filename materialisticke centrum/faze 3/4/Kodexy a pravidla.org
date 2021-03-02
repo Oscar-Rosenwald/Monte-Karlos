@@ -79,7 +79,7 @@ Ročník XXVV
 *Seniorní bankomat:* Tera Kulibrko
 *Cestopis:* Áron Ponurý a Emanuel Bebeš
 *Rozšiřují:* google.com
-* Editorial                                                             :250:
+* Editorial                                                 :250:
 Jednou jsem se procházela po venkovních tržištích Nového Yorku a všimla si krásného vyřezávaného koně ve výloze perfektně zameteného obchodu. Nemohla jsem si pomoci a zaťukala jsem na sklo prstem třesoucím se bázní nad takovou nádherou, a ten kůň ke mně promluvil.
 
 "Alžběto," řekl, "víš, co jest z nejdůležitějších skutečností těch, jenž lemují břehy širé lidskosti, ta nejvíc nejdůležitější?" Nebo tak nějak.
@@ -201,7 +201,7 @@ Inu, to je zjednodušený záznam CCC. CCC bylo mnohokrát označeno jako důvod
 
 ~Connection dropped~
 * Závod
-** Vývoj                                                                :400:
+** Vývoj                                                    :400:
 Přes všechny vesměs šílené aktivity posledních dní se /závod/ kupodivu stabilizoval. Dochází k drobným změnám v pořadí, ale vzhledem k tomu, že paní Lajdová vede o víc než pět set procent nad paní Kubešovou, která před týdnem předehnala Kolářovou na druhé místo, nemají vlastně žádný význam. Za zmínku stojí paní Jakešová, která se definitivně ztratila z Dvaceti statečných[fn:5] a byla nahrazena Zdeňkem Jemelíkem, který, inspirován svou pozicí, jal se obvolávati svých devatenáct soupeřů a uzavírati s nimi dohody.
 
 Bohužel, neodhadl správně rozpoložení této skupiny a ještě před tím, než mu Lajdová vysvětlila, že ani volat si mezi sebou učitelé nesmí bez povolení, odmítl mu každý z nich jeho návrhy zvlášť.
@@ -233,9 +233,177 @@ Kdo nemá štěstí na bankomata, nemá štěstí vůbec. Víc než 90% Spolkov�
 20. Zdeněk Jemelík
 #+end_example
 ** Rozhovor
+Dnes k nám do studia zavítal velmi vítaný host. Držitelka pátého místa v žebříčku, učitelka anglického jazyka a nositelka Indonéského Řádu zlaté koruny, paní Lenka Vývodová.
+
+*Dobrý den, paní Vývodová.*
+
+Dobrý den. Těší mě, že se s vámi mohu potkat osobně.
+
+*Ano. Začněme komplikovanou otázkou - jak se máte?*
+
+Ano. To je opravdu komplikované... No, všechno by bylo fajn, ani tak corona mi nevadí, ani ta distanční výuka, až na paní Lajdovou.
+
+*Jak se vám učilo v posledním roce?*
+
+Nebylo to ideální, ale myslím si, že s takovými překážkami by se kantor pomýšlející na post nejvyššího vůdce všeho učitelstva měl bez problémů vypořádat. Mně se povedlo.
+
+*Co byste změnila na chodu své školy, aby to zvládla lépe?*
+
+Nakoupila bych učitelům lepší počítače a zaplatila lepší připojení k internetu.
+
+*Kde byste na to vzala peníze?*
+
+Někde, kde v současnosti nejsou potřeba.
+
+*Velice diplomatická odpověď. Přes své vysoké místo jste relativně neznámá. Povězte nám něco o svém osobním životě.*
+
+Můj osobní život je hodně propojený s profesním. Já ráno chodím do školy o hodinu brzy--
+
+*Proč?*
+
+Protože. Potom odpoledne jsem už většinou unavená, že když se připravím na další den, mnoho toho nezvládnu. Teď se ještě věnuji kampani a když mi zbude čas, chodívám hrát tenis.
+
+*Vidím, že jste se poučila z chyb své kolegyně paní Záchelové. Nechci stavět Monte Karlos výš, než mu přísluší, jen podotýkám, že ona nám na tuto otázku odmítla odpovědět a týden poté se propadla do zapomnění. Jak si její krach vysvětlujete?*
+
+Rozhovor k tomu do určité míry přispěl, ale v jejím případě to bylo i vícero dalších faktorů.
+
+*Myslíte si, že měla někdy šanci se dostat do arény?*
+
+Myslím, že kdyby se úplně od základů změnila--
+
+*Včetně jména?*
+
+Určitě. ...a chovala se tak, jak se nikdy v životě nechovala, potom by možná měla šanci.
+
+*Paní Záchelová je stále v závodě, jen velmi nízko. Co jiného byste jí poradila? Nějakou konkrétní radu.*
+
+Asi bych ji poradila, ať změní lehce přístup ke studentům. Myslím, že je důležité, aby výuka bavila i studenty, nejen ji.
+
+*A to by jí pomohlo?*
+
+Věřím, že ano. Minimálně získá voliče mezi svými studenty. A je to jedno z kritérií, podle kterého voliči vybírají.
+
+*Chybí vám fyzický kontakt s fanoušky?*
+
+Ani ne, ale s žáky ano.
+
+*Proč právě učení angličtiny?*
+
+Ve chvíli, když víte, že chcete učit, není příliš důležité, co učíte.
+*** Kampaň
+*Prozatím jste se nepostavila kriticky proti činnostem paní Lajdové. Znamená to, že ji podporujete?*
+
+To rozhodně ne, ale také to neznamená, že odporuji.
+
+*Co vás přimělo přihlásit se do /závodu/?*
+
+Připadalo mi to jako něco samozřejmého. Jako že každý kantor by měl po takové příležitosti sáhnout.
+
+*Máte nějaké naděje pro případného vítěze, pokud to nebudete vy?*
+
+V tuto chvíli si slibuji, že to nebude kolegyně Lajdová. Ale ne, že bych proti ní něco měla. Jen mi to tak přišlo na mysl.
+
+*Koho si vyberete jako pobočníka, pokud se postu nejvyššího vůdce doberete?*
+
+Jezevce.
+
+*Jaké máte plány předehnat Lajdovou? Myslíte si, že je to vůbec možné?*
+
+Nemyslím, že pro jednotlivce, ale doufám - pevně v to věřím - že ji nějaká skupina kantorů porazí. Ne, že bych proti ní něco měla.
+
+*To ani náhodou.*
+
+Jen mi to přišlo na mysl. A pak se závod rozeběhne jako předtím.
+
+*Byla byste ochotna sloužit jako její pobočník?*
+
+Zajímavý nápad. Asi ano, možná jen proto, abych její pozici mohla podkopávat zevnitř. Ale ne, že bych proti ní něco měla.
+
+*Ne ne ne ne ne. Co si myslíte o zákazu scházení se s učiteli bez přímého povolení?*
+
+Je očividné, že jde o snahu zarazit ostatní kantory v pokusu Lajdovou sesadit. Ale ne, že bych proti ní něco měla.
+
+*Kdo, kromě Lajdové, vám v /závodě/ nahání největší hrůzu?*
+
+Neřekla bych, že mi někdo nahání hrůzu. Ani paní Lajdová. Spíše to, co by se mohlo stát, kdyby vyhrála, a to je trochu jiná věc. Ne, že bych proti ní něco měla. Já mám pocit, že se opakuji.
+
+*Ne ne ne. My to když tak vystřihneme.*
+
+Mě to přijde důležité opakovat. Nic proti ní nemám. Ale stejně by to byla nepříjemná situace.
+
+*Kdo si myslíte, že má největší šanci vyhrát?*
+
+Myslím, že názor mezi kantory je poměrně jednotný. Což asi paní Lajdové uškodí. Takto ze sebe dělá jasný cíl. To je něco, co i nesvářené kantory přiměje spolupracovat.
+
+*Takže je to někdo v pozadí?*
+
+Já se obávám, že v tuto chvíli jsou přehlíženy všechny ostatní hrozby. Například pan Langer byl velice populární před svým zmizením a i přesto, jak je na tom Lajdová dobře, on se probíjí na vrchol. Bojím se, že bude po jejím pádu velká hrozba.
+*** Random otázka dne
+*Je voda mokrá?*
+
+Ne.
+*** Rychlá střelba
+*Jak byste změnila svět po svém vítězství?*
+
+K obrazu svému.
+
+*Jak se budete vypořádávat s prohrou?*
+
+Jako by se nic nestalo.
+
+*Jak odhodlaná jste vyhrát v aréně?*
+
+Jak jen můžu být.
+
+*Jak velkou máte šanci, že se do arény dostanete?*
+
+ Jedna ku milionu, což je velice dobré.
+
+*Jak hluboká je Macocha?*
+
+Dost na to, aby bylo nepříjemné do ní spadnout.
+
+*Jak budete postupovat v následujících týdnech proti svým nepřátelům?*
+
+Tajně.
+
+*Jak si to představujete?*
+
+Taky tajně, jinak by to nefungovalo.
+*** Korespondence
+*Do Monte Karlos dorazily staré egyptské desky. Byly zcela prázdné, ale po drobných úpravách četly:*
+
+*Paní Vývodová, dobrý den. Zde Tutanchamon.*
+
+*V poslední době mému vezírovi vstupují do snů neblahé předtuchy a zvěsti. Popisuje tisícové armády schované v nepřirozeně zelených kopcích zvonící jako mocná věž. Vidí koně nevídaných rozměrů prohánět se po denní i noční obloze, udusávat dopady svých kopyt nevinné hlasy volající po spravedlnosti. Jeho nozdry jsou temné jeskyně a jeho dech zelený paprsek světla, který sestupuje na zemi a pálí, ničí a boří.*
+
+*Zmiňuje dlouhou cestu dvou nezvyklých, osamělých bojovníků k hrobu třetího, který pije čaj, a kletbu valící se jako temný dým z lebky postavy v šedé temnotě.*
+
+*Co s tím uděláte?*
+
+*Konec dopisu. Co s ním uděláte?*
+
+Ráda bych mu vzkázala, že se nemusí bát, co s tím udělám, protože se to už stejně nedozví.
+*** Závěrečný proslov
+*Já vám jménem Monte Karlos děkuji za návštěvu. Závěrem nám na rozloučenou povězte, proč bychom zastínění vládou paní Lajdové neměli propadat panice.*
+
+Paní Lajdová, jak jsem říkala, je trnem v patě, oku, nosu--
+
+*A zádech.*
+
+... a zádech, který teď mají všichni učitelé. Ne, že bych proti ní něco měla.
+
+*Ne ne ne ne ne.*
+
+Díky tomu se sjednotí a pokusí ji svorně porazit. Což si myslím, že nakonec skutečně bude jejím pádem.
 * Korespondent
 * Lifestyle
 ** Karlos-čepice
+Módní sekce Monte Karlos Někdeníku vám přináší selektivní, neúplný výčet přijatelných stylů pro všelijaké volnočasové aktivity moderního gentlemana či gentlemanky.
+
+Takzvaný PA[fn:7] je doporučován pouze v šeru, nejlépe však úplné tmě. Jako takový se hodí do barů, diskoték, nočních klubů, čehokoli v retro vesnici dvanáctého století po soumraku, průzkumu jeskyní a dalších hobby. Všimněte si vesměs černého oděvu modela.
+
+Plavec je Karlosova odpověď na moderní trend rekomunismu, který popisuje ve své nové knize Sklon ke kuráží[fn:8]. Jeho aero- a hydrodynamický tvar umožňuje snazší skluz vodami dějin pro ty, kteří odmítají "jít s dobou" a raději s ní plavou.
 ** Kaňonskop
 * Šeiner
 ** Lekce XXI
@@ -275,7 +443,7 @@ Cíl dorazil do DWF. Zaparkoval limuzínu, přehodil si jakousi tašku přes ram
 
 Důležité: Cíl změnil směr. Vyklouzl nevšimnut před budovou a schoval se do lesa. Sleduji ho termální kamerou kvůli špatné viditelnosti ve tmě.
 ** Lekce XXIII
-Sál byl velký, ostatně jak jinak. Stovky a stovky učitelů ze všech koutů světa a na všech pozicích žebříčku se rojily na tanečním parketě či líně posedávaly u kruhových stolů v lóžích a probírali své učitelské věci.
+Sál byl velký, ostatně jak jinak. Stovky a stovky učitelů ze všech koutů světa a na všech pozicích žebříčku se rojily na tanečním parketě či líně posedávaly u kruhových stolů v lóžích a probírali své učitelské záležitosti.
 
 Horký vstoupil v mém doprovodu. Jelikož Lajdová svolala ples výhradně kvůli němu, ujistil se, že o něm místní služebnictvo i ochranka ví taktním zazpíváním jamajské hymny. V jistých chvílích jsem velmi vděčná, že jako bankomat mě vycvičili, abych necítila stud. V jiných chvílích si přeji, aby to udělali lépe.
 
@@ -283,7 +451,7 @@ Stáli jsme u bufetu a tvářili se nenápadně. Stejně přehlédnutelně se k 
 
 "Všechno podle plánu?" zeptal se koutkem úst.
 
-"Co ty víš o našel plánu?" dráždil ho Horký. Ani on ani Šeiner neměli příležitost zasvětit své kolegy do jejich pletich.
+"Co ty víš o našel plánu?" dráždil ho Horký. Ani on ani Šeiner neměli příležitost zasvětit své kolegy do svých pletich.
 
 "Nic," přiznal Rychnovský a nandal si talíř malých plastových krabiček marmelády. Přidal nůž a máslo. Pečivo nechal, kde bylo.
 
@@ -295,7 +463,7 @@ Proč jsem byla s Horkým v sále a ne s Šeinerem venku? Bankomat se někdy mus
 ** Záznam 2
 Cíl vyšplhal na střechu muzea a zaujal pozici, odkud dobře vidí na plesovou budovu. Nemá ale výhled do okna, takže neví, co se děje uvnitř. Připravil si starou vysílačku a malý satelitní talíř. Posadil se na zem a v naprosté tmě si čte Hamleta. Čeká.
 ** Lekce XXIVa
-Kdybychom byli ve filmu, tak ve chvíli, kdy se Horký zeptal "Kde sakra je?" otevřely by se dveře a ejhle Lajdová. Ale ono ne. Musel se ptát ještě pětkrát, v přestávkách mezi rozhovory s kantory, kteří hodlali využít ojedinělé příležitosti mluvit s jiným učitelem, než si vesmír uvědomil, že řekl smluvené heslo.
+Kdybychom byli ve filmu, tak ve chvíli, kdy se Horký zeptal "Kde sakra je?" otevřely by se dveře a ejhle Lajdová. Ale ono ne. Musel se ptát ještě pětkrát (v přestávkách mezi rozhovory s kantory, kteří hodlali využít ojedinělé příležitosti mluvit s jiným učitelem), než si vesmír uvědomil, že řekl smluvené heslo.
 
 Konečně, o půl jedenácté, předstoupil před shromážděné učitelstvo světa komorní s vysokou dřevěnou holí a pětadvacetkrát s ní uhodil slavnostně o zem.
 
@@ -317,7 +485,7 @@ Pokrčila jsem rameny.
 
 "... Zikkurat svatého podvědomí, její průzračné spektrum madam Zdenku Lajdovou!"
 
-Dveře vyšší než některé mrakodrapy se otevřely za řečníkem a fanfáry vytlačily všechny ostatní zvuky. Jasná záře bílých reflektorů pronikla do středu našeho tichého plesu a zavalila nás pocitem bezcennosti. Vzduchem se rozléhaly tlakové vlny dunivých kovových kroků. Polovina učitelů padla na kolena a jen polovina z nich pod tíhou systematického útlaku. Služební odvraceli zrak, těžko říct, jestli ze strachu, bázně, respektu nebo bolesti. Nezáleželo na tom. Všechny mé vjemy se naplnily k prasknutí a já se ocitla v bublině naprostého ticha, bez pocitů, přivoděného přetížením mých nervů. A pak až bylo ticho.
+Dveře vyšší než některé mrakodrapy se otevřely za řečníkem a fanfáry vytlačily všechny ostatní zvuky. Jasná záře bílých reflektorů pronikla do středu našeho tichého plesu a zavalila nás pocitem bezcennosti. Vzduchem se rozléhaly tlakové vlny dunivých kovových kroků. Polovina učitelů padla na kolena a jen polovina z nich pod tíhou systematického útlaku. Služební odvraceli zrak, těžko říct, jestli ze strachu, bázně, respektu nebo bolesti. Nezáleželo na tom. Všechny mé vjemy se naplnily k prasknutí a já se ocitla v bublině naprostého ticha, bez pocitů, přivoděného přetížením nervů. A pak až bylo ticho.
 
 Zdecimované řady učitelů se postupně zvedly ze země či židlí a člověk mohl na jejich prkenných postojích krájet cibuli a brečet ze soucitu, ne z té cibule. Jediní neovlivnění byli bankomati, stojící mezi schoulenými postavami jako majáky. Nikdo z nich nepomohl svému kantorovi postavit se. Několik si dělalo poznámky do notesů. Do takového společenství vstupuje bankomat-novic. Naprostá nezaujatost. Chladnost. Odtažitost. Studená logika ovládnutá schopností nestarat se. Kodex nade vše.
 
@@ -339,7 +507,7 @@ Lajdová vedla své vojáky do postranní lóže, odříznuté od hlavního sál
 
 Rozumím. Zůstávám na místě. Cíl nervózně přešlapuje.
 ** Lekce XXVb
-"Viděl jste někde paní Jakešovou?" zeptal se učitel někde z pětistého místa Horkého. "Chtěl jsem s ní něco probrat."
+"Viděl jste paní Jakešovou?" zeptal se učitel někde z pětistého místa Horkého. "Chtěl jsem s ní něco probrat."
 
 Horký zavrtěl hlavou, ale nedával pozor. Vzal si mně stranou.
 
@@ -349,7 +517,7 @@ Horký zavrtěl hlavou, ale nedával pozor. Vzal si mně stranou.
 
 "Aaaa...no?"
 
-"Pojďte se mnou. Je toto váš bankomat?" ukázal na mě. Horký přikývl a polkl. "Tak ho vemte s sebou, jestli chcete."
+"Pojďte se mnou. Je toto váš bankomat?" ukázal na mě. Horký přikývl a polkl. "Tak ho vezměte s sebou, jestli chcete."
 
 "To není jeho rozhodnutí," namítla jsem ze zvyku, ale oba už byli na cestě k lóži.
 
@@ -390,7 +558,7 @@ Lajdová naklonila hlavu na stranu, jako pes, když před ním začnete rapovat.
 
 "Tak nic." Horký vstal a otočil se k odchodu.
 
-"Já si poradím bez ní," zašvitořila za ním Lajdová. "Poradíš si ty bez těch peněz? Máš vůbec prostředky je uživit? Platit jim?"
+"Já si poradím bez ní," zašvitořila za ním Lajdová. "Poradíš si ty bez peněz? Máš vůbec prostředky je uživit? Platit jim?"
 
 "Máš /ty/ vůbec nějakou vojenskou sílu, které můžeš důvěřovat? Poradíš si bez nich? To bych chtěl vidět. Kolik sabotáží proběhlo za poslední týden? Hm? Kolika vojákům můžeš věřit? Hlasy, nebo si najdu jiného kupce."
 
@@ -453,10 +621,10 @@ Cíl se zastavil uprostřed místnosti. Svěsil hlavu a ramena. Celá místnost 
 
 Cíl (změnil hlas): To si myslíte, že mě s tímhle dostanete?! Mě?! Nikdy!
 Rozhlíží se kolem s novou vervou. Pohybuje se energicky, chaoticky.
-Cíl: Já jsem Albert Bílí, mě nikdy nedostanete!
-Člen ochranky: Nemáte, kam utéct, pane Bílí!  Vzdejte se!
+Cíl: Já jsem Albert Bílý, mě nikdy nedostanete!
+Člen ochranky: Nemáte, kam utéct, pane Bílý!  Vzdejte se!
 Cíl ho ignoruje. Přistoupí k topení a odšroubuje zátku trubky.
-Cíl: Tak copak to tu máme? Ale! Rybí vytápění[fn:7]. Ale nedýchat deset minut ještě neumím!
+Cíl: Tak copak to tu máme? Ale! Rybí vytápění[fn:9]. Ale nedýchat deset minut ještě neumím!
 
 Chvíle ticha, až na marné bušení ochranky do dveří.
 Cíl: Ha!
@@ -482,11 +650,11 @@ Horký ze sebe setřásl opilou persónu jako špinavý kabát. "Jdeme," prohlá
 
 Bankomat někdy nemůže, než následovat.
 ** Záznam 9
-Požární poplach v muzeu spustil automatické zavlažování všech pater. Cíl drží přehřáté vybavení u snímače kouře a šíleně se směje. Ne šíleně jako hodně, šíleně jako, že je mimo. Voda crčí na něj i ochranku a rychle vyprazdňuje doteď zaplněné prostory mezi zdmi. Cíl proráží díru ve stěně židlí a utíká do tmy a vlhka, mezi plácajícími se rybami.
+Požární poplach v muzeu spustil automatické zavlažování všech pater. Cíl drží přehřáté vybavení u snímače kouře a šíleně se směje. Ne šíleně jako hodně, šíleně jako že je mimo. Voda crčí na něj i ochranku a rychle vyprazdňuje doteď zaplněné prostory mezi zdmi. Cíl proráží díru ve stěně židlí a utíká do tmy a vlhka, mezi plácajícími se rybami.
 
-Cílova teplota se snižuje. Hypotéza: Jeho alterego Albert Bílí dosahuje zvýšené inteligence supravodivostí. Bohužel jsem ho ztratil z termální kamery, jak se jeho teplota srovnala s okolím. Potrvá nějakou dobu, než se objeví jako extrémně studený flek. Dám vědět, jen co cíl znovu lokalizuji.
+Cílova teplota se snižuje. Hypotéza: Jeho alterego Albert Bílý dosahuje zvýšené inteligence supravodivostí. Bohužel jsem ho ztratil z termální kamery, jak se jeho teplota srovnala s okolím. Potrvá nějakou dobu, než se objeví jako extrémně studený flek. Dám vědět, jen co cíl znovu lokalizuji.
 ** Lekce XXVIIIb
-Parkoviště bylo prázdné. S Horkým nám trvalo dlouho, než jsme sesbírali všechna naše oblečení, všechny naše kabáty a svetry, a dorazili jsme pozdě. Jen pár aut stále postávalo v osamělých rozích temného asfaltu a žádné z nich nebylo limuzína. Kdo už neodjel, hodlal zůstat, a pravděpodobně ani nebyl učitel. Až na nás.
+Parkoviště bylo prázdné. S Horkým nám trvalo dlouho, než jsme sesbírali všechna naše oblečení, všechny naše kabáty a svetry a dorazili jsme pozdě. Jen pár aut stále postávalo v osamělých rozích temného asfaltu. Kdo už neodjel, hodlal zůstat, a pravděpodobně ani nebyl učitel. Až na nás.
 
 Běželi jsme k našemu vozidlu, víc vystrašení Lajdovou než požárem, a všimli si Šeinerova auta, které stálo prázdné nedaleko od nás. Ještě se nevrátil.
 
@@ -498,7 +666,7 @@ Nedaleko ode mě se ozval zvuk těžkého kovu sunutého o asfalt. Oba jsme se t
 
 "Jiří?" zeptal se Horký.
 
-"Jiří?" zeptal se Šeiner a vylezl z kanálu ven. Měl mokré boty a nohavice, ohořelé rukávy a přinášel chladnou atmosféru jak pohledem, tak teplotou. Vzpomněla jsem si na naši návštěvu trpasličího vězení. Vše se ochladilo, když Albert Bílí "převzal kontrolu." Ošila jsem se.
+"Jiří?" zeptal se Šeiner a vylezl z kanálu ven. Měl mokré boty a nohavice, ohořelé rukávy a přinášel chladnou atmosféru jak pohledem, tak teplotou. Vzpomněla jsem si na naši návštěvu trpasličího vězení. Vše se ochladilo, když Albert Bílý "převzal kontrolu." Ošila jsem se.
 
 "Nic jsem nemohl zachytit. Nevím, co se stalo," stěžoval si Šeiner.
 
@@ -579,4 +747,8 @@ Byla jsem za to ráda. Neměla bych být, ale po tom, co se mě pokusila zabít 
 
 [fn:6] Paní Lajdová má své hlasy uložené u všech z nich, tak ještě aby ne.
 
-[fn:7] Der Weiderhohlle Flüsemschliessem před několika měsíci přešlo na organicky poháněné vytápění rybím pohybem. Pro větší detaily si přečtěte náš článek na toto téma. Shrnutě, zdi komplexu jsou vyplněn vodou, ve které plavou ryby, svým pohybem ji zahřívají a tím vytápí vzduch.
+[fn:7] Anglicky /Party Animal/
+
+[fn:8] K dostání na nakupsisam.cz
+
+[fn:9] Der Weiderhohlle Flüsemschliessem před několika měsíci přešlo na organicky poháněné vytápění rybím pohybem. Pro větší detaily si přečtěte náš článek na toto téma. Shrnutě, zdi komplexu jsou vyplněny vodou, ve které plavou ryby, svým pohybem ji zahřívají a tím vytápí vzduch.

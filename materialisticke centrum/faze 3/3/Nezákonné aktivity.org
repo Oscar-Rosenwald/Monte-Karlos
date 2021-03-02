@@ -62,7 +62,7 @@ fo:end-indent="0cm"/>        </style:columns>        </style:section-properties>
 * 9/2020
 *Telegraf:* Barnabáš Třetí
 *Korespondent:* 
-* Editorial                                                             :250:
+* Editorial                                                 :250:
 #+attr_odt: :style "Editorial"
 „I piráti musí něco jíst.“
 
@@ -310,7 +310,7 @@ _*A Bytu zdar!*_
 #+attr_odt: :style "Na vlnách internetu - terminal"
 ~Connection terminated~
 * Závod
-** Vývoj                                                                :400:
+** Vývoj                                                    :400:
 #+attr_odt: :style "Vývoj"
 Při posledním zasedání Rady Odvážných došlo k neoprávněnému přístupu k datům super-satelitu, který nezákonně pozoroval činnosti kantorů. Tamní, nyní propuštěný, vedoucí bezpečnosti říká:
 
@@ -377,7 +377,7 @@ Edna má ráda Evropu, mimo jiné Paříž. Její méně známý Baret se uchyti
 
 Nakonec je tu Rubáč. Musíme něco vysvětlovat?
 * Šeiner
-** Špeh                                                                 :270:
+** Špeh                                                     :270:
 ~Zaznamenáno špehujícími satelitními talíři Monte Karlos~
 
 #+attr_odt: :style "Špeh"
