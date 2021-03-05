@@ -1,0 +1,831 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1);-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties><
+/style:style>
+
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+
+#+ODT_STYLES_FILE: ../../../odt vzor/faze 3.odt
+(while (re-search-forward "\"" nil t)
+	(backward-delete-char 1)
+	(insert "„")
+	(re-search-forward "\"")
+	(backward-delete-char 1)
+	(insert "“"))
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: Nezákonné aktivity
+
+* 9/2020
+*Telegraf:* Barnabáš Třetí
+*Korespondent:* 
+* Editorial                                                 :250:
+#+attr_odt: :style "Editorial"
+„I piráti musí něco jíst.“
+
+#+attr_odt: :style "Editorial"
+Tato slova mi uvízla v paměti po návštěvě New Yorkského muzea starožitných faktů a artefaktů. Někdo je umělecky nasprejoval na stěnu v uličce mezi dvěma budovami. Za svých čtyřiadvacet desetiletí můj názor na tento výrok prošel klikatou a zrádnou cestou. Tehdy jsem ho považovala za očividnou, ale hlavně pravdivou skutečnost. I piráti, musíte uznat, musí něco jíst. Později se mi podařilo vytáhnout ho do výšin moudrosti a snažila jsem se podle něj řídit život na svých misích do Ázerbájdžánu. Když jsem po pár letech uznala, že mi nepomohly, zanevřela jsem na ně, což vedlo k mé pětileté plavbě vesmírem a k lovení hvězdných pirátů.
+
+#+attr_odt: :style "Editorial"
+Na této cestě jsem potkala svého budoucího profesora paramytologie, kterého jsem si oblíbila okamžitě. Vlastně, díky časovým posunům v hyperprostorovém kontinuu se mi líbil o dvě minuty dříve, než jsem ho potkala. Toto setkání mě přinutilo přehodnostit vztah k pirátům ještě jednou. Brala jsem výše uvedenou větu jako zbytečnou srandu, která nikomu nic nedodá, ale rovněž neubere.
+
+#+attr_odt: :style "Editorial"
+A tam jsem zůstala celá desetiletí. Až náhle, do mého života vstoupil pirát. Nebudu popisovat, jak se tam dostal, ani co tam dělal, ale zanechal na mě dojem. A nyní jsem opět plně přesvědčená, že jde o zcela očividnou, ale hlavně pravdivou skutečnost.
+
+#+attr_odt: :style "Editorial"
+Proč vám to říkám? Nevím. Jen se mi chtělo.
+
+#+attr_odt: :style "Editorial"
+Nicméně, doufám, že si užíváte náš Kaňonskop. Na vlnách Internetu náhodou zrovna o pirátství mluví a co tentokrát předvedl Šeiner, to hraničí s činy samotného Rudovouse. Takže to vlastně sedí■
+* Závodní ekonomie - Obratná finanční šipka
+#+attr_odt: :style "Závodní ekonomie"
+Pojďme se společně pobavit o způsobu, jakým spolkové banky získávají peníze. Vzhledem k tomu, že celý /závod/ stojí na daních z těchto příjmů, neváhal bych to nazvat klíčovou informací.
+
+#+attr_odt: :style "Závodní ekonomie"
+Inu, banky mají jistý zavedený styl drásání peněz ze svých zákazníků. Tak zvaná Obratná finanční šipka je pravděpodobně nejvyspělejší takový styl, široce používaný všem spolkovými bankami.
+
+#+attr_odt: :style "Závodní ekonomie"
+Jako každá správná šipka má čtyři vrcholy: banky, učitele, voliče a sponzory. Nevíte-li, kdo je kdo, doporučím vám přečíst si mé první dílo. Mnozí - hlavně Bob - si myslí, že banky dostávají peníze jen od učitelů za poskytnutý prostor podle Dohody o poskytnutém prostoru. Ačkoli tomu tak není, pojďme se nejprve podívat na způsob jejich úschovy.
+
+#+attr_odt: :style "Závodní ekonomie - nadpis"
+Trezory
+#+attr_odt: :style "Závodní ekonomie"
+Každá banka má svůj trezor. To je jasné. Ty lepší ze spolkových banek jich dokonce musí mít několik - minimálně jeden pro každého kantora. V těchto trezorech schovávají učitelé své hlasy získané ve volbách ve formě dvanáct centimetrů širokých a devět centimetrů dlouhých perfektních safírových kuliček.
+
+#+attr_odt: :style "Závodní ekonomie"
+Volba banky je čistě na učiteli, ale bez bankovního účtu není možné zůstat členem /závodu/. Trezory jsou střežené špičkovým softwarovým zabezpečením a s hlasy je možné pracovat s jakoukoli jinou komoditou běžně schraňovanou v bance - naftou, emocionální inteligencí, inspirací a podobně. Dostat se přes tento firewall je prostě nemožné bez bezpečnostního kódu a přiděleného čipu, unikátního pro každého učitele.
+
+#+attr_odt: :style "Závodní ekonomie"
+Fyzický přístup do trezoru je možný, ale banky ho nedoporučují netrénovanému personálu. Od doby, co Harry vykradl Gringotovy, nechává ministerstvo kouzel draky volně pobíhat po sklepeních a bez patřičného výcviku návštěvníkům hrozí upečení.
+
+#+attr_odt: :style "Závodní ekonomie"
+Nyní body šipky:
+
+#+attr_odt: :style "Závodní ekonomie - nadpis"
+Sponzoři
+#+attr_odt: :style "Závodní ekonomie"
+Sponzoři dávají své peníze učitelům na kampaně. Tak se to aspoň říká oficiálně. Ve skutečnosti většina z nich jde na splátku astronomických poplatků za hlasový trezor. Sponzoři jsou podle definice bohatí jedinci, kteří doufají v eventuální návrat svých financí, až dostanou čestné místo v radě výherce /závodu/, tedy nejvyššího vůdce všeho učitelstva, a tak jim nevadí ztrácet peníze v hlubinách banek.
+
+#+attr_odt: :style "Závodní ekonomie - nadpis"
+Učitelé a voliči
+#+attr_odt: :style "Závodní ekonomie"
+Učitelé mají dva různé povolené proudy příjmů. Jedním z nich jsou samozřejmě sponzoři. Druhým jsou jejich voliči. Voliči jsou žádání, lež ne nuceni, finančně podporovat svého kandidáta malými sumami peněz, které když se sečtou vydávají v průměru za 40% sumy od sponzorů.
+
+#+attr_odt: :style "Závodní ekonomie"
+Čím důležitější učitel s více body, tím víc peněz získá od svých voličů a sponzorů, ale tím větší jsou pro něj poplatky u banky za pronajatý prostor, takže celá maškaráda pokračuje.
+
+#+attr_odt: :style "Závodní ekonomie - nadpis"
+Banky
+#+attr_odt: :style "Závodní ekonomie"
+Banky tvoří poslední článek tohoto pazvláštního řetězu. Sponzoři a voliči posílají peníze učitelům, ti je posílají bankám, a celá věc, když se nakreslí, připomíná někomu - hlavně Bobovi - šipku.
+
+#+attr_odt: :style "Závodní ekonomie"
+#+begin_comment
+#+attr_odt: :style "Závodní ekonomie"
+Obrázek Obratné finanční šipky bez půjček.
+#+attr_odt: :style "Závodní ekonomie"
+#+end_comment
+
+#+attr_odt: :style "Závodní ekonomie"
+Avšak zde nejde jen o finanční šipku, nýbrž o /obratnou/ finanční šipku. Co se tedy obrací?
+
+#+attr_odt: :style "Závodní ekonomie - nadpis"
+Obratná finanční šipka
+#+attr_odt: :style "Závodní ekonomie"
+Ptal jsem se Marie, stážistky zde v Někdeníku, kde si myslí, že voliči berou peníze, kterým učitelům přispívají? Nevěděla.
+
+#+attr_odt: :style "Závodní ekonomie"
+V bankách, Marie, v bankách.
+
+#+attr_odt: :style "Závodní ekonomie"
+Ano, volič jde a půjčí si u banky peníze. Tyto peníze poskytne jako dar učiteli, který jimi zaplatí místo za voličův hlas. Tím pádem se peníze pohodlně vrátí do banky. Ale banka sama ještě vydělává na splátkách z původní půjčky, dostane tudíž ty samé peníze dvakrát a jednou z toho i s úroky.
+
+#+attr_odt: :style "Závodní ekonomie"
+Dohromady to vytváří nekřesťanský Obrat■
+
+#+attr_odt: :style "Závodní ekonomie"
+#+begin_comment
+#+attr_odt: :style "Závodní ekonomie"
+Obrázek Obratné finanční šipky s vyznačenými půjčkami.
+#+attr_odt: :style "Závodní ekonomie"
+#+end_comment
+* Na vlnách Internetu
+#+attr_odt: :style "Na vlnách internetu - terminal"
+~Network activated~
+#+attr_odt: :style "Na vlnách internetu - terminal"
+~Listening on port 1452~
+#+attr_odt: :style "Na vlnách internetu - terminal"
+~Progress: [55%] [###########.........]~
+
+#+attr_odt: :style "Na vlnách internetu - terminal"
+~Sending private key~
+#+attr_odt: :style "Na vlnách internetu - terminal"
+~Waiting for response _~
+
+#+attr_odt: :style "Na vlnách internetu - terminal"
+~Connection established:~
+#+attr_odt: :style "Heading 2"
+Pirate's Bay
+#+attr_odt: :style "Na vlnách internetu"
+_Já jsem Áron Pokorný._
+
+#+attr_odt: :style "Na vlnách internetu"
+*A já Emanuel Bebeš.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_*A toto je /Na vlnách Internetu/.*_
+
+#+attr_odt: :style "Na vlnách internetu"
+_Opět k vám promlouváme optickými kabely, tentokrát z paluby /Rychlého šípu/, lodě, která nás po vlnách Internetu plaví do YouTube.com._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Jedná se o osvědčený design Packet, kterých na informačním moři vidíme sta tisíce.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Ano, od schválení modelu Packet Staršími Internetu se rozšířilo jeho využívání na více než sto procent._
+
+#+attr_odt: :style "Na vlnách internetu"
+*A proč jim píšeme teď, Árone, ještě daleko od YouTube.com?*
+
+#+attr_odt: :style "Na vlnách internetu"
+_To je jednoduché, Emanueli, to je jednoduché. Kapitán lodi nám právě oznámil, že cestou uděláme neplánovanou (a neoficiální) zastávku._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Přesně tak. /Rychlý šíp/ na pár hodin zastaví v Pirátově zátoce, neboli ThePirateProxy3se.com.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_To je nějaké zvláštní jméno, to ti povím._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Je. Dřív se zátoka jmenovala ThePiratesBay.com, ale z jistých ne úplně legálních důvodů se museli přejmenovat.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Každopádně, já a Emanuel jsme nechtěli marnit čas a rozhodli jsme se využít této příležitosti k popsání dalšího koutu těchto vod._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Loď připlouvá k zátoce, a hned je vidět, že jsme zavítali mimo běžnou civilizaci. Jak můžete vědět, Pirátova zátoka je místo pro stahování všeho možného materiálu z hlubin Internetu, a majitelům těchto materiálů to ne vždy vyhovuje.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Místní úřady proto musí jednat tajně a vydělávat na reklamách. Zátoka sama má oválný tvar ohraničený z jedné poloviny pevninou a z jedné třetiny úzkým poloostrovem, který jako by se natahoval po pevné zemi a tvořil tak téměř samostatnou vodní masu. Lodě proplouvající z oficiálních vodních silnic musí proplout kolem tohoto poloostrova a jsou přivítány desítkami bilboardů s reklamami a upoutávkami._
+
+#+attr_odt: :style "Na vlnách internetu"
+*O kousek dál střeží malou mezeru mezi poloostrovem a pevninou místní přístav. /Rychlý šíp/ zde zakotvil u dlouhého mola a kapitán propustil cestující do malého města, kde vyčkají jeho návratu.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Na naši žádost nám povolil doprovodit ho na jeho cestě. První zastávkou je Jukebox, místo, kde si kapitáni vyzvedávají magnety._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Magnety, Árone?*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Magnety, Emanueli. Soubory získané v Pirátově zátoce se nalodí pomocí speciálního zařízení zvaného Torrent Client a zvláštního identifikátoru zvaného magnet._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Tento magnet se připevní na spodní část Clientu a slouží jako hák na prutu. Za chvíli jej uvidíte v akci.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Kapitán vybere v Jukeboxu příslušný magnet z výběru, podle klíčových slov, která zadal Pidižvíkovi uvnitř, a vezme si od něj, co mu dá._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Ne vždy se toto předání povede. Magnety mohou být poškozené, či se Pidižvík splete, ale většinou proběhne vše bez problému.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_S kapitánem a jeho posádkou jsme se nalodili na /Rychlý šíp/, další cestující se baží civilizovaným životem přístavu, a vypluli jsme do zátoky._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Proplouváme kolem špičky poloostrova a před námi se ocitá prazvláštní podívaná. Desítky Packetů se pomocí lan a dřevěných ramp spojilo do mnoha řetězů vedoucích k Těžební jednotce, městu vyčnívajícímu z pobřeží a připomínajícímu Benátky.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Každá loď používá svůj Client a když vyloví, co nepotřebují, pošlou to po řetězu dál na další lodě, které si to buďto nechají, nebo to pošlou dál a tak dále a tak dále._
+
+#+attr_odt: :style "Na vlnách internetu"
+*/Rychlý šíp/ se zapojuje do jednoho takového řetězu. Kapitán umísťuje magnet na konec dlouhého kabelu, který takto zatížený hází do vody.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Client je vlastně takový naviják - malá skříňka s motorkem uvnitř, kabelem vycházejícím z jejího nitra a čipem někde uvnitř. Kabel hledá na dne zátoky a když najde, vytáhne to Client na světlo._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Než se kapitánovi podaří něco vylovit, pojďme se podívat na Těžební jednotku, beze sporu nejzajímavější kout zátoky.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_To proto, že tu nic jiného není._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Přesně. Ani já, ani Áron tam nezavítáme. Je to totiž nebezpečné.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Ano, i když z dálky vypadá jako další místo k odpočinku, Těžební jednotka je plná přetvářky a vyzvědačství. Kdo tam vkročí, podstupuje se návalu nezřízeného alkoholu, v jehož spárech z něj tamní obyvatelé vytáhnou jeho osobní údaje - bankovní číslo, rodné číslo, číslo pasu, číslo IP, telefonní číslo a všelijaká další osobní tajná čísla._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Krom toho tam staví pirátské lodě se zbožím ukradeným na počestných Packetech na moři.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_To všechno pak jde na záda Pidižvíků a prodává se třetím stranám._
+
+#+attr_odt: :style "Na vlnách internetu"
+*i z dálky jsou k rozeznání silnice vedoucí z Jednotky dál na pevninu mezi kamennými zákoutími a tmavou půdou, po kterých Pidižvíci nesou citlivé informace.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_A pár set kilometrů dál stojí zlověstná černá brána zasazená do úbočí velké tyčící se hory, kde všechny silnice končí. Co to je, Emanueli?_
+
+#+attr_odt: :style "Na vlnách internetu"
+*To je vstup na Dark Web. Tam se všechny ty informace prodávají.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Radši od nich zůstat daleko._
+
+#+attr_odt: :style "Na vlnách internetu"
+*A, Client něco našel. Kabel tahá ze dna zátoky těžkou dřevěnou truhlu. Kapitán ji otevírá a uvnitř nachází DVD kýženého filmu. Skvěle. Zvedáme kotvy a odplouváme.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Tak si říkám, jak tohle místo může přežít. Nemají Starší Internetu zákon proti stahování dokumentů?_
+
+#+attr_odt: :style "Na vlnách internetu"
+*Mají, ale ani Starší Internetu nejsou všemocní. Mají dost práce bojovat s Dark Webem o planiny Apple Inc. a místo jako Pirátova zátoka je trpěno z nedostatku prostředků.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_No, každopádně, my již nabíráme cestující a vydáváme se dál. Příští zastávka, doufejme..._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Ha ha ha.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_... bude YouTube.com. My se s vámi pro dnešek loučíme._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Těšíme se na psanou.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_Těší nás, že se o nás zajímáte._
+
+#+attr_odt: :style "Na vlnách internetu"
+*Byla to legrace.*
+
+#+attr_odt: :style "Na vlnách internetu"
+_*A Bytu zdar!*_
+
+#+attr_odt: :style "Na vlnách internetu - terminal"
+~Connection terminated~
+* Závod
+** Vývoj                                                    :400:
+#+attr_odt: :style "Vývoj"
+Při posledním zasedání Rady Odvážných došlo k neoprávněnému přístupu k datům super-satelitu, který nezákonně pozoroval činnosti kantorů. Tamní, nyní propuštěný, vedoucí bezpečnosti říká:
+
+#+attr_odt: :style "Vývoj"
+„Tož, to bylo něco, tohléto. Totální chaosnice. Si nemůžu ani vysvjétlit, jak se k tému došlo. Nějací hekéráci, povídám. Tož hrůza.“[fn:1]
+
+#+attr_odt: :style "Vývoj"
+Je však veřejným tajemstvím, že porušení pravidel se dopustila paní Lajdová, momentální a evidentně i budoucí vedoucí žebříčku /závodu/. Jako jediná chyběla na zasedání, rozhodnuvši se před měsíci, že její přítomnost nebude nadále potřeba a že přímý hologramový přenos bohatě postačí, a kromě toho se neobtěžovala podobná nařčení vyvracet.
+
+#+attr_odt: :style "Vývoj"
+A přitom to je právě ona, kdo přebírá kontrolu nad /závodem/. Nedávno vyhlásila dekret, jímž nařizuje všem závodníkům platit poplatky předsedovi Rady Odvážných, kterým je ona sama. Platit mohou penězi či /závodními/ hlasy na její soukromý účet, jehož číslo je veřejnosti neznámo.
+
+#+attr_odt: :style "Vývoj"
+Tsunami pobouření, které následovalo, bylo předvídatelné a přitom zamezitelné. Otakar Pátek, odborník na práva /závodu/, se vyjádřil takto:
+
+#+attr_odt: :style "Vývoj"
+„Věříme-li, že paní Lajdová se zmocnila vedení díky podpoře Spolkové Bankovní Federace[fn:2], mohli ostatní členové Rady jednoduše sesadit její vládu. Anonymní kantor navrhl hlasování o snížení vlivu banek, ale většina učitelů se rozhodla, že se jim stálý příval peněz líbí, a zamítli. Kdyby tak neudělali, přišla by Lajdová o svou mocenskou základnu a neměla by teď možnost takto zneužívat svého postu.“
+
+#+attr_odt: :style "Vývoj"
+O zneužívání rozhodně jde. Ihned po vyhlášení dekretu zakázala učitelům opouštět sídla bez povolení[fn:3] a převzala oficiální kontrolu nad super-satelitem, aby mohla jejich pohyb kontrolovat. Data teď volně proudí do jejího sídla, které je stále veřejnosti zcela neznámo.
+
+#+attr_odt: :style "Vývoj"
+Její armádní síly, které přejmenovala na Jednotky Zkázy, působí problémy. Na armádních operacích posledních dní došlo k sabotáži a Lajdová nedrží v tajnosti, že se poohlíží po nových rekrutech. Čirou náhodou na světlo vstoupila nově vzniklá armáda pana Horkého, přecvičená z jeho biografů, a pan Horký se dal slyšet, že jim nechce velet věčně.
+
+#+attr_odt: :style "Vývoj"
+Mezitím /závod/ pokračuje, ale s náskokem paní Lajdové ztrácí pořadí význam. Za zmínku stojí paní Jakešová, která je plně zabrána do pokračování Tónů smrti, točeného procesem Motion Caputre[fn:4]. Nebude trvat dlouho a z Dvaceti statečných zmizí.
+
+#+attr_odt: :style "Vývoj"
+Jedinou další zajímavou osobou je paní Zemánková, která se ostře ohradila proti vznikajícím precedentům a bojuje proti vlivu paní Lajdové, i když při hlasování o vlivu banek stála pevně na straně statusu quo. Pozoruhodná je proto, že den po jejím vyjádření jí tři banky odmítly poskytnout prostor pro hlasy v /závodě/, čímž porušily Dohodu o poskytnutém prostoru. Odborníci ukazují na Lajdovou■
+
+#+begin_example
+1. Zdenka Lajdová
+2. Dagmar Kolářová
+3. Dana Kubešová
+4. Lenka Vývodová
+5. Dušan Rychnovský
+6. Marie Vávrová
+7. Ludmila Malá
+8. Jiří Šeiner
+9. Věra Zemánková
+10. Gustav Havell
+11. Hana Mužíková
+12. Jana Horáková
+13. Jiří Lysák
+14. Radovan Langer
+15. Ivo Macháček
+16. Martina Hapalová
+17. Marta Křenková
+18. Jan Menšíková
+19. Taťána Jakešová
+20. Elisie G’uaun Ebbe
+#+end_example
+** Rozhovor
+* Korespondent
+* Lifestyle
+** Karlos-čepice
+Módní sekce Monte Karlos Někdeníku vám přináší řadu světově proslulé návrhářky Edny Módní.
+
+Provokativní Řečník čerpá inspiraci z klasického Řecka a neklasického popu. Hodí se na všechny přednášky i veřejné projevy, avšak pouze, jste-li na pódiu. Oblíbený styl maharádži Al Balína, za což schytal mnoho nepříjemností v hindském parlamentě.
+
+Spáč je naopak nesmírně přívětivý a všemi uznávaný. Všimněte si polohy, v jaké náš model spí.[fn:5] Nebyla vybrána módní komisí, ale automaticky padne ke stylu Karlos-čepice, takže v ní všechny zkušební osoby nakonec samovolně skončili.
+
+Edna má ráda Evropu, mimo jiné Paříž. Její méně známý Baret se uchytil pouze na severu středu Jižní Afriky zejména mezi ždiboni, přesto, že přímo čiší africkými náboženskými hodnotami.
+
+Nakonec je tu Rubáč. Musíme něco vysvětlovat?
+* Šeiner
+** Špeh                                                     :270:
+~Zaznamenáno špehujícími satelitními talíři Monte Karlos~
+
+#+attr_odt: :style "Špeh"
+Cíl sledován z DWF dronem. Přijel limuzínou do sídla.
+
+#+attr_odt: :style "Špeh"
+Bankomat: To se moc nepovedlo.
+
+#+attr_odt: :style "Špeh"
+Cíl: To se povedlo skvěle. Ale ne nám. Lajdová má na své straně nečekaného spojence.
+
+#+attr_odt: :style "Špeh"
+Bankomat: Satelit?
+
+#+attr_odt: :style "Špeh"
+Cíl: Idiocii. A chamtivost. Učitelé v Radě by ji radši nechali vládnout, když sami dostanou víc peněz. To se jim vymstí.
+\\
+#+attr_odt: :style "Špeh"
+Cíl vystoupil z auta a odemkl bránu.
+\\
+#+attr_odt: :style "Špeh"
+Bankomat (píše poznámky): Je to vyhrůžka?
+
+#+attr_odt: :style "Špeh"
+Cíl: Předpověď.
+
+#+attr_odt: :style "Špeh"
+Cíl odkládá své vycházkové hole v hale.
+
+#+attr_odt: :style "Špeh"
+Cíl: A teď Lajdová ví, že po ní někdo jde.
+
+#+attr_odt: :style "Špeh"
+Bankomat píše poznámky.
+\\
+#+attr_odt: :style "Špeh"
+Cíl se zavřel v sídle. Má protisatelitní nátěr a titanem vyztužené stěny. Sledování termálně je nemožné. Nainstalovanou kamerou vidím do obývacího pokoje a kuchyně, ale cíl se většinu času zdržuje ve svých komnatách a laboratoři. Mám pokryté všechny východy. Vycházel jen na nákup, ale po vyhlášení zákazu učitelům opouštět svá sídla posílá služebné. Teď ho vidívám jen oknem, když jí.
+\\
+#+attr_odt: :style "Špeh"
+Bankomat: O čem přemýšlíte?
+
+#+attr_odt: :style "Špeh"
+Cíl odkládá vidličku.
+
+#+attr_odt: :style "Špeh"
+Cíl: Proč není Ebbe zatčená? Nebo jinak potrestaná? Lajdová má kontrolu nad satelitem. Může vidět, že to ona vybrala téma hlasování. Tak proč proti ní nezasáhla?
+
+#+attr_odt: :style "Špeh"
+Bankomat: Možná ví, že jste ji k tomu navedl.
+
+#+attr_odt: :style "Špeh"
+Cíl: To si přesně říkám. Vypadá to, že nás někdo sleduje.
+
+#+attr_odt: :style "Špeh"
+Bankomat: Jako špeh?
+
+#+attr_odt: :style "Špeh"
+Cíl: Jako špeh.
+
+#+attr_odt: :style "Špeh"
+Chvíle ticha. Oba se podezřele podívají oknem ven. Jsem v bezpečí - dívají se na opačnou stranu.
+\\
+#+attr_odt: :style "Špeh"
+Cíl zůstává dva týdny zavřený doma. Žádné návštěvy, kromě televizního štábu na malé interview, do kterého jsem se vetřel. Nikam nechodí, s nikým nekomunikuje. Je nečinný. Další zprávy přijdou při první změně■
+** Lekce bankomata
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XIII
+#+attr_odt: :style "Lekce - normal"
+Bankomat musí být ochotný plazit se džunglí, skákat padákem, letět do vesmíru, pařit se na pouští, zkrátka dělat cokoli, aby zůstal po boku svého kantora. I kdyby to bylo plahočit se kilometr za kilometrem, míli za mílí, světelný rok za světelným rokem podzemními tunely širokým sotva tak, aby jimi prošel rychnovský.
+
+#+attr_odt: :style "Lekce - normal"
+Šeinerovi jsem ubrala body za jeho fiasko v Radě Odvážných, ale rychle mu je zase vrátila, když jsem uviděla jeho knihovnu zajíždět do stěny a odhalit točité schodiště vedoucí ho podzemí. Vysvětlil mi, že všichni členové zaniklého /Pálkovská squadu/ si nechali vykopat síť tunelů vedoucí na strategickou pozici, sloužící jako bunkr v případě náletů.
+
+#+attr_odt: :style "Lekce - normal"
+„Trpaslíky?“ zeptala jsem se.
+
+#+attr_odt: :style "Lekce - normal"
+„Ne,“ řekl Šeiner, „permoníky.“
+
+#+attr_odt: :style "Lekce - normal"
+Šeiner se bál, že ho nechala Lajdová sledovat, a proto opouští své sídlo tajně a já, jak jinak, se musím toulat s ním. Šli jsme daleko, hodinu po hodině, a Šeiner, v lepší kondici než já, se pravidelně omlouval, že nestačil instalovat železniční dráhu. Myslím, že si ze mně dělá srandu.
+
+#+attr_odt: :style "Lekce - normal"
+Konečně jsme se vynořili v místnosti obklopené vulkanickým sklem. Uprostřed stál kruhový stůl se zvláštním ornamentem písmen JL a ve zdi se tyčilo devatenáct zavřených bran, které jsem okamžitě poznala jako dimenzionální portály. Podle rámů.
+
+#+attr_odt: :style "Lekce - normal"
+Nepřišli jsme první. Kolem stolu seděli a bavili se Horký a Malá. Horkého bych chápala - byl členem /squadu/, ale Malá patřila do Velké pětky. Ta by neměla žádný tunel. Naštěstí jsem si všimla dalšího bankomata stojícího za vysokou učitelkou a šla jsem se zeptat.
+
+#+attr_odt: :style "Lekce - normal"
+„Dlouhá cesta, co?“ řekla jsem. Žádná odpověď. „Co my pro ty učitele neuděláme,“ zkusila jsem to. Můj kolega se na mě sotva podíval. Bankomati jsou cvičeni k naprosté izolaci emocí. Neberte si ze mě příklad. Šokovalo mě, jak rychle jsem si odvykla našemu předepsanému kodexu komunikace.
+
+#+attr_odt: :style "Lekce - normal"
+„Vyžaduji doplňující informace, mistře bankomate.“
+
+#+attr_odt: :style "Lekce - normal"
+„Schválené poznatky jsou k dispozici.“
+
+#+attr_odt: :style "Lekce - normal"
+„Jak se sem kantor Malá dostala?“
+
+#+attr_odt: :style "Lekce - normal"
+„Před bitvou u Nového Dilí zvažovala změnit strany,“ řekl mi, když Rychnovský a Kolářová, oba členové Větší pětky, vešli stejným tunelem za mnou.
+
+#+attr_odt: :style "Lekce - normal"
+„A oni?“
+
+#+attr_odt: :style "Lekce - normal"
+„Velká pětka měla instalovaný systém teleportů mezi svými sídly. Teleportovali se k Malé.“
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XIV
+#+attr_odt: :style "Lekce - normal"
+Stát v pozadí a pozorovat. To jest naše práce, naše poslání, naše mise. Stát a pozorovat.
+
+#+attr_odt: :style "Lekce - normal"
+„Lajdová se schovává kdoví kde,“ řekl Rychnovský. „Vojska Času pomsty se schovávají také. Lajdová má přístup k satelitu. Co máme my?“
+
+#+attr_odt: :style "Lekce - normal"
+Učitelé seděli kolem stolu. Nepříjemné množství sedadel zůstalo prázdných. 
+
+#+attr_odt: :style "Lekce - normal"
+„Můžeme obsadit Sauronovo oko,“ nabídla Kolářová. „To vidí ještě lépe než satelit.“
+
+#+attr_odt: :style "Lekce - normal"
+Horký zavrtěl hlavou. „Aragorn se přidal k Lajdové; respektive jeho banka, a to je to samé. Cesty do Mordoru se pečlivě hlídají.“
+
+#+attr_odt: :style "Lekce - normal"
+„Proto jsem řekla /dobýt/.“
+
+#+attr_odt: :style "Lekce - normal"
+„Řekla jsi /obsadit/,“ namítla Malá.
+
+#+attr_odt: :style "Lekce - normal"
+„Neřekla.“
+
+#+attr_odt: :style "Lekce - normal"
+Šeiner se předklonil ve svém křesle. „Problém je, že Lajdová vidí nás, ne, že my nevidíme ji. I když vědět, kde se schovává, by nebylo špatné.“
+
+#+attr_odt: :style "Lekce - normal"
+„Ludmila na satelitu už pracuje,“ řekl Rychnovský a otočil se na Malou. Její bankomat si dělal zběsilé poznámky.
+
+#+attr_odt: :style "Lekce - normal"
+„Ano... Takže... Satelit. Satelit není těžké kontrolovat.“
+
+#+attr_odt: :style "Lekce - normal"
+„Jako bych to neříkal,“ zašeptal Šeiner a mrkl na mě.
+
+#+attr_odt: :style "Lekce - normal"
+„Jenomže,“ pokračovala Malá, „jak se do něj nabouráme, Lajdová se to dozví.“ Tentokrát Šeiner jenom mrkl. Ano, i to říkal. Bod pro něj. „Prostě by nechala vystavět další a dala by si záležet, aby byl bezpečnější. A pak už se do něj nedostaneme.“
+
+#+attr_odt: :style "Lekce - normal"
+„Dobře,“ vložil se do toho Horký, „ale jak by nám to pomohlo?“
+
+#+attr_odt: :style "Lekce - normal"
+„No,“ Rychnovský nadhodil, „chceme najít Lajdovou, shromáždit armádu a dobýt její sídlo. K tomu potřebujeme zneškodnit satelit.“ Šeiner se ošil. Představa další války se mu hrubě nelíbila.
+
+#+attr_odt: :style "Lekce - normal"
+„To nebude lehké.“ Kolářová vrtěla hlavou. „Satelit není její jediná obrana.“
+
+#+attr_odt: :style "Lekce - normal"
+„My víme,“ řekl Šeiner obezřetně. „Ale máme vůbec, kde to vojsko vzít? Jiří ho nemá dost.“ Ukázal na Horkého.
+
+#+attr_odt: :style "Lekce - normal"
+„Někoho jsem našel,“ řekl Rychnovský. „Nikoho lepšího nemám. Ale myslím, že to bude fungovat.“
+
+#+attr_odt: :style "Lekce - normal"
+Dimenzionální teleport se na jeho pokyn otevřel do studeného světa Hoth a před shromážděním stanula nečekaná osoba - Macháček.
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XV
+#+attr_odt: :style "Lekce - normal"
+Chcete-li být bankomatem, musíte umět držet své emoce na uzdě. To samé neplatí pro učitele.
+
+#+attr_odt: :style "Lekce - normal"
+Kolářová, Malá i Horký vyskočili od stolu. Šeiner zaklel v sanskrtu. Rychnovský si povzdechl.
+
+#+attr_odt: :style "Lekce - normal"
+„Co ten tady dělá?!“ zařvala Malá.
+
+#+attr_odt: :style "Lekce - normal"
+„Ne. V žádném případě. I když... Ne. Ani náhodou.“ To byla Kolářová. Horký propaloval Macháčka pohledem.
+
+#+attr_odt: :style "Lekce - normal"
+„Počkat, počkat,“ prosil Rychnovský. „Dává to větší smysl, než si myslíte.“
+
+#+attr_odt: :style "Lekce - normal"
+„Rozhodně ne. Kdepak. Ale... Ne. Kategorický ne.“
+
+#+attr_odt: :style "Lekce - normal"
+„Nemůžete popřít, že je z nás nejschopnější generál,“ argumentoval Rychnovský. Macháček přikývl, ale mlčel.
+
+#+attr_odt: :style "Lekce - normal"
+„Jeho? Toho poslouchat nebudu. Zradil i vlastní stranu! Co, Jiří?“ Malá dloubla do Horkého, který stále propaloval. On i Šeiner, spolu se zbytkem /Pálkovská squadu/, byli zrazeni Macháčkem, když převzal kontrolu nad Modrými klobouky a odstranil Pálkovskou ze závodu.
+
+#+attr_odt: :style "Lekce - normal"
+„Máte někoho lepšího?“ zeptal se Rychnovský.
+
+#+attr_odt: :style "Lekce - normal"
+„Ne. Ne. Bezpodnímečně... Cože?“
+
+#+attr_odt: :style "Lekce - normal"
+„Máte někoho lepšího?“
+
+#+attr_odt: :style "Lekce - normal"
+„Nemáme,“ přiznal Šeiner a postavil se před Macháčka. „Ale jestli nás zradí znovu, předhodím ho svým králíkům.“
+
+#+attr_odt: :style "Lekce - normal"
+Ještě chvíli trvalo, než se učitelé uklidnili. Nakonec ale museli přiznat, že Macháčkova zrada z něj dělala /schopnějšího/ vojevůdce.
+
+#+attr_odt: :style "Lekce - normal"
+„Co navrhuješ?“ zeptala se ho Kolářová.
+
+#+attr_odt: :style "Lekce - normal"
+Macháček odsunul židli, jako že si sedne, ale Malá na ni položila nohy. Macháček zůstal stát. „Potřebujeme tři věci - armádu, dobře vycvičenou a dostatečně velkou,“ řekl, „lokaci dimenze, kde se Zdenka schovává, a tajný přesun k dimenzionálnímu portálu. Sehnat armádu bude nejjednodušší. Jak se roznese, že rekrutujeme proti Lajdové, přijde k nám vojsko Času pomsty samo.“
+
+#+attr_odt: :style "Lekce - normal"
+„A Lajdová se o nás dozví,“ namítl Horký.
+
+#+attr_odt: :style "Lekce - normal"
+„Já vím. To jinak nejde a my to musíme využít v náš prospěch. Mám jisté taktiky, jak dostat vojsko nepozorovaně tam, kde ho chci mít, ale v tom jsou dva háčky a jeden zádrhel. Se satelitem to nezvládnu,“ odpočítal na prstu, „nevíme, kam máme jít, a potřebuji přátelskou dimenzi. Má někdo vztahy s někým poblíž?“
+
+#+attr_odt: :style "Lekce - normal"
+Kolářová zakašlala. „Co třeba Kamelot?“
+
+#+attr_odt: :style "Lekce - normal"
+„Kdo vládne v Kamelotu?“ zeptal se Rychnovský.
+
+#+attr_odt: :style "Lekce - normal"
+„Emil I., potomek krále Artuše.“
+
+#+attr_odt: :style "Lekce - normal"
+„Skvěle. To se bude hodit. Dagmar zařídí dočasný pobyt našich vojsk na jeho území. Dál potřebuji dvaadvacet tun měkkého dřeva, zelenou a šedou nátěrovou barvu, nějakého umělce, tři tisíce diamantových vrtaček, pětadvacet bilboardů ve světových metropolích, kontrolu nad satelitem a lokaci dimenzionálního teleportu.“
+:info:
+- dřevo, nátěr, umělec - stavba falešných tanků a bunkrů
+- vrtačky - tunelování do Lajdové dimenze
+- bilboardy - Kamelot musí zvýšit turistiku, aby se mohli vojáci dostat tam a zase zpátky „nepozorovaně.“
+:END:
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XVI
+#+attr_odt: :style "Lekce - normal"
+Bankomati by se měli zdržet vyjadřování vlastních názorů. Ale o životě bankomata vám řeknu toto: Jsem ráda, že nemusím nic organizovat.
+
+#+attr_odt: :style "Lekce - normal"
+V příštích hodinách Macháček popsal svůj plán. Nebyl kompletní, měl mnoho děr a ostatní se do něj vkládali s jízlivou poznámkou nebo nápadem na vylepšení. Nakonec se shodli na jakémsi postupu a došlo na rozdělování prací.
+
+#+attr_odt: :style "Lekce - normal"
+Práce se satelitem, možná nejtěžší ze všech, byla odložena na později. Nikoho nenapadlo, co s ním dělat. Malá dostala za úkol shánět dřevo a barvy a pracovat jako umělec a odešla hned po ukončení veřejné schůze, prý dělat nákresy. Kolářová opustila prostor chvíli poté stejným tunelem, když se ujistila, jak dlouho budou vojska tohoto spolku pobývat v Kamelotu, jak se tam dostanou a jak posléze zmizí, a šla podat žádost do Der Weiderhohlle Flüsemschliessem o formální návštěvu svého známého Emila I.
+
+#+attr_odt: :style "Lekce - normal"
+Onu přepravu vojáků si vzal na starost Rychnovský, a s ní i podstatné části jejich pohybu - vrtačku a bilboardy. Jeho práce bude nejvíce organizační a nic jsem mu nezáviděla. Zůstal ale dlouho po skončení debaty, aby se s Macháčkem domluvil na jistých specifikacích. Macháček sám se ujal rekrutování a cvičení vojska a vojenského vybavení. Spolu zalezli dimenzionálním portálem do rudým světlem zalitého Luthadelu, při pohledu na nějž se mi zastesklo na má studentská léta na tamější univerzitě.
+
+#+attr_odt: :style "Lekce - normal"
+To nechalo Šeinera a Horkého, kteří dostali přidělený zcela nemožný úkol. Najít dimenzi, ve které se Lajdová schovává, nebo aspoň portál, kterým se tam dostat. Byli na to dva, protože nikdo neměl žádné dobré nápady.
+
+#+attr_odt: :style "Lekce - normal"
+„Mám dobrý nápad,“ řekl Šeiner, když byli sami. „Při zasedání jsem si všiml jejího hologramu. Je to platforma, která přijímá signál odněkud zdaleka a vysílá, co vidí, zpátky. Kdybych měl vybavení aby blízko, mohl bych zaměřit, kam ten signál letí.“
+
+#+attr_odt: :style "Lekce - normal"
+„I do jiné dimenze?“ zeptal se Horký.
+
+#+attr_odt: :style "Lekce - normal"
+„Ne, ale k portálu. A je to ještě lepší. Jestli budeme mít štěstí, dokážu Zdenku zbavit všech jejích bodu.“
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XVII
+#+attr_odt: :style "Lekce - normal"
+My bankomati máme skvělou výhodu. Jsme vázáni přísahou nezasahovat do závodu, takže před námi učitelé mohou - možná musí - probírat své strategie a plány. Vědí, že je nikomu neřekneme.
+
+#+attr_odt: :style "Lekce - normal"
+Horký musí mít svého bankomata také - každý učitel ho má - ale jeho se asi zaobíral jiným učitelem a neměl čas. V místnosti jsme byli tři, já, Horký a Šeiner. Horký si mě změřil nejistým pohledem.
+
+#+attr_odt: :style "Lekce - normal"
+„Madam Kulibrko nikomu nic neřekne,“ hájil mě Šeiner, až se mě to dotklo. „Můj nápad je takový - ty máš armádu.“
+
+#+attr_odt: :style "Lekce - normal"
+„Malou.“
+
+#+attr_odt: :style "Lekce - normal"
+„Ano, ale máš ji. Co takhle se tvářit, že ji chceš prodat? Kdybychom pak dokázali přesvědčit Zdenku, že její armáda není věrohodná, bude ji od tebe chtít koupit. V tom případě musí svolat bál v Der Weiderhohlle Flüsemschliessem, jinak bys neměl možnost ji potkat - sama ten zákon vydala.“
+
+#+attr_odt: :style "Lekce - normal"
+Horký kýval na srozuměnou. Šeiner pokračoval: „Když se s tebou sejde, dáš mi vědět a já, někde schovaný, ji začnu sledovat. Až zachytím signál, máme ji. Ale tady je ta skvělá věc: Když budeš trvat na zaplacení ne v penězích, ale bodech, a když s sebou budeš mít vlastní skenovací zařízení, můžeš zachytit signál, který vyšle své bance pro výběr hlasů. A pokud budeme mít to štěstí, tak ho dokážu zreplikovat a vybereme všechny její hlasy z banky. Ty si pak rozdělíme a ona ztratí všechnu autoritu mezi bankami, které jí poskytují všechnu moc. Co říkáš?“
+
+#+attr_odt: :style "Lekce - normal"
+„Jak bys ji chtěl přesvědčit, že její armáda je nespolehlivá?“
+
+#+attr_odt: :style "Lekce - normal"
+„Zinscenuji nějaké sabotáže aby to vypadalo, že to spáchali oni. Ty zatím sestavíš co největší a nelepší armádu, půjdeš na veřejnost a prohlásíš, že ji chceš prodat.“
+
+#+attr_odt: :style "Lekce - normal"
+Chvíli bylo ticho a oba pánové zvažovali své možnosti.
+
+#+attr_odt: :style "Lekce - normal"
+„Budeme potřebovat ještě jednoho člověka,“ řekl Šeiner nakonec.
+
+#+attr_odt: :style "Lekce - normal"
+„Vím, koho myslíš.“
+
+#+attr_odt: :style "Lekce - normal"
+„Zvládneš to zařídit?“
+
+#+attr_odt: :style "Lekce - normal"
+„Pokusím se ji zkontaktovat. Ty se dej do sabotáží.“
+
+#+attr_odt: :style "Lekce - normal"
+„Dám. A ty si hlavně zařiď nějaké interview.“
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XVIII
+#+attr_odt: :style "Lekce - normal"
+Když jsem říkala, že musím být ochotná plazit se džunglí, nemyslela jsem, že to budu dělat. Ale Šeiner si to vzal k srdci a já se ocitla uprostřed pralesa na Pandoře, planetě vysokých modrých oblud. Dostali jsme se sem portálem v konferenční místnosti, kde před týdnem Šeiner domluvil plán s Horkým. Od té doby jsme podnikly tři takové cesty, všechny končící výbuchem či chaosem.
+
+#+attr_odt: :style "Lekce - normal"
+Tato čtvrtá byla speciální. Dostali jsme tip, že vojenské výpravy do těchto dimenzí nejsou čistě politické, ale že se mezi zdejšími vojáky skrývá jakási tajná věc, kterou chce Lajdová použít. Šeiner se rozhodl ji ukrást.
+
+#+attr_odt: :style "Lekce - normal"
+Na zádech přinesl velkou cívku uvázanou koženým páskem a opíral se při tom o své dlouhé vycházkové hole. Svůj balík umístil v pokrývce tmy mezi stany a spolu jsme se proplížili k plechové budově.
+
+#+attr_odt: :style "Lekce - normal"
+„Máte můj ovladač?“ zeptal se mě a já mu podala dálkové ovládání. Pak jsem se vyšplhala do vzduchové šachty a vytáhla ho za sebou.
+
+#+attr_odt: :style "Lekce - normal"
+Plazili jsme se plechovými cestami a hledali centrální místnost. Přiznám, že jsem se začala těšit, až najdeme, co jsme hledali.
+
+#+attr_odt: :style "Lekce - normal"
+Šeiner se konečně zastavil nad větrací šachtou. Vytáhl svůj ovladač a připravil se odpálit. Cívka, kterou jsme s sebou přinesli, měla vyslat elektromagnetickou vlnu a přerušit bezdrátové signály. Vojáci bez televize začnou panikařit a v chaosu se nám mělo podařit utéct.
+
+#+attr_odt: :style "Lekce - normal"
+Jenomže pod námi byli dva lidé - muž a žena - sedící pod světlem lampy a popíjející čaj. Podle odznaku na jejich kabátech bylo poznat, že patří k jedné ze Spolkových banek.
+
+#+attr_odt: :style "Lekce - normal"
+Šeiner byl zaražen. „Vaše banka?“ zašeptal.
+
+#+attr_odt: :style "Lekce - normal"
+Představitel a jeho asistentka pod námi patřili ke Čtyřem živlům[fn:6], nedůležitému konkurentovy mého Trojského Triumvirátu. Zavrtěla jsem hlavou. „Je to nová banka s malým vlivem. Na Pandoře ani nemají pobočku.“
+
+#+attr_odt: :style "Lekce - normal"
+„A to má být to tajemství?“ zavrtěl hlavou Šeiner, když v tom se otevřely dveře a dovnitř vkráčel kovový podstavec na mechanických nohách. Dveře se za ním zabouchly a před představitelem se objevil hologram Lajdové.
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XIX
+#+attr_odt: :style "Lekce - normal"
+Šeiner zalapal po dechu.
+
+#+attr_odt: :style "Lekce - normal"
+„Můžete ji vysledovat?“ zeptala jsem se. Tím jsem ho vyvedla z šoku, což jsem neměla dělat. Bankomati nesmí pomáhat učitelům, a pokud není dost při smyslech, jeho chyba.[fn:7]
+
+#+attr_odt: :style "Lekce - normal"
+„Nemám tu vybavení.“
+
+#+attr_odt: :style "Lekce - normal"
+„Pane vyslanče,“ zněl kovový hlas Lajdové. Vyslanec se uklonil a bylo vidět, že se mu to nelíbí. „Chci si promluvit o privilegiích, které mi vaše banka odmítla poskytnout.“
+
+#+attr_odt: :style "Lekce - normal"
+„Čtyři živly nechápou, proč by měly pomáhat učiteli na úkor jiných,“ vydral ze sebe vyslanec. „Je to proti Dohodě o poskytnutém prostoru.“
+
+#+attr_odt: :style "Lekce - normal"
+„Čtyři živly nechápou vážnosti situace. Bylo by v jejich zájmu, abych si jich nevšímala. Podívejte se, co se stalo Hydrantu a Synovi.[fn:8]“
+
+#+attr_odt: :style "Lekce - normal"
+Vyslanec zkusil jinou taktiku: „K čemu je vám tak malá banka? Nebylo by Bratrstvo Poražených ale Nepadlých výnosnější? Chápu, že vašemu vlivu vzdorují.“
+
+#+attr_odt: :style "Lekce - normal"
+„Čtyři živly vlastní bankovní prostor Olympu. Chci, aby tamní ambiciózní kantor neměl, kam ukládat hlasy. Jestli mi odmítnete pomoc, stáhnu všechny své hlasy z vašich účtů. Jak si pak poradíte s nátlakem Filease a Fogga[fn:9]?“
+
+#+attr_odt: :style "Lekce - normal"
+Představitel odevzdaně kývl hlavou. Lajdová zmizela s úšklebkem na rtech.
+
+#+attr_odt: :style "Lekce - normal"
+„Čas zmizet,“ zašeptal Šeiner. Zmáčkl tlačítko na dálkovém ovladači. Nic. Znovu. Nic.
+
+#+attr_odt: :style "Lekce - normal"
+„Sakra,“ řekla jsem.
+
+#+attr_odt: :style "Lekce - normal"
+„Musela vypnout televizní vysílání, aby nerušilo její signál. Vojáci jsou připravení na hodinu bez televize.“
+
+#+attr_odt: :style "Lekce - normal"
+„Sakra.“ Z venku k nám dolehl zvuk pohybujících se vojsk. Kdybychom se vrátili, uvidí nás. „Sakra.“
+
+#+attr_odt: :style "Lekce - normal"
+Začalo se ochlazovat. „Co se děje?“ zeptala jsem se drkotavě.
+
+#+attr_odt: :style "Lekce - normal"
+„Albert Bílí,“ zasyčel Šeiner. „Ne, teď ne. Já to zvládnu sám. Já to zvládnu sám.“ Chlad ustoupil.
+
+#+attr_odt: :style "Lekce - normal"
+Šeiner se podíval na postavy pod námi, jak si balili zavazadla. Začal se probíjet větrací mříží.
+
+#+attr_odt: :style "Lekce - normal"
+O pár minut později, převlečení do jejich oblečení, jsme vyskočili z jedoucího auta v lese. Za námi zněly sirény, jak si vojáci uvědomili, že dnes žádná televize nebude. V tom zmatku se oba svázaní představitelé ztratili a s trochou štěstí si budou myslet, že jsme byli sabotéři z řad armády.
+#+attr_odt: :style "Lekce - nadpis"
+Lekce XX
+#+attr_odt: :style "Lekce - normal"
+Šeiner se svalil na pohovku. Byl udýchaný a nervózní. Vrátili jsme se z výpravy na Pandoru vyčerpaní a bez nějakého valného úspěchu.
+
+#+attr_odt: :style "Lekce - normal"
+„Potřeboval bych trochu dobrých zpráv,“ postěžoval si.
+
+#+attr_odt: :style "Lekce - normal"
+„Tak se podíváme na televizi,“ řekla jsem a zapnula plazmovku na stěně.
+
+#+attr_odt: :style "Lekce - normal"
+„Řekl jsem dobrých zpráv.“
+
+#+attr_odt: :style "Lekce - normal"
+„Taková věc neexistuje.“ Zvýšila jsem hlasitost. Paní před kamerou a mikrofonem s logem ŽebaTV stála u vchodu do Der Weiderhohlle Flüsemschliessem a gestikuloval za sebe, kde hlouček novinářů obklopoval mluvčího Lajdové.
+
+#+attr_odt: :style "Lekce - normal"
+„Paní Lajdová,“ slečna na obrazovce švitořila, „vyhlásila slavnostní bál u příležitosti svých hlasů překračujících počet voličů /závodu/. Všech Dvacet statečných je pozváno za dva týdny do zdejších slavnostních budov. Neoficiální zdroje říkají, že paní Lajdová hodlá uzavřít obchodní smlouvy s jedním z nich. Může to mít něco společného s novými sabotážemi v jejích vojskách?“
+
+#+attr_odt: :style "Lekce - normal"
+Víc už jsem neslyšela. Šeiner začal zpívat vikingskou vítěznou píseň.
+
+#+attr_odt: :style "Lekce - normal"
+„Sbalte si kufry, Kulibrko! Jdeme do laboratoře!“
+
+#+attr_odt: :style "Lekce - normal"
+Šli jsme do laboratoře. Následoval kopec elektronického inženýrství■
+* Zpověď Lubomíra Lečka
+Vážení a milý čtenáři,
+
+Já vím, já vím. Už zase jsem něco pokazil. Ostatně jako vždycky. Snažil jsem se vám ze všech sil poskytnout co nejblyštivější osobnost, ale jak tomu prozřetelnost chtěla, nepovedlo se.
+
+Pro dnešní číslo jsme do Monte Karla pozvali známého amerického herce Marka Hamilla, jehož můžete znát z takových rolí jako Joker v kresleném Batmanovi, profesora Arnolda v populární sérii Kingsman či Santu v Tomovi a Jerrim. Případně se vám může vybavit jeho Luke Skywalker v méně znýmých Hvězdných válkách. Byl jsem samozřejmě nadšen, když pan Hamill souhlasil s mým pozváním, i když být pozván do našeho pořadu je čest spíš pro pozvaného, a začal jsem se tedy připravovat na jistojistou komplikace.
+
+Ta přišla záhy, když jistou paní Anna Schluchthansová předvolali před soud za nelegální prodej héliových raket. Jestli vás zajímá, co má paní Schluchthansová společného s námi, vězte, že Markova žena se s ní blízce zná a rozhodla se, že se soudu zůčastní jako morální podpora. Mark se následně omluvil, že musí poskytovat morální podporu své ženě.
+
+Tehdy jsem měl ještě dost času a zařídil jsem náhradu. Další známý herec Ivan Trojan s radostí a pokorou přijal naši žádost a slíbil, že se dostaví z Německa, kde byl tou dobou na prodloužené dovolené. Ale jakoby se proti mě všechno spiklo, pan Trojan se rozhodl odletět právě ve chvíli, kdy na letišti propuklo dlouhodobé držení rukojmí. Ivana spolu s ostatními držel dva dny Anselm, který se domníval, že zatčení jeho sestry Anny za nezákonný prodej héliových raket bylo samo nezákonné.
+
+Anselma Schluchthanse nakonec zatknul tým plukovníka Oschlýamilitého a nikdo nedošel k újmě. Avšak Ivan Trojan byl natolik rozrušen, že se nedokázal postarat ani o vlastní dvojčata a najal si na to narychlo chůvu Kalkalovou. V takovém stavu nebylo možno s ním provádět rozhovor.
+
+Já ale při vší své zkušenosti předvídal podobný vývoj a zařídil jsem i náhradu náhrady. Paní Lena Heady nám líbila účast v případě, že Ivan Trojan se nedostaví. Avšak i ona má na starosti děti, které do studia nemoha přivézt. Zavolala tedy své chůvě. Jak se ale ukázalo, paní Kalkalová už byla urgentně povolána k vnoučatům Ivana Trojana.
+
+Zde si znovu všimněte mé prozíravosti. Instruoval jsem Lenu, že si má zajistit chůvy dvě. Jakmile se ujistila, že chůva 1 nemá čas, požádala o pomoc chůvu 2. Avšak paní Oschlýamilitá je vždy doslova na prášky, když se její syn plukovník Oschlýamilitý vydá do akce, a v takovém stavu nebylo radno ji povolávat.
+
+Lena Heady ale není žádný hlupák. Já požádal o chůvy dvě a ona si zajistila třetí. Když se jí ale Monte Karlos pokusil volat, dozvěděl se, že byla právě odsouzena za nelegální prodej héliových raket. A tak se bohužel naše okénko pro celebrity ani tentokrát nezaplnilo. Omlouvám se.
+* Poznámky
+
+[fn:1] Přepsáno a přeloženo z jeho rodné huttštiny.
+
+[fn:2] Věříme.
+
+[fn:3] Toto vedlo k rozsáhlému rekrutování majordomů a mistrů služebníků, protože ani nakoupit si učitelé nesmí. Všech sedm a půl tisíce kantorů si pořídilo domácí kino, tělocvičnu, bazén a saunu, čímž zároveň zvýšili akcie firmy /Vše doma jako venku/ a vyprázdnili její sklady.
+
+[fn:4] Najděte si to.
+
+[fn:5] Fotka byla pořízena, až pohodlně usnul, pro zachování autenticity.
+
+[fn:6] Čtyři živly jsou čtyři banky spojené do jednoho konglomerátu - Hydrolína, Aerolína, Pyrolína a Hlína.
+
+[fn:7] Myslím ale, že je nutné v těchto lekcích zaznamenat i své nedostatky, aby bylo jasné, že i my bankomati jsme aspoň z poloviny lidé.
+
+[fn:8] Spolková banka Hydrant a Syn zbankrotovala o několik dní dříve, když náhle přišla o 85% své klientely. Naráz.
+
+[fn:9] Banka dlouho dychtící po dimenzi Olympu.
