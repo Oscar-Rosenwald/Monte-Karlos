@@ -105,7 +105,7 @@ Ročník XXVV
 *Cestopis:* Áron Ponurý a Emanuel Bebeš
 
 *Rozšiřují:* google.com
-* Editorial                                                             :250:
+* Editorial                                                 :250:
 Jako malá jsem si zapsala do deníčku „Bez ohledu na to, jak to bolí, nezoufej; život jde dál,“ když jsem přišla o svou první lásku. Byl to starší, zkušenější (někdo by řekl vyzrálejší), zahraniční, plísňový kus sýra. Snědla nám ho kočka.
 
 Říkám vám o tom ze dvou důvodů. Jednak vám chci ukázat, jak chytré jsem byla dítě, a jednak vás nabádám k tomu, co jsem jako mladá žurnalistka v Etiopii měla potřebu sdělit sama sobě - nezoufejte, mí drazí přátelé.
@@ -269,7 +269,7 @@ _*A Bytu zdar!*_
 
 ~Connection terminated~
 * Závod
-** Vývoj                                                                :400:
+** Vývoj                                                    :400:
 Začátkem podzimu přišla do M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. petice podepsaná všemi spolkovými bankami Spolkové bankovní federace. Přistála na stole Goliáše Oberprußera, vedoucího odnože OPF, starající se o finanční záležitosti Úřadu. Federace předložila neformální ultimátum v podobě zkažené zubní pasty, ve kterém jednoznačně vyjádřila nespokojenost se současným stavem /závodu/.
 
 Od dopadení paní Rotreklové, která byla shledána vinnou a vyřazena ze závodu pro porušení jeho pravidel[fn:2], celý /závod/ stagnuje. Učitelé byli přechováváni ve svých komnatách v Der Weiderhohlle Flüsemschliessem a všechny volby, veřejné proslovy či kampaně byly pozastaveny na dobu neurčitou.
