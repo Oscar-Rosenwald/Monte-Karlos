@@ -1,0 +1,141 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (set-input-method "czech-qwerty"); eval: (set-register ?\' "“"); eval: (set-register ?\" "„");eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1);-*-
+:stuff:
+<style:style style:name="InterviewSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="3" fo:column-gap="0.497cm">
+<style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0.249cm"/>
+<style:column style:rel-width="21845*" fo:start-indent="0.249cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style style:name="NormalSect" style:family="section">
+<style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+<style:columns fo:column-count="2" fo:column-gap="0.998cm">
+<style:column style:rel-width="32767*" fo:start-indent="0cm" fo:end-indent="0.499cm"/>
+<style:column style:rel-width="32768*" fo:start-indent="0.499cm" fo:end-indent="0cm"/>
+</style:columns>
+</style:section-properties>
+</style:style>
+
+<style:style          style:name="EditorialSect"         style:family="section">
+<style:section-properties                  text:dont-balance-text-columns="true"
+style:editable="false">   <style:columns    fo:column-count="2">   <style:column
+style:rel-width="3401*"      fo:start-indent="0cm"     fo:end-indent="0.499cm"/>
+<style:column          style:rel-width="6237*"         fo:start-indent="0.499cm"
+fo:end-indent="0cm"/>        </style:columns>        </style:section-properties><
+/style:style>
+
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+#+TITLE: MONTE KARLOS NĚKDENÍK
+#+SUBTITLE: 
+
+* COMMENT Plán
+** 1. dopis - cesta
+Popisuje cestu k bráně, satelit, vedení (Macháčka), zajmutí hlídky, absenci Internetu. Šeiner nechal vzkaz, že se pokusí otevřít bránu zevnitř, ale neřekl jak.
+** Editorial
+** 2. dopis - brána
+Neví, jak se dostat skrz bránu. Schovají se v hoře. Šeiner neotevřel. Vyslýchají hlídku, vymýšlejí plán.
+** Na vlnách Internetu
+Šeiner a Kulibrko prochází Dark Webem. Doráží do Babylonu.
+** Karlos-čepice
+** 3. dopis - Hlídka
+Vysíláme falešnou hlídku s falešnými dezertéry.
+** Vývoj
+** Lekce I. - únosy
+Šeiner je v Babylonu. Najde generály, jednoho unese, vezme jeho uniformu. Mluví s nimi o tom, proč poslouchají Lajdovou, a dostane nápad jí svrhnout.
+
+Instaluje sledovací zařízení k Lajdové.
+
+Slyší, že dezertéři přišli a jsou zajatí. Chce je osvobodit.
+
+Kulibrko zabrání útěku.
+** Sledovací zařízení - baterie
+Lajdová dostane informace o "falešné" armádě za branou. Našli nastražené baterie.
+** Kaňonskop
+** Lekce II. - osvobození
+Kulibrko nastavila kameru na Šeinera. Sledujeme ho.
+
+Šeiner osvobodí "dezertéry". Dozví se, že to je jejich plán, a baterie jsou nastražené.
+
+Kulibrko, která má hlídat generály, jednoho nezastaví, když utíká. Šeiner se vrátí a dozví se to. Spěchá ke sledovacímu zařízení.
+** Sledovací zařízení - Internet
+Lajdová se dozví o učiteli v Babylonu (nemusí vědět, kdo to je). Zapíná internet, protože si domýšlí past.
+** 4. dopis - chat
+Internet nahozen.
+** Rozhovor
+Macháček nedorazil. Mluvíme o jeho strategii, i když nepřímo.
+** Lekce III. - zbytek
+Šeinerův proslov. *INSERT*: Scéna v Monte Karlos, kde ožil hologram, ale je na něm Šeiner.
+** 5. dopis - brána
+Brána se otevírá.
+** Lekce III. (pokračování) - konec
+Kulibrko sebere body Lajdové (odešle je Horkému). Bankomati jí opustí. Lajdová padne.
+** Ekvivalent Zpovědi
+Konec, vidíme, jak se věci mají, jak Lajdová dopadla a podobně.
+** Špeh
+Fénix zapomnění.
+* 12/2020
+Ročník XXVV
+*Stratég:* hrabě Monte Babyl
+* TODO bla 1
+
+* TODO Editorial                                    :250:breakup:
+
+
+Alžběta Ašelová, šéfredaktor
+* TODO bla 2
+* TODO Na vlnách Internetu
+** Cesta neznámem
+;Já jsem Áron Ponurý.
+
+)A já Emanuel Bebeš.
+
+§A toto je /Na vlnách Internetu/.
+
+* TODO Karlos-čepice                                    :breakup:
+* TODO bla 3
+* TODO Vývoj                                                :400:
+   
+#+begin_src emacs-lisp
+  (progn (backward-kill-paragraph 1)
+		 (previous-line)
+		 (kill-line 3)
+		 (insert "#+end_example\n")
+		 (previous-line 2)
+		 (insert-file (expand-file-name "~/Documents/Monte-Karlos/postupove centrum.org"))
+		 (insert "\n#+begin_example\n"))
+#+end_src
+* TODO Lekce 1.
+* TODO Lajdová 1
+* Kaňonskop                                             :breakup:
+* TODO Lekce 2
+* TODO Lajdová 2
+* TODO bla 4
+* Rozhovor                                              :breakup:
+* TODO Lekce 3
+* TODO bla 5
+* TODO Lekce 4
+* TODO ± Zpověď                                         :breakup:
+* TODO Špeh
