@@ -1,0 +1,90 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
+
+#+title: MONTE LOGALOS VČERA
+#+subtitle: Závod bez života
+
+#+begin_verse
+Kráčí, kráčí z druhé strany -
+Přízrak, Spirit nečekaný. 
+Poražen jsi, teď a nyní,
+politickou poradkyní.
+
+Krutý verdikt držíc na rtu,
+Přízrak odkryl trumfní kartu.
+Kantorovi plány tupé
+nepřečkají ráno - Kupé.
+#+end_verse
+
+Ve dnech nedávno minulých doneslo se mým nově duchovním uším, že stejně jako ořechy okusující veverka, co spokojeně sedí a sleduje rudý západ slunce a nevidí zezadu se na ni valící buldozer, i vy, milí čtenáři Monte Logalos Včera, zůstáváte v nevědomosti ohledně jistých vývojů ve své sousední Říši. Jak jistě všichni víte, zaživa jsem se pyšnila zprostředkováváním složitých politicko-společenských fakt tvorům méně vyspělým, a nemohu si tedy odpustit a na žádost pana Logalose vám situaci shrnout.
+
+Věc, jak už to tak věci dělají, bez ohledu na své zdraví, naše pohodlí, vesmírné hrozby a kapradí, se má tak. Většina z vás mrtvých duší si myslí, že vše, co se děje ve světě živých, se vás už netýká. Nemáte pravdu! Pohleďte na jednu z žijících Říší - *[NEMÁME JMÉNO NAŠÍ ŘÍŠE]*. Na Zemi, kde jsem se narodila a zemřela, vyhlásil jeden M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. (Mezinárodní Úřad pro já vám ani nevím, není to důležité - je to velká organizace) závod o nejvyššího vůdce všeho učitelstva. Vše to začalo před několika lety.
+
+Kantoři z celého světa se slétly po houfech a jako banda prostomyslných tučňáků kvákali co jim zobák stačil devíti tisíci hlasy po své šanci se prosadit, jako by měli naději. /Závod/ měl proběhnout několika koly voleb s notnou dávkou politické intriky a veřejné podpory a, inu, řekněme, že se povedlo.
+
+Na vrchol se hned dostavilo dvacet veleúspěšných učitelů, kterým jsme my lidé říkali Dvacet statečných. Ten nespokojeny houf budižkničemů se pak rozsekal a rozkrájel lépe než hladový ementál do přibližně sto dvaapadesáti milionů menších celků, skupin, dvojic až pětic, squadů, aliancí, politických stran, rodinných svazků, automobilových fanoušků, technických neschopníků, dubových korálků, mosazných nosníků a špagety se šlehačkou, s trochou koňaku, jestli vám to nevadí; zaplatím později. O čem jsem to mluvila? Jo, /závod/.
+
+Do Dvaceti statečných patřil i ten nejotrhanější pytel palmového oleje, jakého jsem kdy byla svědkem - jistá paní Záchelová, která v *[POŘÁD NEMÁME JMÉNO PRO NAŠÍ ŘÍŠI]_{přídavné jméno}* verzi Monte Logalos Včera, tj. Monte Karlos Někdeníku, narazila na mou maličkost a propadla se o zhruba dvě nekonečna pater téměř dospod /závodu/, kde si zlomila páteř. Zapamatujte si ji.
+
+Jedna po druhé se učitelské skupiny spojovaly do dvou masivních celků, které spolu promptně začali válčit, nevychovanci. Vše vyvrcholilo bitvou tak strašnou, že M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S. stanovila zákaz stavění armád, který učitelé začali stejně promptně ignorovat. Chvíli se unášelo, přizval se detektiv, to není důležité, kromě toho, že mě na konci jeho vyšetřování odpálili jako potrhlou husu.
+
+Poznámka stranou, pokud tohle čte jistá paní Oslová, máme si co vyříkat. Obě jsme se přesunuly do Říše duchů najednou. Zabila nás paní Lajdová, která si brousila zuby o nože nabroušené nabroušenými nůžkami svým nabroušeným ostrovtipem, a to na post nejvyššího vůdce všeho, nejen učitelstva. Málem se jí to povedlo, nebýt Jiřího Šeinera.
+
+„Ale Kupé,“ slyším vás strašit, „mě tohle zajímá méně než zostuzenou celebritu okoralá kůrka chleba v Pompejích.“ Taky byste se mohli zajímat o něco kromě posledního střihu Logalos-čepice, že, vy chásko podprůměrně vykvetlých smrků! Musíte si uvědomit, že /závod/ v tu chvíli přerostl do senzace klenoucí desítky a stovky dimenzí v *[OPĚT NÁM CHYBÍ JMÉNO NAŠÍ ŘÍŠE]*. V Říši duchů bych to přirovnala Poslednímu turné kapely Nymfa před dvěma tisíci lety. Zeptejte se rodičů, pokud vám to nic neříká, oni tam skoro určitě byli.
+
+/Závod/ nabíral na otáčkách. Celou věc financovala Spolková bankovní federace, která má několik poboček i u nás, ale po Šeinerově zásahu do historického dění asi brzo zavřou. Prostě a jednoduše, /závod/ má tendenci překonat neslušný drb v rychlosti růstu a plošném rozsahu. Nepřekvapilo by mě, kdyby se brzy dostal do Říše duchů nebo do Temné říše. „Nesmysl!“ říkáte si? Co takhle nechat mě domluvit, vy chuchvalci nenažraní? Šeiner už totiž do Temné říše pronikl.
+
+Aby porazil Lajdovou, prošel Dark Webem, který jak známo patří mezi dimenze démonů a zmrzlých jogurtů[fn:1]. V tom procesu, milí, nedočkaví, nevděční, inteligentně narušení čtenáři, prolomil internetový zámek, který na Dark Web umístili Starší Internetu - skupina 4G[fn:2] pavouků sídlící v centru Sítě. A zde se konečně dobíráme cíli co rozmazlený tlouštík konce maratonu, to jest pomalu, plazivě a se slzami v očích.
+
+Ani měsíc neuplynul a jistá nejmenovaná Záchelová vyčmuchala příležitost. Potvora. Prošla nově otevřeným Dark Webem a bez odpory obsadila strašlivou zbraň kroužící kolem Země.
+
+Vzpomínáte si na tu obrovskou bitvu? Jednu stranu vedla již v zapomnění uvržená Pálkovská, které se povedlo v době laxnějších pravidel /závodu/ rozestavit Nebeského Koně podle předlohy z Hvězdných válek. Pro ty, kteří neumřeli na Zemi, to je jedna slavná dimenze v *[A DOUFÁM NAPOSLEDY NEMÁME JMÉNO BLA BLA BLA, TY VÍŠ]*. Záchelová a její věrné zástupy neschopných učitelů, kterým se nezdály Šeinerem a voliči nucené změny ve fungování světa a vesmíru, v čele s jejím učedníkem Křenkovou v tichosti dostavěli Nebeského Koně a okamžitě odpálili jak Der Weiderhohlle Flüsemschliessem[fn:3], tak Studium Monte Karlos, které Záchelová viděla jako příčinu svého neúspěchu, a to oprávněně, pomineme-li to, že je neschopná i bez Monte Karlos.
+
+Poslední dobou si Záchelová posedává na Koni a dívá se na svět krčící se pod jejíma nohama. Má vše pod palcem, pravděpodobně od těch nohou. Další poznámka mimo, jestli nějaký nově přijduvší, Koněm odpálený duch z mé staré práce v Někdeníku čte Logalos Včera, hledáme fotografa, který má aspoň dvaapadesátistoletou zkušenost s focením netělesných objektů a pneumatik. Čistě věkem nemáte šanci se o ni ucházet, já vám jenom chtěla říct, jak dobrá musím být, že mě vzali hned po mé smrti s takovými požadavky.
+
+O dalších vývojích v /závodě/ vás budeme informovat, pokud se UbleHuble-KobuleBobule-mu[fn:4] zazdá, že o ně stojíte. Já vám můžu říct jenom toto - Záchelová tam nebude věčně, a až ji srazí jako Lajdovou a Rotreklovou a Pálkovskou před ní, budu tam, a vysměju se jí do obličeje.
+
+* COMMENT Blbosti
+:export:
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+# todo      Self-evident
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil todo:nil
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+:uvozovky:
+(while (re-search-forward "\"" nil t)
+	(backward-delete-char 1)
+	(insert "„")
+	(re-search-forward "\"")
+	(backward-delete-char 1)
+	(insert "“"))
+:END:
+* Poznámky
+
+[fn:1] Brrrrrrr! Pak že /my duchové/ strašíme!
+
+[fn:2] Neplést s 4D!
+
+[fn:3] Sídlo M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S.
+
+[fn:4] Redaktorovi Logalos Včera.
+
+#  LocalWords:  Spirit politicko Logalose budižkničemů squadů neschopníků
+#  LocalWords:  Oslová přijduvší dvaapadesátistoletou UbleHuble KobuleBobule
+#  LocalWords:  vysměju
