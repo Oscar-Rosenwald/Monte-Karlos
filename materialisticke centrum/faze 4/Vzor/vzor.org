@@ -1,4 +1,4 @@
-# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
                          #+title: MONTE KARLOS NĚKDENÍK
                                   #+subtitle:
 

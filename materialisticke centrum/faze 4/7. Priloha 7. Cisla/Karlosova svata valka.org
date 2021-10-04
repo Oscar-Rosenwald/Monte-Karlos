@@ -2,11 +2,40 @@
                          #+title: MONTE KARLOS NĚKDENÍK
                                #+subtitle: 
 
-#+begin_verse
+#+begin_quote
+„V poslední době mému vezírovi vstupují do snů neblahé předtuchy a zvěsti ... Vidí koně nevídaných rozměrů prohánět se po denní i noční obloze, udusávat dopady svých kopyt nevinné hlasy volající po spravedlnosti. Jeho nozdry jsou temné jeskyně a jeho dech zelený paprsek světla, který sestupuje na zemi a pálí, ničí a boří.“
+#+end_quote
 
-#+end_verse
+Tato slova nám poslal samotný Tutanchamon, vytesaná do jeho nejlepších hliněných desek. Přečetli jsme je v rozhovoru s kantorem - myslím, že to byla Vývodová. Vytiskli jsme je v našem časopise. Opakovali jsme je v Karlostudiu FM. Měli jsme si je vzít k srdci.
+
+#+begin_center
+                                      ***
+#+end_center
+
+Jako šéfredaktorka Monte Karlos Někdeníku jsem byla vystavena všem možným hrozbám, nadávkám a neblahým slibům. Proti varování mongolských šamanů jsem vystoupala na horu Tchetche v Chile, navzdory hrozbě atentátu na mou osobu jsem se účastnila narozeninové party svého synovce a ani samotná Lajdová, jejíž láska k Někdeníku nebyla nikdy přílišná, mě nedokázala zastrašit. Ale v ten den jsem se klepala hrůzou.
+
+Zasáhl nás nečekaně. Dohlížela jsem zrovna na poslední úpravy našeho elektronicky vydávaného čísla, když přišel. Má kancelář zezelenala. Nebe se zahalilo smaragdovou temnotou a slunce zakryl podivně přesný kruh černa. Pak to přišlo.
+
+Náš stále chybějící protiradarový nátěr nás nechal napospas útokům z nebes a jak jsem si od té doby vyčítala, že jsem na své poddané, chci říct zaměstnance, nekřičela déle, aby si s tím nátěrem pospíšili? Monte Karlos byl zničený už mnohokrát. Když přijel Vilém Dobyvatel, padly naše stěny, oslavené dlouhým bojem s Barvou olejem a akvarelem v každodenním životě, praktické typy (náš konkurenční plátek) a dopadli jsme na to. Ale ten den k nám zavítala zkáza nevídaných rozsahů.
+
+V rozmezí dvanácti sekund jsme ztratili přes čtyřicet pět věrných tiskáren. Jediné, co zachránilo zaměstnance před pohromou, byla Karlosova schopnost odolat laserovým paprskům, kterou mu darovali elfové za zapůjčení nějakých maličkostí. Ale ani on nemohl udržet naše Studio na nohou.
+
+Celý komplex se třásl pod neutuchajícím náporem světelného paprsku shůry, až se s rachotem sesypal. Má ochranka se kolem mě nashromáždila ve tvaru oválně excentrického kosočtverce. Karlose jsem neviděla. Než usedl prach, nevěděla jsem ani, jestli přežil, i když to mi mohlo dojít, že? V den kdy Karlos zemře, skončí svět.
+
+Našla jsem ho stát nad kráterem, obklopeného zbytky cihel a zaparkovaných aut. Díval se do hlubin, kde před ne více než deseti minutami stála jeho pýcha. Postavila jsem se vedle něj s úmyslem poskytnout mu oporu v rostoucí panice zaměstnanců. Jestli nás někdo mohl zavézt do bezpečí, byl to on.
+
+Chvíli jsem myslela, že tiše zvažuje své životní nedokonalosti, a byla jsem připravena zvažovati stejně, když mi náhle došlo, že si mumlá. Naklonila jsem hlavu a proměnila se ve vlka, „abych ho lépe slyšela“, ale nemusela jsem se namáhat. To, co opakoval dokola a dokola, z něj náhle vyletělo raketovou rychlostí. „ZÁCHELOVÁ!“
+
+Tehdy to byla jen domněnka. Až později jsme zjistili, že Karlos vlastní i mírné schopnosti předvídání, stejně jako třetí a vnitřní oko (to jsou dvě oči navíc, kdybyste nevěděli).
+
+Obořil se na mě s náhlou zuřivostí. „Za tohle zaplatí,“ vyprskl. „Za tohle draze zaplatí.“
+
+„Jak?“ chtěla jsem vyzvídat, ale nedostala jsem se ke slovu. Karlos dupl třikrát nohou a na dně kráteru se otevřely tajné dveře vedoucí do podzemí. On vylezl na nejvyšší kupu trosek a zvolal hlasem tak mocným, že odfoukl prachový mrak, který se kolem nás nashromáždil.
+
+„ZAMĚSTNANCI! CHCI ŘÍCT PODDANÍ! KE MNĚ!“ A pak tišeji, ale o nic vlídněji, vyřkl, co nám všem na cestě k trpaslíkům znělo v uších, a dlouho poté zrovna tak. „Toto byl útok na mou osobu. Na mě! Karlose! Žebatého! Na mě, povídám! Shromažďte své vazaly. Povolejte své koloniální posily. Seberte /peníze/ a /odvahu/ a /zlost/ a pojďte se mnou vpřed, neboť tímto dnem Monte Karlos vstupuje do války! Dnes začíná pád našich nepřátel! Dnes začíná konec odporu! Dnes začíná... Karlosova! Svatá! Válka!“
 
 
+Alžběta Ašelová
 
 * COMMENT Blbosti
 :export:
@@ -40,8 +69,3 @@
 	(backward-delete-char 1)
 	(insert "“"))
 :END:
-* Poznámky
-
-#  LocalWords:  Spirit politicko Logalose budižkničemů squadů neschopníků
-#  LocalWords:  Oslová přijduvší dvaapadesátistoletou UbleHuble KobuleBobule
-#  LocalWords:  vysměju
