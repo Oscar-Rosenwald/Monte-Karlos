@@ -1,79 +1,13 @@
 # -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
                          #+title: MONTE KARLOS NĚKDENÍK
-                                  #+subtitle:
+                               #+subtitle: 
 
-* _/2022
-Ročník XXXIX_{VIII}
+#+begin_verse
 
-*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+#+end_verse
 
-*E-mail:* EmailNoReply@server.mok
 
-*Zákaznická linka:* 0004 892 223 03E
 
-*Šéfredaktor:* Alžběta Ašelová
-
-*Manažer redakce:* Jiří b'Ačkora
-
-*Zástupce šéfredaktora:* Hobbo Habán
-
-*Fotograf:* Alexandra Dimitrij von Dieseldorf
-
-*Grafická úprava:* Tara Kočí
-
-*Obrazová redakce:* Honza Kůň
-
-*Editoři:* 
-
-*Rozhovor:* Karlos Žebatý, Lubomír Lečko
-
-*Móda:* Šlapeboso Elle'Gante
-
-*:* 
-
-*Kaňonskop:* Magistr Celestius
-
-*Martinismus:* Mslg. Vašek Lebéčný
-
-*Jak to vidí Pidilidi:* Bufur, syn Goldrena, syna Ondřeje Nováčka a Marie rozené Babřínové
-
-*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
-
-*Brand manager:* Karlos Žebatý
-
-*Sociální poradce:* Lightningh Danger
-
-*Sociální podpora:* Anna Oleš
-
-*Inzerce:* Many Hrabal
-
-*E-shop:* nakupsisam.cz
-
-*Tiskne:* individuálně
-
-*Korespondent:* 
-
-*Zitorak imperátor:* Psáno automatickým deníkovým systémem Temné Říše
-
-*Rytíři Vědy:* I-ii-II-i-i-IIIII
-
-*Dynamické tisíciletí:* Derdemelè d'Erdemellaisse
-
-*Karlosova Svatá válka:* 
-
-*Rozšiřují:* google.com
-* Jak to vidí Pidilidi
-* Zprávy
-* Karlosova Svatá válka
-* Rozhovor
-* Korespondent
-* Rytíři Vědy
-* Martinismus
-* Kaňonskop
-* Zitorak imperátor
-* Karlos Čepice
-* Dynamické tisíciletí
-/Pro Antona/
 * COMMENT Blbosti
 :export:
 # ' Toggle smart quotes
@@ -107,3 +41,7 @@ Ročník XXXIX_{VIII}
 	(insert "“"))
 :END:
 * Poznámky
+
+#  LocalWords:  Spirit politicko Logalose budižkničemů squadů neschopníků
+#  LocalWords:  Oslová přijduvší dvaapadesátistoletou UbleHuble KobuleBobule
+#  LocalWords:  vysměju
