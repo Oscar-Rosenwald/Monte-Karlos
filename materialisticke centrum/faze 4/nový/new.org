@@ -1,0 +1,144 @@
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
+                         #+title: MONTE KARLOS NĚKDENÍK
+                             #+subtitle: Staré časy
+
+* 1/2022
+Ročník XXXIX_{VIII}
+
+*Adresa redakce:* Karlosova 77, 000 03 Monte Carlo 4
+
+*E-mail:* EmailNoReply@server.mok
+
+*Zákaznická linka:* 0004 892 223 03E
+
+*Šéfredaktor:* Alžběta Ašelová
+
+*Manažer redakce:* Jiří b'Ačkora
+
+*Zástupce šéfredaktora:* Hobbo Habán
+
+*Fotograf:* Alexandra Dimitrij von Dieseldorf
+
+*Grafická úprava:* Tara Kočí
+
+*Obrazová redakce:* Honza Kůň
+
+*Editoři:* 
+
+*Rozhovor:* Karlos Žebatý
+
+*Muž v poli:* Lubomír Lečko
+
+*Móda:* Šlapeboso Elle'Gante
+
+*Trpasličí průvodce:* Glopřezub Pátý
+
+*Kaňonskop:* Magistr Celestius
+
+*Martinismus:* Mslg. Vašek Lebéčný
+
+*Jak to vidí Pidilidi:* Bufur, syn Goldrena, syna Ondřeje Nováčka a Marie rozené Babřínové
+
+*Vydavatel:* Monte Karlos Inc. a. s.r.o. a spol©
+
+*Brand manager:* Karlos Žebatý
+
+*Sociální poradce:* Lightningh Danger
+
+*Sociální podpora:* Anna Oleš
+
+*Inzerce:* Many Hrabal
+
+*E-shop:* nakupsisam.cz
+
+*Tiskne:* individuálně
+
+*Korespondent:* 
+
+*Zitorak imperátor:* Psáno automatickým deníkovým systémem Temné Říše
+
+*Rytíři Vědy:* I-ii-II-i-i-IIIII
+
+*Dynamické tisíciletí:* Derdemelè d'Erdemellaisse
+
+*Karlosova Svatá válka:* 
+
+*Rozšiřují:* google.com
+* Jak to vidí Pidilidi
+** Moderní trpaslík                                         :700:
+Z důvodů ne zcela zřejmých našim čtenářům přinášíme náhled do každodenního života těch nejníže postavených tvorů naší dimenze. Jsou malí. Jsou hrabaví. Jsou tvrdohlaví. Jsou to...
+
+Ano, já vím, přečetli jste si nadpis. Víte, o kom mluvím. Ale mývalové nejsou tak jednodušší, jak si... Co? Jo, to je o trpaslících. Pardon.
+
+Ano, v dnešním světě má člověk i dinosaurus spoustu vlastních problémů, žongluje nevyspalý a v sociální depresi trojici hořících míčů nájmu, dětí a závislosti na pohonných hmotách[fn:1], a snadno mu uniknou malé detaily života, jako včelka poletující kolem orchideje na okenici nebo vůně oregana na slabém letním větru nebo fakt, že jeho planeta je podkopána rostoucí populací všech pěti trpasličích klanů, a to tak mohutně, že je prakticky dutá. A finančně založení a naložení trpaslíci z více než dvanácti strašlivých nehod vytřískali prvotřídní reklamní kampaní a vlastní vynalézavostí notné turistické atrakce, na kterých malé děti skočí do neznáma a vynoří se na opačném konci zeměkoule k naprosté úlevě rodičů, kteří v tu chvíli musí řešit jenom ten nájem a pohonné hmoty.
+
+Monte Karlos Někdeník si stanovil za úkol přiblížit trpasličí svět tomu našemu, a to širokopásovou informační vlnou, jejíž jste nyní nechtěnými svědky.
+
+Začněme již zmíněnými klany. Jedná se o Dutokopce, Permoníky, Gimlijovce (přistěhovalce z jiné dimenze), skupinu Lopata a Zprodrhelpřetřženčichopolovce (někdy zvané „Oni“). Kdysi dávno začaly klany na různých úrovních podzemní hloubky, ale s objevením internetu, valící se globalizací a subsekventním šetřením na stavebních materiálech se postupně smísili do jednoho celku, až na Permoníky, kteří zůstávají z vlastní vůle autonomní, Gimlijovce, kteří svým původem automaticky nezapadají, a Dutokopce, kteří patří mezi tu skupinu bytostí, jenž si večer promne oči a ptá se, jestli už je ráno, nebo zase všechno zaspali, a nevšimne si přitom, že slunce vyhaslo a kamaše už se nenosí. A je nutné poznamenat, že skupina Lopata hlasitě mluví o odtržení od tohoto celku již od jeho vzniku.
+
+Trpasličím duchovním i pracovním životem se budeme zabývat jindy a největší výtvory jejich civilizace si rovněž ponecháme na později, dovolte nám tedy zaměřit vaši pozornost na možná nejpodstatnější aspekt trpasličího života - vztah s ostatními obyvateli planety.
+
+Je lidskou přirozeností vidět svět osově centralizovaný kolem očí, které ho pozorují. Člověk má pocit, že je pánem všeho a všude, a pokud ne on, tak členové jeho biologického druhu. Myslí si proto, že většina Země přirozeně patří jemu.
+
+Trpaslíci naopak vidí život neochvějnou faktuální čočkou zrozenou z vědomí přirozené selekce, že /někdo/ na planetě by měl mít rozum, a je tudíž zarážející až překvapivé, pro někoho dokonce neskousnutelně urážející až amorální, že došli k tomu samému závěru. Většina planety totiž připadá jim.
+
+Převážné procento Země je pod zemí, a tam jsou i trpaslíci. Jejich znalost „světa pod světem“, jak tomu říkají, staví naše chápání hřbetu vlastní ruky do ostudné nicoty[fn:2]. Obecně držené trpasličí názory na naši civilizaci se asi nejlépe uzří na výroku jednoho slavného Gimlijovského básníka: „Ležím si tak na dně propasti, prohlížím si oblohu a najednou uvidím nějakého idiota, jak se dívá dolů a klepe se strachy, že se dívám zpátky.“
+
+Lidské vztahy s touto subpovrchní skutečností, které říkáme Trpaslíci, jsou přesto vesměs pozitivní. Sem a tam dochází k odporu poháněnému desinformací, ale to jsou maličkosti. Platí pravidlo, že pokud za to zaplatíme, nebo na to nesaháme, můžeme si s čím chceme dělat co chceme a trpaslíkům to vadit nebude. A lidé mnohdy ani neví, že trpaslíci existují, takže vše je vyřešeno. K větším spojení dochází v pronajímání si jeden druhého - trpaslíků na stavbu a lidí na zábavu a přístup k internetu - a samozřejmě v politických sférách, zejména v těch týkajících se M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S., ale o nich později.
+
+V čem se lišíme asi nejvíce, jsou rodinné vztahy, které tito malí tvorové[fn:3] stavějí mnohem výše než lidé. Nesmíme ale zapomenout, že v trpasličí lingvistice má slovo „stoupat“ stejný význam jako pro nás „klesat“. Vyvoďte si z toho, co uznáte za vhodné.
+
+To by bylo pro dnešek vše. Pokud vás zajímají podobné rozbory, nenechte si ujít naše příští číslo, a ptáte-li se, proč vám o nich vyprávíme, kdo ví... Možná se to dočtete. Když budete mít štěstí.
+* Zprávy                                                    :500:
+** 
+** 
+* Karlosova Svatá válka
+* Rozhovor
+* Korespondent
+* Rytíři Vědy
+* Martinismus
+* Kaňonskop
+* Zitorak imperátor
+* Karlos Čepice
+* Dynamické tisíciletí
+/Pro Antona/
+* COMMENT Blbosti
+:export:
+# ' Toggle smart quotes
+# \n		newline = new paragraph
+# f			Enable footnotes
+# date		Doesn't include date
+# timestamp Doesn't include any time/date active/inactive stamps
+# |			Includes tables.
+# <			Toggle inclusion of the creation time in the exported file
+# H:3		Exports 3 leavels of headings. 4th and on are treated as lists.
+# toc		Doesn't include table of contents.
+# num:1		Includes numbers of headings only, if they are or the 1st order.
+# d			Doesn't include drawers.
+# ^			Toggle TeX-like syntax for sub- and superscripts. If you write ‘^:{}’, ‘a_{b}’ is interpreted, but the simple ‘a_b’ is left as it is.
+# todo      Self-evident
+#+OPTIONS: ':t \n:nil f:t date:nil <:nil |:t timestamp:nil H:nil toc:nil num:nil d:nil ^:t tags:nil todo:nil
+---------------------------------------------------------------------------------------------------------------------------------------
+#+STARTUP: fnadjust
+# Sort and renumber footnotes as they are being made.
+---------------------------------------------------------------------------------------------------------------------------------------
+#+OPTIONS: author:nil creator:nil
+# Doesn't include author's name
+# Doesn't include creator (= firm)
+:END:
+:uvozovky:
+(while (re-search-forward "\"" nil t)
+	(backward-delete-char 1)
+	(insert "„")
+	(re-search-forward "\"")
+	(backward-delete-char 1)
+	(insert "“"))
+:END:
+
+* Poznámky
+
+[fn:1] Které pravděpodobně požívá orálně, ale slyšel od kamaráda, že taková nitrožilní nafta stojí za to, a chtěl by ji zkusit.
+
+[fn:2] Ostudná nicota je čirou náhodou jméno druhého nejslavnějšího alba kamenné (rockové) trpasličí skupiny Pebbles. Drželo se na žebříčku hit-no-dobře,-no (hitparáda je pro trpaslíky příliš optimistická) celých dvanáct let. Jejich nejúspěšnějším albem je dodnes prostě pojmenovaná Hloubka se světoznámým singlem /Dnes ráno přišla, lopatááá lopatááá./
+
+[fn:3] Pozor! V trpasličí kultuře nejsou oni malí a my normální, ale my velcí a oni, podle filosofa Gorkina Kovaliny ze skupiny Lopata, bezejmennou, beztvarovou, velikost postrádající a čistě abstraktní kupou adimenzionálních lívanců.
