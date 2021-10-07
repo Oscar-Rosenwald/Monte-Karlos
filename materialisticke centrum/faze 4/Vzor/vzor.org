@@ -70,15 +70,20 @@ Ročník XXXIX_{VIII}
 **                                                          :500:
 **                                                          :500:
 * Karlosova Svatá válka
+** 
 * Rozhovor
 * Korespondent
 * Rytíři Vědy
+** 
 * Martinismus
+** 
 * Kaňonskop
 * Zitorak imperátor
+** 
 * Karlos Čepice
 * Dynamické tisíciletí
 /Pro Antona/
+** 
 * COMMENT Blbosti
 :export:
 # ' Toggle smart quotes
