@@ -1,7 +1,7 @@
-# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ?I "I-ii-II-i-i-IIIII"); eval: (set-register ?i "I-ii"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
                          #+title: MONTE KARLOS NĚKDENÍK
                              #+subtitle: Staré časy
-
+                             
 * 1/2022
 Ročník XXXIX_{VIII}
 
@@ -99,7 +99,7 @@ Navzdory jejímu snažení o krutou cenzuru, kterou zavedla již ve svém první
 
 Přes jednoznačný soulad názorů všech společenských tříd na Šeinerovu nabídku mírnějšího /závodění/ a snížení finančních prostředků kantorům k dispozici došlo pouze ke třem velkým demonstracím, a to v ruinách Der Weiderhohlle Flüsemschliessem, které Záchelová pro jistotu odpálila ještě jednou a dav se rozutekl a následně roztekl, u vstupu do Babylonu, kde Šeiner držel svůj již slavný projev a kde už žádný Dimenzionální portál nenajdete, a v malé chatě zednáře Koučera, kde se podařilo v naprosté tajnosti nashromáždit pětadvacet tisíc lidí a stejně tajně je odtamtud dostat. Nikdo se o té poslední nikdy nedozvěděl.
 
-Pod hrozbou Koně drží Záchelová celý svět. Vlády se přetahují o to, kdo zůstane méně nápadný, a raději platí nově zavedenou daň z existence, a velké korporace jedna po druhé ohýbají kolena a klanějí se v poslušnosti buď Záchelové, nebo její pravé ruce, proslule záhubné *[to je slovo, že jo?]* Křenkové. Dokonce i Mezinárodní Úřad nevydržel nátlak a jeho protesty se rozutekly v ruinách jejich dřívějšího sídla, které paní Záchelová zničila jako první coby pomstu za své dlouho držené a spravedlivě nízké místo na žebříčku v /závodě/. Monte Karlos přišel jako druhý.
+Pod hrozbou Koně drží Záchelová celý svět. Vlády se přetahují o to, kdo zůstane méně nápadný, a raději platí nově zavedenou daň z existence, a velké korporace jedna po druhé ohýbají kolena a klanějí se v poslušnosti buď Záchelové, nebo její pravé ruce, proslule záhubné ~[to je slovo, že jo?]~ Křenkové. Dokonce i Mezinárodní Úřad nevydržel nátlak a jeho protesty se rozutekly v ruinách jejich dřívějšího sídla, které paní Záchelová zničila jako první coby pomstu za své dlouho držené a spravedlivě nízké místo na žebříčku v /závodě/. Monte Karlos přišel jako druhý.
 
 Paní Záchelová, rozzuřená do nepříčetnosti že už o tom nevíme, i když nám to nikdy dřív nesdělila, se nechala slyšet: „Závod o nejvyššího vůdce všeho učitelstva se tímto nenávratně ruší.“ Představte si to smutné povzdechnutí davu, který si teprve nedávno troufl představit, že /závod/ může nakonec vyhrát i někdo normální. „Místo toho,“ pokračovala, „bude Mezinárodní Úřad pro Úplnou a Asertivní Spolupráci Spojených Států Místních i Zahraničních za Účelem Světového Míru, Obchodu a Výměny Služeb[fn:4] pokračovat ve svém snažení, pod blízkým dohledem Křenkové, vybrat mi pobočníka. Vše v /závodě/ pokračuje, jak to šlo doteď, akorát vítěz nedostane nejvyšší pozici.“
 
@@ -109,7 +109,7 @@ Po kantorech, kteří šli bojovat s Lajdovou do Babylonu, se Zem i jiné planet
 
 Nepokoj se šíří i mezi Spolkovou bankovní federací. Jejich největší sázka - Lajdová - padla společným úsilím a každá spolková banka by ráda viděla návrat do starých kolejí, která Šeiner tak zevrubně vyrval z pražců. Nejprve se zdálo, že Záchelovou uvítají s rozpřaženými trezory, ale ona měla jiné nápady. Bez okolků a takových nesmyslů jako odůvodnění zkonfiskovala veškerý majetek původně patřící Dvaceti statečným[fn:5] a pod ostražitým okem Nebeského koně spokojeně odkráčela středem.
 
-Většina těchto financí však nešla na utlačování lidu. Kůň jí na to vystačí bohatě. Místo toho věnuje Záchelová velkou pozornost nově rostoucí hrozbě. Svět se ocitl v naprostém zmatku díky Šeinerovu odemknutí Dark Webu, respektive ochranných zámků na všech známých branách umístěných tam Staršími Internetu. Jak jistě víte, *[Nemáme jméno pro naši Říši, sakra]* sousedí s Temnou Říší přímo. Kontakty mezi dimenzemi těchto Říší jsou řídké a většinou sestávají z občasného vyvolání démona, ale z Internetu se do Dark Webu lze dostat jednoduše, a jelikož Internet je takzvanou poddimenzí *[Furt to méno nemáme]*, představují otevřené brány problémy pro všechny naše dimenze[fn:6].
+Většina těchto financí však nešla na utlačování lidu. Kůň jí na to vystačí bohatě. Místo toho věnuje Záchelová velkou pozornost nově rostoucí hrozbě. Svět se ocitl v naprostém zmatku díky Šeinerovu odemknutí Dark Webu, respektive ochranných zámků na všech známých branách umístěných tam Staršími Internetu. Jak jistě víte, ~[Nemáme jméno pro naši Říši, sakra]* sousedí s Temnou Říší přímo. Kontakty mezi dimenzemi těchto Říší jsou řídké a většinou sestávají z občasného vyvolání démona, ale z Internetu se do Dark Webu lze dostat jednoduše, a jelikož Internet je takzvanou poddimenzí *[Furt to méno nemáme]~, představují otevřené brány problémy pro všechny naše dimenze[fn:6].
 
 Prostě a jednoduše, všechny možné příšery a zrůdy Temné Říše se nekontrolovatelně valí z Dark Webu do Internetu a odtamtud i na Zem. Záchelová převzala svrchované velení nad Odnoží SQL Mezinárodního Úřadu, která historicky chrání Zemi před útoky z Dark Webu. Dokonce byli nejednou najati obyvateli Internetu jako žoldáci. Vedoucí této Odnože, Francesco di Řím řečený Starý, má přímé rozkazy od Záchelové setrvávat v Internetu a odrážet ustavičné nátlaky temnoty. Co ho drží v jejím velení přes očividné osobní neshody není známo.
 
@@ -117,11 +117,118 @@ Záchelová má volnou ruku udržovat pořádek, jak ho sama definuje. Nebeský 
 
 Někteří dobrodruzi se pokusili lokalizovat paní Pálkovskou, která jediná může znát slabiny svého vlastního stroje na smrt, ale marně. Zcela marně. Všechno je marné...
 * Karlosova Svatá válka
-** Nomádní *[nebo kočovný, vyber si]* časopis
+** 
 * Rozhovor
 * Korespondent
-* Rytíři Vědy
-** 
+* Rytíři Vědy                                               :700:
+** Krátká historie Řádu                                     :120:
+Prastarý Řád Rytířů Vědy má dlouhou historii, která sahá přinejmenším k devadesátým létům dvacátého století, a nálezy zkamenělin značí, že možná i mnohem dál. Neleží v živé ani mrtvé paměti, kdo ho založil, za jakým účelem, kdy, kde, jak a za kolik.
+
+Mezi svými současníky z nám zcela zahalené doby svého počátku vynikl zaměřením na korektní učení jazyků a velmi prestižním členstvím. V každém momentu má Řád pouze jednoho člena tvořícího Radu Vědájů, který nese Řádní znalosti a ideály, leč se nedá vypátrat, co za ideály to má být.
+
+Slovo Vědy v názvu Řádu nepochází od slova „věda“, nýbrž z pralatinského pojmu „věda“, který znamená něco zcela jiného.
+
+Jeho protějšek - krutý a zvrácený řád Žit - s ním vede věčnou, tajnou válku více než o myšlenkové postoje o to, který Řád bude divnější[fn:7]. Jejich konflikt je nejen odvěký, nýbrž rovněž velmi starý. Členství v obou je přísně střežené tajemství, nejspíš proto, aby druhá strana nepoužila osobní život členů té druhé proti nim. Zemánková to považuje za velmi inteligentní opatření, sama ho svědomitě dodržuje (i když sama uspěla, kde jiní doteď selhali) a já kráčím v jejích stínech. Stopě. Tohleto.
+
+Proto se vynasnažím nijak nezveřejnit své jméno, ani jiné osobní údaje.
+** Co v tom dělám já[fn:8]                                  :120:
+Mé jméno je I-ii-II-i-i-IIIII[fn:9], zkráceně I-ii. Jak jsem se sem dostal? Dlouhý příběh. Kdo jsem? Nedůležité (říká Zemánková). Co o mně máte vědět? Krom toho, co sem píšu, nic moc. Čím budu? To je to podstatné.
+
+Jsem učedník Řádu Vědy. Vždy to tak bylo - jeden člen, jeden učedník. Až Zemánková odejde do Říše Duší, povýším na plnohodnotného Mistra Vědáje. Do té doby se mám, co učit. Říká Zemánková. Kývám hlavou a zapisuji si, jak správně vysvětlit psaní čárků a háček a doufám, že při závěrečné kontrole mého sešitu nenajde můj Mistr hodně chyp. Chtěl bych začít něco dělat. Sedět takhle zavřený, to není pro mě. Ale co? Nejdřív se musím učit.
+
+Říká Zemánková.
+** Nedávné roky                                             :120:
+Poslední léta přinesla nové prospekty pro vztah Rytířů Vědy a Žitů, jmenovitě možnou zkázu těch druhých. Jejich nekonečný boj se několikrát přiblížil zdárnému konci. Nebýt jistých záhadných událostí. Když Mistr Zemánková poprvé vyrazila do boje s Nárt Vědrem[fn:10], před dvaceti lety, vypadalo to nadějně.
+
+Představte si - noc, listí padá, nad vámi se zlověstně tyčí zasněžená hora jejíž špici nedohlédnete, a dva Řády se připravují na utkání Mistr proti Mistrovi, neboť i Žitové mají vždy jen jednoho člena. A pro případ nehody, připravil si váš šampion lavinu, která smete z povrchu zemského všechen odpor.
+
+Bojují. Perou se. V kompletní tmě se střetne vůle s vůlí a, nevidění, Mistrové bojují o přežití svého Řádu. A náhle - Zemánková vítězí. Však zradou její nepřítel zvládne utéct, ne ale před lavinou. Tuny sněhu ženou se po srázu a pak... nic. Blesk uhodí do skály a vše je zahalenou párou.
+
+A tak to pokračovalo boj za bojem. Vždy nepochopitelným štěstím dostal se nepřítel z našich spárů. Na jednom takovém souboji jsem byl. To bylo poté, co Zemánková historicky první vypátrala protivníkovu totožnost. Pamatuji si skály tvaru písečných dun a šumění moře a neprostupnou horu štěrku, kterou Zemánková použila jako vězení, ale... Ze dna pouště vytryskla voda a odnesla nás i s kamením.
+
+A tak jsme se přestěhovali. Blíž a blíž jsme se vetřeli do protivníkova života, až jsme, ujištěni ve své pozici, chtěli zasáhnout. Kdyby jen nebylo toho Koně. Ačkoli už ne v jeho kolegiální přízni, navěky budeme opakovat jeho jméno - Záchelová.
+** Podivín                                                  :340:
+„A výjimky?“ ptá se Zemánková.
+
+„Výjimky...“ zamýšlím se. „Existují.“
+
+„Já ti dám, existují! To po tobě asi nechci, ne?“
+
+„Ahhh... Ne.“
+
+„Správně.“
+
+„Vážně?“ raduji se a už si balím učebnice, radosten, že jsem odpověděl správně. Než mi stihne vynadat, přeruší Mistra hlasité klepání na dveře. Pronajali jsme si malou chajdu na Tahiti, kde se schováváme před patrolami Záchelové křižující ulice světových metropolí. Alarmovaní sledujeme dveře, dokud se klepaní neopakuje. Zaujímám svou obrannou pozici dle našeho tréninku, většinou prováděného v obýváku, zatímco Zemánková nakukuje škvírou ve dveřích. Dveře to nejsou ideální - mají v sobě škvíru - ale lepší si nemůžeme dovolit, teď, když Záchelová ukradla naše peníze.
+
+Zemánková otevírá. Na skromném chodníku, který plánujeme zhotovit někdy příští týden, to jest na trávě, vyplňuje trám stylově oděná štíhlá postava. Jsou to úzké dveře. „Smím dál?“ zeptá se již vkráčivší host.
+
+A znovu to zaklepání. Venku nikdo není. Zemánková je obezřetná.
+
+„Pardon,“ řekl příchozí. Do kapsy si schoval telefon, kde zřím internetové video se zvuky klepání na dveře. Sedá si na vrzající stůl. „To byl omyl. Tak, kde jsme to přestali?“
+
+„Pojdtě dál,“ říká Zemánková.
+
+„Jak milé od vás,“ odpoví on a přelétne očima mé učebnice. Musím se napomenout, že jsem je nechal takhle vystavené. „Mé jméno je Lečko. Lubomír Lečko.“
+
+„Těší mne.“
+
+„Mne rovněž.“
+
+Zemánková drží dveře otevřené, pro případ úprku. „Jak jste mě našel? Monte Karlos je pryč.“
+
+„No to jsem rád, že mě poznáváte. Opravdu nadšený. Ne, že bych do toho přestrojení dal půl dne.“
+
+„Představil jste se mi.“
+
+„... Aha. No nic. Jsem tu pracovně.“
+
+„Pro koho pracujete teď? Jsem překvapená, že vůbec žijete?“
+
+Lubomír mává rukou. „Za to vděčím pustému ostrovu.“ Neměl potřebu se dál vysvětlovat. „Mám pro vás zprávu.“ Napřímil se. „Karlos Žebatý žije.“
+
+„Tak to jsem vám neskonale vděčná. Děkuji. Nashledanou.“
+
+„Máme pro vás práci, ze které můžete příjemně těžit.“
+
+Ah! Nabídka. Je to jedna z těch proslulých, které nelze odmítnout. Vždycky jsem takovou chtěl dostat.
+
+„Týká se to vás,“ ukázal na učebnice, „vašeho učedníka a Řádu, jehož jméno si netroufnu vyslovit takto na veřejnosti[fn:11].“
+
+Bez okolků skáču ven z vědra s vodou a chytám Lečka za límec. Zemánková už zabouchla dveře. Lečko na mě překvapeně mrká. „Odchován delfíny. To jsem měl čekat.“
+
+„Jak jste nás našel,“ ptám se, „a jak víte o Rytířích Vědy?“
+
+„Ve svém volném čase,“ vytlačí ze sebe, „se věnuji vyšetřování. Nebojte, kromě Karlose a všech dvanácti tisíc zaměstnanců Monte Karlos a jen těch nejnezbytnějších bohů Olympu nikdo neví, že do Řádu patříte.“ Obrátí oči na Zemánkovou. „Ani Záchelová.“
+
+Mistr se opírá o dveře, aby zakryla škvíru. „Pokračujte.“ I mě je jasné, že jeho „práce“ pro nás může být přínosná. Povoluji stisk na límci.
+
+Lečko se ošívá. „Pan Žebatý vyhlásil Karlosovu Svatou válku. Stavíme tým. Odvetnou skupinu elitních vojáků, kteří proniknou až k Záchelové a pomstí naše Studio. Ale pro případ, že selžou, chtěli jsme požádat vás.“
+
+„Myslíte spolupráci?“ Lečko přikyvuje. „I-ii, pusť ho.“ Pouštím ho.
+
+Následuje dlouhá debata mezi dospělými, během které suším nad sporákem mokré učebnice. Znovu. Když skončí, je už tma. Ona byla tma už když začali, ale je tam pořád. Dlouho sedí.
+
+„Nelíbí se mi to,“ Zemánková přesvědčuje sama sebe. „Líbí se mi to, I-ii?“
+
+„Ne, Mistře.“
+
+„Ne, nelíbí. Jak se mi to nelíbí?“
+
+„Vůbec, Mistře.“
+
+„/Vůbec/ se mi to nelíbí.“ Kroutí hlavou. „A vy se mi nelíbíte,“ ukazuje na Lečka.
+
+„Vůbec, Mis–“
+
+„Ticho, I-ii.“ Pak k němu: „Nestačí to.“
+
+Lečko krčí rameny. „Stále se to vyvíjí. Nějaké návrhy?“
+
+Zemánková si povzdechne a já vím, co se blíží. Vypnu radši sporák. Říká: „Potřebujete Zitoraka.“
+
+„Koho?“ diví se Lečko.
+
+„Zitoraka.“ A pak se mluvilo o dost déle.
 * Martinismus
 ** 
 * Kaňonskop
@@ -130,7 +237,7 @@ Někteří dobrodruzi se pokusili lokalizovat paní Pálkovskou, která jediná 
 * Karlos Čepice
 * Dynamické tisíciletí
 /Pro Antona/
-** 
+** Nomádní ~[nebo kočovný, vyber si]~ časopis
 * COMMENT Blbosti
 :export:
 # ' Toggle smart quotes
@@ -177,3 +284,13 @@ Někteří dobrodruzi se pokusili lokalizovat paní Pálkovskou, která jediná 
 [fn:5] Dvaceti nejvýše postavenými kantory v /závodě/.
 
 [fn:6] Poddimenze, pokud nevíte, je speciální dimenze, která působí jako velké moře ve kterém plavou ostatní, standardní dimenze v Říši. V našem případě se tedy jedná o poddimenzi Internetu obklopující dimenze jako Země a Středozem a Šrekovu bažinu. Toto je důležité, neboť z Internetu se lze dostat do všech ostatních dimenzí v Říši. Případná nebezpečí přicházející do Internetu tak ohrožují nás všechny.
+
+[fn:7] Zemánková mi po shlédnutí zápisků nakázala připsat sem, že jde o nějakou svatou povinnost zbavit svět bla bla bla, neposlouchal jsem. Sotva jsem s tím začal, už mě to nudí. A Zemánková na mě křičí, že už sem si měl dávno přečíst naši Řádovou knihu kodexů.
+
+[fn:8] Pisatel těchto poznámek nám laskavě poskytl přístup ke svému sešitu pro lepší ilustraci dění následujících týdnů. Zdraví své adoptivní rodiče v Pacifiku (byl odchován delfíny).
+
+[fn:9] Vyslovuj I-ii-II-i-i-IIIII.
+
+[fn:10] Kódové jméno.
+
+[fn:11] Pro zajímavost, žijeme padesát kilometrů od nejbližšího lidského osídlení.
