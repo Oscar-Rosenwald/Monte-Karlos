@@ -1,4 +1,4 @@
-# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ?I "I-ii-II-i-i-IIIII"); eval: (set-register ?i "I-ii"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
+                         # -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ?I "I-ii-II-i-i-IIIII"); eval: (set-register ?i "I-ii"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
                          #+title: MONTE KARLOS NĚKDENÍK
                              #+subtitle: Staré časy
                              
@@ -61,7 +61,7 @@ Ročník XXXIX_{VIII}
 
 *Dynamické tisíciletí:* Derdemelè d'Erdemellaisse
 
-*Karlosova Svatá válka:* 
+*Karlosova Svatá válka:* Lubomír Lečko
 
 *Rozšiřují:* google.com
 * Jak to vidí Pidilidi
@@ -230,7 +230,36 @@ Zemánková si povzdechne a já vím, co se blíží. Vypnu radši sporák. Ří
 
 „Zitoraka.“ A pak se mluvilo o dost déle.
 * Martinismus
-** 
+** Martinismus
+Takže Martinismus. Založený dvojicí Zakladatelů[fn:12] manifestem /48 Pravd Martinismu aneb vše o Martinismu, Lysacizmu a duších/, jeho zaměření spočívá především ve vzájemném plácání si po ramenou a gratulacích, že jeho členi dokázali něco takového vymyslet. Podle své vlastní definice se jedná o „... nezávislou studentskou iniciativu založenou za účelem přežití Lysacizmu.“ Kdo definuje Lysacizmus? Taky Martinismus. Takové kolečko z toho je. Kam se hrabe had požírající vlastní ocas? Tohle je romanopisec píšící kniho o tom, jak píše tu knihu a neví, co do ní napsat.
+
+Přídavné jméno od Martinismu je „klvanistický“. Samozřejmě. Proč ne? Martinisté si kladou tři životní cíle. Jsem zvědavý, jaké jsou. Něco zajímavého? Užitečného? Hodnotného? 2. Klvanistická Pravda praví:
+
+1. Informovat o Lysacizmu. Už teď z toho nemůžu.
+2. Přežít Lysacizmus. /Vážně?/
+3. Propagovat Martinismus. No to mě– Já– Já nemůžu.
+
+Představte si publikovaného, uznávaného filosofa, pracujícího na nejvyšší úrovni akademických kruhů. Představte si nabídku psát pro prestižní časopis pod slavným Magistrem Celestiem. Představte si to nadšení, že vaše Teorie Hyperskulární Existence se dostane k mladým a nadějným budoucím filosofům. A představte si, že místo toho mluvíte o Martinismu. Tady je filosofická rada: Čtěte celou pracovní smlouvu, děti. Čtěte ji celou.
+
+Zakladatelé si dali záležet, aby ze sebe shodili zodpovědnost. Jejich ideologie je platná po celém světě, ale může se měnit podle morálních hodnot regionu. Co to je jako za ideologii? Shodili ze sebe i obvinění z opomenutí: Krom Pravd jsou tu ještě Postpravdy, které si Pravdodárný Orgán (ani se proboha neptejte) vymýšlí za pochodu. A to jsme se ještě nepohnuli z 2. Pravdy! Co to je, tohleto?! Proč to není 1. Pravda? Prostě proto. Co je první pravda? Nic. Věřte mi, není to nic.
+
+Prý o tom mám psát, protože jejich vliv roste v odpověď na vzestup Záchelové. Martinismus má nějaký nepochopitelný problém s učiteli a současný politický stav jeho stoupence dovádí k nepříčetnosti a zbytek lidstva ke ztrátě inteligence, protože klvanistické řady rostou.
+
+Dále, /3./ Pravda popisuje klvanistické státní znaky. /Státní/ znaky. Státní znaky /Studentské iniciativy/. To snad není pravda. A protože Zakladatelé si nemohli pomoct, je tu Velký státní znak (3D, pro jistotu, s mraky a karikaturami a blesky a takovými blbostmi), Malý státní znak (výřez z toho Velkého), Mikroznak (ještě menší výřez, pro Boha živého), Pečeť (které mají dvě), Vlajka v neviditelných barvách[fn:13] a Hymna, jak jinak než napsaná v klvanistickém hudebním žánru. Někdo si tu přeje mojí smrt. Asi Celestius.
+
+A kdyby vám nestačilo tohle všechno, pojďme se pro ilustraci mentálního rozpoložení Zakladatelů a všech ostatních Martinistů podívat na jejich poslední, 48. Pravdu: „Všechny pravdy Martinismu jsou nedotknutelné, absolutní a stoprocentně pravdivé.“
+
+Já padám. Je se mnou konec. Proč nemůžu někdy dělat něco pořádného? A ještě těchhle věcí musím napsat pět!
+** Lysacizmus
+Lysacizmu, přirozenému oponentovi Martinismu, se Martinisté věnují se zájmem kočky honící laserové světlo na úkor lovení myší. Pochází patrně z jistého kantora, který Zakladatele sužoval na střední škole.
+
+Lysacizmus[fn:14] je definován 4. Klvanistickou Pravdou, která ho popisuje jako: „Závislou iniciativu, která si klade za cíl mučení a týrání studentů středních škol, a to všemi možnými legálními fyzickými i psychickými postupy takovým způsobem, že je nelze rozeznat od běžného vyučování, založenou a v praxi uplatňovanou (i po jeho smrti) Jiřím Lysákem, který však není jediným vyznavačem této iniciativy.“
+
+Všimněte si směšně amatérského nutkání opisovat jednoduché koncepty co nejdelšími větami. Ona přeskočená 1. Pravda sestává z téměř sedmi seti slov uspořádaných do nepřehledného sledu umělecko-filosofické nadávky, které Martinismus říká „věta“, a týká se neúměrně složitého obřadu, který je nutné provést v případě, že „kolem vás Lysák projde s černou čepicí“, za účelem odvrácení takto vysloužených deseti let smůly.
+
+Proč? Řekněte mi někdo /proč/? Proč já?
+
+Boj s Lysákem a jeho příznivci staví Martinismus na vrchol svého krátkého listu podstatných věcí. Z nějakého důvodu se jim to zdá důležité. Poslední týdny se Pravdodárný Orgán a Rada Martinismu (já vám ani nevím, co má tohle zase být) nechávají slyšet, že Lysákovo nebezpečí roste, ale jejich jediným argumentem je nadvláda Záchelové, která, ráčíte-li si všimnout, není Lysák.
 * Kaňonskop
 * Zitorak imperátor
 ** 
@@ -294,3 +323,9 @@ Zemánková si povzdechne a já vím, co se blíží. Vypnu radši sporák. Ří
 [fn:10] Kódové jméno.
 
 [fn:11] Pro zajímavost, žijeme padesát kilometrů od nejbližšího lidského osídlení.
+
+[fn:12] Kým asi jiným? I když Monte Karlos Někdeník založili nějací nosorožci, takže co já vím?
+
+[fn:13] Světle a tmavě ultrafialová. No děkuji vám mnohokrát. To jste nám to ujasnili.
+
+[fn:14] Mimochodem, tak se to píše. Martinismus uznává nepsané pravidlo, že co je „dobré“, to je se S, co je „zlé“ píšeme se Z. MartiniSmus, minimaliSmus (o tom mi proboha ani nemluvte), ale LysaciZmus a totiZmus.
