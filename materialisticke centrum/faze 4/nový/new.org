@@ -1,4 +1,4 @@
-                         # -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ?I "I-ii-II-i-i-IIIII"); eval: (set-register ?i "I-ii"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
+# -*-eval: (setq-local org-footnote-section "Poznámky"); eval: (setq-local ispell-personal-dictionary "/home/oscar/Documents/Monte-Karlos/.spelling.cs.pws"); eval: (set-input-method "czech-qwerty"); eval: (set-register ? "M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S."); eval: (set-register ? "■"); eval: (set-register ?I "I-ii-II-i-i-IIIII"); eval: (set-register ?i "I-ii"); eval: (ispell-change-dictionary "czech"); eval: (flyspell-mode 1); eval: (typopunct-mode 1); eval: (typopunct-change-language "czech"); eval: (hide-lines-matching "# *-\*-.*"); eval: (hide-lines-matching " *# *LocalWords:.*")-*-
                          #+title: MONTE KARLOS NĚKDENÍK
                              #+subtitle: Staré časy
                              
@@ -64,7 +64,7 @@ Ročník XXXIX_{VIII}
 *Karlosova Svatá válka:* Lubomír Lečko
 
 *Rozšiřují:* google.com
-* Jak to vidí Pidilidi
+* Jak to vidí Pidilidi                                      :700:
 ** Moderní trpaslík                                         :700:
 Z důvodů ne zcela zřejmých našim čtenářům přinášíme náhled do každodenního života těch nejníže postavených tvorů naší dimenze. Jsou malí. Jsou hrabaví. Jsou tvrdohlaví. Jsou to...
 
@@ -89,7 +89,7 @@ Lidské vztahy s touto subpovrchní skutečností, které říkáme Trpaslíci, 
 V čem se lišíme asi nejvíce, jsou rodinné vztahy, které tito malí tvorové[fn:3] stavějí mnohem výše než lidé. Nesmíme ale zapomenout, že v trpasličí lingvistice má slovo „stoupat“ stejný význam jako pro nás „klesat“. Vyvoďte si z toho, co uznáte za vhodné.
 
 To by bylo pro dnešek vše. Pokud vás zajímají podobné rozbory, nenechte si ujít naše příští číslo, a ptáte-li se, proč vám o nich vyprávíme, kdo ví... Možná se to dočtete. Když budete mít štěstí.
-* Zprávy
+* Zprávy                                                   :1000:
 ** Čas od času                                             :1000:
 Inu, vítr vane, voda teče a časy se mění. Vše je dynamické a neustále transformující. Dalo by se říct, že věci se měnit /musí/. A někdy se prostě změní do podoby, ze které se nedávno vyhrabaly.
 
@@ -116,12 +116,8 @@ Prostě a jednoduše, všechny možné příšery a zrůdy Temné Říše se nek
 Záchelová má volnou ruku udržovat pořádek, jak ho sama definuje. Nebeský kůň poletuje nad našimi hlavami, vyplněn po okraj její osobní armádou - kantory nespokojenými s Šeinerovým systémem /závodění/ - a hrozí a hrozí a hrozí. Odpor pomalu odumírá, lidé si zvykají na dalšího tyrana, mnohé dimenze, dříve zdroje bohatého obchodu, nám zavírají hranice a Dimenzionální portály a po Monte Karlos ani vidu, ani slechu.
 
 Někteří dobrodruzi se pokusili lokalizovat paní Pálkovskou, která jediná může znát slabiny svého vlastního stroje na smrt, ale marně. Zcela marně. Všechno je marné...
-* Karlosova Svatá válka
-** 
-* Rozhovor
-* Korespondent
-* Rytíři Vědy                                               :700:
-** Krátká historie Řádu                                     :120:
+* Rytíři Vědy                                              :1200:
+** Krátká historie Řádu                                     :200:
 Prastarý Řád Rytířů Vědy má dlouhou historii, která sahá přinejmenším k devadesátým létům dvacátého století, a nálezy zkamenělin značí, že možná i mnohem dál. Neleží v živé ani mrtvé paměti, kdo ho založil, za jakým účelem, kdy, kde, jak a za kolik.
 
 Mezi svými současníky z nám zcela zahalené doby svého počátku vynikl zaměřením na korektní učení jazyků a velmi prestižním členstvím. V každém momentu má Řád pouze jednoho člena tvořícího Radu Vědájů, který nese Řádní znalosti a ideály, leč se nedá vypátrat, co za ideály to má být.
@@ -131,13 +127,13 @@ Slovo Vědy v názvu Řádu nepochází od slova „věda“, nýbrž z pralatin
 Jeho protějšek - krutý a zvrácený řád Žit - s ním vede věčnou, tajnou válku více než o myšlenkové postoje o to, který Řád bude divnější[fn:7]. Jejich konflikt je nejen odvěký, nýbrž rovněž velmi starý. Členství v obou je přísně střežené tajemství, nejspíš proto, aby druhá strana nepoužila osobní život členů té druhé proti nim. Zemánková to považuje za velmi inteligentní opatření, sama ho svědomitě dodržuje (i když sama uspěla, kde jiní doteď selhali) a já kráčím v jejích stínech. Stopě. Tohleto.
 
 Proto se vynasnažím nijak nezveřejnit své jméno, ani jiné osobní údaje.
-** Co v tom dělám já[fn:8]                                  :120:
+** Co v tom dělám já[fn:8]                                  :200:
 Mé jméno je I-ii-II-i-i-IIIII[fn:9], zkráceně I-ii. Jak jsem se sem dostal? Dlouhý příběh. Kdo jsem? Nedůležité (říká Zemánková). Co o mně máte vědět? Krom toho, co sem píšu, nic moc. Čím budu? To je to podstatné.
 
 Jsem učedník Řádu Vědy. Vždy to tak bylo - jeden člen, jeden učedník. Až Zemánková odejde do Říše Duší, povýším na plnohodnotného Mistra Vědáje. Do té doby se mám, co učit. Říká Zemánková. Kývám hlavou a zapisuji si, jak správně vysvětlit psaní čárků a háček a doufám, že při závěrečné kontrole mého sešitu nenajde můj Mistr hodně chyp. Chtěl bych začít něco dělat. Sedět takhle zavřený, to není pro mě. Ale co? Nejdřív se musím učit.
 
 Říká Zemánková.
-** Nedávné roky                                             :120:
+** Nedávné roky                                             :250:
 Poslední léta přinesla nové prospekty pro vztah Rytířů Vědy a Žitů, jmenovitě možnou zkázu těch druhých. Jejich nekonečný boj se několikrát přiblížil zdárnému konci. Nebýt jistých záhadných událostí. Když Mistr Zemánková poprvé vyrazila do boje s Nárt Vědrem[fn:10], před dvaceti lety, vypadalo to nadějně.
 
 Představte si - noc, listí padá, nad vámi se zlověstně tyčí zasněžená hora jejíž špici nedohlédnete, a dva Řády se připravují na utkání Mistr proti Mistrovi, neboť i Žitové mají vždy jen jednoho člena. A pro případ nehody, připravil si váš šampion lavinu, která smete z povrchu zemského všechen odpor.
@@ -147,7 +143,7 @@ Bojují. Perou se. V kompletní tmě se střetne vůle s vůlí a, nevidění, M
 A tak to pokračovalo boj za bojem. Vždy nepochopitelným štěstím dostal se nepřítel z našich spárů. Na jednom takovém souboji jsem byl. To bylo poté, co Zemánková historicky první vypátrala protivníkovu totožnost. Pamatuji si skály tvaru písečných dun a šumění moře a neprostupnou horu štěrku, kterou Zemánková použila jako vězení, ale... Ze dna pouště vytryskla voda a odnesla nás i s kamením.
 
 A tak jsme se přestěhovali. Blíž a blíž jsme se vetřeli do protivníkova života, až jsme, ujištěni ve své pozici, chtěli zasáhnout. Kdyby jen nebylo toho Koně. Ačkoli už ne v jeho kolegiální přízni, navěky budeme opakovat jeho jméno - Záchelová.
-** Podivín                                                  :340:
+** Podivín                                                  :550:
 „A výjimky?“ ptá se Zemánková.
 
 „Výjimky...“ zamýšlím se. „Existují.“
@@ -229,8 +225,13 @@ Zemánková si povzdechne a já vím, co se blíží. Vypnu radši sporák. Ří
 „Koho?“ diví se Lečko.
 
 „Zitoraka.“ A pak se mluvilo o dost déle.
-* Martinismus
-** Martinismus
+* Rozhovor
+* Korespondent
+* Karlosova Svatá válka                                    :1200:
+~[Na cestě za Zitorakem, tj. skrz Internet (kde je Francesco s Odnoží SQL) nejdřív do Dark Webu, pak do dimenze Amales Rhkalhan, kde Zitorak vládne]~
+** 
+* Martinismus                                               :700:
+** Martinismus                                              :500:
 Takže Martinismus. Založený dvojicí Zakladatelů[fn:12] manifestem /48 Pravd Martinismu aneb vše o Martinismu, Lysacizmu a duších/, jeho zaměření spočívá především ve vzájemném plácání si po ramenou a gratulacích, že jeho členi dokázali něco takového vymyslet. Podle své vlastní definice se jedná o „... nezávislou studentskou iniciativu založenou za účelem přežití Lysacizmu.“ Kdo definuje Lysacizmus? Taky Martinismus. Takové kolečko z toho je. Kam se hrabe had požírající vlastní ocas? Tohle je romanopisec píšící kniho o tom, jak píše tu knihu a neví, co do ní napsat.
 
 Přídavné jméno od Martinismu je „klvanistický“. Samozřejmě. Proč ne? Martinisté si kladou tři životní cíle. Jsem zvědavý, jaké jsou. Něco zajímavého? Užitečného? Hodnotného? 2. Klvanistická Pravda praví:
@@ -250,7 +251,7 @@ Dále, /3./ Pravda popisuje klvanistické státní znaky. /Státní/ znaky. Stá
 A kdyby vám nestačilo tohle všechno, pojďme se pro ilustraci mentálního rozpoložení Zakladatelů a všech ostatních Martinistů podívat na jejich poslední, 48. Pravdu: „Všechny pravdy Martinismu jsou nedotknutelné, absolutní a stoprocentně pravdivé.“
 
 Já padám. Je se mnou konec. Proč nemůžu někdy dělat něco pořádného? A ještě těchhle věcí musím napsat pět!
-** Lysacizmus
+** Lysacizmus                                               :200:
 Lysacizmu, přirozenému oponentovi Martinismu, se Martinisté věnují se zájmem kočky honící laserové světlo na úkor lovení myší. Pochází patrně z jistého kantora, který Zakladatele sužoval na střední škole.
 
 Lysacizmus[fn:14] je definován 4. Klvanistickou Pravdou, která ho popisuje jako: „Závislou iniciativu, která si klade za cíl mučení a týrání studentů středních škol, a to všemi možnými legálními fyzickými i psychickými postupy takovým způsobem, že je nelze rozeznat od běžného vyučování, založenou a v praxi uplatňovanou (i po jeho smrti) Jiřím Lysákem, který však není jediným vyznavačem této iniciativy.“
@@ -261,12 +262,134 @@ Proč? Řekněte mi někdo /proč/? Proč já?
 
 Boj s Lysákem a jeho příznivci staví Martinismus na vrchol svého krátkého listu podstatných věcí. Z nějakého důvodu se jim to zdá důležité. Poslední týdny se Pravdodárný Orgán a Rada Martinismu (já vám ani nevím, co má tohle zase být) nechávají slyšet, že Lysákovo nebezpečí roste, ale jejich jediným argumentem je nadvláda Záchelové, která, ráčíte-li si všimnout, není Lysák.
 * Kaňonskop
-* Zitorak imperátor
-** 
+* Zitorak imperátor                                        :1200:
+Zitorak vzpomíná.
+
+Vzpomíná na dobu dalekou. Hlad, chudoba. On a jeho sestra se toulali pustou plání. O myšlenky se jim otíraly lahodné duše smrtelníků. Cítili je. Poslouchali je. Ale hlad utišit nemohli.
+
+Sto let už putovali, daleko od domova, skrz tenké závoje mezi realitami, až Zitorak zvažoval konec. Ale Zitorak, jeho sestra, naléhala. Prosila. Ještě chvíli. Někdo zavolá. Zitorak slevil.
+
+Kde hořely knoty, kde křída kreslila kruh, tam byli a čekali. Když tu náhle...
+
+Malá holčička stála v zapadlé chalupě. Zitorak sledoval. Zitorak sledovala. Oba se smáli.
+
+Holčička nakreslila kruh. Holčička zapálila svíce. Holčička zavřela oči a myslela na tmu. Zitorak jásal.
+
+„Volám tě, démone. Volám tě, bytosti Temné Říše.“ Zitorak cítil blízké i daleké démonní druhy poslouchat ta slova, ale nepatřily jim. Patřili jemu a jeho sestře. „Volám tě, s nabídkou, ó vládce Štěstěny. Volám tě s výměnou na dlani. Ne zadarmo. Ne lacino. Ne–“
+
+/„Né, pětku né, já jsem v tom nevině!“/ Holčička se mračila. Opustila kruh. Zitorak stiskla bratrovo rameno.
+
+„Můžeš to rádio vypnout!“ volala holčička do chodby. „Tady se pracuje!“ Nelibý hluk utichl. Vrátila se do kruhu. Zitorak pohladil její duši. Taková dobrá bude...
+
+„Kde jsem to byla?“ Holčička podupává. „Jo. Ne tohle, ne támhleto, ty to chápeš. /Volám tě/,“ řekla a Zitorakův svět se zachvěl. „Přijď ke mně! Znám tvé jméno, z knihy vyčtené! Zitorak! Zitorak! Zitorak!“
+
+Podlaha zaskřípala. Bum, bum, bum, kroky se blížily. Klika se otočila. V holčičce vyvolala chutný děs. Dveře zavrzaly. „Co tu děláš? Dole je večeře.“
+
+„Ale mamiiiii!“
+
+„Večeře, řekla jsem. Co to má být? Co je tohle zase za výmysl? Okamžitě to sfoukni, ještě vyhoříme. Podívej, ruce máš celé od křídy. Říkala jsem /nekreslit/ na podlahu v domě. Umyj si je. A pojď na večeři.“
+
+„Hned to bude.“
+
+„Teď!“
+
+„No dobře, no.“
+
+Matka odešla. Holčička potichu zavřela dveře. „Jak to, že to nefunguje?“ Listovala knihou, starou, zašlou, plnou vědění. Praštila se do čela. „Čtyřikrát.“ Rychle doběhla zpět do křídového kruhu. „Zitorak.“
+
+Realita praskla. Její slova, její vůle, její činy prostrčily škvírou pařáty a protrhli v ní díru mezi Říšemi. Zitorak ji viděl jako díru ve tmě, sahající po okraje magického kruhu, kudy náhle proniklo pálivé, mučivé světlo. On a jeho sestra spěchali skrz.
+
+Octli se, poprvé za svou existenci, v Ineptu, své sousední Říši. Slyšeli o tom zážitku mnoho, od bohatých překupníků přání. Suché místo. Moc světla na těla pěstované v Temné Říši. Ale hlad přemohl.
+
+§Zitorak tě zdraví, malý příteli.§
+
+@Zitorak také,@ řekla jeho sestra. Ineptus z ní vysával Temnotu a krmil jí plameny svící, barvící se do temně zelené.
+
+„Co?“ vyskočila holčička. „Dva?“
+
+§Vždy dva. Nikdy sám. Zitorak přišel. Tři přání nabízíme. Znáš cenu?§
+
+Holčička ustoupila k oknu. „Moje duše?“
+
+@Ano.@
+
+„Ale to je nefér.“ Další krok. Zitorak tápal. Uvnitř kruhu sourozencům chyběly schopnosti. Nemohl číst její myšlenky. Nemohl ji utišit. Uchlácholit. Nabídnout tisíce blahostí a víc. Další krok od nich. „Jste dva,“ řekla holčička. „Já mám jednu duši.“
+
+§Zitorak se podělí.§
+
+@Zitorak hladoví,@ vysvětlila Zitorakova sestra.
+
+Další krok.
+
+§Stůj, člověče. Dva démony jsi přivolala, dvakrát tři přání ti nabízí.§
+
+„Jedna vám bude stačit?“
+
+@Lepší jedna než nic.@
+
+Holčička stála u okna. Měsíční světlo pálilo Zitorakovu kůži. Holčička se usmála. Vymrštila ruku ven z okna. V ruce držela křídu. Jednou čarou dokreslila připravené vězení a známé světlo magické runy prozářilo stěnou. Okraje místnosti se zamlžily Zitorakovu zraku. Ledové prsty se rozlezly od holčičiny ruky.
+
+„Řekla jsem večeře!“ zavolala ta starší a otevřela dveře, které narazily do neviditelné stěny kouzla.
+
+Zitorak se vymrštil. To vězení rušilo jeho kouzla, ale stejně tak magický kruh. Doletěl do rohu a bušil pěstí z černé mlhy, ale mihotavá bariéra před ním neustoupila. Ta ledová už pokrývala půl místnosti a Zitorak věděl, že z skrz ni se nedostane.
+
+„Co to sakra–“ Ta starší zkusila vejít znovu, marně.
+
+&První vrstva sváže tělo,& Zitorak, jeho matka, říkala před tisícem let, když ještě měli, kde žít, &druhá vrstva chytí mysl.& Nemohl se dostat ven. Nemohl se dostat zpět do dimenze Amales Rhkalhan v Temné Říši. Leda, že by podstoupil nejvyšší oběť.
+
+Zitorak neváhal. Jedinou myšlenkou, mihotavou jako půlnoční záchvěv naděje ztracené duše, přetrhal svazky mezi svou myslí a svým tělem. Jak mysl škrábala na stěny vězení a drala se ven, tělo padlo k zemi a rozplynulo se v oblak černého prachu. Zitorak pohlédl na svou sestru. Její mysl se vznášela na vlnách reality vedle jeho.
+
+§Zitorak lituje. Měl zkontrolovat obydlí.§
+
+@Ne,@ řekla jeho sestra a kroutila by hlavou, kdyby nějakou měla. @Zitorak neviní. Zitorak nabízí.@ A její duše o tón zesvětlila.
+
+Zitorak vyjekl. Její tělo nebylo odevzdáno nicotě jako jeho. Obořil se na vězení a vší silou do něj narazil. Ledová pokrývka ho obalila vrstvou viditelnou jen bytostem z Temné Říše. Už nemohl projít. Ale viděl. Zitorak viděl, jak holčička schovává tělo jeho sestry, násilím odebrané, do truhly. Přísahal pomstu.
+
+@Musíš se vrátit domů, bratře.@
+
+Zitorak věděl, že ona nemůže s ním. Démonova mysl násilím odebraná se rozplyne v momentech. Tělo, nebo mysl, jedno musí zmizet.
+
+Holčička se zarazila ve své práci. Chuchvalec hmotné tmy visel z truhly, kam schovala sestřino tělo. Zavřela oči, a nebýt bariéry mezi nimi, viděl by Zitorak jak otevírá svou mysl. „Pojď ke mně a dej mi své štěstí,“ zašeptala. „Zitorak. Zitorak. Zitorak.“ Zakroutila hlavou. „/Čtyřikrát!/ Zitorak.“
+
+Proužek černi z truhly se odvinul a pronikl do její duše. Jen malé, nepatrné množství. Ta starší zaječela o patro níž. „Sakra! Polévka se mi připálila! Děti, jestli chcete večeři, musíte si vzít perník ze špajzu!“ Holčička se radovala a zaklapla magicky chráněné víko.
+
+@Musíš domů,@ naléhala mizející mysl Zitorakovi sestry. @Vem si mé štěstí. Zitorak stejně zanedlouho zmizí.@
+
+A tak, s ohnivě bolestným pocitem, Zitorak pozřel mysl své sestry. Celou naráz ji vstřebal, a co její tělo tomu dítěti, její mysl dala i jemu - neskonalé štěstí, ale vše naráz.
+
+Když se pak otevřel náhodný portál, Zitorak vešel, nepřekvapen. Když síly z té proklaté dimenze Země v Říši zvané Ineptus vtrhly do jeho domovské dimenze Amales Rhkalhan a vedly válku proti králi Nomizkatovi, nebyl překvapen. Když krále armáda Odnože SQL svrhla a popravila s nepochopitelnou vervou a když čirou náhodou démoni jmenovali Zitoraka svrchovaným vládcem celé dimenze, měl svou sestru, komu za to obrovské štěstí vděčit.
+
+Ale rychle vyprchalo a Zitorak se nikdy nedozvěděl jméno té holčičky, co ho připravila o tělo a sourozence. A roky plynuly, Země se měnila a Zitorak nevěřil, že jí někdy najde.
+
+Teď ve svých komnatách Zitorak imperátor sedí a poslouchá, ale jen zpola. Jeho neforemná existence pluje časem sem a tam, tu soustředěná na nezvaného hosta z Ineptu, tu dekády v minulosti. Zitorak vzpomíná a Zitorak zuří.
+
+§A co mi dáte za pomoc?§
+
+„Karlos Žebatý má mnohé zdroje.“
+
+§Zitorak tu vládne.§
+
+Ten člověk sedí zpříma. Zástupy Zitorakových démonů ho navenek neděsí, ale Zitorak vidí do jeho duše. Za posledních čtyřicet let jich měl dostatek, ale tahle je labužná. Chytrá. Sebevědomá.
+
+„Pomstu, tedy.“
+
+Zitorak vyletí do vzduchu. §Pomstu!§ Doletí před člověčí obličej. §Zitorak poslouchá.§
+
+„Jméno a možnost odplaty. Za tři přání.“
+
+§Zitorak ztratil tělo. Přání budou pouze v myšlenkách a jiný démon s vámi nepůjde.§
+
+„To je v pořádku. Přijímáte?“
+
+Zitorak nechá přinést náramek se třemi oranžovými kuličkami. §Tři přání.§ Člověk po nich natáhne pařát, ale sluha ucukne. §Jméno. První jméno.§
+
+„Záchelová.“
 * Karlos Čepice
-* Dynamické tisíciletí
+* Dynamické tisíciletí                                     :2000:
 /Pro Antona/
-** Nomádní ~[nebo kočovný, vyber si]~ časopis
+** Chyby mládí                                              :700:
+** Odnož SQL aneb do Temné Říše                             :200:
+** Nomádní ~[nebo kočovný, vyber si]~ časopis              :1100:
 * COMMENT Blbosti
 :export:
 # ' Toggle smart quotes
