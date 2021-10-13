@@ -263,6 +263,8 @@ Proč? Řekněte mi někdo /proč/? Proč já?
 Boj s Lysákem a jeho příznivci staví Martinismus na vrchol svého krátkého listu podstatných věcí. Z nějakého důvodu se jim to zdá důležité. Poslední týdny se Pravdodárný Orgán a Rada Martinismu (já vám ani nevím, co má tohle zase být) nechávají slyšet, že Lysákovo nebezpečí roste, ale jejich jediným argumentem je nadvláda Záchelové, která, ráčíte-li si všimnout, není Lysák.
 * Kaňonskop
 * Zitorak imperátor                                        :1200:
+~[§...§ a @...@ a &...& jsou typy přímé řeči, která patří démonovi. Každý démon má vlastní znak. Ten hlavní démon, Zitorak imperátor, má §...§. Je to tu, protože normální uvozovky na démony nestačej, a v ideálním případě to při exportu nastavim tak, aby se to exportovalo v konkrétnim stylu nebo fontu, kterej ty uvozovky narhradí. Ty symboly tam ve finále nebudou.]~
+
 Zitorak vzpomíná.
 
 Vzpomíná na dobu dalekou. Hlad, chudoba. On a jeho sestra se toulali pustou plání. O myšlenky se jim otíraly lahodné duše smrtelníků. Cítili je. Poslouchali je. Ale hlad utišit nemohli.
@@ -388,8 +390,63 @@ Zitorak nechá přinést náramek se třemi oranžovými kuličkami. §Tři př�
 * Dynamické tisíciletí                                     :2000:
 /Pro Antona/
 ** Chyby mládí                                              :700:
+Mnoho bylo řečeno o mládí Francesca di Řím, většina z toho vymyšlená lidmi se slabší představivostí, než jakou má osud. Jím podané datum narození ho datuje do konce šestnáctého století. Víme jen o jednom bratrovi - Antonio, zesnulý roku 1611.
+
+Bylo nad ránem, zima roku 1613, dva a půl roku po rýmové ráně, která vyhladila dvacet procent záhybů a jednoho Antonia. Slunce pomalu vlévalo své ostré světlo do kaňonu mezi skalnatým povrchem Francescovi rodné Itálie, které popisuje jako hranici pro šestnáctiletého chlapce mezi smrtí v horách a nekonečnou slastí světa. Později, dodává, viděl mnohé divy zakrývající ono ráno v mohutném stínu, ale nic se od té doby nevyrovnalo pohledu ze skalního převisu na vlnící se údolí pod ním[fn:15].
+
+Dva roky pátral, až našel, ve staré knihovně nedalekého Říma. Nakreslil kruh. Křída se mu drolila pod rukama - neměl na lepší. Stoupl si do něj a se zavřenýma očima myslel na temnotu a prázdno. Opatrný, aby neotevřel svou mysl a nepozval tak démona dovnitř, začal odříkávat zaklínadlo.
+
+Na konci zvolal: „Nomizkat. Nomizkat. Nomizkat.“ Se svraštěným čelem otevřel oko a pohlédl na skalnatou plošinu. Na moment se zalekl, že mu kniha lhala, ale vzpomněl si. „Jo čtyřikrát. Nomizkat.“
+
+Kdesi nad ním obloha jakoby praskla, puklina se rozšířila co po skleněné tabuli a před ním stanula díra do Temné Říše.
+
+Francesco se klepal námahou z tak složitého kouzla, ale nespouštěl oči z toho úžasu nad sebou. Překvapilo ho proto, když ho oslovil hlas zcela cizí jeho uším, hlasivkám i zvukovým vlnám. Slyšel ho ve své hlavě.
+
+%Voláš Nomizkata, člověče?%
+
+Francesco polkl. „Volám.“
+
+%Čemu vděčí Nomizkat za takovou poctu.%
+
+Mladý Francesco nedokázal odhadnout, zda si z něj démon dělá legraci. Později na ten moment vzpomíná jako na poslední chvíli, kdy pomyslel na vtipy. „Nabízím svou duši k vaší konzumaci, ó vládce Štěstěny, za trojici přání.“
+
+Démon se hluboce nadechl nově zformovanými nozdrami, jako by čichal Francescovu duší. %Aaaaaaaaa,% řekl. %Ah-ah-ah. U-hu-hu-hu-hu,% rozkašlal se. %To je vzduch!%
+
+„Kvalitní, horský... ó vládce–“
+
+%Jó, jó. Štěstěna. Jasně. Nomizkat chápe.% Další záchvat kašle. %Jak to vy smrtelníci vydržíte? Dýchání je pro slabochy.%
+
+„Nic lepšího nemáme.“
+
+%Slaboši.%
+
+„... Ano. Ó vládce. Eeee. Duši? Chcete?“
+
+Jakmile se zbavil svých nozder, sáhl Nomizkat do záhybů svého nehmotného pláště, odkud vylovil náramek s třemi oranžovými korálky. %Tvá duše bude pozřena v průběhu dvaceti let. Do té doby... tři přání. Nomizkat přijímá. Až budeš připraven, člověče, zavolej Nomizkatovo jméno čtyřikrát zopakované–%
+
+„To nebude třeba. Zaprvé, chci žít se svým nejlepším přítelem až do své smrti.“ Po ztrátě Antonia, říká Francesco di Řím, se nejvíce děsil osamění. Radoval se, jak Nomizkat odtrhl jednu perlu z náramku a rozdrtil ji mezi prsty.
+
+Pak se ukázalo, naposledy v jeho životě, že Francescovi bylo šestnáct. „Chci být přitažlivý.“ Druhá perla zmizela.
+
+„Zatřetí...“ Jak naivně, jak amatérsky a hloupě se Francesco šklebil. „Chci žít tisíc let.“ Nomizkat se zarazil. „Copak? Nepřijímáte? Ó vládce?“ škádlil ho s vědomím, že vyzrál. Jeho dřívější přání už byla splněna. Kdyby démon odmítl, zrušil by jejich transakci a Francesco by dostal dvě přání zdarma. Kdyby přijal, nemohl by čerpat z jeho duše ještě devět set čtyřicet čtyři let. Poté se ale usmál Nomizkat. %Zitorak souhlasí.% Třetí perla zmizela. A s ní i Francescova radost ze života, jeho empatie a silné emoce. Jeho život se stal prázdným, jeho dny mělké a nezáživné. Horské ráno mu zšedlo před očima.
+
+Nomizkat s hlasitým řehotem opustil Říši Ineptus a nechal Francesca s duší roztaženou mezi tisíc roků, příliš řídkou na uspokojivý život, jen stěží postačující na ten biologický.
+
+Francescův nejlepší přítel zemřel následující týden při pádu ze střechy a znecitlivělý Francesco dostal akvárium s dva centimetry dlouhou medúzou a znakem tří perel vyrytým do skla. Byl to Turritopsis, nesmrtelný živočich z moře, a do dneška jediný smrtelný tvor, o kterém Francesco ví s jistotou, že je starší než on. Sto let a řada mrtvých příbuzných a už ne tak mladému hochovi nezbyl nikdo jiný než on, jediný a nejlepší přítel, Anton.
+
+Jen v prvním dni po setkání s Nomizkatem přitáhl k sobě Francesco až dvě stě komárů a dva hladové vlky. Cena za zahrávání s démony je nemalá.
 ** Odnož SQL aneb do Temné Říše                             :200:
+Prvních čtyři sta let Francescova života je dokumentováno podrobně v jiných spisech. Pro shrnutí nejdůležitějších životních událostí vystačí toto:
+
+Přelstěný a rozzlobený Francesco pátral tři stovky roků po adekvátním způsobu pomsty. Jeho nesmrtelnost mu vysloužila hojné úspěchy v armádě a kamkoli šel, Anton šel s ním. Jeho medúza se mu stala neodlučitelnou. Zbytky duše se k ní upínaly jako kdysi k jeho bratru. A Francesco di Řím pátral.
+
+Průběhem jeho čtvrtého století se naskytla příležitost. Francesco se přidal do nově formujícího Mezinárodního Úřadu, konkrétně k Odnoži SQL, zaměřující se na ochranu Země před Temnou Říší.
+
+Během následujících dekád stoupal v jejích řadách, až jeho proslovy o obraně útokem nashromáždily příznivce, a ke konci sedmdesátých let jako nově jmenovaný vůdce SQL vytáhl skrz Internet do Dark Webu a přímo do dimenze Amales Rhkalhan, kde mocnou válečnou kampaní porazil krále Nomizkata a nařídil jeho popravu, když tento odmítl nulovat vyřčená přání, a přivedl tak nechtěně vládu proslulého Zitoraka imperátora.
+
+Francesco di Řím se pevně usadil na pozici generála, kde setrvává dodnes. Antona deponoval do bezpečí M.Ú.Ú.A.S.S.S.M.Z.Ú.S.M.O.V.S., který slíbil nejvyšší ochranu. Dnešním čtenářům dojde historický význam faktu, že podle Mezinárodního Úřadu bylo nejbezpečnějším místem Der Weiderhohlle Flüsemschliessem.
 ** Nomádní ~[nebo kočovný, vyber si]~ časopis              :1100:
+
 * COMMENT Blbosti
 :export:
 # ' Toggle smart quotes
@@ -452,3 +509,5 @@ Zitorak nechá přinést náramek se třemi oranžovými kuličkami. §Tři př�
 [fn:13] Světle a tmavě ultrafialová. No děkuji vám mnohokrát. To jste nám to ujasnili.
 
 [fn:14] Mimochodem, tak se to píše. Martinismus uznává nepsané pravidlo, že co je „dobré“, to je se S, co je „zlé“ píšeme se Z. MartiniSmus, minimaliSmus (o tom mi proboha ani nemluvte), ale LysaciZmus a totiZmus.
+
+[fn:15] Ačkoli, dodává autor, dle vědeckých zkoumání lze předpokládat, že to není nostalgií, ale neblahým efektem Francescových následných činů.
